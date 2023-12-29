@@ -116,9 +116,9 @@ def rich_data_derogase_titulo(num, x, titulo, titulo_titulo, capitulo, capitulo_
     }
 
 def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]?( bis|ter|cuater|quinquies|sixties|septies)? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
-    art, ley, art_new = m.groups()
+    art, bis, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
     art_new = art_new.replace('”', '')
     art_new = art_new.strip()
@@ -127,7 +127,7 @@ def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capi
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
-    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?' + ('' if bis is None else bis) + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
         "json_original": {
@@ -451,7 +451,7 @@ def rich_data_sustituyese_incisos(num, x, titulo, titulo_titulo, capitulo, capit
         "textoModificado": art_new,
     }
 
-def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
@@ -499,6 +499,11 @@ def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
         "textoOriginal": "",
         "textoModificado": x,
     }
+def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    data = rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    data['textoOriginal'] = data['textoOriginal'].replace('ARTICULO', 'ARTÍCULO')
+    data['textoModificado'] = data['textoModificado'].replace('ARTICULO', 'ARTÍCULO')
+    return data
 
 fp = open('omnibus')
 data = fp.read()
