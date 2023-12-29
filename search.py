@@ -393,6 +393,64 @@ def rich_data_sustituyese_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, c
         "textoModificado": re.sub(inc + r'[\)\.].*', inc_new, art_old),
     }
 
+def rich_data_sustituyese_incisos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    if num == 355:
+        ley = 'ccyc'
+        art = '887'
+        incs = {
+            'a': 'sujetas a plazo tácito; si el plazo no está expresamente determinado, cuando resulta o no tácitamente de la naturaleza y circunstancias de la obligación, el acreedor debe interpelar al deudor para constituirlo en mora;',
+            'b': 'sujetas a plazo indeterminado propiamente dicho; el juez a pedido de parte, lo debe fijar mediante el procedimiento más breve que prevea la ley local, a menos que el acreedor opte por acumular las acciones de fijación de plazo y de cumplimiento, en cuyo caso el deudor queda constituido en mora en la fecha indicada por la sentencia para el cumplimiento de la obligación.',
+        }
+    elif num == 375:
+        ley = 'ccyc'
+        art = '1514'
+        incs = {
+            'a': 'proporcionar, a satisfacción del franquiciado, información relevante sobre la evolución del negocio, en el país o en el extranjero;',
+            'b': 'comunicar al franquiciado el conjunto de conocimientos técnicos, aun cuando no estén patentados, derivados de la experiencia del franquiciante y considerados por las partes aptos para producir los efectos del sistema franquiciado;',
+        }
+    elif num == 633:
+        ley = 'ley24449'
+        art = '40'
+        incs = {
+            'a': 'Que su conductor esté habilitado para conducir ese tipo de vehículo y que lleve consigo la licencia correspondiente; en el caso de los vehículos autodirigidos, que cuenten con un software de conducción autorizado previamente en el país.',
+            'b': 'Que porte la cédula de identificación del mismo, la cual podrá ser exhibida en formato papel impreso o digital a través de dispositivos electrónicos.',
+        }
+    else:
+        return None
+
+    with open(f'leyes/{ley}.txt') as fp:
+        old = fp.read() + '\nART'
+
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    art_new = art_old
+    for i, t in incs.items():
+        art_new = re.sub('\n(' + i + r'[\)\. ]+).*', f'\\1{t}', art_new)
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": art_old,
+        "textoModificado": art_new,
+    }
+
 def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
@@ -413,6 +471,8 @@ def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
+    opt = rich_data_sustituyese_incisos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
