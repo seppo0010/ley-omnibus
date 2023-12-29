@@ -1,0 +1,1412 @@
+
+
+IMPUESTOS
+
+Decreto 280/97
+
+Apruébase el texto ordenado de la Ley de Impuesto al Valor Agregado, sustituido por el artículo 1° de la Ley N° 23.349 y sus modificaciones.
+
+Bs. As., 26/3/97
+
+Ver Antecedentes Normativos
+
+VISTO la Ley de Impuesto al Valor Agregado, texto sustituido por la Ley N° 23.349 y sus modificaciones, y
+
+CONSIDERANDO:
+
+Que resulta necesario aprobar el texto ordenado de las normas aludidas, a fin de facilitar su consulta y evitar contusiones en su aplicación.
+
+Que la presente medida se dicta en ejercicio de las atribuciones conferidas por el artículo 1° de la Ley N° 20.004 y el artículo 6° de la Ley N° 24.631.
+
+Por ello,
+
+EL PRESIDENTE DE LA NACION ARGENTINA
+
+DECRETA:
+
+Artículo 1° — Apruébase el texto ordenado de la Ley de Impuesto al Valor Agregado, sustituido por el artículo 1° de la Ley N° 23.349 y sus modificaciones, de acuerdo al ordenamiento que, como Anexo I, integra el presente decreto.
+
+El citado texto ordenado, elaborado según el índice agregado como Anexo II, se denominará "Ley de Impuesto al Valor Agregado, texto ordenado en 1997".
+
+Art. 2° — Las disposiciones de la ley cuyo texto se ordena por el presente decreto, tendrán la vigencia que en cada caso indican las normas que la conforman.
+
+Art.3° — Comuníquese, publíquese, dése a la Dirección Nacional del Registro Oficial y archívese. — MENEM. — Jorge A. Rodríguez. — Roque B. Fernández.
+
+(Nota Infoleg: por art. 1° del Decreto N° 567/2019 B.O. 16/8/2019 se establece que la venta de los productos de la canasta alimentaria que se detallan en el Anexo (IF-2019-73155740-APN-SCI#MPYT) que forma parte integrante de la medida de referencia, estará alcanzada por una alícuota equivalente al CERO POR CIENTO (0%) en el impuesto al valor agregado, establecido por la Ley de Impuesto al Valor Agregado, texto ordenado en 1997 y sus modificaciones, cuando se comercialicen a consumidores finales. Vigencia: comenzará a regir a partir de su publicación en el Boletín Oficial, hasta el 31 de diciembre de 2019, inclusive)
+
+(Nota Infoleg: por art. 4º de la Ley N° 27.432 B.O. 29/12/2017 se establece que las asignaciones específicas que rigen a la fecha de entrada en vigencia de la Ley de referencia previstas en el marco del presente tributo, mantendrán su vigencia hasta el 31 de diciembre de 2022, inclusive. Vigencia: a partir del día siguiente de su publicación en el Boletín Oficial y surtirá efecto desde esta fecha, inclusive.). (Nota Infoleg: por art. 2° de la Ley N° 27.702 B.O. 30/11/2022 se prorrogan hasta el 31 de diciembre de 2027, inclusive, los plazos establecidos en los incisos a), c), d), f), g), h) y j) del primer párrafo del artículo 4° de la Ley N° 27.432 ; el segundo párrafo del art. 2° dice: Sin perjuicio de lo dispuesto en el párrafo precedente, prorrógase toda otra asignación específica de impuestos nacionales coparticipables hasta el 31 de diciembre de 2027, inclusive, salvo que otra norma legal disponga una fecha posterior, en cuyo caso será de aplicación lo previsto en esta última. Vigencia: a partir del día de su publicación en el Boletín Oficial y surtirán efecto desde esa fecha, inclusive.)
+
+ANEXO I
+
+LEY DE IMPUESTO AL VALOR AGREGADO, TEXTO ORDENADO EN 1997
+
+TITULO I
+
+OBJETO, SUJETO Y NACIMIENTO DEL HECHO IMPONIBLE
+
+OBJETO
+
+ARTICULO 1º — Establécese en todo el territorio de la Nación un impuesto que se aplicará sobre:
+
+a) Las ventas de cosas muebles situadas o colocadas en el territorio del país efectuadas por los sujetos indicados en los incisos a), b), d), e) y f) del artículo 4°, con las previsiones señaladas en el tercer párrafo de ese artículo.
+
+b) Las obras, locaciones y prestaciones de servicios incluidas en el artículo 3°, realizadas en el territorio de la Nación. En el caso de las telecomunicaciones internacionales se las entenderá realizadas en el país en la medida en que su retribución sea atribuible a la empresa ubicada en él.
+
+En los casos previstos en el inciso e) del artículo 3°, no se consideran realizadas en el territorio de la Nación aquellas prestaciones efectuadas en el país cuya utilización o explotación efectiva se lleve a cabo en el exterior, las que tendrán el tratamiento previsto en el artículo 43.
+
+c) Las importaciones definitivas de cosas muebles.
+
+d) Las prestaciones comprendidas en el inciso e) del artículo 3°, realizadas en el exterior cuya utilización o explotación efectiva se lleve a cabo en el país, cuando los prestatarios sean sujetos del impuesto por otros hechos imponibles y revistan la calidad de responsables inscriptos.
+
+e) Los servicios digitales comprendidos en el inciso m) del apartado 21 del inciso e) del artículo 3°, prestados por un sujeto residente o domiciliado en el exterior cuya utilización o explotación efectiva se lleve a cabo en el país, en tanto el prestatario no resulte comprendido en las disposiciones previstas en el inciso anterior.
+
+Los servicios digitales comprendidos en el punto m) del apartado 21 del inciso e) del artículo 3°, prestados por un sujeto residente o domiciliado en el exterior se entenderán, en todos los casos, realizados en el exterior. Respecto del segundo párrafo del inciso b) y de los incisos d) y e), se considera que existe utilización o explotación efectiva en la jurisdicción en que se verifique la utilización inmediata o el primer acto de disposición del servicio por parte del prestatario aun cuando, de corresponder, este último lo destine para su consumo.
+
+No obstante, de tratarse de servicios digitales comprendidos en el inciso d), se presume —salvo prueba en contrario— que la utilización o explotación efectiva se lleva a cabo en la jurisdicción en que se verifiquen los siguientes presupuestos:
+
+1. De tratarse de servicios recibidos a través de la utilización de teléfonos móviles: en el país identificado por el código del teléfono móvil de la tarjeta sim.
+
+2. De tratarse de servicios recibidos mediante otros dispositivos: en el país de la dirección IP de los dispositivos electrónicos del receptor del servicio. Se considera como dirección IP al identificador numérico único formado por valores binarios asignado a un dispositivo electrónico.
+
+Respecto del inciso e), se presumirá, sin admitir prueba en contrario, que existe utilización o explotación efectiva en la República Argentina cuando allí se encuentre:
+
+1. La dirección IP, del dispositivo utilizado por el cliente o código país de tarjeta sim, conforme se especifica en el párrafo anterior; o
+
+2. La dirección de facturación del cliente; o,
+
+3. La cuenta bancaria utilizada para el pago, la dirección de facturación del cliente de la que disponga el banco o la entidad financiera emisora de la tarjeta de crédito o débito con que se realice el pago.
+
+(Artículo sustituido por art. 87 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+ARTICULO 2º — A los fines de esta ley se considera venta:
+
+a) Toda transferencia a título oneroso, entre personas de existencia visible o ideal, sucesiones indivisas o entidades de cualquier índole, que importe la transmisión del dominio de cosas muebles (venta, permuta, dación en pago, adjudicación por disolución de sociedades, aportes sociales, ventas y subastas judiciales y cualquier otro acto que conduzca al mismo fin, excepto la expropiación), incluidas la incorporación de dichos bienes, de propia producción, en los casos de locaciones y prestaciones de servicios exentas o no gravadas y la enajenación de aquellos, que siendo susceptibles de tener individualidad propia, se encuentren adheridos al suelo al momento de su transferencia, en tanto tengan para el responsable el carácter de bienes de cambio.
+
+No se considerarán ventas las transferencias que se realicen como consecuencia de reorganizaciones de sociedades a fondos de comercio y en general empresas y explotaciones de cualquier naturaleza comprendidas en el artículo 77 de la Ley de Impuesto a las Ganancias, texto ordenado en 1986 y sus modificaciones. En estos supuestos, los saldos de impuestos existentes en las empresas reorganizadas, serán computables en la o las entidades continuadoras.
+
+Igual tratamiento que el dispuesto en el párrafo anterior será aplicable a los casos de transferencias en favor de descendientes (hijos, nietos, etc. y/o cónyuges) cuando tanto el o los cedentes como el o los cesionarios sean sujetos responsables inscriptos en el impuesto.
+
+Tratándose de transferencias reguladas, a través de medidores, las cuotas fijas exigibles con independencia de las efectivas entregas tendrán el tratamiento previsto para las ventas.
+
+La venta por incorporación de bienes de propia producción, a que se refiere el primer párrafo de este inciso en su parte final, se considerará configurada siempre que se incorporen a las prestaciones o locaciones, exentas o no gravadas, cosas muebles obtenidas por quien realiza la prestación o locación mediante un proceso de elaboración, locación y éstas se lleven a cabo en forma simultánea.
+
+b) La desafectación de cosas muebles de la actividad gravada con destino a uso o consumo particular del o los titulares de la misma.
+
+c) Las operaciones de los comisionistas, consignatarios u otros que vendan o compren en nombre propio pero por cuenta de terceros.
+
+ARTICULO 3º — Se encuentran alcanzadas por el impuesto de esta ley las obras, las locaciones y las prestaciones de servicios que se indican a continuación:
+
+a) Los trabajos realizados directamente o a través de terceros sobre inmueble ajeno, entendiéndose como tales las construcciones de cualquier naturaleza, las instalaciones —civiles, comerciales e industriales—, las reparaciones y los trabajos de mantenimiento y conservación. La instalación de viviendas prefabricadas se equipara a trabajos de construcción.
+
+b) Las obras efectuadas directamente o a través de terceros sobre inmueble propio.
+
+c) La elaboración, construcción o fabricación de una cosa mueble —aun cuando adquiera el carácter de inmueble por accesión— por encargo de un tercero, con o sin aporte de materias primas, ya sea que la misma suponga la obtención del producto final o simplemente constituya una etapa en su elaboración, construcción, fabricación o puesta en condiciones de utilización.
+
+Lo dispuesto en este inciso no será de aplicación en los casos en que la obligación del locador sea la prestación de un servicio no gravado que se concreta a través de la entrega de una cosa mueble que simplemente constituya el soporte material de dicha prestación. El decreto reglamentario establecerá las condiciones para la procedencia de esta exclusión.
+
+d) La obtención de bienes de la naturaleza por encargo de un tercero.
+
+e) Las locaciones y prestaciones de servicios que se indican a continuación, en cuanto no estuvieran incluidas en los incisos precedentes:
+
+1) Efectuadas por bares, restaurantes, cantinas, salones de té, confiterías y en general por quienes presten servicios de refrigerios, comidas o bebidas en locales —propios o ajenos—, o fuera de ellos.
+
+Quedan exceptuadas las efectuadas en lugares de trabajo, establecimientos sanitarios exentos o establecimientos de enseñanza —oficiales o privados reconocidos por el Estado— en tanto sean de uso exclusivo para el personal, pacientes o acompañantes, o en su caso, para el alumnado, no siendo de aplicación, en estos casos, las disposiciones del inciso a) del artículo 2º referidas a la incorporación de bienes muebles de propia producción.
+
+2) Efectuadas por hoteles, hosterías, pensiones, hospedajes, moteles, campamentos, apart-hoteles y similares.
+
+3. Efectuadas por posadas, hoteles o alojamientos por hora.
+
+4. Efectuadas por quienes presten servicios de telecomunicaciones, excepto los que preste Encotesa y los de las agencias noticiosas. (Punto sustituido por inc. a.1), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+5. Efectuadas por quienes provean gas o electricidad excepto el servicio de alumbrado público.
+
+6. Efectuadas por quienes presten los servicios de provisión de agua corriente, cloacales y de desagüe, incluidos el desagote y limpieza de pozos ciegos.
+
+7. De cosas muebles.
+
+8. De conservación y almacenaje en cámaras refrigeradoras o frigoríficas.
+
+9. De reparación, mantenimiento y limpieza de bienes muebles.
+
+10. De decoración de viviendas y de todo otro inmueble (comerciales, industriales, de servicio, etc.).
+
+11. Destinadas a preparar, coordinar o administrar los trabajos sobre inmuebles ajenos contemplados en el inciso a).
+
+12. Efectuadas por casas de baños, masajes y similares.
+
+13. Efectuadas por piscinas de natación y gimnasios.
+
+14. De boxes en studs.
+
+15. Efectuadas por peluquerías, salones de belleza y similares.
+
+16. Efectuadas por playas de estacionamiento o garajes y similares. Se exceptúa el estacionamiento en la vía pública (parquímetros y tarjetas de estacionamiento) cuando la explotación sea efectuada por el Estado, las provincias o municipalidades, o por los sujetos comprendidos en los incisos e), f), g) o m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 1986 y sus modificaciones.
+
+17. Efectuadas por tintorerías y lavanderías.
+
+18. De inmuebles para conferencias, reuniones, fiestas y similares.
+
+19. De pensionado, entrenamiento, aseo y peluquería de animales.
+
+20. Involucradas en el precio de acceso a lugares de entretenimientos y diversión, así como las que pudieran efectuarse en los mismos (salones de baile, discotecas, cabarets, boites, casinos, hipódromos, parques de diversiones, salones de bolos y billares, juegos de cualquier especie, etc.), excluidas las comprendidas en el artículo 7º, inciso h), apartado 10. (Apartado sustituido por pto. a) art. 1° del Decreto N° 496/2001 B.O. 02/05/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+21. Las restantes locaciones y prestaciones, siempre que se realicen sin relación de dependencia y a título oneroso, con prescindencia del encuadre jurídico que les resulte aplicable o que corresponda al contrato que las origina.
+
+Se encuentran incluidas en el presente apartado entre otras:
+
+a) Las que configuren servicios comprendidos en las actividades económicas del sector primario.
+
+b) Los servicios de turismo, incluida la actividad de las agencias de turismo.
+
+c) Los servicios de computación incluido el software cualquiera sea la forma o modalidad de contratación.
+
+d) Los servicios de almacenaje.
+
+e) Los servicios de explotación de ferias y exposiciones y locación de espacios en las mismas.
+
+f) Los servicios técnicos y profesionales (de profesiones universitarias o no), artes, oficios y cualquier tipo de trabajo.
+
+g) Los servicios prestados de organización, gestoría y administración a círculos de ahorro para fines determinados.
+
+h) Los servicios prestados por agentes auxiliares de comercio y los de intermediación (incluidos los inmobiliarios) no comprendidos en el inciso c) del artículo 2º.
+
+i) La cesión temporal del uso o goce de cosas muebles, excluidas las referidas a acciones o títulos valores.
+
+j) La publicidad.
+
+k) La producción y distribución de películas cinematográficas y para video. (Inciso sustituido por pto. b) art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+l) Las operaciones de seguros, excluidos los seguros de retiro privado, los seguros de vida de cualquier tipo y los contratos de afiliación a las Aseguradoras de Riesgos del Trabajo y, en su caso, sus reaseguros y retrocesiones.(Apartado l) incorporado por inc. b), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999)
+
+m) Los servicios digitales. Se consideran servicios digitales, cualquiera sea el dispositivo utilizado para su descarga, visualización o utilización, aquellos llevados a cabo a través de la red Internet o de cualquier adaptación o aplicación de los protocolos, plataformas o de la tecnología utilizada por Internet u otra red a través de la que se presten servicios equivalentes que, por su naturaleza, estén básicamente automatizados y requieran una intervención humana mínima, comprendiendo, entre otros, los siguientes:
+
+1. El suministro y alojamiento de sitios informáticos y páginas web, así como cualquier otro servicio consistente en ofrecer o facilitar la presencia de empresas o particulares en una red electrónica.
+
+2. El suministro de productos digitalizados en general, incluidos, entre otros, los programas informáticos, sus modificaciones y sus actualizaciones, así como el acceso y/o la descarga de libros digitales, diseños, componentes, patrones .y similares, informes, análisis financiero o datos y guías de mercado.
+
+3. El mantenimiento a distancia, en forma automatizada, de programas y de equipos.
+
+4. La administración de sistemas remotos y el soporte técnico en línea.
+
+5. Los servicios web, comprendiendo, entre otros, el almacenamiento de datos con acceso de forma remota o en línea, servicios de memoria y publicidad en línea.
+
+6. Los servicios de software, incluyendo, entre otros, los servicios de software prestados en Internet (“software como servicio” o “SaaS”) a través de descargas basadas en la nube.
+
+7. El acceso y/o la descarga a imágenes, texto, información, video, música, juegos —incluyendo los juegos de azar—. Este apartado comprende, entre otros servicios, la descarga de películas y otros contenidos audiovisuales a dispositivos conectados a Internet, la descarga en línea de juegos —incluyendo aquellos con múltiples jugadores conectados de forma remota—, la difusión de música, películas, apuestas o cualquier contenido digital —aunque se realice a través de tecnología de streaming, sin necesidad de descarga a un dispositivo de almacenamiento—, la obtención de jingles, tonos de móviles y música, la visualización de noticias en línea, información sobre el tráfico y pronósticos meteorológicos — incluso a través de prestaciones satelitales—, weblogs y estadísticas de sitios web.
+
+8. La puesta a disposición de bases de datos y cualquier servicio generado automáticamente desde un ordenador, a través de Internet o de una red electrónica, en respuesta a una introducción de datos específicos efectuada por el cliente.
+
+9. Los servicios de clubes en línea o webs de citas.
+
+10. El servicio brindado por blogs, revistas o periódicos en línea.
+
+11. La provisión de servicios de Internet.
+
+12. La enseñanza a distancia o de test o ejercicios, realizados o corregidos de forma automatizada.
+
+13. La concesión, a Título oneroso, del derecho a comercializar un bien o servicio en un sitio de Internet que funcione como un mercado en línea, incluyendo los servicios de subastas en línea.
+
+14. La manipulación y cálculo de datos a través de Internet u otras redes electrónicas. (Inciso m) incorporado por art. 88 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+Cuando se trata de locaciones o prestaciones gravadas, quedan comprendidos los servicios conexos o relacionados con ellos y las transferencias o cesiones del uso o goce de derechos de la propiedad intelectual, industrial o comercial, con exclusión de los derechos de autor de escritores y músicos.
+
+SUJETO
+
+ARTICULO 4º — Son sujetos pasivos del impuesto quienes:
+
+a) Hagan habitualidad en la venta de cosas muebles, realicen actos de comercio accidentales con las mismas o sean herederos o legatarios de responsables inscriptos; en este último caso cuando enajenen bienes que en cabeza del causante hubieran sido objeto del gravamen.
+
+b) Realicen en nombre propio, pero por cuenta de terceros, ventas o compras.
+
+c) Importen definitivamente cosas muebles a su nombre, por su cuenta o por cuenta de terceros.
+
+d) Sean empresas constructoras que realicen las obras a que se refiere el inciso b) del artículo 3º, cualquiera se la forma jurídica que hayan adoptado para organizarse, incluidas las empresas unipersonales. A los fines de este inciso, se entenderá que revisten el carácter de empresas constructoras las que, directamente o a través de terceros, efectúen las referidas obras con el propósito de obtener un lucro con su ejecución o con la posterior venta, total o parcial, del inmueble.
+
+e) Presten servicios gravados.
+
+f) Sean locadores, en el caso de locaciones gravadas.
+
+g) Sean prestatarios en los casos previstos en el inciso d) del artículo 1º.(Inciso incorporado por inc. c), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+h) Sean locatarios, prestatarios, representantes o intermediarios de sujetos del exterior que realizan locaciones o prestaciones gravadas en el país, en su carácter de responsables sustitutos. (Inciso incorporado por art. 8° pto. 1 de la Ley N° 27.346 B.O. 27/12/2016. Vigencia: a partir de su publicación en el Boletín Oficial y surtirá efecto para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente al de su publicación en el Boletín Oficial).
+
+i) sean prestatarios en los casos previstos en el inciso e) del artículo 1°. (Inciso incorporado por art. 89 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+Quedan incluidos en las disposiciones de este artículo quienes, revistiendo la calidad de uniones transitorias de empresas, agrupamientos de colaboración empresaria, consorcios, asociaciones sin existencia legal como personas jurídicas, agrupamientos no societarios o cualquier otro ente individual o colectivo, se encuentren comprendidos en alguna de las situaciones previstas en el párrafo anterior. El PODER EJECUTIVO reglamentará la no inclusión en esta disposición de los trabajos profesionales realizados ocasionalmente en común y situaciones similares que existan en materia de prestaciones de servicios.
+
+Adquirido el carácter de sujeto pasivo del impuesto en los casos de los incisos a), b), d), e) y f), serán objeto del gravamen todas las ventas de cosas muebles relacionadas con la actividad determinante de su condición de tal, con prescindencia del carácter que revisten las mismas para la actividad y de la proporción de su afectación a las operaciones gravadas cuando éstas se realicen simultáneamente con otras exentas o no gravadas, incluidas las instalaciones que siendo susceptibles de tener individualidad propia se hayan transformado en inmuebles por accesión al momento de su enajenación.
+
+Mantendrán la condición de sujetos pasivos quienes hayan sido declarados en quiebra o concurso civil, en virtud de reputarse cumplidos los requisitos de los incisos precedentes, con relación a las ventas y subastas judiciales y a los demás hechos imponibles que se efectúen o se generen en ocasión o con motivo de los procesos respectivos. Ello sin perjuicio de lo dispuesto en el inciso c) del artículo 16 e inciso b) del artículo 18 de la Ley Nº 11.683, texto ordenado en 1978 y sus modificaciones.
+
+(Ultimo párrafo derogado por art. 1°, inciso a), punto 1 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+ARTICULO ....- Serán considerados responsables sustitutos a los fines de esta ley, por las locaciones y/o prestaciones gravadas, los residentes o domiciliados en el país que sean locatarios y/o prestatarios de sujetos residentes o domiciliados en el exterior y quienes realicen tales operaciones como intermediarios o en representación de dichos sujetos del exterior, siempre que las efectúen a nombre propio, independientemente de la forma de pago y del hecho que el sujeto del exterior perciba el pago por dichas operaciones en el país o en el extranjero.
+
+Se encuentran comprendidos entre los aludidos responsables sustitutos:
+
+a) Los Estados nacional, provinciales y municipales, y el Gobierno de la Ciudad Autónoma de Buenos Aires, sus entes autárquicos y descentralizados.
+
+b) Los sujetos incluidos en los incisos d), f), g) y m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones.
+
+c) Los administradores, mandatarios, apoderados y demás intermediarios de cualquier naturaleza.
+
+Los responsables sustitutos deberán determinar e ingresar el impuesto que recae en la operación, a cuyo fin deberán inscribirse ante la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Hacienda y Finanzas Públicas, en los casos, formas y condiciones que dicho organismo establezca. El Poder Ejecutivo nacional podrá disponer en qué casos no corresponde asumir la condición referida.
+
+En los supuestos en que exista imposibilidad de retener, el ingreso del gravamen estará a cargo del responsable sustituto.
+
+El impuesto ingresado con arreglo a lo dispuesto en el presente artículo tendrá, para el responsable sustituto, el carácter de crédito fiscal habilitándose su cómputo conforme a lo previsto en los artículos 12, 13 y en el primer párrafo del artículo 24, de corresponder.
+
+El Poder Ejecutivo queda facultado para disponer las normas reglamentarias que estime pertinentes, a los fines de establecer la forma en que los Estados nacional, provinciales, municipales o el Gobierno de la Ciudad Autónoma de Buenos Aires, liquiden e ingresen el gravamen, en carácter de responsable sustituto.
+
+(Artículo s/n° incorporado a continuación del art. 4°, por art. 8° pto. 2 de la Ley N° 27.346 B.O. 27/12/2016. Vigencia: a partir de su publicación en el Boletín Oficial y surtirá efecto para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente al de su publicación en el Boletín Oficial).
+
+NACIMIENTO DEL HECHO IMPONIBLE
+
+ARTICULO 5º — El hecho imponible se perfecciona:
+
+a) en el caso de ventas —inclusive de bienes registrables—, en el momento de la entrega del bien, emisión de la factura respectiva, o acto equivalente, el que fuere anterior, excepto en los siguientes supuestos:
+
+1) que se trate de la provisión de agua —salvo lo previsto en el punto siguiente—, de energía eléctrica o de gas reguladas por medidor, en cuyo caso el hecho imponible se perfeccionará en el momento en que se produzca el vencimiento del plazo fijado para el pago del precio o en el de su percepción total o parcial, el que fuere anterior.
+
+2) que se trate de la provisión de agua regulada por medidor a consumidores finales, en domicilios destinados exclusivamente a vivienda, en cuyo caso el hecho imponible se perfeccionará en el momento en que se produzca la percepción total o parcial del precio.
+
+(Primer párrafo del inciso a) sustituido por inc. c.1), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+En los casos en que la comercialización de productos primarios provenientes de la agricultura y ganadería; avicultura; piscicultura y apicultura, incluida la obtención de huevos frescos, miel natural y cera virgen de abeja; silvicultura y extracción de madera; caza y pesca y actividades extractivas de minerales y petróleo crudo y gas, se realice mediante operaciones en las que la fijación del precio tenga lugar con posterioridad a la entrega del producto, el hecho imponible se perfeccionará en el momento en que se proceda a la determinación de dicho precio.
+
+Cuando los productos primarios indicados en el párrafo anterior se comercialicen mediante operaciones de canje por otros bienes, locaciones o servicios gravados, que se reciben con anterioridad a la entrega de los primeros, los hechos imponibles correspondientes a ambas partes se perfeccionarán en el momento en que se produzca dicha entrega. Idéntico criterio se aplicará cuando la retribución a cargo del productor primario consista en kilaje de carne.
+
+En el supuesto de bienes de propia producción incorporados a través de locaciones y prestaciones de servicios exentas o no gravadas, la entrega del bien se considerará configurada en el momento de su incorporación.
+
+b) En el caso de prestaciones de servicios y de locaciones de obras y servicios, en el momento en que se termina la ejecución o prestación o en el de la percepción total o parcial del precio, el que fuera anterior, excepto
+
+1. Que las mismas se efectuaran sobre bienes, en cuyo caso el hecho imponible se perfeccionará en el momento de la entrega de tales bienes o acto equivalente, configurándose este último con la mera emisión de la factura.
+
+2. que se trate de servicios cloacales, de desagües o de provisión de agua corriente, regulados por tasas o tarifas fijadas con independencia de su efectiva prestación o de la intensidad de la misma, en cuyo caso el hecho imponible se perfeccionará, si se tratara de prestaciones efectuadas a consumidores finales, en domicilios destinados exclusivamente a vivienda, en el momento en que se produzca la percepción total o parcial del precio y si se tratara de prestaciones a otros sujetos o domicilios, en el momento en que se produzca el vencimiento del plazo fijado para su pago o en el de su percepción total o parcial, el que fuere anterior. (Punto sustituido por inc. c.2), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+3. que se trate de servicios de telecomunicaciones regulados por tasas o tarifas fijadas con independencia de su efectiva prestación o de la intensidad de la misma o en función de unidades de medida preestablecidas, en cuyo caso el hecho imponible se perfeccionará en el momento en que se produzca el vencimiento del plazo fijado para su pago o en el de su percepción total o parcial, el que fuere anterior.(Punto sustituido por inc. c.2), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+4. Que se trate de casos en los que la contraprestación deba fijarse judicialmente o deba percibirse a través de cajas forenses, o colegios o consejos profesionales, en cuyo caso el hecho imponible se perfeccionará con la percepción, total o parcial del precio, o en el momento en que el prestador o locador haya emitido factura, el que sea anterior.
+
+5. Las comprendidas en el inciso c).
+
+6. Que se trate de operaciones de seguros o reaseguros, en cuyo caso el hecho imponible se perfeccionará con la emisión de la póliza o, en su caso, la suscripción del respectivo contrato. En los contratos de reaseguro no proporcional, con la suscripción del contrato y con cada uno de los ajustes de prima que se devenguen con posterioridad. En los contratos de reaseguro proporcional el hecho imponible se perfeccionará en cada una de las cesiones que informen las aseguradoras al reasegurador.
+
+7. Que se trate de colocaciones o prestaciones financieras, en cuyo caso el hecho imponible se perfeccionará en el momento en que se produzca el vencimiento del plazo fijado para el pago de su rendimiento o en el de su percepción total o parcial, el que fuere anterior.
+
+8. Que se trate de locaciones de inmuebles, en cuyo caso el hecho imponible se perfeccionará en el momento en que se produzca el vencimiento de los plazos fijados para el pago de la locación o en el de su percepción total o parcial, el que fuere anterior.
+
+Cuando como consecuencia del incumplimiento en los pagos de la locación se hayan iniciado acciones judiciales tendientes a su cobro, los hechos imponibles de los períodos impagos posteriores a dicha acción se perfeccionarán con la percepción total o parcial del precio convenido en la locación.
+
+(Punto incorporado por inc. a), art. 1º del Decreto N° 615/2001 B.O. 14/05/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+c) En el caso de trabajos sobre inmuebles de terceros, en el momento de la aceptación del certificado de obra, parcial o total, o en el de la percepción total o parcial del precio o en el de la facturación, el que fuera anterior.
+
+d) En los casos de locación de cosas y arriendos de circuitos o sistemas de telecomunicaciones, en el momento de devengarse el pago o en el de su percepción, el que fuera anterior. Igual criterio resulta aplicable respecto de las locaciones, servicios y prestaciones comprendidos en el apartado 21 del inciso e) del artículo 3º que originen contraprestaciones que deban calcularse en función a montos o unidades de ventas, producción, explotación o índices similares, cuando originen pagos periódicos que correspondan a los lapsos en que se fraccione la duración total del uso o goce de la cosa mueble. (Expresión "excluidos los servicios de televisión por cable" eliminada por inc. c.3), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+e) En el caso de obras realizadas directamente o a través de terceros sobre inmueble propio, en el momento de la transferencia a título oneroso del inmueble, entendiéndose que ésta tiene lugar al extenderse la escritura traslativa de dominio o al entregarse la posesión, si este acto fuera anterior. Cuando se trate de ventas judiciales por subasta pública, la transferencia se considerará efectuada en el momento en que quede firme el auto de aprobación del remate.
+
+Lo dispuesto precedentemente no será de aplicación cuando la transferencia se origine en una expropiación, supuesto en el cual no se configurará el hecho imponible a que se refiere el inciso b) del artículo 3º.
+
+Cuando la realidad económica indique que las operaciones de locación de inmuebles con opción a compra configuran desde el momento de su concertación la venta de las obras a que se refiere este inciso, el hecho imponible se considerará perfeccionado en el momento en que se otorgue la tenencia del inmueble, debiendo entenderse, a los efectos previstos en el artículo 10, que el precio de la locación integra el de la transferencia del bien.
+
+f) En el caso de importaciones, en el momento en que ésta sea definitiva.
+
+g) En el caso de locación de cosas muebles con opción a compra, en el momento de la entrega del bien o acto equivalente, cuando la locación esté referida a:
+
+1. Bienes muebles de uso durable, destinados a consumidores finales o a ser utilizados en actividades exentas o no gravadas.
+
+2. Operaciones no comprendidas en el punto que antecede, siempre que su plazo de duración no exceda de un tercio de la vida útil del respectivo bien.
+
+En el supuesto de no cumplirse los requisitos establecidos en los puntos precedentes, se aplicarán las disposiciones del inciso d) de este artículo.
+
+h) En el caso de las prestaciones a que se refiere el inciso d), del artículo 1º, en el momento en el que se termina la prestación o en el del pago total o parcial del precio, el que fuere anterior, excepto que se trate de colocaciones o prestaciones financieras, en cuyo caso el hecho imponible se perfeccionará de acuerdo a lo dispuesto en el punto 7, del inciso b), de este artículo.(Inciso incorporado por inc. d), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+i) En el caso de las prestaciones de servicios digitales comprendidas en el inciso e) del artículo 1°, en el momento en que se finaliza la prestación o en el del pago total o parcial del precio por parte del prestatario, el que fuere anterior, debiendo ingresarse de conformidad con lo dispuesto en el artículo sin número agregado a continuación del artículo 27 de esta ley. (Inciso incorporado por art. 90 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+Sin perjuicio de lo dispuesto en los incisos precedentes, cuando se reciban señas o anticipos que congelen precios, el hecho imponible se perfeccionará, respecto del importe recibido, en el momento en que tales señas o anticipos se hagan efectivos.
+
+ARTICULO 6º — En los casos previstos en el inciso a) y en el apartado 1 del inciso b) del artículo anterior, se considerarán como actos equivalentes a la entrega del bien o emisión de la factura respectiva, a las situaciones previstas en los apartados 1º, 3º, 4º y 5º del artículo 463 del Código de Comercio.
+
+En todos los supuestos comprendidos en las normas del artículo 5º citadas en el párrafo anterior, el hecho imponible se perfeccionará en tanto medie la efectiva existencia de los bienes y éstos hayan sido puestos a disposición del comprador.
+
+TITULO II
+
+EXENCIONES
+
+ARTICULO 7º — Estarán exentas del impuesto establecido por la presente ley, las ventas, las locaciones indicadas en el inciso c) del artículo 3º y las importaciones definitivas que tengan por objeto las cosas muebles incluidas en este artículo y las locaciones y prestaciones comprendidas en el mismo, que se indican a continuación:
+
+a) Libros, folletos e impresos similares, incluso en fascículos u hojas sueltas, que constituyan una obra completa o parte de una obra, y diarios, revistas y publicaciones periódicas, así como las suscripciones de ediciones periodísticas digitales de información en línea, en toda la cadena de comercialización y distribución, en todos los casos cualquiera fuere el soporte o el medio utilizado para su difusión, excepto los servicios de distribución, clasificación, reparto y/o devolución de diarios, revistas y publicaciones periódicas que sean prestados a sujetos cuya actividad sea la producción editorial. (Párrafo sustituido por art. 90 de la Ley N° 27.467 B.O. 4/12/2018. Vigencia: surtirá efecto respecto de los hechos imponibles que se perfeccionen a partir del 1° de enero de 2019, por art. 94 de la misma ley)
+
+La exención prevista en este inciso no comprende a los bienes gravados que se comercialicen conjunta o complementariamente con los bienes exentos, en tanto tengan un precio diferenciado de venta y no constituyan un elemento sin el cual estos últimos no podrían utilizarse. Se entenderá que los referidos bienes tienen un precio diferenciado, cuando posean un valor propio de comercialización, aun cuando el mismo integre el precio de los bienes que complementan, incrementando los importes habituales de negociación de los mismos.
+
+(Inciso sustituido por inc. a), art. 1° del Decreto N° 1008/2001 B.O. 14/08/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto a partir del primer día del mes siguiente al de dicha publicación, inclusive —01/09/2001—.)
+
+b) Sellos de correo, timbres fiscales y análogos, sin obliterar, de curso legal o destinados a tener curso legal en el país de destino; papel timbrado, billetes de banco, títulos de acciones o de obligaciones y otros títulos similares, excluidos talonarios de cheques y análogos.
+
+La exención establecida en este inciso no alcanza a los títulos de acciones o de obligaciones y otros similares que no sean válidos y firmados.
+
+(Inciso sustituido por inc. a), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley —01/01/2000—.)
+
+c) Sellos y pólizas de cotización o de capitalización, billetes para juegos de sorteos o de apuestas (oficiales o autorizados) y sellos de organizaciones de bien público del tipo empleado para obtener fondos o hacer publicidad, billetes de acceso a espectáculos teatrales comprendidos en el artículo 7º, inciso h), apartado 10, puestos en circulación por la respectiva entidad emisora o prestadora del servicio. (Inciso sustituido por pto. b), art. 1° del Decreto N° 496/2001 B.O. 02/05/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+d) Oro amonedado, o en barras de buena entrega de 999/1000 de pureza, que comercialicen las entidades oficiales o bancos autorizados a operar.
+
+e) Monedas metálicas (incluidas las de materiales preciosos), que tengan curso legal en el país de emisión o cotización oficial.
+
+f) El agua ordinaria natural, la leche fluida o en polvo, entera o descremada sin aditivos, cuando el comprador sea un consumidor final, el Estado nacional, las provincias, municipalidades o la Ciudad Autónoma de Buenos Aires u organismos centralizados o descentralizados de su dependencia, comedores escolares o universitarios, obras sociales o entidades comprendidas en los incisos e), f), g) y m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones, y las especialidades medicinales para uso humano cuando se trate de su reventa por droguerías, farmacias u otros establecimientos autorizados por el organismo competente, en tanto dichas especialidades hayan tributado el impuesto en la primera venta efectuada en el país por el importador, fabricante o por los respectivos locatarios en el caso de la fabricación por encargo. (Inciso sustituido por art. 1° de la Ley N° 26.151 B.O. 25/10/2006. Vigencia: a partir del primer día del mes siguiente al de su publicación en el Boletín Oficial de la Nación.)
+
+g) Aeronaves concebidas para el transporte de pasajeros y/o cargas destinadas a esas actividades, como así también las utilizadas en la defensa y seguridad, en este último caso incluidas sus partes y componentes.
+
+Las embarcaciones y artefactos navales, incluidas sus partes y componentes, cuando el adquirente sea el Estado nacional u organismos centralizados o descentralizados de su dependencia.
+
+(Inciso sustituido por inc. e.1), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+h) Las prestaciones y locaciones comprendidas en el apartado 21 del inciso e) del artículo 3º, que se indican a continuación:
+
+1) Las realizadas por el Estado nacional, las provincias, las municipalidades y el Gobierno de la Ciudad Autónoma de Buenos Aires y por instituciones pertenecientes a los mismos o integrados por dos o más de ellos, excluidos las entidades y organismos a que se refiere el artículo 1° de la Ley N° 22.016, entendiéndose comprendidos en la presente exención a los fideicomisos financieros constituidos en los términos de la Ley N° 24.441, creados por los artículos 3° y 9° de la Ley N° 25.300. (Párrafo sustituido por art. 1° de la Ley N° 26.112 B.O. 6/7/2006. Vigencia: ver art. 2° de la Ley N° 26.112)
+
+No resultan comprendidos en la exclusión dispuesta en el párrafo anterior los organismos que vendan bienes o presten servicios a terceros a título oneroso a los que alude en general el artículo 1º de la Ley Nº 22.016 en su parte final, cuando los mismos se encuentren en cualquiera de las situaciones contempladas en los incisos a) y b) del Decreto Nº 145 del 29 de enero de 1981, con prescindencia de que persigan o no fines de lucro con la totalidad o parte de sus actividades, así como las prestaciones y locaciones relativas a la explotación de loterías y otros juegos de azar o que originen contraprestaciones de carácter tributario, realizadas por aquellos organismos, aun cuando no encuadren en las situaciones previstas en los incisos mencionados.
+
+2) (Punto derogado por inc. e.3), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+3) Los servicios prestados por establecimientos educacionales privados incorporados a los planes de enseñanza oficial y reconocidos como tales por las respectivas jurisdicciones, referidos a la enseñanza en todos los niveles y grados contemplados en dichos planes, y de postgrado para egresados de los niveles secundario, terciario o universitario, así como a los de alojamiento y transporte accesorios a los anteriores, prestados directamente por dichos establecimientos con medios propios o ajenos.
+
+La exención dispuesta en este punto, también comprende: a) a las clases dadas a título particular sobre materias incluidas en los referidos planes de enseñanza oficial y cuyo desarrollo responda a los mismos, impartidas fuera de los establecimientos educacionales aludidos en el párrafo anterior y con independencia de éstos y, b) a las guarderías y jardines materno-infantiles.
+
+4) Los servicios de enseñanza prestados a discapacitados por establecimientos privados reconocidos por las respectivas jurisdicciones a efectos del ejercicio de dicha actividad, así como los de alojamiento y transporte accesorios a los anteriores prestados directamente por los mismos, con medios propios o ajenos.
+
+5) Los servicios relativos al culto o que tengan por objeto el fomento del mismo, prestados por instituciones religiosas comprendidas en el inciso e) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 1986 y sus modificaciones.
+
+6) Los servicios prestados por las obras sociales creadas o reconocidas por normas legales nacionales o provinciales, por instituciones, entidades y asociaciones comprendidas en los incisos f), g) y m) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 1986 y sus modificaciones, por instituciones políticas sin fines de lucro y legalmente reconocidas, y por los colegios y consejos profesionales, cuando tales servicios se relacionen en forma directa con sus fines específicos. (Inciso sustituido por pto. e), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+7) Los servicios de asistencia sanitaria, médica y paramédica: a) de hospitalización en clínicas, sanatorios y establecimientos similares; b) las prestaciones accesorias de la hospitalización; c) los servicios prestados por los médicos en todas sus especialidades; d) los servicios prestados por los bioquímicos, odontólogos, kinesiólogos, fonoaudiólogos, psicólogos, etc.; e) los que presten los técnicos auxiliares de la medicina; f) todos los demás servicios relacionados con la asistencia, incluyendo el transporte de heridos y enfermos en ambulancias o vehículos especiales.
+
+La exención se limita exclusivamente a los importes que deban abonar a los prestadores los colegios y consejos profesionales, las cajas de previsión social para profesionales y las obras sociales, creadas o reconocidas por normas legales nacionales o provinciales así como todo pago directo que a título de coseguro o en caso de falta de servicios deban efectuar los beneficiarios. (Párrafo sustituido por pto. 1, art. 1° de la Ley N° 25.405 B.O. 06/04/2001. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial. Surtirá efecto desde la vigencia de la Ley Nº 25.063.)
+
+La exención dispuesta precedentemente no será de aplicación en la medida en que los beneficiarios de la prestación no fueren matriculados o afiliados directos o integrantes de sus grupos familiares —en el caso de servicios organizados por los colegios y consejos profesionales y cajas de previsión social para profesionales— o sean adherentes voluntarios a las obras sociales, sujetos a un régimen similar a los sistemas de medicina prepaga, en cuyo caso será de aplicación el tratamiento dispuesto para estas últimas. (Párrafo sustituido por pto. 1, art. 1° de la Ley N° 25.405 B.O. 06/04/2001. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial. Surtirá efecto desde la vigencia de la Ley Nº 25.063.)
+
+Gozarán de igual exención las prestaciones que brinden o contraten las cooperativas, las entidades mutuales y los sistemas de medicina prepaga, cuando correspondan a servicios derivados por las obras sociales.
+
+(Ultimo párrafo sustituido por anteúltimo y último párrafos por inc. e.4), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+8) Los servicios funerarios, de sepelio y cementerio retribuidos mediante cuotas solidarias que realicen las cooperativas.
+
+9) (Punto derogado por inc. c), art.2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley —01/01/2000—.)
+
+10) Los espectáculos de carácter teatral comprendidos en la Ley Nº 24.800 y la contraprestación exigida para el ingreso a conciertos o recitales musicales cuando la misma corresponda exclusivamente al acceso a dicho evento. (Punto sustituido por art. 1° de la Ley N° 26.115 B.O. 19/7/2006).
+
+11) Los espectáculos de carácter deportivo amateur, en las condiciones que al respecto establezca la reglamentación, por los ingresos que constituyen la contraprestación exigida para el acceso a dichos espectáculos. (Apartado incorporado por art. 1° del Decreto N° 845/2001 B.O. 25/6/2001. Vigencia: a partir del día de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionan a partir del 1º de mayo de 2001, inclusive. Cuando se trata de prestaciones realizadas entre el 1º de mayo de 2001 y la fecha de entrada en vigencia del presente decreto, en las que por aplicación de lo dispuesto por el Decreto Nº 493 de fecha 27 de abril de 2001 se hubiese trasladado el impuesto y no se acreditare su restitución, la exención tendrá efecto para los hechos imponibles que se perfeccionen a partir del día de la publicación en el Boletín Oficial del presente decreto.)
+
+12) Los servicios de taxímetros y remises con chofer, realizados en el país, siempre que el recorrido no supere los CIEN KILOMETROS (100 km.).
+
+La exención dispuesta en este punto también comprende a los servicios de carga de equipaje conducido por el propio viajero y cuyo transporte se encuentre incluido en el precio del pasaje.
+
+(Punto 12 sustituido por art. 5° del Decreto N° 802/2001 B.O. 19/6/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionan a partir del 1° de julio de 2001, inclusive.)
+
+13) El transporte internacional de pasajeros y cargas, incluidos los de cruce de fronteras por agua, el que tendrá el tratamiento del artículo 43.
+
+14) Las locaciones a casco desnudo (con o sin opción de compra) y el fletamento a tiempo o por viaje de buques destinados al transporte internacional, cuando el locador es un armador argentino y el locatario es una empresa extranjera con domicilio en el exterior, operaciones que tendrán el tratamiento del artículo 43.
+
+15) Los servicios de intermediación prestados por agencias de lotería, prode y otros juegos de azar explotados por los fiscos nacional, provinciales y municipales o por instituciones pertenecientes a los mismos, a raíz de su participación en la venta de los billetes y similares que acuerdan derecho a intervenir en dichos juegos.
+
+16) Las colocaciones y prestaciones financieras que se indican a continuación:
+
+1. Los depósitos en efectivo en moneda nacional o extranjera en sus diversas formas, efectuados en instituciones regidas por la Ley Nº 21.526, los préstamos que se realicen entre dichas instituciones y las demás operaciones relacionadas con las prestaciones comprendidas en este punto.
+
+2. (Apartado derogado por inc. e), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley —01/01/2000—.)
+
+3. Los intereses pasivos correspondientes a regímenes de ahorro y préstamo; de ahorro y capitalización; de planes de seguro de retiro privado administrados por entidades sujetas al control de la Superintendencia de Seguros de la Nación; de planes y fondos de jubilaciones y pensiones de las mutuales inscriptas y autorizadas por el Instituto Nacional de Acción Cooperativa y Mutual y de compañías administradoras de fondos de jubilaciones y pensiones y los importes correspondientes a la gestión administrativa relacionada con las operaciones comprendidas en este apartado.
+
+4. Los intereses abonados a sus socios por las cooperativas y mutuales, legalmente constituidas.
+
+5. Los intereses provenientes de operaciones de préstamos que realicen las empresas a sus empleados o estos últimos a aquéllas efectuadas en condiciones distintas a las que pudieran pactarse entre partes independientes, teniendo en cuenta las prácticas normales del mercado.
+
+6. Los intereses de las obligaciones negociables colocadas por oferta pública que cuenten con la respectiva autorización de la Comisión Nacional de Valores, regidas por la Ley Nº 23.576.
+
+7. Los intereses de acciones preferidas y de títulos, bonos y demás títulos valores emitidos o que se emitan en el futuro por la Nación, provincias y municipalidades.
+
+8. Los intereses de préstamos para vivienda concedidos por el FONDO NACIONAL DE LA VIVIENDA y los correspondientes a préstamos para compra, construcción o mejoras de viviendas destinadas a casa-habitación, en este último caso cualquiera sea la condición del sujeto que lo otorgue.
+
+9. Los intereses de préstamos u operaciones bancarias y financieras en general cuando el tomador sea el ESTADO NACIONAL, las Provincias, los Municipios o la CIUDAD AUTONOMA DE BUENOS AIRES. (Apartado sustituido por inc. b), art. 1° del Decreto N° 1008/2001 B.O. 14/08/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto a partir del primer día del mes siguiente al de dicha publicación, inclusive.)
+
+10. Los intereses de las operaciones de microcréditos contempladas en la Ley de Promoción del Microcrédito para el Desarrollo de la Economía Social. (Apartado incorporado por art. 22 de la Ley N° 26.117 B.O. 21/7/2006).
+
+17) Los servicios personales domésticos.
+
+18) Las prestaciones inherentes a los cargos de director, síndicos y miembros de consejos de vigilancia de sociedades anónimas y cargos equivalentes de administradores y miembros de consejos de administración de otras sociedades, asociaciones y fundaciones y de las cooperativas.
+
+La exención dispuesta en el párrafo anterior será procedente siempre que se acredite la efectiva prestación de servicios y exista una razonable relación entre el honorario y la tarea desempeñada, en la medida que la misma responda a los objetivos de la entidad y sea compatible con las prácticas y usos del mercado.
+
+(Punto sustituido por inc. f), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley —01/01/2000—.)
+
+19) Los servicios personales prestados por sus socios a las cooperativas de trabajo.
+
+20) Los realizados por becarios que no originen por su realización una contraprestación distinta a la beca asignada.
+
+21) Todas las prestaciones personales de los trabajadores del teatro comprendidos en el artículo 3º de la Ley Nº 24.800. (Apartado incorporado por inc. d), art. 1° del Decreto N° 496/2001 B.O. 02/05/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+22) La locación de inmuebles destinados exclusivamente a casa habitación del locatario y su familia, de inmuebles rurales afectados a actividades agropecuarias y de inmuebles cuyos locatarios sean el ESTADO NACIONAL, las Provincias, las Municipalidades o la CIUDAD AUTONOMA DE BUENOS AIRES, sus respectivas reparticiones y entes centralizados o descentralizados, excluidos las entidades y organismos comprendidos en el artículo 1° de la Ley N° 22.016.
+
+La exención dispuesta en este punto también será de aplicación para las restantes locaciones —excepto las comprendidas en el punto 18., del inciso e), del artículo 3°—, cuando el valor del alquiler, por unidad y locatario, no exceda el monto que al respecto establezca la reglamentación.
+
+(Punto sustituido por inc. a), art. 1° del Decreto N° 733/2001 B.O. 05/06/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto para los hechos imponibles perfeccionados a partir del 1° de mayo de 2001, inclusive, excepto para aquellos casos en los que habiéndose trasladado el impuesto, no se acreditare su restitución a los respectivos adquirentes o locatarios, en cuyo caso surtirá efectos a partir de la referida entrada en vigencia.)
+
+23) El otorgamiento de concesiones.
+
+24) Los servicios de sepelio. La exención se limita exclusivamente a los importes que deban abonar a los prestadores, las obras sociales creadas o reconocidas por normas legales nacionales o provinciales.
+
+25) Los servicios prestados por establecimientos geriátricos. La exención se limita exclusivamente a los importes que deban abonar a los prestadores, las obras sociales creadas o reconocidas por normas legales nacionales o provinciales.
+
+26) Los trabajos de transformación, modificación, reparación, mantenimiento y conservación de aeronaves, sus partes y componentes, contempladas en el inciso g) y de embarcaciones, siempre que sean destinadas al uso exclusivo de actividades comerciales o utilizadas en la defensa y seguridad, como así también de las demás aeronaves destinadas a otras actividades, siempre que se encuentren matriculadas en el exterior, los que tendrán, en todos los casos, el tratamiento del artículo 43. (Punto sustituido por inc. e.5), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+27) Las estaciones de radiodifusión sonora previstas en la ley 22.285 que, conforme los parámetros técnicos fijados por la autoridad de aplicación, tengan autorizadas emisiones con una potencia máxima de hasta 5 KW. Quedan comprendidas asimismo en la exención aquellas estaciones de radiodifusión sonora que se encuentren alcanzadas por la resolución 1805/64 de la Secretaría de Comunicaciones. (Punto incorporado por inc. e.5 bis), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+(Nota Infoleg: Incorporación observada por el Poder Ejecutivo por inc. b), art. 1º del Decreto N° 1.517/98 B.O. 30/12/1998. Posterior insistencia de la sanción por parte de las Cámaras de Diputados y Senadores, PE - 242/99 B.O. 02/08/1999.)
+
+Tratándose de las locaciones indicadas en el inciso c) del artículo 3º la exención sólo alcanza a aquéllas en las que la obligación del locador sea la entrega de una cosa mueble comprendida en el párrafo anterior.
+
+La exención establecida en este artículo no será procedente cuando el sujeto responsable por la venta o locación, la realice en forma conjunta y complementaria con locaciones de servicios gravadas, salvo disposición expresa en contrario.
+
+28) La explotación de congresos, ferias y exposiciones y la locación de espacios en los mismos, cuando dichas prestaciones sean contratadas por sujetos residentes en el exterior y los ingresos constituyan la contraprestación exigida para el acceso a los eventos señalados por parte de participaciones que tengan la referida vinculación territorial.
+
+Los sujetos del impuesto al valor agregado comprendidos en el párrafo anterior, podrán computar contra el impuesto que en definitiva adeudaren por sus operaciones gravadas, el impuesto que por bienes, servicios y locaciones les hubiera sido facturado, de acuerdo a los objetos previstos en el presente apartado.
+
+Si dicha compensación no pudiera realizarse o sólo se efectuare parcialmente, el saldo resultante le será acreditado contra otros impuestos a cargo de la Administración Federal de Ingresos Públicos o en su defecto, le será devuelto o se permitirá su transferencia a favor de terceros, en los términos del segundo párrafo del artículo 29 de la Ley N° 11.683, texto ordenado en 1998 y sus modificaciones.
+
+A los efectos del presente apartado, se considerarán residentes en el exterior a quienes revistan esa calidad a los fines del impuesto a las ganancias.
+
+Todas las exenciones previstas precedentemente, sólo serán procedentes cuando los referidos eventos hayan sido declarados de interés nacional, y exista reciprocidad adecuada en el tratamiento impositivo que dispensen los países de origen de los expositores a sus similares radicados en la República Argentina.
+
+(Apartado 28 sustituido por art. 1° de la Ley N° 26.079 B.O. 12/1/2006. Vigencia: a partir del día de su publicación en el Boletín Oficial).
+
+29) El acceso y/o la descarga de libros digitales. (Apartado incorporado por art. 91 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+ARTICULO ... — Respecto de los servicios de asistencia sanitaria, médica y paramédica y de los espectáculos y reuniones de carácter artístico, científico, cultural, teatral, musical, de canto, de danza, circenses, deportivos y cinematográficos —excepto para los espectáculos comprendidos en el punto 10, del inciso h) del primer párrafo del artículo 7º y para los servicios brindados por las obras sociales creadas o reconocidas por normas legales nacionales o provinciales a sus afiliados obligatorios y por los colegios y consejos profesionales y las cajas de previsión social para profesionales, a sus matriculados, afiliados directos y grupos familiares—, no serán de aplicación las exenciones previstas en el punto 6, del inciso h) del primer párrafo del artículo 7º, ni las dispuestas por otras leyes nacionales —generales, especiales o estatutarias—, decretos o cualquier otra norma de inferior jerarquía, que incluya taxativa o genéricamente al impuesto de esta ley, excepto las otorgadas en virtud de regímenes de promoción económica, tanto sectoriales como regionales y a las administradoras de fondos de jubilaciones y pensiones y aseguradoras de riesgo del trabajo. (Expresión "…teatrales…" derogada por art. 2° de la Ley N° 26.115 B.O. 19/7/2006).
+
+Tendrán el tratamiento previsto para los sistemas de medicina prepaga, las cuotas de asociaciones o entidades de cualquier tipo entre cuyas prestaciones se incluyan servicios de asistencia médica y/o paramédica en la proporción atribuible a dichos servicios.
+
+Sin perjuicio de las previsiones del primer párrafo de este artículo, en ningún caso serán de aplicación respecto del impuesto de esta ley las exenciones genéricas de impuestos, en cuanto no lo incluyan taxativamente. (Párrafo incorporado por art. 1° de la Ley N° 25.920 B.O. 9/9/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial).
+
+La limitación establecida en el párrafo anterior no será de aplicación cuando la exención referida a todo impuesto nacional se encuentre prevista en leyes vigentes a la fecha de entrada en vigencia de la ley por la que se incorpora dicho párrafo, incluida la dispuesta por el artículo 3°, inciso d) de la Ley 16.656, que fuera incorporada como inciso s) del artículo 19 de la Ley 11.682 (t.o. en 1972 y sus modificaciones). (Párrafo incorporado por art. 1° de la Ley N° 25.920 B.O. 9/9/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial).
+
+(Artículo sin número incorporado a continuación del art. 7°, sustituido por pto. d), art. 1° del Decreto N° 615/2001 B.O. 14/05/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+ARTICULO 8º — Quedan exentas del gravamen de esta ley:
+
+a) Las importaciones definitivas de mercaderías y efectos de uso personal y del hogar efectuadas con franquicias en materia de derechos de importación, con sujeción a los regímenes especiales relativos a: despacho de equipaje e incidentes de viaje de pasajeros; personas lisiadas; inmigrantes; científicos y técnicos argentinos, personal del servicio exterior de la Nación; representantes diplomáticos acreditados en el país y cualquier otra persona a la que se le haya dispensado ese tratamiento especial.
+
+b) Las importaciones definitivas de mercaderías, efectuadas con franquicias en materia de derechos de importación, por las instituciones religiosas y por las comprendidas en el inciso f) del artículo 20 de la Ley de Impuesto a las Ganancias, texto ordenado en 1986 y sus modificaciones, cuyo objetivo principal sea:
+
+1. La realización de obra médica asistencial de beneficencia sin fines de lucro, incluidas las actividades de cuidado y protección de la infancia, vejez, minusvalía y discapacidad.
+
+2. La investigación científica y tecnológica, aun cuando la misma esté destinada a la actividad académica o docente, y cuenten con una certificación de calificación respecto de los programas de investigación, de los investigadores y del personal de apoyo que participen en los correspondientes programas, extendida por la SECRETARIA DE CIENCIA Y TECNOLOGIA dependiente del MINISTERIO DE CULTURA Y EDUCACION.
+
+c) Las importaciones definitivas de muestras y encomiendas exceptuadas del pago de derechos de importación.
+
+d) Las exportaciones.
+
+e) Las importaciones de bienes donados al Estado nacional, provincias o municipalidades, sus respectivas reparticiones y entes centralizados y descentralizados.
+
+f) Las prestaciones a que se refiere el inciso d), del artículo 1º, cuando el prestatario sea el Estado nacional, las provincias, las municipalidades o la Ciudad Autónoma de Buenos Aires, sus respectivas reparticiones y entes centralizados o descentralizados. (Inciso incorporado por inc. f), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+El incumplimiento de los requisitos y obligaciones establecidos en los regímenes a que se hace mención en los incisos a), b) y c), dará lugar a que renazca la obligación de los responsables de hacer efectivo el pago de impuesto que corresponda en el momento en que se verifique dicho incumplimiento.
+
+ARTICULO 9º — Cuando la venta, la importación definitiva, la locación o la prestación de servicios, hubieran gozado de un tratamiento preferencial en razón de un destino expresamente determinado y, posteriormente, el adquirente, importador o locatario de los mismos se lo cambiara, nacerá para dicho adquirente, importador o locatario, la obligación de ingresar dentro de los DIEZ (10) días hábiles de realizado el cambio, la suma que surja de aplicar sobre el importe de la compra, importación o locación —sin deducción alguna— la alícuota a la que la operación hubiese estado sujeta en su oportunidad de no haber existido el precitado tratamiento.
+
+En los casos en que este último consistiese en una rebaja de tasa, la alícuota a emplear será la que resulte de detraer de la que hubiera correspondido, de no existir la afectación a un destino determinado, aquélla utilizada en razón del mismo.
+
+No se considerará que implica cambio de destino la reventa que se efectúe respetando aquél que hubiere dado origen al trato preferencial. En estos casos el nuevo adquirente asumirá las mismas obligaciones y responsabilidades que el o los anteriores.
+
+Los ingresos previstos por este artículo serán computables en las liquidaciones de los responsables inscriptos en la medida que lo autoricen las normas que rigen el crédito fiscal. De no serlo, las sumas a ingresar deberán actualizarse mediante la aplicación del índice de precios al por mayor, nivel general, referido al mes en que se efectuó la compra, importación o locación, de acuerdo con lo que indique la tabla elaborada por la DIRECCION GENERAL IMPOSITIVA para el mes inmediato anterior a aquél en que se deba realizar el ingreso.
+
+TITULO III
+
+LIQUIDACION
+
+BASE IMPONIBLE
+
+ARTICULO 10. — El precio neto de la venta, de la locación o de la prestación de servicios, será el que resulte de la factura o documento equivalente extendido por los obligados al ingreso del impuesto, neto de descuentos y similares efectuados de acuerdo con las costumbres de plaza. En caso de efectuarse descuentos posteriores, éstos serán considerados según lo dispuesto en el artículo 12. Cuando no exista factura o documento equivalente, o ellos no expresen el valor corriente en plaza, se presumirá que éste es el valor computable, salvo prueba en contrario.
+
+Tratándose de las locaciones a que se refiere el artículo 5º, en los puntos 1 y 2 del primer párrafo de su inciso g), el precio neto de venta estará dado por el valor total de la locación.
+
+En los supuestos de los casos comprendidos en el artículo 2º, inciso b), y similares, el precio computable será el fijado para operaciones normales efectuadas por el responsable o, en su defecto, el valor corriente de plaza.
+
+Cuando se comercialicen productos primarios mediante operaciones de canje por otros bienes, locaciones o servicios gravados, que se reciben con anterioridad a la entrega de los primeros, el precio neto computable por cada parte interviniente se determinará considerando el valor de plaza de los aludidos productos primarios para el día en que los mismos se entreguen, vigente en el mercado en el que el productor realiza habitualmente sus operaciones.
+
+Son integrantes del precio neto gravado —aunque se facturen o convengan por separado— y aun cuando considerados independientemente no se encuentren sometidos al gravamen:
+
+1) Los servicios prestados conjuntamente con la operación gravada o como consecuencia de la misma, referidos a transporte, limpieza, embalaje, seguro, garantía, colocación, mantenimiento y similares.
+
+2) Los intereses, actualizaciones, comisiones, recuperos de gastos y similares percibidos o devengados con motivo de pagos diferidos o fuera de término.
+
+Quedan excluidos de lo dispuesto precedentemente, los conceptos aludidos que se originen en deudas resultantes de las Leyes Nros. 13.064, 21.391, 21.392 y 21.667 y del Decreto Nº 1652 del 18 de setiembre de 1986 y sus respectivas modificaciones, y sus similares emergentes de leyes provinciales u ordenanzas municipales dictadas con iguales alcances.
+
+3) El precio atribuible a los bienes que se incorporen en las prestaciones gravadas del artículo 3º.
+
+4) El precio atribuible a la transferencia, cesión o concesión de uso de derechos de la propiedad intelectual, industrial o comercial que forman parte integrante de las prestaciones o locaciones comprendidas en el apartado 21 del inciso e) del artículo 3º. Cuando según las estipulaciones contractuales, dicho precio deba calcularse en función de montos o unidades de venta, producción, explotación y otros índices similares, el mismo, o la parte pertinente del mismo, deberá considerarse en el o los períodos fiscales en los que se devengue el pago o pagos o en aquél o aquellos en los que se produzca su percepción, si fuera o fueran anteriores.
+
+En el caso de obras realizadas directamente o a través de terceros sobre inmueble propio, el precio neto computable será la proporción que, del convenido por las partes, corresponda a la obra objeto del gravamen. Dicha proporción no podrá ser inferior al importe que resulte atribuible a la misma, según el correspondiente avalúo fiscal o, en su defecto, el que resulte de aplicar al precio total la proporción de los respectivos costos determinados de conformidad con las disposiciones de la Ley de Impuesto a las Ganancias, texto ordenado en 1986 y sus modificaciones.
+
+En el supuesto contemplado en el párrafo precedente, si la venta se efectuara con pago diferido y se pactaran expresamente intereses, actualizaciones u otros ingresos derivados de ese diferimiento, éstos no integrarán el precio neto gravado. No obstante, si dichos conceptos estuvieran referidos a anticipos del precio cuyo pago debiera efectuarse antes del momento en el cual, de acuerdo con lo previsto en el inciso e) del artículo 5º debe considerarse perfeccionado el hecho imponible, los mismos incrementarán el precio convenido a fin de establecer el precio neto computable.
+
+En el caso de transferencia de inmuebles no alcanzadas por el impuesto, que incluyan el valor atribuible a bienes cuya enajenación se encuentra gravada, incluidos aquellos que siendo susceptibles de tener individualidad propia se hayan transformado o constituyan inmuebles por accesión al momento de su transferencia, el precio neto computable será la proporción que, del convenido por las partes, corresponda a los bienes objeto del gravamen. Dicha proporción no podrá ser inferior al importe que resulte de aplicar al precio total de la operación la proporción de los respectivos costos determinados de conformidad con las disposiciones de la Ley de Impuesto a las Ganancias, texto ordenado en 1986 y sus modificaciones.
+
+En el caso de operaciones de seguro o reaseguro, la base imponible estará dada por el precio total de emisión de la póliza o, en su caso, de suscripción del respectivo contrato, neto de los recargos financieros.
+
+Cuando se trate de cesiones o ajustes de prima efectuados con posterioridad a la suscripción de los contratos de reaseguros proporcional y no proporcional, respectivamente, la base imponible la constituirá el monto de dichas cesiones o ajustes.
+
+En ningún caso el impuesto de esta ley integrará el precio neto al que se refiere el presente artículo.
+
+DEBITO FISCAL
+
+ARTICULO 11 — A los importes totales de los precios netos de las ventas, locaciones, obras y prestaciones de servicios gravados a que hace referencia el artículo 10, imputables al período fiscal que se liquida, se aplicarán las alícuotas fijadas para las operaciones que den lugar a la liquidación que se practica.
+
+Al impuesto así obtenido se le adicionará el que resulte de aplicar a las devoluciones, rescisiones, descuentos, bonificaciones o quitas que, respecto del precio neto, se logren en dicho período, la alícuota a la que en su momento hubieran estado sujetas las respectivas operaciones. A estos efectos se presumirá, sin admitirse prueba en contrario, que los descuentos, bonificaciones y quitas operan en forma proporcional al precio neto y al impuesto facturado.
+
+Asimismo, cuando se transfieran o desafecten de la actividad que origina operaciones gravadas obras adquiridas a los responsables a que se refiere el inciso d) del artículo 4º, o realizadas por el sujeto pasivo, directamente o a través de terceros sobre inmueble propio, que hubieren generado el crédito fiscal previsto en el artículo 12, deberá adicionarse al débito fiscal del período en que se produzca la transferencia o desafectación, el crédito oportunamente computado, en tanto tales hechos tengan lugar antes de transcurridos DIEZ (10) años, contados a partir de la fecha de finalización de las obras o de su afectación a la actividad determinante de la condición de sujeto pasivo del responsable, si ésta fuera posterior.
+
+A los efectos indicados en el párrafo precedente el crédito fiscal computado deberá actualizarse, aplicando el índice mencionado en el artículo 47 referido al mes en que se efectuó dicho cómputo, de acuerdo con lo que indique la tabla elaborada por la DIRECCION GENERAL IMPOSITIVA para el mes en el que deba considerarse realizada la transferencia de acuerdo con lo dispuesto en el inciso e) del artículo 5º, o se produzca la desafectación a la que alude el párrafo precedente.
+
+CREDITO FISCAL
+
+ARTICULO 12 — Del impuesto determinado por aplicación de lo dispuesto en el artículo anterior los responsables restarán:
+
+a) El gravamen que, en el período fiscal que se liquida, se les hubiera facturado por compra o importación definitiva de bienes, locaciones o prestaciones de servicios —incluido el proveniente de inversiones en bienes de uso— y hasta el límite del importe que surja de aplicar sobre los montos totales netos de las prestaciones, compras o locaciones o en su caso, sobre el monto imponible total de importaciones definitivas, la alícuota a la que dichas operaciones hubieran estado sujetas en su oportunidad.
+
+Sólo darán lugar a cómputo del crédito fiscal las compras o importaciones definitivas, las locaciones y las prestaciones de servicios en la medida en que se vinculen con las operaciones gravadas, cualquiera fuese la etapa de su aplicación
+
+No se considerarán vinculadas con las operaciones gravadas:
+
+1. Las compras, importaciones definitivas y locaciones (incluidas las derivadas de contratos de leasing) de automóviles, en la medida que su costo de adquisición, importación o valor de plaza, si son de propia producción o alquilados (incluso mediante contratos de leasing), sea superior a la suma de VEINTE MIL PESOS ($ 20.000) —neto del impuesto de esta ley—, al momento de su compra, despacho a plaza, habilitación o suscripción del respectivo contrato, según deba considerarse, en cuyo caso el crédito fiscal a computar no podrá superar al que correspondería deducir respecto de dicho valor.
+
+La limitación dispuesta en este punto no será de aplicación cuando los referidos bienes tengan para el adquirente el carácter de bienes de cambio o constituyan el objetivo principal de la actividad gravada (alquiler, taxis, remises, viajantes de comercio y similares).
+
+(Punto sustituido por inc. b), art. 1° del Decreto N° 733/2001 B. O. 05/06/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto para las adquisiciones, locaciones o importaciones y para los gastos, efectuados a partir del 1° de junio de 2001, inclusive.)
+
+2. (Punto derogado por inc. c), art. 1° del Decreto N° 733/2001 B.O. 05/06/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto para las adquisiciones, locaciones o importaciones y para los gastos, efectuados a partir del 1° de junio de 2001, inclusive.)
+
+3. Las locaciones y prestaciones de servicios a que se refieren los puntos 1, 2, 3, 12, 13, 15 y 16 del inciso e) del artículo 3º.
+
+4. Las compras e importaciones definitivas de indumentaria que no sea ropa de trabajo y cualquier otro elemento vinculado a la indumentaria y al equipamiento del trabajador para uso exclusivo en el lugar de trabajo.
+
+Los adquirentes, importadores, locatarios o prestatarios que, en consecuencia de lo establecido en el párrafo anterior, no puedan computar crédito fiscal en relación a los bienes y operaciones respectivas tendrán el tratamiento correspondiente a consumidores finales.
+
+En ningún caso dará lugar a cómputo de crédito fiscal alguno el gravamen que se hubiere liquidado a los adquirentes de acuerdo con lo dispuesto en el Título V, salvo cuando se trate del caso previsto en el segundo párrafo del artículo 32 del referido Título.
+
+b) El gravamen que resulte de aplicar a los importes de los descuentos, bonificaciones, quitas, devoluciones o rescisiones que, respecto de los precios netos, se otorguen en el período fiscal por las ventas, locaciones y prestaciones de servicios y obras gravadas, la alícuota a la que dichas operaciones hubieran estado sujetas, siempre que aquellos estén de acuerdo con las costumbres de plaza, se facturen y contabilicen. A tales efectos rige la presunción establecida en el segundo párrafo "in fine" del artículo anterior.
+
+En todos los casos, el cómputo del crédito fiscal será procedente cuando la compra o importación definitiva de bienes, locaciones y prestaciones de servicios, gravadas, hubieren perfeccionado, respecto del vendedor, importador, locador o prestador de servicios, los respectivos hechos imponibles de acuerdo a lo previsto en los artículos 5º y 6º, excepto cuando dicho crédito provenga de las prestaciones a que se refiere el inciso d), del artículo 1º, en cuyo caso su cómputo procederá en el período fiscal inmediato siguiente a aquel en el que se perfeccionó el hecho imponible que lo origina.
+
+(Ultimo párrafo sustituido por inc. g), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+(Nota Infoleg: Régimen de Promoción de Inversiones - Por art. 4º, Título II de la Ley N° 23.871 se dispuso: El cómputo del crédito fiscal correspondiente a inversiones en bienes de uso efectuadas a partir del 31/10/1990, se regirá por las disposiciones de este artículo, no siendo de aplicación lo establecido en el artículo 51 de la presente ley.)
+
+ARTICULO 13 — Cuando las compras, importaciones definitivas, locaciones y prestaciones de servicios que den lugar al crédito fiscal, se destinen indistintamente a operaciones gravadas y a operaciones exentas o no gravadas y su apropiación a unas u otras no fuera posible, el cómputo respectivo sólo procederá respecto de la proporción correspondiente a las primeras, la que deberá ser estimada por el responsable aplicando las normas del artículo anterior.
+
+Las estimaciones efectuadas durante el ejercicio comercial o año calendario —según se trate de responsables que lleven anotaciones y practiquen balances comerciales o no cumplan con esos requisitos, respectivamente— deberán ajustarse al determinar el impuesto correspondiente al último mes del ejercicio comercial o año calendario considerado, teniendo en cuenta a tal efecto los montos de las operaciones gravadas y exentas y no gravadas realizadas durante su transcurso.
+
+La diferencia que surja del ajuste dispuesto en este artículo, al igual que el monto de las operaciones de cada un de los meses del ejercicio comercial o, en su caso, año calendario considerado, se actualizarán mediante la aplicación del índice mencionado en el artículo 47 referido, respectivamente, al mes en que se efectuó la estimación y a cada uno de ellos, de acuerdo con lo que indique la tabla elaborada por la DIRECCION GENERAL IMPOSITIVA para el mes al que corresponde imputar la diferencia determinada.
+
+En los casos en que las compras, importaciones definitivas, locaciones y prestaciones que otorgan derecho a crédito fiscal, sean destinadas parcialmente por responsables personas físicas a usos particulares y siempre que ello no implique el retiro a que se refiere el inciso b) del artículo 2º, tales responsables deberán estimar la proporción del crédito que no resulta computable en función de dichos usos, ajustando esa estimación en la oportunidad indicada en el segundo párrafo, tomando en cuenta la afectación real operada hasta ese momento.
+
+Si la restante proporción del crédito fiscal se hubiera computado totalmente en razón de vincularse a operaciones gravadas, las diferencias que surjan del ajuste indicado serán objeto del tratamiento dispuesto en el tercer párrafo. En cambio, si solo se hubiera computado parte de esa proporción por vincularse a operaciones gravadas y operaciones exentas o no gravadas, los resultados de ese ajuste deberán tomarse en cuenta al realizar el que debe practicarse de acuerdo con lo establecido en el segundo párrafo.
+
+ARTICULO 14 — Sin perjuicio de la aplicación de las normas referidas al crédito fiscal, previstas en los artículos 12 y 13, cuando el pago del precio respectivo no se efectivice dentro de los QUINCE (15) días posteriores a la fecha prevista en El último párrafo del primero de los artículos citados, su computo solo será procedente en el período fiscal en que se instrumente la obligación de pago respectiva mediante la suscripción de cheques de pago diferido, pagaré, facturas conformadas, letras de cambio o contratos de mutuo o, en su defecto, a partir de los CIENTO OCHENTA (180) días de la mencionada fecha.
+
+Facúltase al PODER EJECUTIVO NACIONAL, a dejar sin efecto la limitación precedente cuando razones de índole económica así lo aconsejen.
+
+(Nota Infoleg: Véase art. 4° de la Ley N° 24.452 B.O. 2/3/1995 que incorpora el art. 12 bis a la Ley N° 23.349, posteriormente derogado por art. 11 inc. a) de la Ley N° 24.760 e incorporado en el presente Texto Ordenado como art. 14)
+
+ARTICULO 15 — Quienes fueran responsables del gravamen al tiempo que produjeran sus efectos normas por las que se eliminaran exenciones o se establecieran nuevos actos gravados, no podrán computar el impuesto que les hubiera sido facturado como consecuencia de hechos imponibles verificados con anterioridad a la iniciación de tales efectos, por bienes involucrados en operaciones que resultaran gravadas en virtud de los mismos.
+
+ARTICULO 16 — Quienes asumieran la condición de responsables del gravamen en virtud de normas que derogaran exenciones o establecieran nuevos actos gravados, no podrán computar el impuesto que les hubiera sido facturado como consecuencia de hechos imponibles anteriores a la fecha en que aquellas produjeran efectos.
+
+ARTICULO 17 — Quienes fueran responsables del gravamen a la fecha en que produjeran sus efectos normas por las que se dispusieran exenciones o se excluyeran operaciones del ámbito del gravamen, no deberán reintegrar el impuesto que por los bienes en existencia a dicha fecha, hubieran computado oportunamente como crédito.
+
+HABITUALIDAD EN LA COMPRAVENTA DE BIENES USADOS
+
+A CONSUMIDORES FINALES
+
+ARTICULO 18 — Los responsables cuya actividad habitual sea la compra de bienes usados a consumidores finales para su posterior venta o la de sus partes, podrán computar como crédito de impuesto el importe que surja de aplicar sobre el precio total de su adquisición, el coeficiente que resulte de dividir la alícuota vigente a ese momento por la suma de CIEN (100) más dicha alícuota.
+
+El referido cómputo tendrá lugar siempre que el consumidor suscriba un documento que, para estos casos, sustituirá el empleo de la factura y en el que deberá individualizarse correctamente la operación, de acuerdo a los requisitos y formalidades que al respecto establezca la DIRECCION GENERAL IMPOSITIVA.
+
+En ningún caso el crédito de impuesto a computar, conforme a lo establecido en el presente artículo, podrá exceder el importe que resulte de aplicar la aludida alícuota sobre el NOVENTA POR CIENTO (90 %) del precio neto en que el revendedor efectúe la venta.
+
+Cuando por aplicación de las disposiciones del párrafo anterior se determine un excedente en el crédito fiscal oportunamente computado, dicha diferencia integrará el débito fiscal del mes al que corresponda la operación de venta que le dio origen.
+
+MERCADOS DE CEREALES A TERMINO
+
+ARTICULO 19 — Los mercados de cereales a término serán tenidos por adquirentes y vendedores de los bienes que en definitiva se comercialicen como consecuencia de las operaciones registradas en los mismos.
+
+En ambos supuestos, para la aplicación del gravamen se considerará como valor computable el precio de ajuste tomado como base para el cálculo de las diferencias que correspondiere liquidar respecto del precio pactado y de los descuentos, quitas o bonificaciones que se practiquen, conceptos que se sumarán o restarán, según corresponda, del aludido precio de ajuste, a efectos de establecer el precio neto de la operación.
+
+(Tercer párrafo derogado por art. 1°, inciso a), punto 2 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+En todo lo que no se oponga a lo previsto en este artículo, serán de aplicación las restantes disposiciones de la ley y su decreto reglamentario.
+
+COMISIONISTAS O CONSIGNATARIOS
+
+ARTICULO 20 — Quienes vendan en nombre propio bienes de terceros —comisionistas, consignatarios u otros—, considerarán valor de venta para tales operaciones el facturado a los compradores, siendo de aplicación a tal efecto las disposiciones del artículo 10. El crédito de impuesto que como adquirentes les corresponda, se computará aplicando la pertinente alícuota sobre el valor neto liquidado al comitente, quien será considerado vendedor por dicho importe, salvo que este último fuese un responsable no inscripto, en cuyo caso no habrá lugar a dicho crédito.
+
+Para el cómputo de los valores referidos no se considerará el impuesto de esta ley.
+
+Serán tenidos por vendedores de los bienes entregados a su comitente, quienes compren bienes en nombre propio por cuenta de éste, considerándose valor de venta el total facturado al comitente y aplicándose a tales efectos las disposiciones del artículo 10. Su crédito de impuesto por la compra se computará de conformidad con lo dispuesto en el artículo 12.
+
+En ambos casos son de aplicación las demás disposiciones referidas al cómputo del crédito fiscal que no se opusieran a lo previsto en el presente artículo.
+
+INTERMEDIARIOS QUE ACTUEN POR CUENTA Y EN NOMBRE DE TERCEROS
+
+ARTICULO 21 — Cuando los intermediarios que actúen por cuenta y en nombre de terceros, efectúen a nombre propio gastos reembolsables por estos últimos que respondan a transacciones gravadas y no beneficiadas por exenciones, deben incluir a dichos gastos en el precio neto de la operación a que se refiere el artículo 10, facturando en forma discriminada los demás gastos reembolsables que hubieran realizado. Asimismo, a fin de determinar el impuesto a su cargo computarán el crédito fiscal que aquellas transacciones originen, con arreglo a lo dispuesto en el artículo 12.
+
+En el supuesto previsto en el párrafo precedente, los responsables inscriptos que encomendaron la intermediación, computarán, de acuerdo con lo dispuesto en el artículo citado en último término en dicho párrafo, el importe discriminado en la factura o documento equivalente en concepto de impuesto de la presente Ley.
+
+SERVICIOS DE TURISMO
+
+ARTICULO 22 — Cuando los responsables que presten servicios de turismo proporcionen a los usuarios de tales servicios, cosas muebles que provean en el extranjero empresas o personas domiciliadas, residentes o radicadas en el exterior y/o prestaciones o locaciones efectuadas fuera del territorio nacional, deben considerar como precio neto de tales operaciones el determinado con arreglo a lo dispuesto en el artículo 10, menos el costo neto de las cosas, prestaciones y locaciones antes indicadas y el de los pasajes al exterior o, en su caso, la fracción del pasaje que corresponda al transporte desde el país al extranjero, importe que se discriminará globalmente en la factura como "bienes y servicios no computables para la determinación del impuesto al valor agregado".
+
+Cuando no se efectúe dicha discriminación, el impuesto se calculará sobre el total de la contraprestación, determinada según lo dispuesto en el ya citado artículo 10.
+
+Cuando los servicios incluyan boletos de pasaje exentos -en virtud del artículo 7º, inciso h), apartado 12- el importe de tales boletos será igualmente deducible de la base imponible a condición de su explícita discriminación en la factura que se extienda por tales servicios.
+
+REGIMEN ESPECIAL
+
+ARTICULO 23 — Cuando la contraprestación por hechos imponibles previstos en el inciso a) del artículo 3º comprenda una concesión de explotación, la base imponible para la determinación del débito fiscal será la suma de ingresos que perciba el concesionario, ya sea en forma directa o con motivo de la explotación, siendo de aplicación las exclusiones que al concepto de precio neto gravado se instituyen en esta ley.
+
+En el supuesto contemplado en este artículo, el nacimiento del hecho imponible se configurará en el momento de las respectivas percepciones y a los fines de la liquidación del gravamen también resultará computable el crédito fiscal emergente de compras, importaciones definitivas, locaciones y prestaciones de servicios, vinculadas a la explotación, en la medida en que se opere tal vinculación. Dicho cómputo estará sujeto a las disposiciones que rigen el crédito fiscal.
+
+Si los aludidos ingresos procedieran de actividades exentas o no alcanzadas por el impuesto, el débito fiscal resultante de la referida liquidación especial no podrá ser trasladado al precio de los bienes o servicios derivados de la explotación, debiendo en estos casos tenerse en cuenta tal circunstancia en la determinación de los costos, plazos y demás condiciones inherentes al otorgamiento de la concesión. Cuando la exención o no sujeción contemplada en este párrafo tenga un alcance parcial, el tratamiento previsto será aplicable en la medida que corresponda.
+
+En el caso que los ingresos procedentes de la explotación constituyan para el concesionario otros hechos gravados, la liquidación practicada según los párrafos anteriores sustituirá a la prevista para estos últimos. De estar estos últimos sujetos a una alícuota distinta a la de los hechos imponibles motivo de la referida liquidación especial, ésta deberá practicarse utilizando la mayor de las alícuotas.
+
+Si la diferencia de alícuotas señaladas en el párrafo anterior sólo se diera parcialmente y la mayor correspondiera a determinadas ventas o prestaciones derivadas de la explotación, la misma recaerá sobre los ingresos atribuibles a dichas operaciones, siendo de aplicación para el resto de la liquidación la alícuota común a ambos hechos imponibles. Asimismo, cuando los bienes o servicios derivados de la explotación estén alcanzados, total o parcialmente, por una alícuota inferior a la que debe utilizarse en la liquidación especial, la diferencia resultante no podrá ser trasladada a sus precios, siéndole de aplicación a la misma las previsiones señaladas para el caso de actividades exentas o no alcanzadas por el impuesto a los efectos del otorgamiento de la concesión.
+
+SALDOS A FAVOR
+
+ARTICULO 24 — El saldo a favor del contribuyente que resultare por aplicación de lo dispuesto en los artículos precedentes —incluido el que provenga del cómputo de créditos fiscales originados por importaciones definitivas— sólo deberá aplicarse a los débitos fiscales correspondientes a los ejercicios fiscales siguientes. Los herederos y legatarios a que se refiere el inciso a) del artículo 4º tendrán derecho al cómputo en la proporción respectiva, de los saldos determinados por el administrador de la sucesión o el albacea, en la declaración jurada correspondiente al último período fiscal vencido inmediato anterior al de la aprobación de la cuenta particionaria.
+
+La disposición precedente no se aplicará a los saldos de impuesto a favor del contribuyente emergentes de ingresos directos, los que podrán ser objeto de las compensaciones y acreditaciones previstas por los artículos 35 y 36 de la Ley Nº 11.683 texto ordenado en 1978 y sus modificaciones, o en su defecto, le será devuelto o se permitirá su transferencia a terceros responsables en los términos del segundo párrafo del citado artículo 36.
+
+Los saldos a favor a que se refiere el primer párrafo del presente artículo, se actualizarán automáticamente a partir del ejercicio fiscal en que se originen y hasta el ejercicio fiscal al que correspondan las operaciones que generen los débitos fiscales que los absorban.
+
+ARTÍCULO ...- Los créditos fiscales originados en la compra, construcción, fabricación, elaboración o importación definitiva de bienes de uso —excepto automóviles— que, luego de transcurridos seis (6) períodos fiscales consecutivos, contados a partir de aquél en que resultó procedente su cómputo, conformaren el saldo a favor de los responsables, a que se refiere el primer párrafo del artículo 24, les serán devueltos de conformidad con lo dispuesto seguidamente, en la forma, plazos y condiciones que a tal efecto dispongan las normas reglamentarias que se dicten.
+
+También podrá accederse a la devolución en los términos previstos en este artículo, con respecto al impuesto que hubiera sido facturado a los solicitantes originado en las operaciones antes mencionadas, en la medida en que los referidos bienes se destinen a exportaciones, actividades, operaciones y/o prestaciones que reciban igual tratamiento a ellas. En tales casos, el plazo indicado en el párrafo anterior se contará a partir del período fiscal en que se hayan realizado las inversiones.
+
+No será de aplicación el régimen establecido en este artículo cuando, al momento de la solicitud de devolución, los bienes de uso no integren el patrimonio de los contribuyentes, excepto cuando hubiere mediado caso fortuito o fuerza mayor —tales como- en casos de incendios, tempestades u otros accidentes o siniestros—, debidamente probado.
+
+Los bienes de uso comprendidos en este régimen son aquellos que revisten la calidad de bienes susceptibles de amortización para el impuesto a las ganancias.
+
+Cuando los referidos bienes se adquieran por leasing, los créditos fiscales correspondientes a los cánones y. a la opción de compra, sólo podrán computarse a los efectos de la devolución prevista en este régimen, luego de transcurridos seis (6) períodos fiscales contados a partir de aquél en que se haya ejercido la citada opción, excepto en aquellos contratos que, conforme a la normativa vigente, sean asimilados a operaciones de compraventa para la determinación del impuesto a las ganancias, en cuyo caso el referido plazo se computará en el modo indicado en el primer párrafo de este artículo. En este último supuesto, de no verificarse el ejercicio de la opción de compra, deberán reintegrarse las sumas oportunamente obtenidas en devolución, en la forma y plazo que disponga la reglamentación.
+
+A efecto de lo dispuesto en este artículo, el impuesto al valor agregado correspondiente a las compras, construcción, fabricación, elaboración y/o importación definitiva de bienes, se imputará contra los débitos fiscales una vez computados los restantes créditos fiscales relacionados con la actividad gravada.
+
+Sin perjuicio de las posteriores acciones de verificación, fiscalización y determinación que pueda desarrollar la Administración Federal de Ingresos Públicos, la devolución que se regula en este artículo tendrá para el responsable carácter definitivo en la medida y en tanto las sumas devueltas tengan aplicación en:
+
+(i) Respecto de las operaciones gravadas por el impuesto en el mercado interno, los importes efectivamente ingresados resultantes de las diferencias entre los débitos y los restantes créditos fiscales generados como sujeto pasivo del gravamen, y
+
+(ii) Respecto de las exportaciones, actividades, operaciones y/o prestaciones que reciban igual tratamiento a. ellas, los importes que hubieran tenido derecho a recuperar conforme a lo previsto en el artículo 43 por los bienes que motivaron la devolución regulada en este artículo, si ésta no hubiera sido solicitada.
+
+Si transcurridos sesenta (60) períodos fiscales contados desde el inmediato siguiente al de la devolución, las sumas percibidas no hubieran tenido la aplicación mencionada precedentemente, el responsable deberá restituir el excedente no aplicado en la forma y plazos que disponga la reglamentación, con más los intereses correspondientes. De igual modo se procederá si, con anterioridad al referido plazo, se produjera el cese definitivo de actividades, disolución o reorganización empresaria —esta última, siempre que no fuera en los términos del artículo 77 de la Ley de Impuesto a las Ganancias, texto ordenado en 1997 y sus modificaciones.
+
+En los casos contemplados por el párrafo anterior, el incumplimiento de la obligación de restituir será resuelto mediante acto fundado por la Administración Federal de Ingresos Públicos y no corresponderá, respecto de los sujetos comprendidos, el trámite establecido por el artículo 16 de la ley 11.683 (t.o. 1998) y sus modificaciones, sino que la determinación de la deuda-quedará ejecutoriada con la simple intimación de pago del impuesto y sus accesorios por parte de la referida Administración Federal, sin necesidad de otra sustanciación.
+
+La Administración Federal de Ingresos Públicos podrá exigir los libros o registros especiales que estime pertinentes para la instrumentación del procedimiento dispuesto en los párrafos que anteceden.
+
+La devolución prevista en este artículo no podrá realizarse cuando los créditos fiscales o el impuesto facturado que la motivó hayan sido objeto de tratamientos diferenciales dispuestos en esta ley o en otras normas, sin que pueda solicitarse el acogimiento a otra disposición que consagre un tratamiento de ese tipo para tales conceptos cuando se haya solicitado la devolución que aquí se regula.
+
+El incumplimiento de las obligaciones que se dispongan en el marco de este régimen dará lugar, sin perjuicio de lo dispuesto en la ley 11.683, texto ordenado en 1998 y sus modificaciones, a la aplicación de una multa de hasta el cien por ciento (100%) de las sumas obtenidas en devolución que no hayan tenido aplicación mediante el procedimiento regulado en el presente artículo.
+
+No podrán acogerse al tratamiento dispuesto por el presente régimen, quienes se hallen en alguna de las siguientes situaciones:
+
+a) Declarados en estado de quiebra, respecto de los cuales no se haya dispuesto la continuidad de la explotación, conforme a lo establecido en la normativa vigente.
+
+b) Querellados o denunciados penalmente por la entonces Dirección General Impositiva, dependiente de la Secretaría de Hacienda del entonces Ministerio de Economía y Obras y Servicios Públicos, o la Administración Federal de Ingresos Públicos con fundamento en las leyes 23.771 y sus modificaciones o 24.769, según corresponda, a cuyo respecto se haya formulado el correspondiente requerimiento fiscal de elevación a juicio antes de efectuarse la solicitud de devolución.
+
+c) Denunciados formalmente, o querellados penalmente por delitos comunes que tengan conexión con el incumplimiento de sus obligaciones tributarias o la de terceros, a. cuyo respecto se haya formulado el correspondiente requerimiento fiscal de elevación a juicio antes de efectuarse la solicitud de devolución.
+
+d) Las personas jurídicas —incluidas las cooperativas— en las que, según corresponda, sus socios, administradores, directores, síndicos, miembros del consejo de vigilancia, consejeros o quienes ocupen cargos equivalentes, hayan sido denunciados formalmente o querellados penalmente por delitos comunes que tengan conexión con el incumplimiento de sus obligaciones tributarias o la de terceros, a cuyo respecto se haya formulado el correspondiente requerimiento fiscal de elevación a juicio antes de efectuarse la solicitud de devolución.
+
+El acaecimiento de cualquiera de las circunstancias mencionadas en el párrafo anterior, producido con posterioridad a efectuarse la solicitud de devolución, dará lugar a su rechazo. Cuando ellas ocurran luego de haberse efectuado la devolución prevista en este artículo, producirá la caducidad total del tratamiento acordado.
+
+(Primer artículo sin número a continuación del artículo 24 incorporado por art. 92 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+ARTÍCULO ...- Los sujetos que desarrollen actividades que califiquen como servicios públicos cuya tarifa se vea reducida por el otorgamiento de sumas en concepto de subsidios, compensación tarifaría y/o fondos por asistencia económica, efectuados por parte del Estado Nacional en forma directa o a través de fideicomisos o fondos constituidos a ese efecto, tendrán derecho al tratamiento previsto en el artículo 43 de esta ley, respecto del saldo acumulado a que se refiere el primer párrafo del artículo 24, con las condiciones que se disponen en los párrafos siguientes.
+
+El tratamiento establecido en el párrafo anterior resultará procedente siempre que el referido saldo se encuentre originado en los créditos fiscales que se facturen por la compra, fabricación, elaboración, o importación definitiva de bienes —excepto automóviles—, y por las locaciones de obras y/o servicios —incluidas las prestaciones a que se refieren el inciso d) del artículo 1° y el artículo sin número incorporado a continuación del artículo 4° de la ley—, que se hayan destinado efectivamente .a operaciones perfeccionadas en el desarrollo de su actividad y por la que se reciben las sumas a que se alude en el párrafo precedente.
+
+El tratamiento se aplicará hasta el límite que surja de detraer del saldo a favor originado en las referidas operaciones, el saldo a favor que se habría determinado si el importe percibido en concepto de subsidios, compensación tarifaria y/o fondos por asistencia económica hubiera estado alcanzado por la alícuota aplicable a la tarifa correspondiente.
+
+En el caso de que se conceda la acreditación contra otros impuestos, ésta no podrá realizarse contra obligaciones derivadas de la responsabilidad sustitutiva o solidaria por deudas de terceros, o de la actuación del beneficiario como agente de retención o de percepción. Tampoco será aplicable dicha acreditación contra gravámenes con destino exclusivo al financiamiento de fondos con afectación específica o de los recursos de la seguridad social.
+
+El tratamiento previsto en el primer párrafo de este artículo no podrá concederse cuando los referidos créditos fiscales hayan sido objeto de tratamientos diferenciales dispuestos en esta ley o en otras normas, sin que pueda solicitarse el acogimiento a otra disposición que consagre un tratamiento de este tipo para tales conceptos cuando se haya solicitado el que aquí se regula.
+
+Tampoco podrán acceder a este tratamiento quienes se encuentren en algunas de las situaciones detalladas en el anteúltimo párrafo del artículo anterior, siendo también de aplicación lo previsto en el último párrafo del mismo artículo.
+
+Este régimen operará con un límite máximo anual —cuyo monto será determinado de conformidad con las condiciones generales imperantes en materia de ingresos presupuestarios— y un mecanismo de asignación que establecerá la reglamentación.
+
+(Segundo artículo sin número a continuación del artículo 24 incorporado por art. 93 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+ARTÍCULO ...- Los sujetos cuya actividad sea la prestación de servicios de radiodifusión televisiva abierta o por suscripción mediante vínculo físico y/o radioeléctrico, de radiodifusión sonora, señales cerradas de televisión, las empresas editoras de diarios, revistas, publicaciones periódicas o ediciones periodísticas digitales de información en línea y los distribuidores de esas empresas editoras, podrán computar como crédito fiscal del gravamen, las contribuciones patronales sobre la nómina salarial del personal afectado a dichas actividades, devengadas en el período fiscal y efectivamente abonadas al momento de presentación de la declaración jurada del tributo, establecidas en el artículo 2º del Decreto 814 del 20 de junio de 2001 y sus modificaciones, en el monto que exceda al que corresponda computar de acuerdo con lo dispuesto en el segundo párrafo del inciso d) del artículo 173 de la ley 27.430. En el supuesto que el ingreso de ese monto se realice con posterioridad al momento indicado, se podrá computar en la declaración jurada correspondiente al período fiscal en que se hubiera efectuado el pago de las contribuciones.
+
+A los efectos previstos en este artículo, no resultará de aplicación lo dispuesto en el artículo 13 de esta ley. No obstante, cuando las remuneraciones que originen las contribuciones patronales susceptibles de ser computadas como crédito fiscal, en virtud de lo establecido precedentemente, se relacionen en forma indistinta con otras actividades no comprendidas en el párrafo anterior, los importes de tales contribuciones estarán sujetos al procedimiento indicado en el artículo 13, al sólo efecto de determinar la proporción atribuible a las comprendidas en este artículo.
+
+Los montos de las referidas contribuciones patronales deberán computarse como crédito fiscal en el impuesto al valor agregado hasta el monto del débito fiscal del período de que se trate, antes de computar los restantes créditos fiscales que correspondieren, no pudiendo generar saldo a favor del contribuyente a que se refiere el primer párrafo del artículo 24 de esta ley. Tampoco serán deducibles a los efectos de la determinación del Impuesto a las Ganancias.
+
+(Tercer artículo sin número a continuación del artículo 24 incorporado por art. 91 de la Ley N° 27.467 B.O. 4/12/2018, con efecto para los importes cuyo derecho a cómputo se genere a partir del 1° de enero de 2019, inclusive)
+
+DETERMINACION DE LA BASE DE IMPOSICION
+
+EN IMPORTACIONES
+
+ARTICULO 25 — En el caso de importaciones definitivas, la alícuota se aplicará sobre el precio normal definido para la aplicación de los derechos de importación al que se agregarán todos los tributos a la importación, o con motivo de ella.
+
+ARTICULO 26 — No corresponderá el ingreso del gravamen cuando se trate de reimportación definitiva de cosas muebles a las que les fuera aplicable la exención de derechos de importación y demás tributos prevista en el artículo 566 del Código Aduanero, aprobado por Ley Nº 22.415.
+
+En tal caso el monto que se hubiere reintegrado en concepto del presente impuesto a raíz de la reimportación será computable como crédito de impuesto en la declaración correspondiente al ejercicio fiscal de la reimportación, en la medida que lo permitan las normas que rigen el crédito fiscal.
+
+ARTÍCULO ...- En el caso de las prestaciones a que se refieren los incisos d) y e) del artículo 1°, la alícuota se aplicará sobre el precio neto de la operación que resulte de la factura o documento equivalente extendido por el prestador del exterior, siendo de aplicación en estas circunstancias las disposiciones previstas en el primer párrafo del artículo 10.
+
+(Artículo sin número agregado a continuación del artículo 26 sustituido por art. 94 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+PERIODO FISCAL DE LIQUIDACION
+
+ARTICULO 27 — El impuesto resultante por aplicación de los artículos 11 a 24 se liquidará y abonará por mes calendario sobre la base de declaración jurada efectuada en formulario oficial.
+
+Lo dispuesto en el párrafo anterior, no será de aplicación para los sujetos que desarrollen las actividades y en las condiciones que determine el Poder Ejecutivo Nacional, en cuyo caso liquidarán e ingresarán el gravamen resultante por período fiscal anual.
+
+Cuando se trate de responsables cuyas operaciones correspondan exclusivamente a la actividad agropecuaria, los mismos podrán optar por practicar la liquidación en forma mensual y el pago por ejercicio comercial si se llevan anotaciones y se practican balances comerciales anuales y por año calendario cuando no se den las citadas circunstancias. Adoptado el procedimiento dispuesto en este párrafo, el mismo no podrá ser variado hasta después de transcurridos tres (3) ejercicios fiscales, incluido aquel en que se hubiere hecho la opción, cuyo ejercicio y desistimiento deberá ser comunicado a la Administración Federal de Ingresos Públicos en el plazo, forma y condiciones que dicho organismo establezca. Los contribuyentes que realicen la opción de pago anual estarán exceptuados del pago del anticipo.
+
+En el caso de importaciones definitivas, el impuesto se liquidará y abonará juntamente con la liquidación y pago de los derechos de importación.
+
+En los casos y en la forma que disponga la citada Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía y Obras y Servicios Públicos, la percepción del impuesto también podrá realizarse mediante la retención o percepción en la fuente. Asimismo, el citado Organismo, con relación a los sujetos indicados en el segundo párrafo, podrá exigir el ingreso de importes a cuenta del tributo que en definitiva correspondiere de acuerdo con lo establecido en el artículo 21 de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones.
+
+(Artículo sustituido por inc. g), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley —01/01/2000—.)
+
+ARTÍCULO ...- El impuesto resultante de la aplicación de las disposiciones previstas en el inciso e) del artículo 1°, será ingresado por el prestatario. De mediar un intermediario que intervenga en el pago, éste asumirá el carácter de agente de percepción.
+
+El impuesto deberá liquidarse y abonarse en la forma, plazos y condiciones que establezca la Administración Federal de Ingresos Públicos.
+
+(Artículo sin número a continuación del artículo 27 incorporado por art. 95 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+
+TITULO IV
+
+TASAS
+
+ARTICULO 28 — La alícuota del impuesto será del veintiuno por ciento (21%).
+
+(Nota Infoleg: Por art. 1° del Decreto N° 2312/2002 B.O. 15/11/2002 se establece la alícuota en un diecinueve por ciento (19%) para los hechos imponibles que se perfeccionen a partir del 18 de noviembre de 2002 y hasta el 17 de enero de 2003, ambas fechas, inclusive.)
+
+Esta alícuota se incrementará al veintisiete por ciento (27%) para las ventas de gas, energía eléctrica y aguas reguladas por medidor y demás prestaciones comprendidas en los puntos 4, 5 y 6, del inciso e) del artículo 3º, cuando la venta o prestación se efectúe fuera de domicilios destinados exclusivamente a vivienda o casa de recreo o veraneo o en su caso, terrenos baldíos y el comprador o usuario sea un sujeto categorizado en este impuesto como responsable inscripto o se trate de sujetos que optaron por el Régimen Simplificado para pequeños contribuyentes. (Expresión " o como responsable no inscripto" derogada por art. 1°, inciso a), punto 3 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+Facúltase al Poder Ejecutivo para reducir hasta en un veinticinco por ciento (25%) las alícuotas establecidas en los párrafos anteriores.
+
+Estarán alcanzados por una alícuota equivalente al cincuenta por ciento (50%) de la establecida en el primer párrafo:
+
+(Nota Infoleg: Por art. 1º del Decreto N° 2312/2002 B.O. 15/11/2002 se aclara que para los hechos imponibles que se perfeccionen a partir del 18 de noviembre de 2002 y hasta el 17 de enero de 2003, ambas fechas, inclusive, se calcula el 50% de la alícuota reducida al 19%).
+
+a) Las ventas, las locaciones del inciso d) del artículo 3º y las importaciones definitivas de los siguientes bienes:
+
+1.- Animales vivos de las especies aviar y cunícula y de ganados bovinos, ovinos, porcinos, camélidos y caprinos, incluidos los convenios de capitalización de hacienda cuando corresponda liquidar el gravamen. (Punto sustituido por art. 96 de la Ley N° 27.430 B.O. 29/12/2017. Vigencia: el día siguiente al de su publicación en el Boletín Oficial y surtirán efecto de conformidad con lo previsto en cada uno de los Títulos que la componen. Ver art. 97 de la Ley de referencia)
+
+2.- Carnes y despojos comestibles de los animales mencionados en el punto anterior, frescos, refrigerados o congelados que no hayan sido sometidos a procesos que impliquen una verdadera cocción o elaboración que los constituya en un preparado del producto. (Punto sustituido por art. 1° de la Ley N° 25.951 B.O. 29/11/2004. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial).
+
+3. Frutas, legumbres y hortalizas, frescas, refrigeradas o congeladas, que no hayan sido sometidas a procesos que impliquen una verdadera cocción o elaboración que los constituya en un preparado del producto.
+
+4. Miel de abejas a granel. (Punto incorporado por art. 1º de la Ley Nº 25.525 B.O. 09/01/2002.)
+
+5. Granos —cereales y oleaginosos, excluido arroz— y legumbres secas —porotos, arvejas y lentejas—. (Punto incorporado por art. 1º inc. b) de la Ley Nº 25.717 B.O. 10/01/2003. Vigencia: a partir del día de su publicación en el Boletín Oficial.)
+
+6. Harina de trigo, comprendida en la Partida 11.01 de la Nomenclatura Común del Mercosur (NCM). (Punto incorporado por art. 2° de la Ley N° 26.151 B.O. 25/10/2006. Vigencia: a partir del primer día del mes siguiente al de su publicación en el Boletín Oficial de la Nación.)
+
+7. - Pan, galletas, facturas de panadería y/o pastelería y galletitas y bizcochos, elaborados exclusivamente con harina de trigo, sin envasar previamente para su comercialización, comprendidos en los artículos 726, 727, 755, 757 y 760 del Código Alimentario Argentino. (Punto incorporado por art. 3° de la Ley N° 26.151 B.O. 25/10/2006. Vigencia: a partir del primer día del mes siguiente al de su publicación en el Boletín Oficial de la Nación.)
+
+8. Residuos sólidos resultantes de la extracción industrial de aceite de soja, definidos en la Norma XIX de la Resolución 1075 del 12 de diciembre de 1994 de la ex Secretaria de Agricultura, Ganaderia y Pesca, sus modificatorias y complementarias, como así también cualquier otro residuo o producto sólido resultante del procesamiento industrial del grano de soja, en ambos casos, cualquiera fuere su forma comercial (expellers, pellets, tortas, harinas, granulado, etc.). (Punto incorporado por art. 95 de la Ley N° 27.467 B.O. 4/12/2018, con efectos para los hechos imponibles que se perfeccionen a partir del 1° de enero de 2019, inclusive)
+
+9. Granos de soja desnaturalizados, desactivados, tostados, quebrados, cualquier producto originado del cernido y limpieza obtenido de los granos de soja, cáscara o cascarilla de soja, cualquier tipo de mezcla de los productos citados precedentemente, cualquiera fuere su forma comercial. (Punto incorporado por art. 95 de la Ley N° 27.467 B.O. 4/12/2018, con efectos para los hechos imponibles que se perfeccionen a partir del 1° de enero de 2019, inclusive)
+
+"...) Las ventas, las locaciones del inciso d) del artículo 3° y las importaciones definitivas de cuero bovino fresco o salado, seco, encalado, piquelado o conservado de otro modo pero sin curtir, apergaminar ni preparar de otra forma, incluso depilado o dividido, comprendidos en las posiciones arancelarias de la Nomenclatura Común del MERCOSUR, 4101.10.00, 4101.21.10, 4101.21.20, 4101.21.30, 4101.22.10, 4101.22.20, 4101.22.30, 4101.29.10, 4101.29.20, 4101.29.30, 4101.30.10, 4101.30.20 y 4101.30.30. (Inciso sin número a continuación del inciso a) incorporado por art. 1º inc. c) de la Ley Nº 25.717 B.O. 10/01/2003. Vigencia: a partir del día de su publicación en el Boletín Oficial.)
+
+b) Las siguientes obras, locaciones y prestaciones de servicios vinculadas con la obtención de bienes comprendidos en los puntos 1, 3 y 5 del inciso a):
+
+1. Labores culturales —preparación, roturación, etcétera, del suelo—.
+
+2. Siembra y/o plantación.
+
+3. Aplicaciones de agroquímicos.
+
+4. Fertilizantes su aplicación.
+
+5. Cosecha.
+
+(Inciso sustituido por art. 1º inc. d) de la Ley Nº 25.717 B.O. 10/01/2003. Vigencia: a partir del día de su publicación en el Boletín Oficial.)
+
+c) Los hechos imponibles previstos en el inciso a) del artículo 3º destinados a vivienda, excluidos los realizados sobre construcciones preexistentes que no constituyan obras en curso y los hechos imponibles previstos en el inciso b) del artículo 3º destinados a vivienda;
+
+d) Los intereses y comisiones de préstamos otorgados por las entidades regidas por la ley 21.526, cuando los tomadores revistan la calidad de responsables inscriptos en el impuesto y las prestaciones financieras comprendidas en el inciso d) del artículo 1º, cuando correspondan a préstamos otorgados por entidades bancarias radicadas en países en los que sus bancos centrales u organismos equivalentes hayan adoptado los estándares internacionales de supervisión bancaria establecidos por el Comité de Bancos de Basilea.
+
+e) Las ventas, las locaciones del inciso c) del artículo 3º y las importaciones definitivas, que tengan por objeto los bienes comprendidos en las posiciones arancelarias de la Nomenclatura Común del MERCOSUR —con las excepciones previstas para determinados casos—, incluidos en la Planilla Anexa al presente inciso.
+
+Los fabricantes o importadores de los bienes a que se refiere el párrafo anterior, tendrán el tratamiento previsto en el artículo 43 respecto del saldo a favor que pudiere originarse, con motivo de la realización de los mismos, por el cómputo del crédito fiscal por compra o importaciones de bienes, prestaciones de servicios y locaciones que destinaren efectivamente a la fabricación o importación de dichos bienes o a cualquier etapa en la consecución de las mismas.
+
+El tratamiento previsto en el párrafo anterior se aplicará hasta el límite que surja de detraer del saldo a favor de la operación, el saldo a favor que se habría determinado si se hubieran generado los débitos fiscales utilizando la alícuota establecida en el primer párrafo de este artículo
+
+A los fines de efectivizar el beneficio previsto en el segundo párrafo de este inciso, las solicitudes se tramitarán conforme a los registros y certificaciones que establecerá la SECRETARIA DE INDUSTRIA, dependiente del MINISTERIO DE ECONOMIA, respecto de la condición de fabricantes o importadores de los bienes sujetos al beneficio y los costos límites para la atribución de los créditos fiscales de cada uno de ellos, así como a los dictámenes profesionales cuya presentación disponga la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, respecto a la existencia y legitimidad de los débitos y créditos fiscales relacionados con el citado beneficio. Facúltase a los citados organismos para establecer los requisitos, plazos y condiciones para la instrumentación del procedimiento dispuesto. (Párrafo incorporado por inc. d), art. 1° del Decreto N° 733/2001 B.O. 05/06/2001. Vigencia: a partir del día de su publicación en Boletín Oficial y surtirá efecto a partir de la referida entrada en vigencia.)
+
+Ver Planilla Anexa al inciso e) del artículo 28 (Sustituida por art. 13 del Decreto N° 509/2007 B.O. 23/5/2007. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial, texto según Decreto N° 820/2007 B.O. 29/6/2007. Vigencia: comenzará a regir en la fecha de entrada en vigencia del Decreto N° 509/2007)
+
+(Inciso sustituido por art. 1° pto. e) del Decreto N° 615/2001 B.O. 14/05/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+f) Las ventas, las locaciones del inciso c) del artículo 3° y las importaciones definitivas, que tengan por objeto los bienes comprendidos en las posiciones arancelarias de la Nomenclatura Común del MERCOSUR, incluidas en la planilla anexa al presente inciso.
+
+Ver Planilla Anexa al inciso f) del artículo 28 (Sustituida por art. 14 del Decreto N° 509/2007 B.O. 23/5/2007. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial.)
+
+(Inciso incorporado por art. 1° del Decreto N° 1159/2001 B.O. 11/09/2001. Vigencia: a partir del día de su publicación en el Boletín Oficial (11/9/2001). Surtirá efecto para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente al de dicha publicación, inclusive (1/10/2001).)
+
+g) (Inciso derogado por art. 1° inc. b) de la Ley N° 26.982 B.O. 29/9/2014. Vigencia: el día de su publicación en el Boletín Oficial y surtirán efecto para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente al de dicha publicación)
+
+h) Los servicios de taxímetros, remises con chofer y todos los demás servicios de transporte de pasajeros, terrestres, acuáticos o aéreos, realizados en el país, no alcanzados por la exención dispuesta por el punto 12. del inciso h) del artículo 7º.
+
+Lo dispuesto precedentemente también comprende a los servicios de carga del equipaje conducido por el propio viajero y cuyo transporte se encuentre incluido en el precio del pasaje.
+
+(Inciso incorporado por inc. h), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley —01/01/2000—.)
+
+i) Los servicios de asistencia sanitaria médica y paramédica a que se refiere el primer párrafo del punto 7, del inciso h), del artículo 7º, que brinden o contraten las cooperativas, las entidades mutuales y los sistemas de medicina prepaga, que no resulten exentos conforme a lo dispuesto en dicha norma. (Inciso incorporado por inc. i), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley —01/01/2000—.)
+
+j) Las ventas, obras, locaciones y prestaciones de servicio efectuadas por las Cooperativas de Trabajo, promocionadas e inscriptas, en el Registro Nacional de Efectores de Desarrollo Local y Economía Social del Ministerio de Desarrollo Social, cuando el comprador, locatario o prestatario sea el Estado nacional, las provincias, las municipalidades o la Ciudad Autónoma de Buenos Aires, sus respectivas reparticiones y entes centralizados o descentralizados, excluidos las entidades y Organismos comprendidos en el artículo 1° de la ley 22.016. (Inciso incorporado por art. 1°, inciso b) de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+k) Las ventas de propano, butano y gas licuado de petróleo, su importación y las locaciones del inciso c) del artículo 3º de la presente ley, para la elaboración por cuenta de terceros. (Inciso incorporado por la Ley N° 26.020 B.O. 8/4/2005)
+
+1) Las ventas, las locaciones del inciso c) del artículo 3º y las importaciones definitivas que tengan por objeto los fertilizantes químicos para uso agrícola.
+
+Los fabricantes o importadores de los bienes a que se refiere el párrafo anterior tendrán el tratamiento previsto en los párrafos segundo, tercero y cuarto del inciso e) precedente, respecto del saldo a favor que pudiere originarse con motivo de la realización de los mismos, por el cómputo del crédito fiscal por compra o importaciones de bienes, prestaciones de servicios y locaciones que se destinaren efectivamente a la fabricación o importación de dichos bienes o a cualquier etapa en la consecución de las mismas, siendo la Secretaría de Agricultura, Ganadería, Pesca y Alimentos del Ministerio de Economía y Producción la que deberá tomar la intervención que le compete a efectos de lo dispuesto en el citado cuarto párrafo.
+
+Facúltase a la Administración Federal de Ingresos Públicos para establecer un procedimiento optativo de determinación estimativa, con ajuste anual, del monto de la devolución. (Punto incorporado por art. 1° de la Ley N° 26.050 B.O. 31/8/2005. Vigencia: a partir del día de su publicación en el Boletín Oficial y tendrá efectos para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente a dicha publicación).
+
+(Artículo sustituido por Ley N° 25.063 Título I, art. 1°, inc. j). Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+ 
+
+EVOLUCION DE LAS ALICUOTAS
+
+ALÍCUOTA
+
+DECRETO Nro. 966/98o:
+	
+
+Ley n°23765
+
+Y Dto. 53/90
+	
+
+Dto. 2.231/90
+	
+
+Ley 23.905
+	
+
+Dto. 707/91
+	
+
+Dtos. 1701, 1702, y 2396/91
+
+Y 356/92
+	
+
+Ley n°23.966
+
+(2)
+	
+
+Ley 24468
+	
+
+Ley 24.631
+
+	
+
+Desde 8/8/88
+
+ 
+
+Hasta 31/1/90
+	
+
+Desde 01/02/90 (1)
+
+Hasta 31/10/90
+	
+
+Desde 1/11/90
+
+ 
+
+Hasta 20/2/91
+	
+
+Desde
+
+21/2/91
+
+ 
+
+Hasta 16/4/91
+	
+
+Desde
+
+17/4/91
+
+ 
+
+Hasta 31/8/91
+	
+
+Desde 1/9/91
+	
+
+Desde 1/3/92
+	
+
+Desde 1/04/95
+	
+
+Desde 01/04/96
+
+	
+	
+	
+	
+	
+	
+
+Hasta
+
+31/12/91
+	
+
+Hasta
+
+29/2/92
+	
+	
+
+Hasta
+
+31/3/95
+	
+
+Hasta 31/3/96
+	
+
+General
+
+Diferencial Mayor
+
+Diferencial Menor
+
+(servicio telefónico)
+	
+
+15%
+
+ 
+
+ 
+
+ 
+
+ 
+	
+
+13%
+	
+
+15,60%
+	
+
+16%
+
+25%
+	
+
+16%
+
+25%
+
+ 
+
+ 
+
+ 
+
+ 
+
+11%
+	
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11%
+	
+
+16%
+
+25%
+	
+
+ 
+
+27%
+	
+
+18%
+	
+
+21%
+	
+
+21%
+
+1) La ley N°23.658 y su modificatoria Ley N°23.666 fijó a partir del 1/02/90, las alícuotas al 14% y 7%, las que nunca llegaron a aplicarse.
+
+(2) Se reestablecen a partir del 1/3/92 las alícuotas del 18% y 27% como consecuencia de la finalización implícitade la vigencia de los decretos Nros. 1701/91, 1702/91, 2396/91 y 356/92.
+
+ARTICULO …— Tratándose de sujetos cuya actividad sea la producción editorial, las locaciones de espacios publicitarios en diarios, revistas y publicaciones periódicas, estarán alcanzadas por la alícuota que, según el supuesto de que se trate, se indica a continuación:
+
+(Primer párrafo sustituido por art. 97 de la Ley N° 27.701 B.O. 1/12/2022 con efectos para los hechos imponibles que se perfeccionen a partir del 1º de enero de 2023.)
+
+Tratándose de sujetos cuya actividad sean las ediciones periodísticas digitales de información en línea, estarán alcanzadas por la alícuota que, según el supuesto de que se trate, se indica a continuación:
+
+
+(Segundo párrafo sustituido por art. 97 de la Ley N° 27.701 B.O. 1/12/2022 con efectos para los hechos imponibles que se perfeccionen a partir del 1º de enero de 2023.)
+
+Los sujetos alcanzados por el presente artículo que estén obligados a la contribución al Fondo para la Educación y Promoción Cooperativa dispuesto por ley 23.427 y modificatorias, podrán utilizar el crédito fiscal que conformare el saldo a favor a que se refiere el primer párrafo del artículo 24 de esta ley acumulado, para la cancelación de dicha contribución. (Párrafo incorporado por art. 97 de la Ley N° 27.701 B.O. 1/12/2022 con efectos para los hechos imponibles que se perfeccionen a partir del 1º de enero de 2023.)
+
+A los fines de la aplicación de las alícuotas indicadas precedentemente, los sujetos indicados en los párrafos precedentes deberán, a la finalización de cada cuatrimestre calendario, considerar los montos de facturación de los últimos DOCE (12) meses calendario inmediatos anteriores, sin incluir el impuesto al valor agregado, y en función de ello, determinar la alícuota correspondiente, la que resultará de aplicación por períodos cuatrimestrales calendario.
+
+Se entenderá por montos de facturación, a los efectos del párrafo anterior, a la facturación total del sujeto pasivo.
+
+La alícuota que resulte de aplicación a los sujetos indicados en el primer párrafo para la locación de espacios publicitarios, determinada conforme a lo allí previsto, alcanza, asimismo, a los montos facturados que obtengan todos los sujetos intervinientes en el proceso comercial, independientemente de su nivel de facturación, solo por dichos conceptos y en tanto provengan del mismo.
+
+En el caso de iniciación de actividades, durante los CUATRO (4) primeros períodos fiscales desde dicha iniciación, los sujetos pasivos del gravamen comprendidos en este artículo determinarán la alícuota del tributo mediante una estimación razonable de los montos de facturación anual.
+
+Transcurrido los referidos CUATRO (4) períodos fiscales, deberán proceder a anualizar la facturación correspondiente a dicho período, a los fines de determinar la alícuota que resultará aplicable para las actividades indicadas a partir del quinto período fiscal posterior al de iniciación de actividades, inclusive, de acuerdo con las cifras obtenidas. Dicha anualización procederá en la medida que el período indicado coincida con la finalización del período cuatrimestral calendario completo. De no resultar tal coincidencia, se mantendrá la alícuota determinada conforme el párrafo anterior hasta la finalización del cuatrimestre calendario inmediato siguiente.
+
+La anualización de la facturación continuará, efectuándose a la finalización de cada cuatrimestre calendario, considerando los períodos fiscales transcurridos hasta el inmediato anterior al inicio del cuatrimestre de que se trate, inclusive, hasta tanto hayan transcurrido DOCE (12) períodos fiscales contados desde el inicio de la actividad.
+
+A partir del 1° de enero de 2024, los montos de facturación indicados en el primer y segundo párrafo del presente artículo se actualizarán conforme la variación operada en el límite de ventas totales anuales aplicables a las medianas empresas del “Tramo 2” correspondientes al sector “servicios”, en los términos del artículo 2° de la ley 24.467 y sus modificatorias, y sus normas reglamentarias y complementarias. (Párrafo sustituido por art. 98 de la Ley N° 27.701 B.O. 1/12/2022 .)
+
+Los servicios de distribución, clasificación, reparto y/o devolución de diarios, revistas y publicaciones periódicas que sean prestados a sujetos cuya actividad sea la producción editorial estarán alcanzados por la alícuota equivalente al cincuenta por ciento (50%) de la establecida en el primer párrafo del artículo 28 de la presente.
+
+ (Artículo sin número a continuación del artículo 28, sustituido por art. 92 de la Ley N° 27.467 B.O. 4/12/2018. Vigencia: surtirá efecto respecto de los hechos imponibles que se perfeccionen a partir del 1° de enero de 2019, por art. 94 de la misma ley)
+
+TITULO V
+
+RESPONSABLES NO INSCRIPTOS
+
+(Título V derogado por art. 1°, inciso a), punto 4 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+TITULO VI
+
+INSCRIPCION, EFECTOS Y OBLIGACIONES QUE GENERA
+
+ARTICULO 36 — Los sujetos pasivos del impuesto mencionados en el artículo 4º deberán inscribirse en la DIRECCION GENERAL IMPOSITIVA en la forma y tiempo que la misma establezca, salvo cuando, tratándose de responsables comprendidos en el Título V, hagan uso de la opción que el mismo autoriza.
+
+No están obligados a la inscripción a que se refiere el párrafo anterior, aunque podrán optar por hacerlo:
+
+a) Los importadores, únicamente en relación a importaciones definitivas que realicen.
+
+b) Quienes sólo realicen operaciones exentas en virtud de las normas de los artículos 7º y 8º.
+
+Los deberes y obligaciones previstos en esta ley para los responsables inscriptos serán aplicables a los obligados a inscribirse, desde el momento en que reúnan las condiciones que configuran tal obligación.
+
+(Ultimo párrafo derogado por art. 1°, inciso a), punto 5 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+RESPONSABLES INSCRIPTOS
+
+SUS OBLIGACIONES - OPERACIONES CON OTROS RESPONSABLES INSCRIPTOS
+
+ARTICULO 37 — Los responsables inscriptos que efectúen ventas, locaciones o prestaciones de servicios gravadas a otros responsables inscriptos, deberán discriminar en la factura o documento equivalente el gravamen que recae sobre la operación, el cual se calculará aplicando sobre el precio neto indicado en el artículo 10, la alícuota correspondiente.
+
+En estos casos se deberá dejar constancia en la factura o documento equivalente de los respectivos números de inscripción de los responsables intervinientes en la operación.
+
+No obstante lo dispuesto en los párrafos primero y segundo de este artículo, la DIRECCION GENERAL IMPOSITIVA podrá disponer otra forma de documentar el gravamen originado por la operación, cuando las características de la prestación o locación así lo aconsejen.
+
+OPERACIONES CON RESPONSABLES NO INSCRIPTOS
+
+ARTICULO 38 — (Artículo derogado por art. 1°, inciso a), punto 6 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+OPERACIONES CON CONSUMIDORES FINALES
+
+ARTICULO 39.—  Cuando un o una responsable inscripto o inscripta realice ventas, locaciones o prestaciones de servicios gravadas a consumidores finales, no deberá discriminar en la factura o documento equivalente el gravamen que recae sobre la operación. El mismo criterio se aplicará con sujetos cuyas operaciones se encuentran exentas, excepto que revistan la condición de inscriptos o inscriptas en el Régimen Simplificado para Pequeños Contribuyentes establecido por el anexo de la ley 24.977, sus modificaciones y complementarias. (Párrafo sustituido por art. 14 de la Ley N° 27.618 B.O. 21/4/2021 con efectos a partir de la fecha que se establezca en la reglamentación que al respecto se dicte. Vigencia: a partir del día de su publicación en el Boletín Oficial de la República Argentina.)
+
+(Segundo párrafo derogado por art. 1°, inciso a), punto 7 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+Tratándose de las operaciones a que se refiere el primer párrafo de este artículo, solo se podrán considerar operaciones con consumidores finales aquellas que reunan las condiciones que al respecto fije la reglamentación.
+
+OPERACIONES DE RESPONSABLES NO INSCRIPTOS
+
+ARTICULO 40 — (Artículo derogado por art. 1°, inciso a), punto 6 de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+INCUMPLIMIENTO DE LA OBLIGACION DE FACTURAR EL IMPUESTO
+
+ARTICULO 41 — El incumplimiento de las obligaciones establecidas en el artículo 37 hará presumir, sin admitir prueba en contrario, la falta de pago del impuesto, por lo que el comprador, locatario o prestatario no tendrá derecho al crédito a que hace mención el artículo 12.
+
+Lo dispuesto precedentemente no implica disminución alguna de las obligaciones de los demás responsables intervinientes en las respectivas operaciones.
+
+(Artículo sustituido por art. 1°, inciso c) de la Ley N° 25.865 B.O. 19/1/2004. Vigencia: a partir del día de su publicación en el Boletín Oficial. Las disposiciones contenidas en el Título I de la norma de referencia surtirán efectos a partir de la fecha que disponga el Poder Ejecutivo nacional, la que no podrá superar los ciento ochenta (180) días contados desde la fecha de publicación oficial.)
+
+REGISTRACIONES
+
+ARTICULO 42 — La DIRECCION GENERAL IMPOSITIVA dispondrá las normas a que se deberá ajustar la forma de emisión de facturas o documentos equivalentes, así como las registraciones que deberán llevar los responsables, las que deberán asegurar la clara exteriorización de las operaciones a que correspondan, permitiendo su rápida y sencilla verificación.
+
+TITULO VII
+
+EXPORTADORES
+
+REGIMEN ESPECIAL
+
+ARTICULO 43 — Los exportadores podrán computar contra el impuesto que en definitiva adeudaren por sus operaciones gravadas, el impuesto que por bienes, servicios y locaciones que destinaren efectivamente a las exportaciones o a cualquier etapa en la consecución de las mismas, les hubiera sido facturado, en la medida en que el mismo esté vinculado a la exportación y no hubiera sido ya utilizado por el responsable, así como su pertinente actualización, calculada mediante la aplicación del índice de precios al por mayor, nivel general, referido al mes de facturación, de acuerdo con lo que indique la tabla elaborada por la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, para el mes en el que se efectúe la exportación.
+
+Si la compensación permitida en este artículo no pudiera realizarse o sólo se efectuara parcialmente, el saldo resultante les será acreditado contra otros impuestos a cargo de la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA o, en su defecto, le será devuelto o se permitirá su transferencia a favor de terceros responsables, en los términos del segundo párrafo del artículo 29 de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones. Dicha acreditación, devolución o transferencia procederá hasta el límite que surja de aplicar sobre el monto de las exportaciones realizadas en cada ejercicio fiscal, la alícuota del impuesto, salvo para aquellos bienes que determine el MINISTERIO DE ECONOMIA, respecto de los cuales los Organismos competentes que el mismo fije, establezcan costos límites de referencia, para los cuales el límite establecido resultará de aplicar la alícuota del impuesto a dicho costo. (Párrafo sustituido por inc. a), art. 1º del Decreto Nº 959/2001 B.O. 27/07/2001. Vigencia: a partir del día de su publicación en el Boletín Oficial. Surtirá efecto para las exportaciones realizadas a partir del 1º de agosto de 2001, inclusive.)
+
+Cuando la realidad económica indicara que el exportador de productos beneficiados en el mercado interno con liberaciones de este impuesto es el propio beneficiario de dichos tratamientos, el cómputo, devolución o transferencia en los párrafos precedentes se prevé, no podrá superar al que le hubiera correspondido a este último, sea quien fuere el que efectuare la exportación.
+
+El cómputo del impuesto facturado por bienes, servicios y locaciones a que se refiere el primer párrafo de este artículo se determinará de acuerdo con lo dispuesto en los artículos 12 y 13 de la presente ley.
+
+Para tener derecho a la acreditación, devolución o transferencia a que se refiere el segundo párrafo, los exportadores deberán inscribirse en la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía, en la forma y tiempo que la misma establezca, quedando sujeto a los deberes y obligaciones previstos por esta ley respecto de las operaciones efectuadas a partir de la fecha del otorgamiento de la inscripción. Asimismo, deberán determinar mensualmente el impuesto computable conforme al presente régimen, obtenido desde la referida fecha, mediante declaración jurada practicada en formulario oficial.
+
+Las compras efectuadas por turistas del extranjero, de bienes gravados producidos en el país que aquellos trasladen al exterior, darán lugar al reintegro del impuesto facturado por el vendedor, de acuerdo con la reglamentación que al respecto dicte el Poder Ejecutivo nacional.
+
+Asimismo, darán lugar al reintegro mencionado en el párrafo anterior, las prestaciones comprendidas por el apartado 2 del inciso e) del artículo 3° contratadas por turistas del extranjero en los centros turísticos ubicados en las provincias con límites internacionales. Para el caso de que las referidas prestaciones se realizaren en forma conjunta o complementaria con la venta de bienes, u otras prestaciones o locaciones de servicios, éstas deberán facturarse en forma discriminada y no darán lugar al reintegro previsto en este párrafo, con excepción de las prestaciones incluidas en el apartado 1 del inciso e), del artículo 3°, cuando estén referidas al servicio de desayuno incluido en el precio del hospedaje. Quedan comprendidas en el régimen previsto en este párrafo las provincias de Catamarca, Formosa, Entre Ríos, San Juan, Santa Cruz, Misiones, Corrientes, Salta, La Rioja; Chubut, Jujuy, Neuquén, Mendoza, Río Negro y Chaco.
+
+Idéntico tratamiento al previsto en los dos párrafos precedentes tendrán las compras, locaciones o prestaciones realizadas en el mercado interno, cuando el adquirente, locatario o prestatario utilice fondos ingresados como donación, en el marco de convenios de cooperación internacional, con los requisitos que establezca el Poder Ejecutivo nacional.
+
+(Artículo sustituido por art. 1° de la Ley N° 25.406 B.O. 06/04/2001. Vigencia: Las disposiciones de la presente ley tendrán efectos para los hechos imponibles que se perfeccionen a partir del 1° de enero de 2001 inclusive.)
+
+ARTICULO …— Los exportadores tendrán derecho a la acreditación, devolución o transferencia a que se refiere el segundo párrafo del artículo precedente con el sólo cumplimiento de los requisitos formales que establezca la ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS, entidad autárquica en el ámbito del MINISTERIO DE ECONOMIA, ello sin perjuicio de su posterior impugnación cuando a raíz del ejercicio de las facultades de fiscalización y verificación previstas en los artículos 33 y siguientes de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones, mediante los procedimientos de auditoría que a tal fin determine el citado Organismo, se compruebe la ilegitimidad o improcedencia del impuesto facturado que diera origen a la aludida acreditación, devolución o transferencia.
+
+Las solicitudes que efectúen los exportadores, en los términos del párrafo anterior, deberán ser acompañadas por dictamen de contador público independiente, respecto de la razonabilidad y legitimidad del impuesto facturado vinculado a las operaciones de exportación.
+
+Cuando circunstancias de hecho o de derecho permitan presumir connivencia, los exportadores serán solidariamente responsables respecto del Impuesto al Valor Agregado falsamente documentado y omitido de ingresar, correspondiente a sus vendedores, locadores, prestadores o, en su caso, cedentes del gravamen de acuerdo con las normas respectivas y siempre que los deudores no cumplieren con la intimación administrativa de pago, hasta el límite del importe del crédito fiscal computado, o de la acreditación, devolución o transferencia originadas por dicho impuesto. A tal efecto será de aplicación el procedimiento previsto en los artículos 16 y siguientes de la Ley Nº 11.683, texto ordenado en 1998 y sus modificaciones.
+
+(Artículo sin número incorporado a continuación del artículo 43 por inc. b), art. 1º del Decreto Nº 959/2001 B.O. 27/07/2001. Vigencia: a partir del día de su publicación en el Boletín Oficial. Surtirá efecto para las exportaciones realizadas a partir del 1º de agosto de 2001, inclusive.)
+
+ARTICULO 44 — (Artículo derogado por inc. j), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley (01/01/2000).)
+
+TITULO VIII
+
+DISPOSICIONES GENERALES
+
+ARTICULO 45 — A los efectos de esta ley no se admitirán tratamientos discriminatorios en lo referente a tasas o exenciones, que tengan como fundamento el origen nacional o foráneo de los bienes.
+
+ARTICULO 46 — Acuérdase a las misiones diplomáticas permanentes el reintegro del Impuesto al Valor Agregado involucrado en el precio que se les facture por bienes, obras, locaciones, servicios y demás prestaciones, gravados, que se utilicen para la construcción, reparación, mantenimiento y conservación de locales de la misión, por la locación de estos últimos y por la adquisición de bienes o servicios que destinen a su equipamiento y/o se relacionen con el desarrollo de sus actividades. (Párrafo sustituido por inc. c), art. 1° del Decreto N° 1008/2001 B.O. 14/08/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto para los hechos imponibles perfeccionados desde el 1° de mayo de 2001, inclusive.)
+
+El reintegro previsto en el párrafo anterior será asimismo aplicable a los diplomáticos, agentes consulares y demás representantes oficiales de países extranjeros, respecto de su casa habitación como así también de los consumos relacionados con sus gastos personales y de sustento propio y de su familia.
+
+El régimen establecido en el presente artículo será procedente a condición de reciprocidad o cuando el Estado acreditante se comprometa a otorgar a las misiones diplomáticas y representantes oficiales de nuestro país, un tratamiento preferencial en materia de impuestos a los consumos acorde con el beneficio que se otorga.
+
+El reintegro que corresponda practicar será procedente en tanto la respectiva documentación respaldatoria sea certificada por la delegación diplomática pertinente y se realizará por cuatrimestre calendario, de acuerdo a los requisitos, condiciones y formalidades que al respecto establezca la DIRECCION GENERAL IMPOSITIVA.
+
+ARTICULO 47 — Las actualizaciones previstas en la presente ley se efectuarán sobre la base de las variaciones del índice de precios al por mayor, nivel general, que suministre el Instituto Nacional de Estadística y Censos. La tabla respectiva, que deberá ser elaborada mensualmente por la DIRECCION GENERAL IMPOSITIVA, contendrá valores mensuales para los VEINTICUATRO (24) meses inmediatos anteriores, valores trimestrales promedio por trimestre calendario desde el 1 de enero de 1975, y valores anuales promedio para los demás períodos y tomará como base el índice de precios del mes para el cual se elabora la tabla.
+
+A los fines de la aplicación de las actualizaciones a las que se refiere el párrafo anterior, las mismas deberán practicarse hasta la fecha prevista en el artículo 10 de la Ley Nº 23.928, cuando se trate del impuesto a ingresar o facturado, el ajuste, cómputo o reintegro de débitos y créditos fiscales y los saldos a favor o pagos a cuenta, a que se refieren los artículos 9º; 11; 13; 24; 32; 43 y 50.
+
+En cambio, las referidas actualizaciones deberán practicarse conforme lo previsto en el artículo 39 de la Ley Nº 24.073, cuando las mismas deban aplicarse sobre las adquisiciones, operaciones o monto mínimo de las mismas, a que se refieren los artículos 13, 32, y 35.
+
+ARTICULO 48 — En los casos de operaciones con precios concertados a la fecha en que entraran en vigencia modificaciones del régimen de exenciones o de las alícuotas a las que se liquida el gravamen, dichos precios deberán ser ajustados en la medida de la incidencia fiscal que sobre ellos tuvieran tales modificaciones.
+
+En los casos a que se refiere el párrafo anterior, también procederá el ajuste que el mismo dispone cuando se incorporen normas que establezcan nuevos hechos imponibles.
+
+ARTICULO 49 — (Artículo derogado por inc. k.1), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+ARTICULO 50. — Los sujetos que realicen la impresión y/o producción editorial de libros, folletos e impresos similares, o de diarios, revistas y publicaciones periódicas, así como de ediciones periodísticas digitales de información en línea y sus distribuidores, todos estos en la medida que resulten comprendidos en la exención del inciso a) del artículo 7°, podrán computar contra el impuesto al valor agregado que en definitiva adeudaren por sus operaciones gravadas, el impuesto al valor agregado que les hubiera sido facturado por compra, fabricación, elaboración o importación definitiva de bienes -excepto automóviles-, y por las obras, locaciones y/o prestaciones de servicios -incluidas las prestaciones a que se refieren los incisos d) y e) del artículo 1° y el artículo sin número incorporado a continuación del artículo 4° y que hayan destinado efectivamente a las operaciones abarcadas por la referida exención, o a cualquier etapa en su consecución, en la medida que esté vinculado a ellas, y no hubiera sido ya utilizado por el responsable.
+
+Si lo dispuesto en el párrafo precedente no pudiera realizarse o sólo se efectuara parcialmente, el saldo resultante les será acreditado contra otros impuestos a cargo de la ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS o, en su defecto, les será devuelto o se permitirá su transferencia a favor de terceros responsables, en los términos del segundo párrafo del artículo 29 de la ley 11.683 (t.o 1998) y sus modificaciones, en la forma, plazos y condiciones que a tal efecto disponga esa Administración Federal.
+
+En el caso de que se conceda la acreditación contra otros impuestos, ésta no podrá realizarse contra obligaciones derivadas de la responsabilidad sustitutiva o solidaria por deudas de terceros, o de la actuación del beneficiario como agente de retención o de percepción. Tampoco será aplicable dicha acreditación contra gravámenes con destino exclusivo al financiamiento de fondos con afectación específica o de los recursos de la seguridad social.
+
+Esa acreditación, devolución o transferencia procederá hasta el límite que surja de aplicar sobre el monto de las operaciones amparadas por la franquicia del inciso a) del artículo 7°, realizadas en cada período fiscal, la alícuota prevista en el primer párrafo del artículo 28, pudiendo el excedente trasladarse a los períodos fiscales siguientes, teniendo en cuenta, para cada uno de ellos, el mencionado límite máximo aplicable.
+
+El cómputo del impuesto facturado por bienes, obras, locaciones y servicios a que se refiere el primer párrafo de este artículo se determinará de acuerdo con las restantes disposiciones de esta ley que no se opongan a estas previsiones. La ADMINISTRACIÓN FEDERAL DE INGRESOS PÚBLICOS establecerá el modo en que deberá encontrarse exteriorizado el gravamen para que resulte procedente el régimen aquí previsto.
+
+(Artículo sustituido por art. 93 de la Ley N° 27.467 B.O. 4/12/2018, con efecto para los importes cuyo derecho a cómputo se genere a partir del 1° de enero de 2019, inclusive)
+
+ARTICULO … — Los responsables inscriptos que sean sujetos del gravamen establecido por el artículo 75 de la ley 22.285 y sus modificaciones, podrán computar como pago a cuenta del impuesto al valor agregado el cien por ciento (100%) de las sumas efectivamente abonadas por el citado gravamen. (Artículo sin número incorporado a continuación del art. 50 por inc. l.1), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+ARTICULO ... — Los empresarios o entidades exhibidoras, los productores y los distribuidores, de las películas que se exhiban en espectáculos cinematográficos, que resulten responsables inscriptos en el impuesto de la presente ley, podrán computar como pago a cuenta del mismo, el gravamen establecido por el inciso a) del artículo 24 de la Ley N° 17.741 y su modificatoria, en los porcentajes en que los referidos sujetos participen del precio básico de la localidad o boleto a que se refiere el mencionado inciso.
+
+Los responsables inscriptos, que sean sujetos del gravamen establecido por el inciso b) del artículo 24 de la Ley N° 17.741 y su modificatoria, podrán computar como pago a cuenta del Impuesto al Valor Agregado, el CIENTO POR CIENTO (100%) de las sumas efectivamente abonadas por el citado tributo.
+
+A los fines de lo previsto en los párrafos precedentes, el remanente no computado no podrá ser objeto, bajo ninguna circunstancia, de acreditación con otros gravámenes a cargo de los contribuyentes ni de solicitudes de devolución o transferencia a favor de terceros responsables, pudiendo trasladarse hasta su agotamiento, a futuros períodos fiscales del impuesto de esta ley.
+
+(Segundo artículo sin número incorporado a continuación del art. 50 sustituido por inc. d), art. 1° del Decreto N° 1008/2001 B.O. 14/08/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto para los hechos imponibles perfeccionados desde el 1° de mayo de 2001, inclusive.)
+
+Artículo ... — Los titulares de estaciones de servicio y bocas de expendio, los distribuidores, los fraccionadores y los revendedores de combustibles líquidos que se encuentren obligados a realizar el ensayo para la detección del marcador químico en sus adquisiciones de combustibles conforme lo establece el segundo artículo sin número incorporado a continuación del artículo 9° de la Ley N° 23.966, Título III, texto ordenado en 1998 y sus modificaciones, podrán computar como pago a cuenta del impuesto al valor agregado el monto neto de impuestos correspondiente a las compras de los reactivos químicos necesarios para la detección de marcadores químicos, ambos homologados por la Administración Federal de Ingresos Públicos, entidad autárquica en el ámbito del Ministerio de Economía y Producción, los que no podrán superar el valor y deberán reunir las condiciones que establezca el Poder Ejecutivo nacional a estos efectos.
+
+A los fines de lo previsto en el párrafo precedente, el remanente no computado no podrá ser objeto, bajo ninguna circunstancia, de acreditación con otros gravámenes a cargo de los contribuyentes ni de solicitudes de devolución o transferencia a favor de terceros responsables, pudiendo trasladarse hasta su agotamiento, a futuros períodos fiscales del impuesto de esta ley.
+
+(Artículo incorporado por art. 1° de la Ley N° 26.111 B.O. 6/7/2006)
+
+ARTICULO 51 — El gravamen de esta ley se regirá por las disposiciones de la Ley Nº 11.683 texto ordenado en 1978 y sus modificaciones, y su aplicación, percepción y fiscalización estarán a cargo de la DIRECCION GENERAL IMPOSITIVA, quedando facultada la ADMINISTRACION NACIONAL DE ADUANAS para la percepción del tributo en los casos de importación definitiva.
+
+ARTICULO 52 — El producido del impuesto establecido en la presente ley, se destinará:
+
+a) El ONCE POR CIENTO (11 %) al régimen nacional de previsión social, en las siguientes condiciones.
+
+1. El NOVENTA POR CIENTO (90 %) para el financiamiento del régimen nacional de previsión social, que se depositará en la cuenta de la SECRETARIA DE SEGURIDAD SOCIAL.
+
+2. El DIEZ POR CIENTO (10 %) para ser distribuido entre las jurisdicciones provinciales y la CIUDAD AUTONOMA DE BUENOS AIRES, de acuerdo a un prorrateador formado en función de la cantidad de beneficiarios de las cajas de previsión o de seguridad social de cada una de esas jurisdicciones al 31 de mayo de 1991. Los importes que surjan de dicho prorrateo serán girados directamente y en forma diaria a las respectivas cajas con afectación específica a los regímenes provisionales existentes. El prorrateo será efectuado por la mencionada Subsecretaría sobre la base de la información que le suministre la Comisión Federal de Impuestos. Hasta el 1 de julio de 1992, el CINCUENTA POR CIENTO (50 %) del producido por este punto se destinará al Tesoro Nacional.
+
+Cuando existan Cajas de Previsión o de Seguridad Social en jurisdicciones municipales de las provincias, el importe a distribuir a las mismas se determinará en función a su número total de beneficiarios existentes al 31 de mayo de 1991, en relación con el total de beneficiarios de los regímenes previsionales, nacionales, provinciales y de la CIUDAD AUTONOMA DE BUENOS AIRES.
+
+El NOVENTA POR CIENTO (90 %) de dicho importe se deducirá del monto a distribuir de conformidad al punto 1., y el DIEZ POR CIENTO (10 %), del determinado de acuerdo con el punto 2. Los importes que surjan de esta distribución serán girados a las jurisdicciones provinciales, las que deberán distribuirlos en forma automática y quincenal a las respectivas Cajas Municipales.
+
+b) El OCHENTA Y NUEVE POR CIENTO (89 %) se distribuirá de conformidad al régimen establecido por la Ley Nº 23.548.
+
+TITULO IX
+
+DISPOSICIONES TRANSITORIAS
+
+ARTICULO 53 — Facúltase al PODER EJECUTIVO NACIONAL para disponer las medidas que a su juicio resultaren necesarias a los fines de la transición entre las formas de imposición que sustituyó la Ley Nº 20.631 y el gravamen por ella creado.
+
+En los casos en que con arreglo a regímenes que tengan por objeto la promoción sectorial o regional, sancionados con anterioridad al 25 de mayo de 1973, se hubieran otorgado tratamientos preferenciales en relación al gravamen derogado por la Ley Nº 20.631, el PODER EJECUTIVO NACIONAL dispondrá los alcances que dicho tratamiento tendrá respecto del tributo (creado por la citada ley), a fin de asegurar los derechos adquiridos, y a través de éstos la continuidad de los programas emprendidos.
+
+Cuando dichos regímenes hubieran sido sancionados con posterioridad al 25 de mayo de 1973, el PODER EJECUTIVO NACIONAL deberá reglamentar la aplicación automática de tales tratamientos preferenciales en relación al impuesto de la presente ley, fijando los respectivos alcances en atención a las particularidades inherentes al nuevo gravamen. Igual tratamiento se aplicará al régimen instaurado por la Ley Nº 19.640.
+
+ARTICULO 54 — El cómputo de crédito fiscal correspondiente a inversiones en bienes de uso efectuadas hasta la finalización del segundo ejercicio comercial o, en su caso, año calendario, iniciado con posterioridad al 24 de noviembre de 1988, se regirá por las disposiciones del artículo 13 de la ley del impuesto al valor agregado vigente a dicha fecha o por las disposiciones del Decreto Nº 1689 del 17 de noviembre de 1988, según corresponda, y por lo establecido en los segundos párrafos de los artículos 14 y 15 del texto legal citado, excepto en el caso de venta de los bienes y al tratamiento de los emergentes de la facturación de los conceptos a que se refiere el apartado 2, del quinto párrafo del artículo 10, aspectos éstos que se regirán por lo dispuesto en el artículo 12.
+
+ARTICULO … — (Artículo derogado por pto. l), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive.)
+
+ARTICULO … — En los casos en que el Poder Ejecutivo haya hecho uso de la facultad de reducción de alícuotas que preveía el tercer párrafo del artículo 28, vigente hasta el 27 de marzo de 1997, podrá proceder al incremento de las alícuotas reducidas, hasta el límite de la establecida con carácter general en dicho artículo.
+
+(Segundo artículo sin número incorporado a continuación del art. 54 por Ley N° 25.063, Título I, art. 1°, inc. n). Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999.)
+
+ 
+
+Antecedentes Normativos
+
+- Artículo.... sin número a continuación del artículo 28, sustituido por art. 1° de la Ley N° 27.273 B.O. 5/10/2016. Vigencia: el día de su publicación en el Boletín Oficial y surtirán efecto para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente al de dicha publicación. A los fines de la aplicación de las previsiones contenidas en los párrafos tercero y séptimo del artículo sin número incorporado a continuación del artículo 28 de la Ley de Impuesto al Valor Agregado, texto ordenado en 1997 y sus modificaciones, que se incorpora a través de la ley de referencia, se deberá considerar el último cuatrimestre calendario completo;
+
+- Artículo... sin número incorporado a continuación del artículo 28, (Nota Infoleg: Ver Resolución Conjunta General 3807 y 1528/2015 de la AFIP y de la Jefatura de Gabinete de Ministros, por la cual se determinan los nuevos importes de facturación, conforme al tipo de operación mencionado en el presente párrafo. Vigencia: a partir de su publicación en el Boletín Oficial y serán de aplicación a las operaciones que se perfeccionen a partir del 1 de diciembre de 2015);
+
+- Artículo... sin número incorporado a continuación del artículo 28, (Nota Infoleg: Ver Resolución Conjunta General 3807 y 1528/2015 de la AFIP y de la Jefatura de Gabinete de Ministros, por la cual se determinan los nuevos importes de facturación, conforme al tipo de operación mencionado en el presente párrafo. Vigencia: a partir de su publicación en el Boletín Oficial y serán de aplicación a las operaciones que se perfeccionen a partir del 1 de diciembre de 2015);
+
+- Artículo... sin número incorporado a continuación del artículo 28, por art. 1° inc. a) de la Ley N° 26.982 B.O. 29/9/2014. Vigencia: el día de su publicación en el Boletín Oficial y surtirán efecto para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente al de dicha publicación. A los fines de la aplicación de las previsiones contenidas en los párrafos tercero y séptimo del artículo sin número incorporado a continuación del artículo 28 de la Ley de Impuesto al Valor Agregado, texto ordenado en 1997 y sus modificaciones, que se incorpora a través de la ley de referencia, se deberá considerar el último cuatrimestre calendario completo;
+
+- Artículo sin número incorporado a continuación del artículo 24 derogado por art. 1° de la Ley N° 26.346, B.O. 15/1/2008. Vigencia: ver artículo 2° de la mencionada Ley;
+
+- Artículo sin número incorporado a continuación del artículo 24, (Nota Infoleg: Por art. 3° de la Ley N° 26.180 B.O. 20/12/2006 se prorroga hasta el 31 de diciembre de 2007, inclusive, la suspensión del presente artículo y sus modificaciones. Vigencia: a partir del día de su publicación en el Boletín Oficial y surtirá efectos respecto de los créditos fiscales cuyo derecho a cómputo se genere a partir del 1° de enero de 2007, inclusive. Prórrogas anteriores: Ley N° 26.073 B.O. 10/1/2006; Ley N° 25.988 B.O. 31/12/2004; y, Ley N° 25.868 B.O. 8/1/2004);
+
+- Artículo 7° primer párrafo, inciso h), apartado 28 incorporado por art. 1° de la Ley N° 26.049 B.O. 2/8/2005;
+
+- Artículo 28, inc. a) punto 1 sustituido por art. 1° de la Ley N° 25.951 B.O. 29/11/2004. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial;
+
+- Artículo 28, cuarto párrafo, inciso g), primer párrafo sustituido por art. 1° de la Ley N° 25.866 B.O. 21/1/2004. Vigencia: a partir del primer día del mes siguiente al de su publicación en el Boletín Oficial;
+
+- Artículo sin número incorporado a continuación del artículo 24, (Nota Infoleg: Por art. 1º inc. a) de la Ley Nº 25.717 B.O. 10/01/2003 se suspende el presente artículo hasta el 31 de diciembre de 2003. Vigencia: la presente ley surtirá efectos para los créditos fiscales cuyo derecho a cómputo se genere a partir del primer día del mes de publicación de la misma —enero 2003—.);
+
+- Artículo 28, inciso a), punto 1, sustituido por art.1° de la Ley N° 25.710 B.O. 08/01/2003;
+
+- Artículo 28, inciso a), punto 2, sustituido por art.1° de la Ley N° 25.710 B.O. 08/01/2003;
+
+- Artículo 28, Planilla anexa al inciso e), sustituida art. 28 del Decreto N° 690/2002 B.O. 02/05/2002;
+
+- Artículo 28, Planilla anexa al inciso f), sustituida art. 29 del Decreto N° 690/2002 B.O. 02/05/2002;
+
+- Artículo 28, Planilla anexa al inciso e), posición arancelaria 8412.80.00 (7) UNICAMENTE MOLINOS DE VIENTO, incorporada por art. 1 del Decreto N° 1565/2001 B.O. 03/12/2001;
+
+- Artículo 28, Planilla anexa al inciso f), incorporada por art. 1° del Decreto N° 1159/2001 B.O. 12/09/2001. Vigencia: a partir del día de su publicación en el Boletín Oficial (11/09/2001). Surtirá efecto para los hechos imponibles que se perfeccionen a partir del primer día del mes siguiente al de dicha publicación, inclusive (01/10/2001);
+
+- Segundo Artículo sin número a continuación art. 50 incorporado por pto. g), art. 1° del Decreto N° 615/2001 B.O. 14/05/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 28, cuarto párrafo, inciso g), sustituido por inc. e), art. 1° del Decreto N° 733/2001 B.O. 05/06/2001. Vigencia: a partir del día de su publicación en Boletín Oficial. Surtirá efecto para los hechos imponibles perfeccionados a partir del 1° de mayo de 2001, inclusive, excepto para aquellos casos en los que habiéndose trasladado el impuesto, no se acreditare su restitución a los respectivos adquirentes o locatarios, en cuyo caso surtirá efectos a partir de la referida entrada en vigencia;
+
+- Artículo 28, cuarto párrafo inciso g), sustituido por pto. f), art. 1° del Decreto N° 615/2001 B.O. 14/05/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7°, inciso h), primer párrafo, punto 22, sustituido por pto. c), art. 1° del Decreto N° 615/2001 B.O. 14/05/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7°, primer párrafo, inciso a) sustituido por pto. b), art. 1° del Decreto N° 615/2001 B.O. 14/05/2001. Vigencia: surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7°, inciso h), punto 10 incorporado por inc. c), art. 1° del Decreto N° 496/2001 B.O. 02/05/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo incorporado a continuación del art. 7°, sustituido por pto. e), art. 1° del Decreto N° 496/2001 B.O. 02/05/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 28, Planilla anexa al inciso e), partidas 8432.90.00; 8430.69.19; 8501.40.21; 8501.40.29 excluidas por art. 2° del Decreto N° 496/2001 B.O. 02/05/2001. Vigencia a partir de su publicación en Boletín Oficial. Surtirá efecto a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 28, Planilla anexa al inciso e), incorporada por art. 2° del Decreto N°493/2001 B.O. 30/04/2001. Vigencia: surtirá efecto a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 28, cuarto párrafo, inciso g) sustituido por pto. j), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 28, cuarto párrafo inciso e), incorporado por pto. i), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial (30/04/2001). Surtirá efecto para los saldos a favor que se originen en el cómputo de créditos fiscales por compras o importaciones de bienes, prestaciones de servicios y locaciones, que se realicen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo incorporado a continuación del art. 7°, sustituido por pto. h), art. 1° del Decreto N° 493/2001B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7°, primer párrafo, inciso h), punto 22 sustituido por pto. c), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7° primer párrafo, inciso h), punto 21 derogado por pto. f), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7° ,primer párrafo, inciso h), punto 11 derogado por pto. f), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7°, primer párrafo, inciso h), punto 10 derogado por pto. f), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7°, primer párrafo, inciso c) sustituido por pto. d), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 7, primer párrafo, inciso a), sustituido por pto. c), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 3°, inciso e), apartado 20 sustituido por pto. a), art. 1° del Decreto N° 493/2001 B.O. 30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo 50 sustituido por pto. k), art. 1° del Decreto N° 493/2001 B.O.30/04/2001. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto para los hechos imponibles que se perfeccionen a partir del 1° de mayo de 2001, inclusive;
+
+- Artículo incorporado a continuación del art. 7°, primer párrafo, sustituido por pto. 2), art. 1º de la Ley N° 25.405 B.O. 06/04/2001. Vigencia: a partir de la fecha de su publicación en el Boletín Oficial. Surtirá efecto desde la vigencia de la Ley Nº 25.063;
+
+- Artículo sin número incorporado como primer artículo a continuación del art. 54 por el art. 41 de la Ley N° 25.401 B.O. 04/01/2001. Nota Infoleg: Régimen de Promoción de Inversiones - Ley N° 23.871 Título II, artículo 4°, establece que este artículo no será de aplicación para el cómputo del crédito fiscal correspondiente a inversiones en bienes de uso efectuadas a partir del 31/10/1990, el que se regirá por las disposiciones del artículo 11 de esta ley;
+
+- Artículo 28, inciso f) derogado por art. 41 de la Ley N° 25.401 B.O. 04/01/2001. Vigencia: a partir del 1° de enero de 2001;
+
+- Artículo 28, inciso e) derogado por art. 41 de la Ley N° 25.401 B.O. 04/01/2001. Vigencia: a partir del 1° de enero de 2001, inclusive;
+
+- Artículo sin número incorporado a continuación del art. 24 por art. 3º Ley N° 25.360 B.O. 12/12/2000;
+
+- Artículo50, sustituido por inc. k), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley (01/01/2000);
+
+- Artículo 7°, primer párrafo, inciso h), punto 12 sustituido por inc. d), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley (01/01/2000);
+
+- Artículo 7, primer párrafo, inciso c) sustituido por inc. b), art. 2º, Título II de la Ley N° 25.239 B.O. 31/12/1999. Vigencia: desde el primer día del mes inmediato siguiente al de entrada en vigencia de la referida ley (01/01/2000);
+
+- Artículo 1° sustituido por inc. a), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999;
+
+- Artículo 7° primer párrafo, inciso h), punto 1, primer párrafo sustituido por inc. e.2), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial 31/12/1998. Surtirá efecto para el presente caso desde el 01/01/1999;
+
+- Artículo 7°, inciso f), sustituido por inc. e), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999;
+
+- Artículo sin número incorporado a continuación del art. 26 por inc. h), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999;
+
+- Articulo 27 sustituido por inc. i), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1998). Surtirá efecto para el presente caso desde el 01/01/1999;
+
+- Artículo incorporado a continuación del art. 7° por inc. e.6), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999;
+
+- Artículo 7, primer párrafo, inciso h), punto 11 sustituido por inc. e.4 bis), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999;
+
+- Artículo 7, Primer párrafo, inciso a) sustituido por inc. d.1), art. 1º, Título I de la Ley N° 25.063 B.O. 30/12/1998. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial (31/12/1999). Surtirá efecto para el presente caso desde el 01/01/1999. Nota: Expresión "En todos los casos la exención corresponderá cualquiera sea el soporte o medio utilizado para su difusión." observada por el Poder Ejecutivo mediante Decreto N° 1517/98, art. 1°, inc. a). Insistencia de la sanción por parte de las Cámaras de Diputados y Senadores, PE - 242/99 (B.O. 02/08/1999);
+
+- Título V, artículo 29 sustituido por art. 2º de la Ley N° 24.977 B.O. 06/07/1998. Vigencia: a partir de su publicación en el Boletín Oficial. Surtirá efecto desde el primer día del mes siguiente a la publicación (01/08/1998);
+
+- Artículo 7°, primer párrafo, inciso h) punto 16 apartado 9) incorporado por art. 1º de la Ley N° 24.920 (B.O. 31/12/97). Vigencia: A partir del 09/01/1997;
+
+- Artículo 12 bis (actual artículo 14) incorporado por art. 4º de la Ley N° 24.452 B.O. 02/03/1995.

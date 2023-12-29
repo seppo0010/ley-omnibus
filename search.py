@@ -37,12 +37,12 @@ def rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_tit
     }
 
 def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'Derógan?se (?:los artículos|el artículo) ([\d\s,° y]+) de la Ley N° ([\d\.]+)\.?', x)
+    m = re.match(r'Derógan?se (?:los artículos|el artículo) ([\d\s,° y]+) (de la Ley|del Decreto-Ley) N° ([\d\.\/]+)\.?', x)
     if m is None: return None
-    arts, ley = m.groups()
+    arts, lod, ley = m.groups()
     arts = [art.strip() for art in arts.replace('\n', ' ').replace('°', '').replace('y', '').replace(',', '').split(' ')]
     arts = [art for art in arts if art != '']
-    ley = ley.replace('.', '')
+    ley = ley.replace('.', '').replace('/', '-')
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read()
     art_old = [re.search(r'ART(?:[ÍI]CULO)?\.?\s*' + art + r'((?:.|\n)*?)\nART', old, re.I).groups()[0] for art in arts]
@@ -73,14 +73,14 @@ def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitu
     }
 
 def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? de la Ley(?:.*?) N[°º] ([\d\.]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º] ([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     art, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
     art_new = art_new.replace('”', '')
     art_new = art_new.strip()
 
-    ley = ley.replace('.', '')
+    ley = ley.replace('.', '').replace('/', '-')
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
