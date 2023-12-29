@@ -72,6 +72,49 @@ def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitu
         "textoModificado": "",
     }
 
+def rich_data_derogase_titulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    derogado = None
+    if num == 199:
+        with open('leyes/ley23905.txt') as fp:
+            derogado = re.search(r'(TITULO VII\n.*?)TITULO VIII\n', fp.read(), re.I | re.DOTALL).group(1).strip()
+    elif num == 451:
+        with open('leyes/ley26571.txt') as fp:
+            derogado = re.search(r'(TITULO II\n.*?)TITULO III\n', fp.read(), re.I | re.DOTALL).group(1).strip()
+    elif num == 598:
+        with open('leyes/ley23351.txt') as fp:
+            derogado = re.search(r'(TITULO IV\n.*?)TITULO V\n', fp.read(), re.I | re.DOTALL).group(1).strip()
+    elif num == 599:
+        with open('leyes/ley23351.txt') as fp:
+            derogado = re.search(r'(TITULO V\n.*?)TITULO VI\n', fp.read(), re.I | re.DOTALL).group(1).strip()
+    else:
+        return None
+
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": derogado,
+        "textoModificado": "",
+    }
+
 def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
@@ -317,6 +360,8 @@ def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     if opt is not None: return opt
     opt = rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
+    opt = rich_data_derogase_titulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
     opt = rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_articulo_dnu(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
@@ -368,7 +413,7 @@ for titulo_num, titulo, numart in re.findall('[^“]T[ÍI]TULO ([IXVL]+)(.*$)(?:
     titulo = titulo.strip().replace('- ', '').replace('– ', '')
     titulos.append((titulo_num, titulo, int(numart)))
 
-ESTA = None
+ESTA = 599
 if ESTA is None:
     indice = open('src/content/meta/indice.yaml', 'w')
 for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
