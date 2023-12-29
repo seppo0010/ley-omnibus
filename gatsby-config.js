@@ -9,6 +9,7 @@ const title = `Ley Omnibus comparada`
 const description = `Esta es una comparación basada en datos del proyecto de Ley de Bases y Puntos de Partida para la Libertad de los Argentinos`
 
 module.exports = {
+  pathPrefix: '/ley-omnibus',
   siteMetadata: {
     title,
     author: `@seppo0011`,
@@ -33,7 +34,7 @@ module.exports = {
         short_name: title,
         description,
         lang: `es`,
-        start_url: `/ley-omnibus/`,
+        start_url: `/`,
         background_color: `#034EA2`,
         theme_color: `#FFCB05`,
         display: `minimal-ui`,
