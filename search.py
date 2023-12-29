@@ -111,6 +111,53 @@ def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capi
         "textoModificado": art_new,
     }
 
+def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    x = x.replace('Ley de Impuesto al Valor Agregado', 'Decreto 280/97')
+    m = re.match(r'(?:.*?)Sustitúyese el (primer|segundo|tercer|cuarto) párrafo del artículo (\d+)[°º]? de la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    if m is None: return None
+    par, art, lod, ley, art_new = m.groups()
+    art_new = art_new.replace('“', '')
+    art_new = art_new.replace('”', '')
+    art_new = art_new.strip()
+
+    ley = ley.replace('.', '').replace('/', '-')
+    with open(f'leyes/{"ley" if lod == "Ley" else "decreto"}{ley}.txt') as fp:
+        old = fp.read() + '\nART'
+
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    paragraphs = re.split(r'\n+', art_old)
+    paragraphs[{
+        'primer': 0,
+        'segundo': 1,
+        'tercer': 2,
+        'cuarto': 3,
+    }[par]] = art_new
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": art_old,
+        "textoModificado": '\n'.join(paragraphs),
+    }
+
 def rich_data_sustituyese_articulo_dnu(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? del Decreto de Necesidad y Urgencia N° ([0-9/]+),? por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
@@ -197,6 +244,8 @@ def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_articulo_dnu(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
+    opt = rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
