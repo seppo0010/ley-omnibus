@@ -5,12 +5,15 @@ function replaceAccents(text) {
   return text.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
 }
 
+const title = `Ley Omnibus comparada`
+const description = `Esta es una comparación basada en datos del proyecto de Ley de Bases y Puntos de Partida para la Libertad de los Argentinos`
+
 module.exports = {
   siteMetadata: {
-    title: `LUC Comparada`,
-    description: `Esta es una comparación basada en datos del IMPO de los 135 artículos de la LUC que se pretenden anular via referéndum`,
-    author: `@raulsperoni`,
-    image: `images/LUC.jpg`,
+    title,
+    author: `@seppo0011`,
+    description,
+    image: ``,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -26,9 +29,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `LUC Comparada`,
-        short_name: `LUC Comparada`,
-        description: `Esta es una comparación basada en datos del IMPO de 135 artículos de la LUC, anteriores y vigentes, que se pretenden anular via referéndum.`,
+        name: title,
+        short_name: title,
+        description,
         lang: `es`,
         start_url: `/`,
         background_color: `#034EA2`,
@@ -69,7 +72,7 @@ module.exports = {
               seccionArticulo: node.seccionArticulo,
               textoModificado: node.textoModificado ? node.textoModificado.normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "",
               tituloArticulo: node.tituloArticulo ? node.tituloArticulo.normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "",
-              comentarioArticulo: comentario.EXPLICACION
+              // comentarioArticulo: comentario.EXPLICACION
             }
           })
         }

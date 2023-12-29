@@ -1,24 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:51:55",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N III - EDUCACI\u00d3N  ",
-        "nombreArticulo": "Art\u00edculo 143 ",
-        "textoArticulo": "    (Del Congreso Nacional de Educaci\u00f3n)\r\n\r\n   (*) ",
-        "notasArticulo": "<b><font color=\"#0000FF\">Este art\u00edculo dio nueva redacci\u00f3n a:</font></b> Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo \r\n<a href=\"/bases/leyes/18437-2008/45\" >45</a>.\r\n"
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO IV - OPERACIONES DE CR\u00c9DITO P\u00daBLICO",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "143",
     "seccionArticulo": "III",
-    "capituloArticulo": null,
-    "textoArticulo": " (Del Congreso Nacional de Educaci\u00f3n) (*) ",
-    "notasArticulo": "Este art\u00edculo dio nueva redacci\u00f3n a: Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo 45. ",
-    "textoOriginal": " (Naturaleza y Cometidos del Congreso Nacional de Educaci\u00f3n).- El Congreso Nacional de Educaci\u00f3n constituir\u00e1 el \u00e1mbito nacional de debate del Sistema Nacional de Educaci\u00f3n y tendr\u00e1 car\u00e1cter asesor y consultivo en los temas de la aplicaci\u00f3n de la presente ley. Ser\u00e1 convocado por la Comisi\u00f3n Coordinadora del Sistema Nacional de Educaci\u00f3n P\u00fablica como m\u00ednimo en el primer a\u00f1o de cada per\u00edodo de gobierno. TITULO III SISTEMA NACIONAL DE EDUCACION PUBLICA CAPITULO I PRINCIPIOS ",
-    "textoModificado": " (Del Congreso Nacional de Educaci\u00f3n).- El Congreso Nacional de Educaci\u00f3n tendr\u00e1 car\u00e1cter asesor y consultivo en los temas de aplicaci\u00f3n de la presente ley. Podr\u00e1 ser convocado por la Comisi\u00f3n Coordinadora de la Educaci\u00f3n, como m\u00e1ximo una vez por per\u00edodo de gobierno. (*) "
+    "capituloArticulo": "IV",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Pago adelantado obligatorio. Todo contribuyente que realice la manifestaci\u00f3n de adherir al presente R\u00e9gimen de Regularizaci\u00f3n de Activos prevista en el art\u00edculo 135, deber\u00e1 ingresar, dentro de la fecha l\u00edmite prevista en el art\u00edculo 137 para cada Etapa, el pago adelantado previsto en el presente art\u00edculo 144.\n\nLa falta de ingreso del pago adelantado dentro de la fecha indicada causar\u00e1 el decaimiento autom\u00e1tico de la manifestaci\u00f3n de adhesi\u00f3n al R\u00e9gimen de Regularizaci\u00f3n de Activos y excluir\u00e1 al contribuyente de todos los beneficios previstos en el r\u00e9gimen.\n\nEl pago adelantado aqu\u00ed previsto deber\u00e1 ser no menor al setenta y cinco por ciento (75%) del Impuesto Especial de Regularizaci\u00f3n establecido en el art\u00edculo 143.\n\nSi un contribuyente regularizara bienes en m\u00e1s de una Etapa, el porcentaje del p\u00e1rrafo anterior deber\u00e1 ser tomado respecto de los bienes regularizados en cada Etapa.\n\nSi la reglamentaci\u00f3n fijara la posibilidad de pagar el Impuesto Especial de Regularizaci\u00f3n respecto de los bienes abarcados por el art\u00edculo 137.1 en pesos argentinos, conforme habilita el \u00faltimo p\u00e1rrafo del art\u00edculo 141, el c\u00e1lculo del setenta y cinco por ciento (75%) deber\u00e1 ser realizado sin tomar en cuenta, a los efectos de la \u00faltima oraci\u00f3n de dicho \u00faltimo p\u00e1rrafo, el plazo transcurrido entre la fecha del pago anticipado y la fecha del pago final del Impuesto Especial de Regularizaci\u00f3n.\n\nSi una vez presentada la declaraci\u00f3n jurada y determinado el total del Impuesto Especial de Regularizaci\u00f3n se advirtiera que el pago adelantado hecho bajo este inciso fue inferior al setenta y cinco por ciento (75%) del total del impuesto a ingresar, podr\u00e1 mantener los beneficios del presente r\u00e9gimen ingresando el saldo pendiente de ingreso por los bienes regularizados en esa Etapa incrementado en un cien por ciento (100%).\n\nSupuestos especiales de exclusi\u00f3n de base imponible y pago del Impuesto Especial de Regularizaci\u00f3n."
 }

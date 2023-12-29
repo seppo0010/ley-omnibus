@@ -1,24 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:51:46",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N III - EDUCACI\u00d3N  ",
-        "nombreArticulo": "Art\u00edculo 130 ",
-        "textoArticulo": "   (Concepto)\r\n\r\n  (*) ",
-        "notasArticulo": "<b><font color=\"#0000FF\">Este art\u00edculo dio nueva redacci\u00f3n a:</font></b> Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo \r\n<a href=\"/bases/leyes/18437-2008/21\" >21</a>.\r\n"
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO IV - OPERACIONES DE CR\u00c9DITO P\u00daBLICO",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "130",
     "seccionArticulo": "III",
-    "capituloArticulo": null,
-    "textoArticulo": " (Concepto) (*) ",
-    "notasArticulo": "Este art\u00edculo dio nueva redacci\u00f3n a: Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo 21. ",
-    "textoOriginal": " (Concepto).- La educaci\u00f3n formal estar\u00e1 organizada en niveles y modalidades que conforman las diferentes etapas del proceso educativo, que aseguran su unidad y facilitan la continuidad del mismo. ",
-    "textoModificado": " (Concepto).- La educaci\u00f3n formal es aquella que, organizada en diferentes niveles o modalidades, constituye de manera unificada el sistema educativo que promueve el Estado con el objetivo de garantizar el desarrollo de competencias para la vida. La culminaci\u00f3n de sus diferentes niveles da derecho a certificaciones, t\u00edtulos o diplomas cuya validez legal ser\u00e1 reconocida en todo caso por el Estado en todo el territorio nacional. (*) "
+    "capituloArticulo": "IV",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Sujetos residentes. Podr\u00e1n adherir al presente R\u00e9gimen de Regularizaci\u00f3n de Activos establecido en este Cap\u00edtulo, las personas humanas, las sucesiones indivisas y los sujetos comprendidos en el art\u00edculo 53 de la Ley del Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones que, seg\u00fan las normas de esa ley, sean considerados residentes fiscales argentinos al 31 de diciembre de 2023, est\u00e9n o no inscriptas como contribuyentes ante la Administraci\u00f3n Federal de Ingresos p\u00fablicos."
 }

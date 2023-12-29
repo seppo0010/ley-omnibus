@@ -1,24 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:52:20",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N III - EDUCACI\u00d3N  ",
-        "nombreArticulo": "Art\u00edculo 167 ",
-        "textoArticulo": "    (Concepto).-\r\n\r\n   (*) ",
-        "notasArticulo": "<b><font color=\"#0000FF\">Este art\u00edculo dio nueva redacci\u00f3n a:</font></b> Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo \r\n<a href=\"/bases/leyes/18437-2008/76\" >76</a>.\r\n"
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO IV - OPERACIONES DE CR\u00c9DITO P\u00daBLICO",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "167",
     "seccionArticulo": "III",
-    "capituloArticulo": null,
-    "textoArticulo": " (Concepto).- (*) ",
-    "notasArticulo": "Este art\u00edculo dio nueva redacci\u00f3n a: Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo 76. ",
-    "textoOriginal": " (Concepto).- En todo centro educativo p\u00fablico de Educaci\u00f3n Inicial, Primaria, Media B\u00e1sica y Medio Superior y Educaci\u00f3n T\u00e9cnico-Profesional, funcionar\u00e1 un Consejo de Participaci\u00f3n integrado por: estudiantes o participantes, educadores o docentes, madres, padres o responsables y representantes de la comunidad. Los respectivos Consejos de Educaci\u00f3n reglamentar\u00e1n su forma de elecci\u00f3n y funcionamiento. Los Consejos de Participaci\u00f3n de Centros Educativos de Educaci\u00f3n Media B\u00e1sica, Educaci\u00f3n Media Superior y Educaci\u00f3n T\u00e9cnico-Profesional (UTU) deber\u00e1n incluir entre sus miembros, al menos un tercio de representantes estudiantiles. ",
-    "textoModificado": " (Concepto).- En todo centro educativo p\u00fablico de Educaci\u00f3n Inicial, Primaria, Secundaria y Educaci\u00f3n T\u00e9cnico-Profesional, funcionar\u00e1 un Consejo de Participaci\u00f3n integrado por: estudiantes, educadores o docentes, funcionarios no docentes, madres, padres o responsables, y representantes de la comunidad. Las respectivas Direcciones Generales propondr\u00e1n al Consejo Directivo Central la reglamentaci\u00f3n de su forma de elecci\u00f3n y funcionamiento. En el \u00e1mbito de la formaci\u00f3n en educaci\u00f3n funcionar\u00e1n los Consejos Asesores y Consultivos previstos por la Ley N\u00b0 16.507, de 14 de junio de 1994, en las condiciones establecidas por dicha norma y la reglamentaci\u00f3n dictada por el Consejo Directivo Central.(*) "
+    "capituloArticulo": "IV",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Sujetos alcanzados. Las personas humanas y sucesiones indivisas que sean residentes fiscales en Argentina en los t\u00e9rminos de los art\u00edculos 116 a 123 de la Ley del Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, podr\u00e1n optar por adherir al REIBP.\n\nLos responsables sustitutos a los que se refieren el primer art\u00edculo sin n\u00famero incorporado a continuaci\u00f3n del art\u00edculo 25 y el art\u00edculo 26 del T\u00edtulo VI de la Ley N\u00b0 23.966, de Impuesto sobre los Bienes Personales, texto ordenado en 1997 y sus modificatorias tambi\u00e9n podr\u00e1n ejercer la opci\u00f3n de adherir al REIBP por sus obligaciones relativas al Impuesto sobre los Bienes Personales por su actuaci\u00f3n en dicho car\u00e1cter.\n\nLas personas humanas que, al 31 de diciembre de 2023, no sean consideradas residentes a los efectos del Impuesto sobre los Bienes Personales, pero hubieran sido residentes fiscales en Argentina antes de esa fecha, podr\u00e1n acceder a los beneficios de esta ley en igualdad de derechos y obligaciones que las personas humanas mencionadas en el primer p\u00e1rrafo de este art\u00edculo."
 }

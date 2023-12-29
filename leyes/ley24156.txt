@@ -1,0 +1,971 @@
+
+
+ADMINISTRACION FINANCIERA Y DE LOS SISTEMAS DE CONTROL DEL SECTOR PUBLICO NACIONAL
+
+LEY 24.156
+
+Disposiciones generales. Sistemas presupuestario, de crédito público, de tesorería, de contabilidad gubernamental y de control interno. Disposiciones varias.
+
+Sancionada: Setiembre 30 de 1992
+
+Promulgada Parcialmente: Octubre 26 de 1992
+
+Ver Antecedentes Normativos
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. Sancionan con fuerza de
+
+Ley:
+
+TITULO I
+
+Disposiciones generales
+
+ARTICULO 1º.- La presente ley establece y regula la administración financiera y los sistemas de control del sector público nacional.
+
+ARTICULO 2º.- La administración financiera comprende el conjunto de sistemas, órganos, normas y procedimientos administrativos que hacen posible la obtención de los recursos públicos y su aplicación para el cumplimiento de los objetivos del Estado.
+
+ARTICULO 3º.- Los sistemas de control comprenden las estructuras de control interno y externo del sector público nacional y el régimen de responsabilidad que estipula y está asentado en la obligación de los funcionarios de rendir cuentas de su gestión.
+
+ARTICULO 4º.- Son objetivos de esta ley, y por lo tanto deben tenerse presentes, principalmente para su interpretación y reglamentación, los siguientes:
+
+a) Garantizar la aplicación de los principios de regularidad financiera, legalidad, economicidad, eficiencia y eficacia en la obtención y aplicación de los recursos públicos;
+
+b) Sistematizar las operaciones de programación, gestión y evaluación de los recursos del sector público nacional;
+
+c) Desarrollar sistemas que proporcionen información oportuna y confiable sobre el comportamiento financiero del sector público nacional útil para la dirección de las jurisdicciones y entidades y para evaluar la gestión de los responsables de cada una de las áreas administrativas;
+
+d) Establecer como responsabilidad propia de la administración superior de cada jurisdicción o entidad del sector público nacional, la implantación y mantenimiento de:
+
+i) Un sistema contable adecuado a las necesidades del registro e información y acorde con su naturaleza jurídica y características operativas;
+
+ii) Un eficiente y eficaz sistema de control interno normativo, financiero, económico y de gestión sobre sus propias operaciones, comprendiendo la práctica del control previo y posterior y de la auditoria interna;
+
+iii) Procedimientos adecuados que aseguren la conducción económica y eficiente de las actividades institucionales y la evaluación de los resultados de los programas, proyectos y operaciones de los que es responsable la jurisdicción o entidad.
+
+Esta responsabilidad se extiende al cumplimiento del requisito de contar con un personal calificado y suficiente para desempeñar con eficiencia las tareas que se les asignen en el marco de esta ley.
+
+e) Estructurar el sistema de control externo del sector público nacional.
+
+ARTICULO 5º.- La administración financiera estará integrada por los siguientes sistemas, que deberán estar interrelacionados entre si:
+
+- Sistema presupuestario;
+
+- Sistema de crédito público;
+
+- Sistema de tesorería;
+
+- Sistema de contabilidad.
+
+Cada uno de estos sistemas estará a cargo de un órgano rector, que dependerá directamente del órgano que ejerza la coordinación de todos ellos.
+
+ARTICULO 6º.- El Poder Ejecutivo nacional establecerá el órgano responsable de la coordinación de los sistemas que integran la administración financiera, el cual dirigirá y supervisará la implantación y mantenimiento de los mismos.
+
+ARTICULO 7º.- La Sindicatura General de la Nación y la Auditoria General de la Nación serán los órganos rectores de los sistemas de control interno y externo, respectivamente.
+
+ARTICULO 8º.- Las disposiciones de esta Ley serán de aplicación en todo el Sector Público Nacional, el que a tal efecto está integrado por:
+
+a) Administración Nacional, conformada por la Administración Central y los Organismos Descentralizados, comprendiendo en estos últimos a las Instituciones de Seguridad Social.
+
+b) Empresas y Sociedades del Estado que abarca a las Empresas del Estado, las Sociedades del Estado, las Sociedades Anónimas con Participación Estatal Mayoritaria, las Sociedades de Economía Mixta y todas aquellas otras organizaciones empresariales donde el Estado nacional tenga participación mayoritaria en el capital o en la formación de las decisiones societarias.
+
+c) Entes Públicos excluidos expresamente de la Administración Nacional, que abarca a cualquier organización estatal no empresarial, con autarquía financiera, personalidad jurídica y patrimonio propio, donde el Estado nacional tenga el control mayoritario del patrimonio o de la formación de las decisiones, incluyendo aquellas entidades públicas no estatales donde el Estado nacional tenga el control de las decisiones.
+
+d) Fondos Fiduciarios integrados total o mayoritariamente con bienes y/o fondos del Estado nacional.
+
+Serán aplicables las normas de esta ley, en lo relativo a la rendición de cuentas de las organizaciones privadas a las que se hayan acordado subsidios o aportes y a las instituciones o fondos cuya administración, guarda o conservación está a cargo del Estado nacional a través de sus Jurisdicciones o Entidades.
+
+(Artículo sustituido por art. 8 de la Ley N° 25.827 B.O. 22/12/2003)
+
+(Nota Infoleg: por art. 15 del Decreto N° 829/2022 B.O. 14/12/2022 se prohibe, a partir del 1° de enero de 2023 a todas las jurisdicciones, entidades y otros entes que conforman el Sector Público Nacional, en el marco de las disposiciones del presente artículo, a realizar transferencias a fondos fiduciarios, empresas públicas y otros entes del Sector Público Nacional que cuenten con fondos de libre disponibilidad. Instrúyese al MINISTERIO DE ECONOMÍA a dictar las normas complementarias y aclaratorias del artículo de la norma de referencia)
+
+(Nota Infoleg: por art. 8° de la Ley N° 27.446 B.O. 18/06/2018 se establece que las juridicciones y entidades contempladas en el presente artículo, formularán, suscribirán y remitirán las respuestas a los oficios judiciales exlucisvamente mediante el Sistema de Gestión Documental Electrónica -GDE-)
+
+(Nota Infoleg: por art. 6° del Decreto N° 1668/2012 B.O. 13/9/2012 se establece que el personal que preste servicios bajo relación de dependencia en el Sector Público Nacional definido en el presente artículo, percibirá las asignaciones familiares establecidas para los trabajadores comprendidos en el inciso a) del artículo 1° de la Ley Nº 24.714, en forma directa a través de la ANSES. Vigencia: comenzará a regir a partir de las asignaciones familiares devengadas en el mes de enero de 2013)
+
+ARTICULO 9º.- En el contexto de esta Ley se entenderá por entidad a toda organización pública con personalidad jurídica y patrimonio propio, y por jurisdicción a cada una de las siguientes unidades:
+
+a) Institucionales
+
+- Poder Legislativo
+
+- Poder Judicial
+
+- Ministerio Público
+
+- Presidencia de la Nación, Jefatura de Gabinete de Ministros, los Ministerios y Secretarías del Poder Ejecutivo Nacional
+
+b) Administrativo-Financieras
+
+- Servicio de la Deuda Pública
+
+- Obligaciones a cargo del Tesoro
+
+(Artículo sustituido por art. 53 de la Ley N° 26.078 B.O. 12/1/2006).
+
+ARTICULO 10.- El ejercicio financiero del sector público nacional, comenzará el primero de enero y terminar el treinta y uno de diciembre de cada año.
+
+TITULO II
+
+Del sistema presupuestario
+
+CAPITULO I
+
+Disposiciones generales y organización del sistema
+
+SECCION I
+
+Normas técnicas comunes
+
+ARTICULO 11.- El presente titulo establece los principios, órganos, normas y procedimientos que regirán el proceso presupuestario de todas las jurisdicciones y entidades que conforman el sector público nacional.
+
+ARTICULO 12.- Los presupuestos comprenderán todos los recursos y gastos previstos para el ejercicio, los cuales figurarán por separado y por sus montos íntegros, sin compensaciones entre si. Mostrarán el resultado económico y financiero de las transacciones programadas para ese periodo, en sus cuentas corrientes y de capital, así como la producción de bienes y servicios que generarán las acciones previstas.
+
+ARTICULO 13.- Los presupuestos de recursos contendrán la enumeración de los distintos rubros de ingresos y otras fuentes de financiamiento, incluyendo los montos estimados para cada uno de ellos en el ejercicio.
+
+Las denominaciones de los diferentes rubros de recursos deberán ser lo suficientemente específicas como para identificar las respectivas fuentes.
+
+ARTICULO 14.- En los presupuestos de gastos se utilizarán las técnicas más adecuadas para demostrar el cumplimiento de las políticas, planes de acción y producción de bienes y servicios de los organismos del sector público nacional, así como la incidencia económica y financiera de la ejecución de los gastos y la vinculación de los mismos con sus fuentes de financiamiento.
+
+La reglamentación establecerá las técnicas de programación presupuestaria y los clasificadores de gastos y recursos que serán utilizados.
+
+ARTICULO 15.- Cuando en los presupuestos de las jurisdicciones y entidades públicas se incluyan créditos para contratar obras o adquirir bienes y servicios, cuyo plazo de ejecución exceda al ejercicio financiero, se deber incluir en los mismos información sobre los recursos invertidos en años anteriores, los que se invertirán en el futuro y sobre el monto total del gasto, así como los respectivos cronogramas de ejecución física. La aprobación de los presupuestos que contengan esta información, por parte de la autoridad competente, implicara la autorización expresa para contratar las obras y/o adquirir los bienes y servicios hasta por su monto total, de acuerdo con las modalidades de contratación vigentes.
+
+Las autorizaciones para comprometer ejercicios futuros a que se refiere el presente artículo caducarán al cierre del ejercicio fiscal siguiente de aquel para el cual se hayan aprobado, en la medida que antes de esa fecha no se encuentre formalizada, mediante la documentación que corresponda, la contratación de las obras y/o la adquisición de los bienes y servicios autorizados. (Párrafo sustituido por art. 67 de la Ley N° 26.078 B.O. 12/1/2006)
+
+SECCION II
+
+Organización del sistema
+
+ARTICULO 16.- La oficina nacional de presupuesto será el órgano rector del sistema presupuestario del sector público nacional.
+
+ARTICULO 17.- La oficina nacional de presupuesto tendrá las siguientes competencias:
+
+a) Participar en la formulación de los aspectos presupuestarios de la política financiera que, para el sector público nacional, elabore el órgano coordinador de los sistemas de administración financiera;
+
+b) Formular y proponer al órgano coordinador de los sistemas de administración financiera los lineamientos para la elaboración de los presupuestos del sector público nacional;
+
+c) Dictar las normas técnicas para la formulación, programación de la ejecución, modificaciones y evaluación de los presupuestos de la administración nacional:
+
+d) Dictar las normas técnicas para la formulación y evaluación de los presupuestos de las empresas y sociedades del Estado;
+
+e) Analizar los anteproyectos de presupuesto de los organismos que integran la administración nacional y proponer los ajustes que considere necesarios;
+
+f) Analizar los proyectos de presupuesto de las empresas y sociedades del Estado y presentar los respectivos informes a consideración del Poder Ejecutivo nacional;
+
+g) Preparar el proyecto de ley de presupuesto general y fundamentar su contenido;
+
+h) Aprobar, juntamente con la Tesorería General, la programación de la ejecución del presupuesto de la administración nacional preparada por las jurisdicciones y entidades que la componen;
+
+i) Asesorar, en materia presupuestaria, a todos los organismos del sector público nacional regidos por esta ley y difundir los criterios básicos para un sistema presupuestario compatible a nivel de provincias y municipalidades;
+
+j) Coordinar los procesos de ejecución presupuestaria de la administración nacional e intervenir en los ajustes y modificaciones a los presupuestos, de acuerdo a las atribuciones que le fije la reglamentación;
+
+k) Evaluar la ejecución de los presupuestos, aplicando las normas y criterios establecidos por esta ley, su reglamentación y las normas técnicas respectivas;
+
+I) Las demás que le confiera la presente ley y su reglamento.
+
+ARTICULO 18.- Integrarán el sistema presupuestario y serán responsables de cumplir con esta ley, su reglamentación y las normas técnicas que emita la Oficina Nacional de Presupuesto, todas las unidades que cumplan funciones presupuestarias en cada una de las jurisdicciones y entidades del sector público nacional. Estas unidades ser n responsables de cuidar el cumplimiento de las políticas y lineamientos que, en materia presupuestaria, establezcan las autoridades competentes.
+
+Capítulo II
+
+Del presupuesto de la administración nacional
+
+SECCION I
+
+De la estructura de la ley de presupuesto general
+
+ARTICULO 19.- La ley de presupuesto general constará de tres títulos cuyo contenido será el siguiente:
+
+Titulo I - Disposiciones generales;
+
+Titulo II - Presupuesto de recursos y gastos de la administración central;
+
+Titulo III - Presupuestos de recursos y gastos de los organismos descentralizados.
+
+ARTICULO 20.- Las disposiciones generales constituyen las normas complementarias a la presente ley que regirán para cada ejercicio financiero.
+
+Contendrán normas que se relacionen directa y exclusivamente con la aprobación, ejecución y evaluación del presupuesto del que forman parte. En consecuencia, no podrán contener disposiciones de carácter permanente, no podrán reformar o derogar leyes vigentes, ni crear, modificar o suprimir tributos u otros ingresos.
+
+El titulo I incluirá, asimismo, los cuadros agregados que permitan una visión global del presupuesto y sus principales resultados.
+
+ARTICULO 21.- Para la administración central se consideran como recursos del ejercicio todos aquellos que se prevén recaudar durante el periodo en cualquier organismo, oficina o agencia autorizadas a percibirlos en nombre de la administración central, el financiamiento proveniente de donaciones y operaciones de crédito público, representen o no entradas de dinero efectivo al Tesoro y los excedentes de ejercicios anteriores que se estime existentes a la fecha de cierre del ejercicio anterior al que se presupuesta. No se incluirán en el presupuesto de recursos, los montos que correspondan a la coparticipación de impuestos nacionales.
+
+Se considerarán como gastos del ejercicio todos aquellos que se devenguen en el periodo, se traduzcan o no en salidas de dinero efectivo del Tesoro.
+
+ARTICULO 22.- Para los organismos descentralizados, la reglamentación establecerá los criterios para determinar los recursos que deberán incluirse como tales en cada uno de esos organismos. Los gastos se programarán siguiendo el criterio del devengado.
+
+ARTICULO 23.- No se podrá destinar el producto de ningún rubro de ingresos con el fin de atender específicamente el pago de determinados gastos, con excepción de:
+
+a) Los provenientes de operaciones de crédito publico;
+
+b) Los provenientes de donaciones, herencias o legados a favor del Estado nacional, con destino específico;
+
+c) Los que por leyes especiales tengan afectación especifica.
+
+SECCION II
+
+De la formulación del presupuesto
+
+ARTICULO 24.- El Poder Ejecutivo Nacional fijará anualmente los lineamientos generales para la formulación del proyecto de ley de presupuesto general.
+
+A tal fin, las dependencias especializadas del mismo deberán practicar una evaluación del cumplimiento de los planes y políticas nacionales y del desarrollo general del país y sobre estas bases y una proyección de las variables macroeconómicas de corto plazo, preparar una propuesta de prioridades presupuestarias en general y de planes o programas de inversiones públicas en particular.
+
+Se considerarán como elementos básicos para iniciar la formulación de los presupuestos, el programa monetario y el presupuesto de divisas formuladas para el ejercicio que será objeto de programación, así como la cuenta de inversiones del último ejercicio ejecutado y el presupuesto consolidado del sector público del ejercicio vigente.
+
+El programa monetario y el presupuesto de divisas serán remitidos al Congreso Nacional, a titulo informativo, como soporte para el análisis del proyecto de ley de presupuesto general.
+
+ARTICULO 25.- Sobre la base de los anteproyectos preparados por las jurisdicciones y organismos descentralizados, y con los ajustes que resulte necesario introducir, la Oficina Nacional de Presupuesto confeccionará el proyecto de ley de presupuesto general.
+
+El proyecto de ley deberá contener, como mínimo, las siguientes informaciones:
+
+a) Presupuesto de recursos de la administración central y de cada uno de los organismos descentralizados, clasificados por rubros;
+
+b) Presupuestos de gastos de cada una de las jurisdicciones y de cada organismo descentralizado los que identificarán la producción y los créditos presupuestarios;
+
+c) Créditos presupuestarios asignados a cada uno de los proyectos de inversión que se prevén ejecutar;
+
+d) Resultados de las cuentas corriente y de capital para la administración central, para cada organismo descentralizado y para el total de la administración nacional.
+
+El reglamento establecerá, en forma detallada, otras informaciones a ser presentadas al Congreso Nacional tanto para la administración central como para los organismos descentralizados.
+
+ARTICULO 26.- El Poder Ejecutivo Nacional presentará el proyecto de ley de presupuesto general a la Cámara de Diputados de la Nación, antes del 15 de setiembre del año anterior para el que regirá , acompañado de un mensaje que contenga una relación de los objetivos que se propone alcanzar y las explicaciones de la metodología utilizada para las estimaciones de recursos y para la determinación de las autorizaciones para gastar, de los documentos que señala el artículo 24, así como las demás informaciones y elementos de juicio que estime oportunos.
+
+ARTICULO 27.- Si al inicio del ejercicio financiero no se encontrare aprobado el presupuesto general, regir el que estuvo en vigencia el año anterior, con los siguientes ajustes que deber introducir el Poder Ejecutivo Nacional en los presupuestos de la administración central y de los organismos descentralizados:
+
+1.- En los presupuestos de recursos:
+
+a) Eliminar los rubros de recursos que no puedan ser recaudados nuevamente;
+
+b) Suprimir los ingresos provenientes de operaciones de crédito‚ público autorizadas, en la cuantía en que fueron utilizadas;
+
+c) Excluirá los excedentes de ejercicios anteriores correspondientes al ejercicio financiero anterior, en el caso que el presupuesto que se está ejecutando hubiera previsto su utilización;
+
+d) Estimará cada uno de los rubros de recursos para el nuevo ejercicio;
+
+e) Incluirá los recursos provenientes de operaciones de crédito público en ejecución, cuya percepción se prevea ocurrirá en el ejercicio.
+
+2. En los presupuestos de gastos:
+
+a) Eliminará los créditos presupuestarios que no deban repetirse por haberse cumplido los fines para los cuales fueron previstos;
+
+b) Incluir los créditos presupuestarios indispensables para el servicio de la deuda y las cuotas que se deban aportar en virtud de compromisos derivados de la ejecución de tratados internacionales;
+
+c) Incluirá los créditos presupuestarios indispensables para asegurar la continuidad y eficiencia de los servicios;
+
+d) Adaptará los objetivos y las cuantificaciones en unidades físicas de los bienes y servicios a producir por cada entidad, a los recursos y créditos presupuestarios que resulten de los ajustes anteriores.
+
+(Nota Infoleg: Por art. 56 de la Ley Nº 25.725 B.O. 10/01/2003 se dispone que, "en caso de operarse el supuesto previsto en el presente artículo, se faculta al JEFE DE GABINETE DE MINISTROS para adecuar el Presupuesto General de la Nación, a los efectos de incorporar las partidas presupuestarias ejecutadas durante el período en que haya regido la prórroga aquí prevista, sin exceder el total de créditos aprobado por la Ley de Presupuesto del año correspondiente".)
+
+ARTICULO 28.- Todo incremento del total del presupuesto de gastos previstos en el proyecto presentado por el Poder Ejecutivo Nacional, deber contar con el financiamiento respectivo.
+
+SECCION III
+
+De la ejecución del presupuesto
+
+ARTICULO 29.- Los créditos del presupuesto de gastos, con los niveles de agregación que haya aprobado el Congreso Nacional, según las pautas establecidas en el artículo 25 de esta ley, constituyen el límite máximo de las autorizaciones disponibles para gastar.
+
+ARTICULO 30.- Una vez promulgada la ley de presupuesto general, el Poder Ejecutivo Nacional decretará la distribución administrativa del presupuesto de gastos.
+
+La distribución administrativa del presupuesto de gastos consistirá en la presentación desagregada hasta el último nivel previsto en los clasificadores y categorías de programación utilizadas, de los créditos y realizaciones contenidas en la ley de presupuesto general. El dictado de este instrumento normativo implicará el ejercicio de la atribución constitucional del Poder Ejecutivo para decretar el uso de las autorizaciones para gastar y el empleo de los recursos necesarios para su financiamiento.
+
+ARTICULO 31.- Se considera gastado un crédito y por lo tanto ejecutado el presupuesto de dicho concepto, cuando queda afectado definitivamente al devengarse un gasto. La reglamentación establecerá los criterios y procedimientos para la aplicación de este artículo y corresponderá al órgano rector del sistema la regulación de los demás aspectos conceptuales y operativos que garanticen su plena vigencia.
+
+ARTICULO 32.- Las jurisdicciones y entidades comprendidas en esta ley están obligados a llevar los registros de ejecución presupuestaria en las condiciones que les fije la reglamentación. Como mínimo deberán registrarse la liquidación o el momento en que se devenguen los recursos y su recaudación efectiva y, en materia de presupuesto de gastos, además del momento del devengado, según lo establece el artículo precedente, las etapas de compromiso y del pago.
+
+El registro del compromiso se utilizara como mecanismo para afectar preventivamente la disponibilidad de los créditos presupuestarios y, el del pago, para reflejar la cancelación de las obligaciones asumidas.
+
+ARTICULO 33.- No se podrán adquirir compromisos para los cuales no quedan saldos disponibles de créditos presupuestarios, ni disponer de los créditos para una finalidad distinta a la prevista.
+
+(Segundo párrafo vetado por art. 1º del Decreto N° 1957/92 B.O. 29/10/1992)
+
+ARTICULO 34.- A los fines de garantizar una correcta ejecución de los presupuestos y de compatibilizar los resultados esperados con los recursos disponibles, todas las Jurisdicciones y Entidades deberán programar, para cada ejercicio la ejecución física y financiera de los presupuestos, siguiendo las normas que fijará la reglamentación y las disposiciones complementarias y procedimientos que dicten los órganos rectores de los sistemas presupuestarios y de tesorería, excepción hecha de las Jurisdicciones del PODER LEGISLATIVO, del PODER JUDICIAL y del MINISTERIO PUBLICO que continuarán rigiéndose por las disposiciones contenidas en el artículo 16 de la Ley N° 16.432, en su artículo 5°, primer párrafo de la Ley N° 23.853 y en el artículo 22 de la Ley N° 24.946, respectivamente.
+
+Dicha programación será ajustada y las respectivas cuentas aprobadas por los órganos rectores en la forma y para los períodos que se establezcan.
+
+El monto total de las cuotas de compromiso fijadas para el ejercicio no podrá ser superior al monto de los recursos recaudados durante éste.
+
+(Artículo sustituido por art. 26 de la Ley Nº 25.725 B.O. 10/01/2003)
+
+ARTICULO 35.- Los órganos de los tres poderes del Estado determinarán, para cada uno de ellos, los limites cuantitativos y cualitativos mediante los cuales podrán contraer compromisos por sí, o por la competencia especifica que asignen, al efecto, a los funcionarios de sus dependencias. La competencia así asignada será indelegable. La reglamentación establecerá la competencia para ordenar pagos y efectuar desembolsos y las habilitaciones para pagar que no estén expresamente establecidas en esta ley.
+
+ARTICULO 36.- Facúltase al órgano coordinador de los sistemas de administración financiera a afectar los créditos presupuestarios de las jurisdicciones y organismos descentralizados, destinados al pago de los servicios públicos y de otros conceptos que determine la reglamentación.
+
+ARTICULO 37.- Quedan reservadas al Congreso Nacional las decisiones que afecten el monto total del presupuesto y el monto del endeudamiento previsto, así como las partidas que refieran a gastos reservados y de inteligencia.
+
+El jefe de Gabinete de Ministros puede disponer las reestructuraciones presupuestarias que considere necesarias dentro del monto total aprobado.
+
+Dichas reestructuraciones no podrán superar el siete coma cinco por ciento (7,5%) para el ejercicio 2017 y el cinco por ciento (5%) para el ejercicio 2018 y siguientes, del monto total aprobado por cada ley de presupuesto, ni el quince por ciento (15%) del presupuesto aprobado por finalidad, cuando se trate de incrementos de gastos corrientes en detrimento de gastos de capital o de aplicaciones financieras, y/o modificaciones en la distribución de las finalidades.
+
+A tales fines, exceptúase al jefe de Gabinete de Ministros de lo establecido en el artículo 15 de la ley 25.917.
+
+Las reestructuraciones presupuestarias realizadas por la Jefatura de Gabinete de Ministros, en función de las facultades establecidas en el presente artículo, deberán ser notificadas fehacientemente a ambas comisiones de Presupuesto y Hacienda del Honorable Congreso de la Nación dentro de los cinco (5) días hábiles de su dictado, especificándose los montos dinerarios, finalidades del gasto, metas físicas y programas modificados.
+
+La reglamentación establecerá los alcances y mecanismos para efectuar las modificaciones a la ley de presupuesto general que resulten necesarios durante su ejecución.
+
+(Artículo sustituido por art. 1º de la Ley Nº 27.342 B.O. 21/12/2016)
+
+ARTICULO 38.- Toda ley que autorice gastos no previstos en el presupuesto general deber especificar las fuentes de los recursos a utilizar para su financiamiento.
+
+ARTICULO 39.- El Poder Ejecutivo Nacional podrá disponer autorizaciones para gastar no incluidas en la ley de presupuesto general para atender el socorro inmediato por parte del gobierno en casos de epidemias, inundaciones, terremotos u otros de fuerza mayor.
+
+Estas autorizaciones deberán ser comunicadas al Congreso Nacional en el mismo acto que las disponga, acompañando los elementos de juicio que permitan apreciar la imposibilidad de atender las situaciones que las motivaron dentro de las revisiones ordinarias o con saldos disponibles en rubros presupuestarios imputables.
+
+Las autorizaciones así dispuestas se incorporaran al presupuesto general.
+
+ARTICULO 40.- Las sumas a recaudar que no pudieren hacerse efectivas por resultar incobrables, podrán ser declaradas tales por el Poder Ejecutivo Nacional o por los funcionarios que determine la reglamentación, una vez agotados los medios para lograr su cobro.
+
+La declaración de incobrable no implicará la extinción de los derechos del Estado, ni de la responsabilidad en que pudiera incurrir el funcionario o empleado recaudador o cobrador, si tal situación le fuera imputable.
+
+SECCION IV
+
+Del cierre de cuentas
+
+ARTICULO 41.- Las cuentas del presupuesto de recursos y gastos se cerrarán al 31 de diciembre de cada año. Después de esa fecha los recursos que se recauden se considerarán parte del presupuesto vigente, con independencia de la fecha en que se hubiere originado la obligación de pago o liquidación de los mismos.
+
+Con posterioridad al 31 de diciembre de cada año no podrán asumirse compromisos ni devengarse gastos con cargo al ejercicio que se cierra en esa fecha.
+
+ARTICULO 42.- Los gastos comprometidos y no devengados al 31 de diciembre de cada año se afectarán automáticamente al ejercicio siguiente, imputando los mismos a los créditos disponibles para ese ejercicio.
+
+Los gastos devengados y no pagados al 31 de diciembre de cada año podrán ser cancelados, durante el año siguiente, con cargo a las disponibilidades en caja y bancos existentes a la fecha señalada.
+
+Los gastos mencionados en el párrafo anterior también podrán ser cancelados, por carácter y fuente de financiamiento, con cargo a los recursos que se perciban en el ejercicio siguiente.
+
+La, programación de la ejecución financiera, prevista en el artículo 34 de la Ley 24.156, del ejercicio fiscal siguiente deberá ajustarse a fin de atender las obligaciones financieras determinadas en el párrafo precedente.
+
+El Poder Ejecutivo nacional promoverá, en la ley de Presupuesto del ejercicio fiscal siguiente la aprobación de las obligaciones financieras determinadas en el tercer párrafo del presente artículo.
+
+El reglamento establecerá los plazos y los mecanismos para la aplicación de estas disposiciones.
+
+(Artículo sustituido por art. 79 de la Ley Nº 26.546 B.O. 27/11/2009)
+
+ARTICULO 43.- Al cierre del ejercicio se reunirá información de los entes responsables de la liquidación y captación de recursos de la administración nacional y se procederá al cierre del presupuesto de recursos de la misma.
+
+Del mismo modo procederán los organismos ordenadores de gastos y pagos con el presupuesto de gastos de la administración nacional.
+
+Esta información, junto al análisis de correspondencia entre los gastos y la producción de bienes y servicios que preparará la Oficina Nacional de Presupuesto, será centralizada en la Contaduría General de la Nación para la elaboración de la cuenta de inversión del ejercicio que, de acuerdo al artículo 95, debe remitir anualmente el Poder Ejecutivo Nacional al Congreso Nacional.
+
+SECCION V
+
+De la evaluación de la ejecución presupuestaria
+
+ARTICULO 44.- La Oficina Nacional de Presupuesto evaluará la ejecución de los presupuestos de la administración nacional tanto en forma periódica, durante el ejercicio, como al cierre del mismo.
+
+Para ello, las jurisdicciones y entidades de la administración nacional deberán:
+
+a) Llevar registros de información de la gestión física de la ejecución de sus presupuestos, de acuerdo con las normas técnicas correspondientes;
+
+b) Participar los resultados de la ejecución física del presupuesto a la Oficina Nacional de Presupuesto.
+
+ARTICULO 45.- Con base en la información que señala el artículo anterior, en la que suministre el sistema de contabilidad gubernamental y otras que se consideren pertinentes, la Oficina Nacional de Presupuesto realizará un análisis crítico de los resultados físicos y financieros obtenidos y de los efectos producidos por los mismos, interpretará las variaciones operadas con respecto a lo programado, procurará determinar sus causas y preparará informes con recomendaciones para las autoridades superiores y los responsables de los organismos afectados.
+
+La reglamentación establecerá los métodos y procedimientos para la aplicación de las disposiciones contenidas en esta sección, así como el uso que se dará a la información generada
+
+Capítulo III
+
+Del régimen presupuestario de Empresas Públicas, Fondos Fiduciarios y Entes Públicos no comprendidos en Administración Nacional.
+
+(Denominación del Capítulo sustituida por art. 71 de la Ley N° 25.565 B.O. 21/03/2002)
+
+ARTICULO 46.- Los directorios o máxima autoridad ejecutiva de las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional, aprobarán el proyecto de presupuesto anual de su gestión y lo remitirán a la Oficina Nacional de Presupuesto, antes del 30 de setiembre del año anterior al que regirá. Los proyectos de presupuesto deberán expresar las políticas generales y los lineamientos específicos que, en materia presupuestaria, establezca el órgano coordinador de los sistemas de administración financiera y la autoridad de la jurisdicción correspondiente; contendrán los planes de acción, las estimaciones de gastos y su financiamiento, el presupuesto de caja y los recursos humanos a utilizar y permitirán establecer los resultados operativo, económico y financiero previstos para la gestión respectiva.
+
+ARTICULO 47.- Los proyectos de presupuesto de financiamiento y de gastos deben estar formulados utilizando el momento del devengado de las transacciones como base contable.
+
+ARTICULO 48.- La Oficina Nacional de Presupuesto analizará los proyectos de presupuesto de las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional y preparará un informe destacando si los mismos se encuadran en el marco de las políticas, planes y estrategias fijados para este tipo de instituciones y aconsejando los ajustes a practicar en el proyecto de presupuesto si, a su juicio, la aprobación del mismo sin modificaciones puede causar un perjuicio patrimonial al Estado o atentar contra los resultados de las políticas y planes vigentes.
+
+ARTICULO 49.- Los proyectos de presupuesto, acompañados del informe mencionado en el artículo anterior, serán sometidos a la aprobación del Poder Ejecutivo Nacional de acuerdo con las modalidades y los plazos que establezca la reglamentación. El Poder Ejecutivo Nacional aprobará, en su caso con los ajustes que considere convenientes, antes del 31 de diciembre de cada año, los presupuestos de las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional, elevados en el plazo previsto en el artículo 46 de la presente ley, pudiendo delegar esta atribución en el ministro de Economía y Obras y Servicios Públicos.
+
+Si las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional no presentaren sus proyectos de presupuesto en el plazo previsto, la Oficina Nacional de Presupuesto elaborará de oficio los respectivos presupuestos y los someterá a consideración del Poder Ejecutivo Nacional.
+
+ARTICULO 50.- Los representantes estatales que integran los órganos de las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional, estatutariamente facultados para aprobar los respectivos presupuestos, deberán proponer y votar el presupuesto aprobado por el Poder Ejecutivo Nacional.
+
+ARTICULO 51.- El Poder Ejecutivo Nacional hará publicar en el Boletín Oficial una síntesis de los presupuestos de las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional, con los contenidos básicos que señala el artículo 46.
+
+ARTICULO 52.- Las modificaciones a realizar a los presupuestos de las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional durante su ejecución y que impliquen la disminución de los resultados operativo o económico previstos, alteración sustancial de la inversión programada, o el incremento del endeudamiento autorizado, deben ser aprobadas por el Poder Ejecutivo nacional, previa opinión de la Oficina Nacional de Presupuesto. En el marco de esta norma y con opinión favorable de dicha oficina, las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional establecerán su propio sistema de modificaciones presupuestarias.
+
+ARTICULO 53.- Al cierre de cada ejercicio financiero las Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional procederán al cierre de cuentas de su presupuesto de financiamiento y de gastos.
+
+ARTICULO 54.- Se prohíbe a las entidades del sector público nacional realizar aportes o transferencias a Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional cuyo presupuesto no esté‚ aprobado en los términos de esta ley, requisito que también será imprescindible para realizar operaciones de crédito público.
+
+(Nota Infoleg: Por art. 71 de la Ley N° 25.565 B.O. 21/03/2002 se sustituye la denominación en los artículos del presente capítulo III, "empresas y sociedades del Estado" por "Empresas Públicas y Entes Públicos no comprendidos en Administración Nacional".)
+
+(Nota Infoleg: Por art. 60 de la Ley N° 25.565 B.O. 21/03/2002 se establece que el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados queda comprendido en los alcances del presente Capítulo.)
+
+Capítulo IV
+
+Del presupuesto consolidado del sector público nacional
+
+ARTICULO 55.- La Oficina Nacional de Presupuesto preparará anualmente el presupuesto consolidado del sector público, el cual presentará información sobre las transacciones netas que realizará este sector con el resto de la economía y contendrá, como mínimo, la siguiente información:
+
+a) Una síntesis del presupuesto general de la Administración nacional;
+
+b) Los aspectos básicos de los presupuestos de cada una de las empresas y sociedades del Estado;
+
+c) La consolidación de los recursos y gastos públicos y su presentación en agregados institucionales útiles para el análisis económico;
+
+d) Una referencia a los principales proyectos de inversión en ejecución por el sector público nacional;
+
+e) Información de la producción de bienes y servicios y de los recursos humanos que se estiman utilizar, así como la relación de ambos con los recursos financieros;
+
+f) Un análisis de los efectos económicos de los recursos y gastos consolidados sobre el resto de la economía.
+
+El presupuesto consolidado del sector público nacional será presentado al Poder Ejecutivo Nacional, antes del 31 de marzo del año de su vigencia. Una vez aprobado por el Poder Ejecutivo Nacional será remitido para conocimiento del Congreso Nacional.
+
+TITULO III
+
+Del sistema de crédito público
+
+ARTICULO 56.- El crédito público se rige por las disposiciones de esta ley, su reglamento y por las leyes que aprueban las operaciones específicas.
+
+Se entenderá por crédito público la capacidad que tiene el Estado de endeudarse con el objeto de captar medios de financiamiento para realizar inversiones reproductivas, para atender casos de evidente necesidad nacional, para reestructurar su organización o para refinanciar sus pasivos, incluyendo los intereses respectivos.
+
+Se prohíbe realizar operaciones de crédito público para financiar gastos operativos.
+
+(Nota Infoleg: por art. 1° del Decreto N° 436/2023 B.O. 30/8/2023 se suspende para el corriente Ejercicio, lo dispuesto en el último párrafo del presente artículo. Vigencia: a partir de su publicación en el BOLETÍN OFICIAL. Suspensiones anteriores: art. 2° del Decreto N° 829/2022 B.O. 14/12/2022; art. 1° del Decreto N° 809/2021 B.O. 26/11/2021; art. 4°, segundo párrafo del Decreto N° 668/2019 B.O. 30/9/2019)
+
+ARTICULO 57.- El endeudamiento que resulte de las operaciones de crédito público se denominará deuda pública y puede originarse en:
+
+a) La emisión y colocación de títulos, bonos u obligaciones de largo y mediano plazo, constitutivos de un empréstito.
+
+b) La emisión y colocación de Letras del Tesoro cuyo vencimiento supere el ejercicio financiero.
+
+c) La contratación de préstamos.
+
+d) La contratación de obras, servicios o adquisiciones cuyo pago total o parcial se estipule realizar en el transcurso de más de UN (1) ejercicio financiero posterior al vigente; siempre y cuando los conceptos que se financien se hayan devengado anteriormente.
+
+e) El otorgamiento de avales, fianzas y garantías, cuyo vencimiento supere el período del ejercicio financiero.
+
+f) La consolidación, conversión y renegociación de otras deudas.
+
+A estos fines podrá afectar recursos específicos, crear fideicomisos, otorgar garantías sobre activos o recursos públicos actuales o futuros, incluyendo todo tipo de tributos, tasas o contribuciones, cederlos o darlos en pago, gestionar garantías de terceras partes, contratar avales, fianzas, garantías reales o de cualquier otro modo mejorar las condiciones de cumplimiento de las obligaciones contraídas o a contraerse.
+
+No se considera deuda pública la deuda del Tesoro ni las operaciones que se realicen en el marco del artículo 82 de esta ley.
+
+(Artículo sustituido por art. 10 del Decreto N° 1387/2001 B.O. 02/11/2001)
+
+(Nota Infoleg: Ver art. 2° del Decreto N° 1506/2001 B.O. 23/11/2001, lo que no se computará a los efectos de determinar el monto de la deuda pública nacional.)
+
+ARTICULO 58.- A los efectos de esta ley, la deuda pública se clasificará en interna y externa y en directa e indirecta.
+
+Se considerará deuda interna, aquella contraída con personas físicas o jurídicas residentes o domiciliadas en la República Argentina y cuyo pago puede ser exigible dentro del territorio nacional. Por su parte, se entenderá por deuda externa, aquella contraída con otro Estado u organismo internacional o con cualquier otra persona física o jurídica sin residencia o domicilio en la República Argentina y cuyo pago puede ser exigible fuera de su territorio.
+
+La deuda pública directa de la administración central es aquella asumida por la misma en calidad de deudor principal.
+
+La deuda pública indirecta de la Administración central es constituida por cualquier persona física o jurídica, pública o privada, distinta de la misma, pero que cuenta con su aval, fianza o garantía.
+
+ARTICULO 59.- Ninguna entidad del sector público nacional podrá iniciar trámites para realizar operaciones de crédito público sin la autorización previa del órgano coordinador de los sistemas de administración financiera.
+
+ARTICULO 60.- Las entidades de la administración nacional no podrán formalizar ninguna operación de crédito público que no esté contemplada en la ley de presupuesto general del año respectivo o en una ley específica.
+
+La ley de presupuesto general debe indicar como mínimo las siguientes características de las operaciones de crédito público autorizadas:
+
+- Tipo de deuda, especificando si se trata de interna o externa;
+
+- Monto máximo autorizado para la operación;
+
+- Plazo mínimo de amortización;
+
+- Destino del financiamiento.
+
+Si las operaciones de crédito público de la administración nacional no estuvieran autorizadas en la ley de presupuesto general del año respectivo, requerirán de una ley que las autorice expresamente.
+
+Se exceptúa del cumplimiento de las disposiciones establecidas precedentemente en este artículo, a las operaciones de crédito público que formalice el Poder Ejecutivo Nacional con los organismos financieros internacionales de los que la Nación forma parte.
+
+ARTICULO 61.- En los casos que las operaciones de crédito público originen la constitución de deuda pública externa antes de formalizarse el acto respectivo y cualquiera sea el ente del sector público emisor o contratante, deberá emitir opinión el Banco Central de la República Argentina sobre el impacto de la operación en la balanza de pagos.
+
+ARTICULO 62.- Cumplidos los requisitos fijados en los artículos 59 y 61 de esta ley, las empresas y sociedades del Estado podrán realizar operaciones de crédito público dentro de los límites que fije su responsabilidad patrimonial y de acuerdo con los indicadores que al respecto establezca la reglamentación. Cuando estas operaciones requieran de avales, fianzas o garantías de cualquier naturaleza de la administración central, la autorización para su otorgamiento debe estar prevista en la ley de presupuesto general o en una ley específica.
+
+ARTICULO 63.- El órgano coordinador de los sistemas de administración financiera fijará las características y condiciones no previstas en esta ley, para las operaciones de crédito público que realicen las entidades del sector público nacional.
+
+ARTICULO 64.- Los avales, fianzas o garantías de cualquier naturaleza, que cualquier ente público otorgue a personas ajenas a este sector, requerirán de una ley. Se excluyen de esta disposición a los avales, fianzas o garantías que otorguen las instituciones públicas financieras.
+
+ARTICULO 65.- El PODER EJECUTIVO NACIONAL podrá realizar operaciones de crédito público para reestructurar la deuda pública y los avales otorgados en los términos de los artículos 62 y 64 mediante su consolidación, conversión o renegociación, en la medida que ello implique un mejoramiento de los montos, plazos y/o intereses de las operaciones originales.
+
+Para el caso de deuda pública y los avales otorgados en los términos de los artículos 62 y 64, a los que resulte de aplicación el COEFICIENTE DE ESTABILIZACION DE REFERENCIA (CER), el PODER EJECUTIVO NACIONAL podrá realizar las operaciones mencionadas en el párrafo anterior, siempre que la nueva deuda no ajuste por el mencionado coeficiente y que resulte una mejora que se refiera indistintamente al monto o al plazo de la operación.
+
+(Artículo sustituido por art. 58 de la Ley N° 26.337 B.O. 28/12/2007) 
+
+ARTICULO 66.- Las operaciones de crédito público realizadas en contravención a las normas dispuestas en la presente ley son nulas y sin efecto, sin perjuicio de la responsabilidad personal de quienes las realicen.
+
+Las obligaciones que se derivan de las mismas no serán oponibles ni a la administración central ni a cualquier otra entidad contratante del sector público nacional.
+
+ARTICULO 67.- El órgano coordinador de los sistemas de administración financiera tendrá la facultad de redistribuir o reasignar los medios de financiamiento obtenidos mediante operaciones de crédito público, siempre que así lo permitan las condiciones de la operación respectiva y las normas presupuestarias.
+
+ARTICULO 68.- La Oficina Nacional de Crédito Público será el órgano rector del sistema de Crédito Público, con la misión de asegurar una eficiente programación, utilización y control de los medios de financiamiento que se obtengan mediante operaciones de crédito público.
+
+ARTICULO 69.- En el marco del artículo anterior la Oficina Nacional de Crédito Público tendrá competencia para:
+
+a) Participar en la formulación de los aspectos crediticios de la política financiera que, para el sector público nacional, elabore el órgano coordinador de los sistemas de administración financiera;
+
+b) Organizar un sistema de información sobre el mercado de capitales de crédito;
+
+c) Coordinar las ofertas de financiamiento recibidas por el sector público nacional;
+
+d) Tramitar las solicitudes de autorización para iniciar operaciones de crédito público;
+
+e) Normalizar los procedimientos de emisión, colocación y rescate de empréstitos, así como los de negociación, contratación y amortización de préstamos, en todo el ámbito del sector público nacional;
+
+f) Organizar un sistema de apoyo y orientación a las negociaciones que se realicen para emitir empréstitos o contratar préstamos e intervenir en las mismas;
+
+g) Fiscalizar que los medios de financiamiento obtenidos mediante operaciones de crédito público se apliquen a sus fines específicos;
+
+h) Mantener un registro actualizado sobre el endeudamiento público, debidamente integrado al sistema de contabilidad gubernamental;
+
+i) Establecer las estimaciones y proyecciones presupuestarias del servicio de la deuda pública y supervisar su cumplimiento;
+
+j) Todas las demás que le asigne la reglamentación.
+
+ARTICULO 70.- El servicio de la deuda estará constituido por la amortización del capital y el pago de los intereses comisiones y otros cargos que eventualmente puedan haberse convenido en las operaciones de crédito público.
+
+Los presupuestos de las entidades del sector público deberán formularse previendo los créditos necesarios para atender el servicio de la deuda.
+
+El Poder Ejecutivo Nacional podrá debitar de las cuentas bancarias de las entidades que no cumplan en término el servicio de la deuda pública, el monto de dicho servicio y efectuarlo directamente.
+
+ARTICULO 71.- Se exceptúan de las disposiciones de esta ley las operaciones de crédito que realice el Banco Central de la República Argentina con instituciones financieras internacionales para garantizar la estabilidad monetaria y cambiaria.
+
+(Nota Infoleg: Por art. 60 de la Ley N° 25.565 B.O. 21/03/2002 se establece que el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados queda comprendido en los alcances del presente Título III.)
+
+TITULO IV
+
+Del sistema de tesorería
+
+ARTICULO 72.- El sistema de tesorería está compuesto por el conjunto de órganos, normas y procedimientos que intervienen en la recaudación de los ingresos y en los pagos que configuran el flujo de fondos del sector público nacional, así como en la custodia de las disponibilidades que se generen.
+
+ARTICULO 73.- La Tesorería General de la Nación será el órgano rector del sistema de tesorería y, como tal coordinará el funcionamiento de todas las unidades o servicios de tesorería que operen en el sector público nacional, dictando las normas y procedimientos conducentes a ello.
+
+ARTICULO 74.- La Tesorería General tendrá competencia para:
+
+a) Participar en la formulación de los aspectos monetarios de la política financiera, que para el sector público nacional, elabore el órgano coordinador de los sistemas de administración financiera;
+
+b) Elaborar juntamente con la Oficina Nacional de Presupuesto la programación de la ejecución del presupuesto de la administración nacional y programar el flujo de fondos de la administración central;
+
+c) Centralizar la recaudación de los recursos de la administración central y distribuirlos en las tesorerías jurisdiccionales para que éstas efectúen el pago de las obligaciones que se generen;
+
+d) Conformar el presupuesto de caja de los organismos descentralizados, supervisar su ejecución y asignar las cuotas de las transferencias que éstos recibirán de acuerdo con la ley general de presupuesto;
+
+e) Administrar el sistema de caja única o de fondo unificado de la administración nacional que establece el artículo 80 de esta ley;
+
+f) Emitir letras del Tesoro, en el marco del artículo 82 de esta ley;
+
+g) Ejercer la supervisión técnica de todas las tesorerías que operen en el ámbito del sector público nacional;
+
+h) Elaborar anualmente el presupuesto de caja del sector público y realizar el seguimiento y evaluación de su ejecución;
+
+i) Coordinar con el Banco Central de la República Argentina la administración de la liquidez del sector público nacional en cada coyuntura económica, fijando políticas sobre mantenimiento y utilización de los saldos de caja;
+
+j) Emitir opinión previa sobre las inversiones temporarias de fondos que realicen las Entidades del Sector Público Nacional definidas en el artículo 80 de la presente ley, en Instituciones Financieras del país o del extranjero, en los términos que establezcan conjuntamente la Secretaría de Hacienda y la Secretaría de Finanzas dependientes del Ministerio de Economía y Finanzas Públicas. Las entidades integrantes del Sistema Bancario Nacional deberán informar a la Secretaría de Hacienda, a su requerimiento, las inversiones temporarias correspondientes a los Organismos del Sector Público Nacional alcanzados por el presente; (Inciso sustituido por art. 81 de la Ley Nº 26.546 B.O. 27/11/2009)
+
+(Nota Infoleg: por art. 5 del Decreto N° 712/2022 B.O. 25/10/2022, se  suspende, durante la vigencia del Decreto N° 668/19, las disposiciones del inciso j) del presente artículo. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL)
+
+(Nota Infoleg: por art. 14 del Decreto N° 88/2022 B.O. 22/2/2022 se prorroga hasta el 31 de diciembre de 2022 el Decreto N° 668/2019 y, mientras dure su vigencia, suspéndanse las disposiciones del inciso j del artículo 74 de la Ley N° 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional y sus modificatorias. Vigencia: a partir del día de su publicación en el BOLETÍN OFICIAL.)
+
+(Nota Infoleg: por art. 76 de la Ley Nº 27.591 B.O. 14/12/2020 se prorroga hasta el 31 de diciembre de 2021 el Decreto N° 668/2019, mientras dure su vigencia, suspéndense las disposiciones del inciso j) del artículo 74 de la Ley 24.156 de Administración Financiera y de los Sistemas de Control del Sector Público Nacional y sus modificaciones.)
+
+k) Custodiar los títulos y valores de propiedad de la administración central o de terceros, que se pongan a su cargo;
+
+l) Todas las demás funciones que en el marco de esta ley, le adjudique la reglamentación.
+
+ARTICULO 75.- La Tesorería General estará a cargo de un tesorero general que será asistido por un subtesorero general. Ambos funcionarios serán designados por el Poder Ejecutivo Nacional.
+
+Para ejercer ambos cargos se requerirá titulo universitario en alguna de las ramas de las ciencias económicas y una experiencia en el área financiera o de control no inferior a cinco años.
+
+ARTICULO 76.- El tesorero general dictará el reglamento interno de la Tesorería General de la Nación y asignará funciones al subtesorero general.
+
+ARTICULO 77.- Funcionará una Tesorería Central en cada jurisdicción y entidad de la administración nacional. Estas tesorerías centralizarán la recaudación de las distintas cajas de su jurisdicción, recibirán los fondos puestos a disposición de las mismas y cumplirán los pagos que autorice el respectivo servicio administrativo.
+
+ARTICULO 78.- Los fondos que administren las jurisdicciones y entidades de la administración nacional se depositarán en cuentas del sistema bancario a la orden conjunta del jefe del servicio administrativo y del tesorero o funcionario que haga sus veces.
+
+ARTICULO 79.- Las embajadas, legaciones y consulados serán agentes naturales de la Tesorería General de la Nación en el exterior. Las embajadas y legaciones podrán ser erigidas en tesorerías por el Poder Ejecutivo Nacional. A tal efecto actuarán como agentes receptores de fondos y pagadores de acuerdo a las instrucciones que dicte la Tesorería General de la Nación.
+
+ARTICULO 80.- El órgano central de los sistemas de administración financiera instituirá un sistema de caja única o de fondo unificado, según lo estime conveniente, que le permita disponer de las existencias de caja de todas las jurisdicciones y entidades de la administración nacional, en el porcentaje que disponga el reglamento de la ley.
+
+ARTICULO 81.- Los órganos de los tres poderes del Estado y la autoridad superior de cada una de las entidades descentralizadas que conformen la Administración Nacional, podrán autorizar el funcionamiento de fondos rotatorios, fondos rotatorios internos y/o cajas chicas, con el régimen y los límites que establezcan en sus respectivas reglamentaciones.
+
+Los gastos que se realicen a través del régimen de fondos rotatorios, fondos rotatorios internos y/o cajas chicas o similares, quedan excluidos del Régimen de Contrataciones de la Administración Nacional.
+
+A estos efectos, las tesorerías correspondientes podrán entregar los fondos necesarios con carácter de anticipo, formulando el cargo correspondiente a sus receptores.
+
+(Artículo sustituido por art. 58 de la Ley N° 27.198 B.O. 4/11/2015)
+
+ARTICULO 82.- La Tesorería General de la Nación podrá emitir letras del Tesoro para cubrir deficiencias estacionales de caja, hasta el monto que fije anualmente la ley de presupuesto general. Estas letras deben ser reembolsadas durante el mismo ejercicio financiero en que se emiten. De superarse ese lapso sin ser reembolsadas se transformarán en deuda pública y deben cumplirse para ello con los requisitos que al respecto se establece en el titulo III de esta ley.
+
+ARTICULO 83.- Los organismos descentralizados, dentro de los limites que autorizan los respectivos presupuestos y previa conformidad de la Tesorería General de la Nación, podrán tomar prestamos temporarios para solucionar sus déficit estacionales de caja, siempre que cancelen las operaciones durante el mismo ejercicio financiero.
+
+ARTICULO 84.- El órgano central de los sistemas de administración financiera dispondrá la devolución a la Tesorería General de la Nación de las sumas acreditadas en las cuentas de las jurisdicciones y entidades de la administración nacional, cuando éstas se mantengan sin utilización por un período no justificado. Las instituciones financieras en las que se encuentran depositados los fondos deberán dar cumplimiento a las transferencias que ordene el referido órgano.
+
+TITULO V
+
+Del sistema de contabilidad gubernamental
+
+ARTICULO 85.- El sistema de contabilidad gubernamental está integrado por el conjunto de principios, órganos, normas y procedimientos técnicos utilizados para recopilar, valuar, procesar y exponer los hechos económicos que afecten o puedan llegar a afectar el patrimonio de las entidades públicas.
+
+ARTICULO 86.- Será objeto del sistema de contabilidad gubernamental:
+
+a) Registrar sistemáticamente todas las transacciones que produzcan y afecten la situación económico-financiera de las jurisdicciones y entidades;
+
+b) Procesar y producir información financiera para la adopción de decisiones por parte de los responsables de la gestión financiera pública y para los terceros interesados en la misma;
+
+c) Presentar la información contable y la respectiva documentación de apoyo ordenadas de tal forma que faciliten las tareas de control y auditoría, sean éstas internas o externas;
+
+d) Permitir que la información que se procese y produzca sobre el sector público se integre al sistema de cuentas nacionales.
+
+ARTICULO 87.- El sistema de contabilidad gubernamental tendrá las siguientes características generales:
+
+a) Será común, único, uniforme y aplicable a todos los organismos del sector público nacional;
+
+b) Permitirá integrar las informaciones presupuestarias, del Tesoro y patrimoniales de cada entidad entre sí y, a su vez, con las cuentas nacionales;
+
+c) Expondrá la ejecución presupuestaria, los movimientos y situación del Tesoro y las variaciones, composición y situación del patrimonio de las entidades públicas;
+
+d) Estará orientado a determinar los costos de las operaciones públicas;
+
+e) Estar basado en principios y normas de contabilidad y aceptación general, aplicables en el sector público.
+
+ARTICULO 88.- La Contaduría General de la Nación será el órgano rector del sistema de contabilidad gubernamental, y como tal responsable de prescribir, poner en funcionamiento y mantener dicho sistema en todo el ámbito del sector público nacional.
+
+ARTICULO 89.- La Contaduría General de la Nación estará a cargo de un contador general que será asistido por un subcontador general, debiendo ser ambos designados por el Poder Ejecutivo Nacional. Para ejercer los cargos de contador general y de subcontador general, se requerirá titulo universitario de contador público y una experiencia anterior en materia financiero-contable en el sector público, no inferior a cinco (5) años.
+
+ARTICULO 90.- El contador general dictará el reglamento interno de la Contaduría General de la Nación y asignará funciones al subcontador general.
+
+ARTICULO 91.- La Contaduría General de la Nación tendrá competencia para:
+
+a) Dictar las normas de contabilidad gubernamental para todo el sector publico nacional. En ese marco prescribirá la metodología contable a aplicar y la periodicidad, estructura y características de los estados contables financieros a producir por las entidades públicas;
+
+b) Cuidar que los sistemas contables que prescriba puedan ser desarrollados e implantados por las entidades, conforme a su naturaleza jurídica, características operativas y requerimientos de información de su dirección:
+
+c) Asesorar y asistir, técnicamente a todas las entidades del sector público nacional en la implantación de las normas y metodologías que prescriba;
+
+d) Coordinar el funcionamiento que corresponde instituir para que se proceda al registro contable primario de las actividades desarrolladas por las jurisdicciones de la administración central y por cada una de las demás entidades que conforman el sector público nacional;
+
+e) Llevar la contabilidad general de la administración central, consolidando datos de los servicios jurisdiccionales, realizando las operaciones de ajuste y cierre necesarias y producir anualmente los estados contable-financieros para su remisión a la Auditoria General de la Nación;
+
+f) Administrar un sistema de información financiera que permanentemente permita conocer la gestión presupuestaria, de caja y patrimonial, así como los resultados operativo, económico y financiero de la administración central, de cada entidad descentralizada y del sector público nacional en su conjunto;
+
+g) Elaborar las cuentas económicas del sector público nacional, de acuerdo con el sistema de cuentas nacionales;
+
+h) Preparar anualmente la cuenta de inversión contemplada en el artículo 67, inciso 7 de la Constitución Nacional y presentarla al Congreso Nacional:
+
+i) Mantener el archivo general de documentación financiera de la administración nacional:
+
+j) Todas las demás funciones que le asigne el reglamento.
+
+ARTICULO 92.- Dentro de los dos (2) meses de concluido el ejercicio financiero, las entidades del sector público nacional, excluida la administración central, deberán entregar a la Contaduría General de la Nación los estados contables financieros de su gestión anterior, con las notas y anexos que correspondan.  (Artículo sustituido por art. 38 de la Ley Nº 24.764 B.O. 02/01/1997)
+
+ARTICULO 93.- La Contaduría General de la Nación organizar y mantendrá en operación un sistema permanente de compensación de deudas intergubernamentales, que permita reducir al mínimo posible los débitos y créditos existentes entre las entidades del sector público nacional.
+
+ARTICULO 94.- La Contaduría General de la Nación coordinará con las provincias la aplicación, en el ámbito de competencia de éstas, del sistema de información financiera que desarrolle, con el objeto de presentar información consolidada de todo el sector público argentino.
+
+ARTICULO 95.- La cuenta de inversión, que deberá presentarse anualmente al Congreso Nacional antes del 30 de junio del año siguiente al que corresponda tal documento, contendrá como mínimo:
+
+a) Los estados de ejecución del presupuesto de la administración nacional, a la fecha de cierre del ejercicio;
+
+b) Los estados que muestren los movimientos y situación del Tesoro de la administración central;
+
+c) El estado actualizado de la deuda pública interna, externa, directa e indirecta;
+
+d) Los estados contable-financieros de la administración central;
+
+e) Un informe que presente la gestión financiera consolidada del sector público durante el ejercicio y muestre los respectivos resultados operativos económicos y financieros.
+
+La cuenta de inversión contendrá además comentarios sobre:
+
+a) El grado de cumplimiento de los objetivos y metas previstos en el presupuesto;
+
+b) El comportamiento de los costos y de los indicadores de eficiencia de la producción pública;
+
+c) La gestión financiera del sector público nacional.
+
+TITULO VI
+
+Del sistema de control interno
+
+ARTICULO 96.- Créase la Sindicatura General de la Nación, órgano de control interno del Poder Ejecutivo Nacional.
+
+ARTICULO 97.- La Sindicatura General de la Nación es una entidad con personería jurídica propia y autarquía administrativa y financiera, dependiente del Presidente de la Nación.
+
+ARTICULO 98.- En materia de su competencia el control interno de las jurisdicciones que componen el Poder Ejecutivo Nacional y los organismos descentralizados y empresas y sociedades del Estado que dependan del mismo, sus métodos y procedimientos de trabajo, normas orientativas y estructura orgánica.
+
+ARTICULO 99.- Su activo estará compuesto por todos los bienes que le asigne el Estado Nacional y por aquellos que sean transferidos o adquiera por cualquier causa jurídica.
+
+ARTICULO 100.- El sistema de control interno queda conformado por la Sindicatura General de la Nación, órgano normativo, de supervisión y coordinación, y por las unidades de auditoria interna que serán creadas en cada jurisdicción y en las entidades que dependan del Poder Ejecutivo Nacional. Estas unidades dependerán, jerárquicamente, de la autoridad superior de cada organismo y actuarán coordinadas técnicamente por la Sindicatura General.
+
+ARTICULO 101.- La autoridad superior de cada jurisdicción o entidad dependiente del Poder Ejecutivo nacional será responsable del mantenimiento y de un adecuando sistema de control interno que incluirá los instrumentos de control previo y posterior incorporados en el plan de organización y en los reglamentos y manuales de procedimiento de cada organismo y la auditoria interna.
+
+ARTICULO 102.- La auditoria interna es un servicio a toda la organización y consiste en un examen posterior de las actividades financieras y administrativas de las entidades a que hace referencia esta ley, realizada por los auditores integrantes de las unidades de auditoria interna. Las funciones y actividades de los auditores internos deberán mantenerse desligadas de las operaciones sujetas a su examen.
+
+ARTICULO 103.- El modelo de control que aplique y coordine la sindicatura deberá ser integral e integrado, abarcar los aspectos presupuestarios, económicos, financieros, patrimoniales, normativos y de gestión, la evaluación de programas, proyectos y operaciones y estar fundado en criterios de economía, eficiencia y eficacia.
+
+ARTICULO 104.- Son funciones de la Sindicatura General de la Nación:
+
+a) Dictar y aplicar normas de control interno, las que deberán ser coordinadas con la Auditoria General de la Nación;
+
+b) Emitir y supervisar la aplicación, por parte de las unidades correspondientes, de las normas de auditoria interna;
+
+c) Realizar o coordinar la realización por parte de estudios profesionales de auditores independientes, de auditorias financieras, de legalidad y de gestión, investigaciones especiales, pericias de carácter financiero o de otro tipo, así como orientar la evaluación de programas, proyectos y operaciones;
+
+d) Vigilar el cumplimiento de las normas contables, emanadas de la Contaduría General de la Nación;
+
+e) Supervisar el adecuado funcionamiento del sistema de control interno, facilitando el desarrollo de las actividades de la Auditoria General de la Nación;
+
+f) Establecer requisitos de calidad técnica para el personal de las unidades de auditoria interna;
+
+g) Aprobar los planes anuales de trabajo de las unidades de auditoria interna, orientar y supervisar su ejecución y resultado;
+
+h) Comprobar la puesta en práctica, por los organismos controlados, de las observaciones y recomendaciones efectuadas por las unidades de auditoria interna y acordadas con los respectivos responsables;
+
+i) Atender los pedidos de asesoría que le formulen el Poder Ejecutivo Nacional y las autoridades de sus jurisdicciones y entidades en materia de control y auditoría;
+
+j) Formular directamente a los órganos comprendidos en el ámbito de su competencia, recomendaciones tendientes a asegurar el adecuado cumplimiento normativo, la correcta aplicación de las reglas de auditoría interna y de los criterios de economía, eficiencia y eficacia;
+
+k) Poner en conocimiento del Presidente de la Nación los actos que hubiesen acarreado o estime puedan acarrear significativos perjuicios para el patrimonio público;
+
+I) Mantener un registro central de auditores y consultores a efectos de la utilización de sus servicios;
+
+m) Ejercer las funciones del artículo 20 de la ley 23.696 en materia de privatizaciones, sin perjuicio de la actuación del ente de control externo.
+
+ARTICULO 105.- La Sindicatura queda facultada para contratar estudios de consultoría y auditoria bajo específicos términos de referencia, planificar y controlar la realización de los trabajos, así como cuidar de la calidad del informe final.
+
+ARTICULO 106.- La Sindicatura General podrá requerir de la Contaduría General de la Nación y de los organismos comprendidos en el ámbito de su competencia, la información que le sea necesaria, para el cumplimiento de sus funciones. Para ello todos los agentes y/o autoridades del sector público nacional prestarán su colaboración, considerándose la conducta adversa como falta grave.
+
+ARTICULO 107.- La Sindicatura General deberá informar:
+
+a) Al Presidente de la Nación, sobre la gestión financiera y operativa de los organismos comprendidos dentro del ámbito de su competencia;
+
+b) A la Auditoria General de la Nación, sobre la gestión cumplida por los entes bajo fiscalización de la sindicatura, sin perjuicio de atender consultas y requerimientos específicos formulados por el órgano externo de control;
+
+c) A la opinión pública, en forma periódica.
+
+ARTICULO 108.- La Sindicatura General de la Nación estará a cargo de un funcionario denominado síndico general de la Nación. Será designado por el Poder Ejecutivo Nacional y dependerá directamente del Presidente de la Nación, con rango de Secretario de la Presidencia de la Nación.
+
+ARTICULO 109.- Para ser Síndico General de la Nación será necesario poseer título universitario en el área de Ciencias Económicas o Derecho y una experiencia en Administración Financiera y Auditoría no inferior a los ocho (8) años. (Artículo sustituido por art. 12 de la Ley Nº 25.233 B.O.14/12/1999)
+
+ARTICULO 110.- El síndico general será asistido por tres (3) síndicos generales adjuntos, quienes sustituirán a aquél en caso de ausencia, licencia o impedimento en el orden de prelación que el propio síndico general establezca.
+
+ARTICULO 111.- Los síndicos generales adjuntos deberán contar con título universitario y similar experiencia a la del síndico general y serán designados por el Poder Ejecutivo Nacional, a propuesta del síndico general.
+
+ARTICULO 112.- Serán atribuciones y responsabilidades del síndico general de la Nación:
+
+a) Representar legalmente a la Sindicatura General de la Nación, personalmente o por delegación o mandato;
+
+b) Organizar y reglamentar el funcionamiento interno de la Sindicatura General en sus aspectos estructurales, funcionales y de administración de personal, incluyendo el dictado y modificación de la estructura orgánico-funcional y el estatuto del personal;
+
+c) Designar personal con destino a la planta permanente cuidando que exista una equilibrada composición interdisciplinaria, así como promover, aceptar renuncias, disponer cesantías, exoneraciones y otras sanciones disciplinarias con arreglo al régimen legal vigente y al estatuto que, en consecuencia, se dicte;
+
+d) Efectuar contrataciones de personal para la realización de trabajos específicos, estacionales o extraordinarios que no puedan ser realizados por su planta permanente, fijando las condiciones de trabajo y su retribución;
+
+e) Elevar anualmente a la consideración de la Presidencia de la Nación, el plan de acción y presupuesto de gastos para su posterior incorporación al proyecto de ley de presupuesto general;
+
+f) Administrar su presupuesto, resolviendo y aprobando los gastos del organismo, pudiendo redistribuir los créditos, sin alterar el monto total asignado;
+
+g) Licitar, adjudicar y contratar suministros y servicios profesionales, adquirir, vender, permutar, transferir, locar y disponer respecto de bienes muebles e inmuebles para el uso de sus oficinas conforme las necesidades del servicio, pudiendo aceptar donaciones con o sin cargo;
+
+h) Informar a la Auditoria General de la Nación de actos o conductas que impliquen irregularidades, de las que tuviere conocimiento en el ejercicio de sus funciones.
+
+ARTICULO 113.- Los síndicos generales adjuntos participarán en la actividad de la sindicatura general, sin perjuicio de las responsabilidades de determinadas funciones y cometidos que el síndico general de la Nación les atribuya conjunta o separadamente, con arreglo a la naturaleza de la materia o a la importancia o particularidades del caso. El síndico general, no obstante la delegación, conservará en todos los casos la plena autoridad dentro del organismo y podrá abocarse al conocimiento y decisión de cualquiera de las cuestiones planteadas.
+
+ARTICULO 114.- En los casos en que el Estado tenga participación accionaria mayoritaria en sociedades anónimas, la Sindicatura General de la Nación propondrá a los organismos que ejerzan los derechos societarios del Estado nacional, la designación de los funcionarios que en carácter de síndicos integrarán las comisiones fiscalizadoras, de acuerdo con lo que dispongan sus propios estatutos.
+
+También los propondrá al Poder Ejecutivo Nacional en los casos en que deban asignarse síndicos por el capital estatal en empresas y sociedades en que el Estado nacional, por sí o mediante sus organismos descentralizados, empresas y sociedades del Estado tengan participación igualitaria o minoritaria. Dichos funcionarios tendrán las atribuciones y deberes previstos por la ley 19.550, en todo lo que no se oponga a la presente.
+
+ARTICULO 115.- La Sindicatura General de la Nación convendrá con las jurisdicciones y entidades que en virtud de lo dispuesto en esta ley queden alcanzadas por su ámbito de competencia, la oportunidad y modalidades de la puesta en práctica del sistema instituido en esta ley.
+
+(Nota Infoleg: Por art. 60 de la Ley N° 25.565 B.O. 21/03/2002 se establece que el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados queda comprendido en los alcances del presente Título VI.)
+
+TITULO VII
+
+Del control externo
+
+Capitulo I
+
+Auditoría General de la Nación
+
+ARTICULO 116.- Créase la Auditoría General de la Nación, ente de control externo del sector público nacional, dependiente del Congreso Nacional.
+
+El ente creado es una entidad con personería jurídica propia, e independencia funcional. A los fines de asegurar ésta, cuenta con independencia financiera.
+
+Su estructura orgánica, sus normas básicas internas, la distribución de funciones y sus reglas básicas de funcionamiento serán establecidas por resoluciones conjuntas de las Comisiones Parlamentaria Mixta Revisora de Cuentas y de Presupuesto y Hacienda de ambas Cámaras del Congreso de la Nación, por vez primera.
+
+Las modificaciones posteriores serán propuestas por la auditoria, a las referidas comisiones y aprobadas por éstas. Su patrimonio estará compuesto por todos los bienes que le asigne el Estado Nacional, por aquellos que hayan pertenecido o correspondido por todo concepto al Tribunal de Cuentas de la Nación y por aquellos que le sean transferidos por cualquier causa jurídica.
+
+ARTICULO 117.- Es materia de su competencia el control externo posterior de la gestión presupuestaria, económica, financiera, patrimonial, legal, así como el dictamen sobre los estados contables financieros de la administración central, organismos descentralizados, empresas y sociedades del Estado, entes reguladores de servicios públicos, Municipalidad de la Ciudad de Buenos Aires y los entes privados adjudicatarios de procesos de privatización, en cuanto a las obligaciones emergentes de los respectivos contratos. (Expresión "y de gestión" vetada por art. 2º del Decreto N° 1957/92 B.O. 29/10/1992)
+
+El control de la gestión de los funcionarios referidos en el artículo 45 de la Constitución Nacional será siempre global y ejercida, exclusivamente, por las Cámaras del Congreso de la Nación.
+
+El Congreso de la Nación, por decisión de sus dos Cámaras, podrá delegar su competencia de control sobre la Municipalidad de la Ciudad de Buenos Aires, en los organismos que fueren creados por ésta.
+
+El control externo posterior del Congreso de la Nación será ejercido por la Auditoria General de la Nación.
+
+La Corte Suprema de Justicia de la Nación dispondrá sobre la modalidad y alcances de la puesta en práctica del sistema instituido en esta ley con relación al Poder Judicial de la Nación, debiendo velar por el respeto de los principios de transparencia en la gestión y uso eficiente de los recursos. (Párrafo sustituido por art. 27 de la Ley N° 26.855 B.O. 27/5/2013. Vigencia: desde el día de su publicación. A partir de la fecha de la entrada en vigencia de la presente ley quedarán sin efecto todas las disposiciones legales y reglamentarias que se opongan a su cumplimiento y que importen un detrimento de la administración del Poder Judicial por el Consejo de la Magistratura de la Nación, según el alcance de la ley de referencia.)
+
+A los efectos del control externo posterior se ajustará al artículo 85 de la Constitución Nacional. Todo ello de conformidad con lo establecido en el artículo 1° de la ley 24.937 y sus modificatorias. (Párrafo sustituido por art. 27 de la Ley N° 26.855 B.O. 27/5/2013. Vigencia: desde el día de su publicación. A partir de la fecha de la entrada en vigencia de la presente ley quedarán sin efecto todas las disposiciones legales y reglamentarias que se opongan a su cumplimiento y que importen un detrimento de la administración del Poder Judicial por el Consejo de la Magistratura de la Nación, según el alcance de la ley de referencia.)
+
+ARTICULO 118.- En el marco del programa de acción anual de control externo que le fijen las comisiones señaladas en el artículo 116, la Auditoria General de la Nación, tendrá las siguientes funciones:
+
+a) Fiscalizar el cumplimiento de las disposiciones legales y reglamentarias en relación con la utilización de los recursos del Estado, una vez dictados los actos correspondientes;
+
+b) Realizar auditorias financieras, de legalidad, de gestión, exámenes especiales de las jurisdicciones y de las entidades bajo su control, así como las evaluaciones de programas, proyectos y operaciones. Estos trabajos podrán ser realizados directamente o mediante la contratación de profesionales independientes de auditoría;
+
+c) Auditar, por sí o mediante profesionales independientes de auditoría, a unidades ejecutoras de programas y proyectos financiados por los organismos internacionales de crédito conforme con los acuerdos que, a estos efectos, se llegue entre la Nación Argentina y dichos organismos;
+
+d) Examinar y emitir dictámenes sobre los estados contables financieros de los organismos de la administración nacional, preparados al cierre de cada ejercicio;
+
+e) Controlar la aplicación de los recursos provenientes de las operaciones de crédito público y efectuar los exámenes especiales que sean necesarios para formarse opinión sobre la situación de este endeudamiento. A tales efectos puede solicitar al Ministerio de Economía y Obras y Servicios Públicos y al Banco Central de la República Argentina la información que estime necesaria en relación a las operaciones de endeudamiento interno y externo;
+
+f) Auditar y emitir dictamen sobre los estados contables financieros del Banco Central de la República Argentina independientemente de cualquier auditoría externa que pueda ser contratada por aquélla;
+
+g) Realizar exámenes especiales de actos y contratos de significación económica, por si o por indicación de las Cámaras del Congreso o de la Comisión Parlamentaria Mixta Revisora de Cuentas;
+
+h) Auditar y emitir opinión sobre la memoria y los estados contables financieros así como del grado de cumplimiento de los planes de acción y presupuesto de las empresas y sociedades del Estado;
+
+i) Fijar los requisitos de idoneidad que deberán reunir los profesionales independientes de auditoría referidos en este artículo y las normas técnicas a las que deberá ajustarse el trabajo de éstos;
+
+j) Verificar que los órganos de la Administración mantengan el registro patrimonial de sus funcionarios públicos. A tal efecto, todo funcionario publico con rango de ministro; secretario, subsecretario, director nacional, máxima autoridad de organismos descentralizados o integrante de directorio de empresas y sociedades del Estado, está obligado a presentar dentro de las cuarenta y ocho (48) horas de asumir su cargo o de la sanción de la presente ley una declaración jurada patrimonial, con arreglo a las normas y requisitos que disponga el registro, la que deberá ser actualizada anualmente y al cese de funciones.
+
+k) Fiscalizar el efectivo cumplimiento de los cargos que se imponga al beneficiario de un bien inmueble de propiedad del Estado nacional transferido a título gratuito por ley dictada en virtud del artículo 75, inciso 5, de la Constitución Nacional. (Inciso incorporado por art. 1º de la Ley Nº 26.599 B.O. 7/7/2010)
+
+ARTICULO 119.- Para el desempeño de sus funciones la Auditoria General de la Nación podrá:
+
+a) Realizar todo acto, contrato u operación que se relacione con su competencia;
+
+b) Exigir la colaboración de todas las entidades del sector público, las que estarán obligadas a suministrar los datos, documentos, antecedentes e informes relacionados con el ejercicio de sus funciones;
+
+c) Promover las investigaciones de contenido patrimonial en los casos que corresponda, comunicando sus conclusiones a la Comisión Parlamentaria Mixta Revisora de Cuentas a los fines del inc. f) de este artículo;
+
+Además, deberá:
+
+d) Formular los criterios de control y auditoría y establecer las normas de auditoria externa, a ser utilizadas por la entidad. Tales criterios y las normas derivadas, deberán atender un modelo de control y auditoría externa integrada que abarque los aspectos financieros, de legalidad y de economía, de eficiencia y eficacia;
+
+e) Presentar a la Comisión mencionada, antes del 1° de mayo la memoria de su actuación;
+
+f) Dar a publicidad todo el material señalado en el inciso anterior con excepción de aquel que por decisión de la Comisión Parlamentaria Mixta Revisora de Cuentas, deba permanecer reservado.
+
+ARTICULO 120.- El Congreso de la Nación, podrá extender su competencia de control externo a las entidades públicas no estatales o a las de derecho privado en cuya dirección y administración tenga responsabilidad el Estado Nacional, o a las que éste se hubiere asociado incluso a aquellas a las que se les hubieren otorgado aportes o subsidios para su instalación o funcionamiento y, en general, a todo ente que perciba, gaste, o administre fondos públicos en virtud de una norma legal o con una finalidad pública.
+
+ARTICULO 121.- La Auditoría General de la Nación estará a cargo de siete (7) miembros designados cada uno como Auditor General, los que deberán ser de nacionalidad argentina, con título universitario en el área de Ciencias Económicas o Derecho, con probada especialización en administración financiera y control.
+
+Durarán ocho (8) años en su función y podrán ser reelegidos.
+
+ARTICULO 122.- Seis de dichos auditores generales serán designados por resoluciones de las dos Cámaras del Congreso Nacional, correspondiendo la designación de tres (3) a la Cámara de Senadores y tres (3) a la Cámara de Diputados, observando la composición de cada Cámara.
+
+Al nombrarse los primeros auditores generales se determinará, por sorteo, los tres (3) que permanecerán en sus cargos durante cuatro (4) años, correspondiéndoles ocho (8) años a los cuatro (4) restantes.
+
+ARTICULO 123.- El séptimo Auditor General será designado por resolución conjunta de los presidentes de las Cámaras de Senadores y de Diputados y será el presidente del ente.
+
+Es el órgano de representación y de ejecución de las decisiones de los auditores.
+
+ARTICULO 124.- Los Auditores Generales podrán ser removidos, en caso de inconducta grave o manifiesto incumplimiento de sus deberes, por los procedimientos establecidos para su designación.
+
+ARTICULO 125.- Son atribuciones y deberes de los auditores generales reunidos en Colegio:
+
+a) Proponer el programa de acción anual y el proyecto de presupuesto de la entidad;
+
+b) Proponer modificaciones a la estructura orgánica a las normas básicas internas, a la distribución de funciones y a las reglas básicas de funcionamiento con arreglo al artículo 116 y, además, dictar las restantes normas básicas, dictar normas internas, atribuir facultades y responsabilidades, así como la delegación de autoridad;
+
+c) Licitar, adjudicar, adquirir suministros, contratar servicios profesionales, vender, permutar, transferir locar y disponer respecto de los bienes muebles e inmuebles necesarios para el funcionamiento de la entidad, pudiendo aceptar donaciones con o sin cargo;
+
+d) Designar el personal y atender las cuestiones referentes a éste, con arreglo a las normas internas en la materia, en especial cuidando de que exista una equilibrada composición interdisciplinaria que permita la realización de auditorías y evaluaciones integradas de la gestión pública;
+
+e) Designar representantes y jefes de auditorias especiales;
+
+f) En general, resolver todo asunto concerniente al régimen administrativo de la entidad;
+
+g) Las decisiones se tomarán colegiadamente por mayoría.
+
+ARTICULO 126.- No podrán ser designados auditores generales, personas que se encuentren inhibidas, en estado de quiebra o concursados civilmente, con procesos judiciales pendientes o que hayan sido condenados en sede penal.
+
+ARTICULO 127.- El control de las actividades de la Auditoria General de la Nación, estará a cargo de la Comisión Parlamentaria Mixta Revisora de Cuentas, en la forma en que ésta lo establezca.
+
+Capítulo II
+
+Comisión Parlamentaria Mixta Revisora de Cuentas
+
+ARTICULO 128.- La Comisión Parlamentaria Mixta Revisora de Cuentas estará formada por seis (6) senadores y seis (6) diputados cuyos mandatos durarán hasta la próxima renovación de la Cámara a la que pertenezcan y serán elegidos simultáneamente en igual forma que los miembros de las comisiones permanentes.
+
+Anualmente la Comisión elegirá un Presidente, un Vicepresidente y un Secretario que pueden ser reelectos.
+
+Mientras estas designaciones no se realicen, ejercerán los cargos los legisladores con mayor antigüedad en la función y a igualdad de ésta, los de mayor edad.
+
+La Comisión contará con el personal administrativo y técnico que establezca el presupuesto general y estará investida con las facultades que ambas Cámaras delegan en sus comisiones permanentes y especiales.
+
+ARTICULO 129.- Para el desempeño de sus funciones la Comisión Parlamentaria Mixta Revisara de Cuentas debe:
+
+a) Aprobar juntamente con las Comisiones de Presupuesto y Hacienda de ambas Cámaras el programa de acción anual de control externo a desarrollar por la Auditoría General de la Nación;
+
+b) Analizar el proyecto de presupuesto anual de la Auditoría General de la Nación y remitirlo al Poder Ejecutivo para su incorporación en el presupuesto general de la Nación;
+
+c) Encomendar a la Auditoría General de la Nación la realización de estudios, investigaciones y dictámenes especiales sobre materias de su competencia, fijando los plazos para su realización;
+
+d) Requerir de la Auditoria General de la Nación toda la información que estime oportuno sobre las actividades realizadas por dicho ente;
+
+e) Analizar los informes periódicos de cumplimiento del programa de trabajo aprobado, efectuar las observaciones que pueden merecer e indicar las modificaciones que estime conveniente introducir;
+
+f) Analizar la memoria anual que la Auditoría General de la Nación deberá elevarle antes del 1° de mayo de cada año.
+
+Capítulo III
+
+De la responsabilidad
+
+ARTICULO 130.- Toda persona física que se desempeñe en las jurisdicciones o entidades sujetas a la competencia de la Auditoría General de la Nación responderá de los daños económicos que por su dolo, culpa o negligencia en el ejercicio de sus funciones sufran los entes mencionados siempre que no se encontrare comprendida en regímenes especiales de responsabilidad patrimonial.
+
+ARTICULO 131.- La acción tendiente a hacer efectiva la responsabilidad patrimonial de todas las personas físicas que se desempeñen en el ámbito de los organismos y demás entes premencionados en los artículos 117 y 120 de esta ley, prescribe en los plazos fijados por el Código Civil contados desde el momento de la comisión del hecho generador del daño o de producido éste si es posterior, cualquiera sea el régimen jurídico de responsabilidad patrimonial aplicable con estas personas.
+
+(Nota Infoleg: Por art. 60 de la Ley N° 25.565 B.O. 21/03/2002 se establece que el Instituto Nacional de Servicios Sociales para Jubilados y Pensionados queda comprendido en los alcances del presente Título VII.)
+
+TITULO VIII
+
+Disposiciones varias
+
+Capítulo I
+
+Disposiciones generales
+
+ARTICULO 132.- Los órganos con competencia para organizar la Sindicatura General de la Nación y la Auditoría General de la Nación quedan facultados para subscribir entre sí convenios que posibiliten reasignar los funcionarios y empleados de la Sindicatura General de Empresas Públicas y del Tribunal de Cuentas de la Nación. (Expresión "El personal de los organismos de control reemplazados conservarán el nivel jerárquico alcanzado, manteniéndose los derechos que hagan a la representación y defensa de los intereses colectivos del personal" vetada por art. 3º del Decreto N° 1957/92 B.O. 29/10/1992)
+
+Capítulo II
+
+Disposiciones transitorias
+
+ARTICULO 133.- Las disposiciones contenidas en esta ley deberán tener principio de ejecución a partir del primer ejercicio financiero que se inicie con posterioridad a la sanción de la misma.
+
+El Poder Ejecutivo nacional deberá establecer los cronogramas y metas temporales que permitan lograr la plena instrumentación de los sistemas de presupuestos, crédito público, tesorería, contabilidad y control internos previstos en esta ley, los cuales constituyen un requisito necesario para la progresiva constitución de la estructura de control interno y externo normada precedentemente.
+
+ARTICULO 134.- (Artículo vetado por art. 4º del Decreto N° 1957/92 B.O. 29/10/1992)
+
+ARTICULO 135.- El Poder Ejecutivo Nacional, en el plazo de noventa (90) días a partir de la fecha de promulgación de la presente ley, presentará al Congreso Nacional un proyecto de ley que regule el sistema de contrataciones del Estado y otro que organice la administración de bienes del Estado.
+
+ARTICULO 136.- El Poder Ejecutivo Nacional reglamentará la presente ley en un plazo de noventa (90) días a partir de la fecha de su promulgación.
+
+Los artículos 116 a 129, ambos inclusive, no serán objeto de reglamentación por parte del Poder Ejecutivo Nacional.
+
+Capítulo III
+
+Disposiciones finales
+
+ARTICULO 137.- Se derogan expresamente los siguientes ordenamientos legales:
+
+a) Decreto Ley 23.354, del 31 de diciembre de 1956, ratificado por ley 14.467 (Ley de Contabilidad), con excepción de sus artículos 51 a 54 inclusive (capítulo V- De la gestión de bienes del Estado) y 55 a 64 inclusive (capitulo VI - De las contrataciones);
+
+b) Ley 21.801, reformada por la ley 22.639, que crea la Sindicatura General de Empresas Públicas;
+
+c) Ley 11.672 complementaria permanente del presupuesto en lo que se oponga a la presente ley, con excepción de lo dispuesto por el artículo 20 de la Ley 13.922 y por los artículos 16 y 17 de la Ley 16.432, los que continuarán en vigencia.
+
+El Poder Ejecutivo nacional procederá a ordenar el texto no derogado de la ley;
+
+d) Todas las demás disposiciones que se opongan a la presente ley con excepción de lo dispuesto en el artículo 5º, primer párrafo de la Ley 23.853, que continuará en vigencia.
+
+ARTICULO 138.- Las causas administrativas y judiciales pendientes de resolución o promovidas por la Sindicatura General de Empresas Públicas serán resueltas o continuadas por la Sindicatura General de la Nación.
+
+El Poder Ejecutivo nacional dispondrá el tratamiento a darse a las causas administrativas y judiciales radicadas o promovidas ante el Tribunal de Cuentas de la Nación.
+
+ARTICULO 139.- Comuníquese al Poder Ejecutivo. —ALBERTO R. PIERRI — ORALDO BRITOS. — Juan Estrada. —Edgardo Piuzzi.
+
+(Nota Infoleg: por art. 86 de la Ley N° 27.541 B.O. 23/12/2019 se establece que durante el período de vigencia de la norma de referencia, y dada la excepcionalidad de la coyuntura económica, se reestablecerán los límites para realizar reestructuraciones presupuestarias, dispuestos originalmente para el ejercicio 2017 mediante el artículo 1° de la Ley 27.342, modificatoria del artículo 37 de la Ley 24.156 de Administración Financiera y Sistemas de Control del Sector Público Nacional. Vigencia: a partir del día de su publicación en el Boletín Oficial de la República Argentina)
+
+(Nota Infoleg: Por art. 64 de la Ley 25.401 se establece que el INSTITUTO NACIONAL DE SERVICIOS SOCIALES PARA JUBILADOS Y PENSIONADOS queda comprendido dentro de los alcances del Título II - Capítulo III y de los Títulos III, VI y VII de la presente ley.)
+
+Antecedentes Normativos:
+
+- Artículo 37 sustituido por art. 1° de la Ley N° 26.124 B.O. 8/8/2006. Vigencia: a partir del día siguiente al de su publicación en el Boletín Oficial;
+
+- Art. 74 inc. j) sustitutido por art. 23 de la Ley N° 26.198 B.O. 10/01/2007.
+
+ 

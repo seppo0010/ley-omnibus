@@ -1,24 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:52:00",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N III - EDUCACI\u00d3N  ",
-        "nombreArticulo": "Art\u00edculo 148 ",
-        "textoArticulo": "    (De los \u00f3rganos).- \r\n\r\n   (*)\r\n ",
-        "notasArticulo": "<b><font color=\"#0000FF\">Este art\u00edculo dio nueva redacci\u00f3n a:</font></b> Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo \r\n<a href=\"/bases/leyes/18437-2008/54\" >54</a>.\r\n"
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO IV - OPERACIONES DE CR\u00c9DITO P\u00daBLICO",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "148",
     "seccionArticulo": "III",
-    "capituloArticulo": null,
-    "textoArticulo": " (De los \u00f3rganos).- (*) ",
-    "notasArticulo": "Este art\u00edculo dio nueva redacci\u00f3n a: Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo 54. ",
-    "textoOriginal": " (De los \u00f3rganos).- La Administraci\u00f3n Nacional de Educaci\u00f3n P\u00fablica tiene los siguientes \u00f3rganos: el Consejo Directivo Central, los Consejos de Educaci\u00f3n Inicial y Primaria, de Educaci\u00f3n Media B\u00e1sica, de Educaci\u00f3n Media Superior y de Educaci\u00f3n T\u00e9cnico - Profesional (UTU). ",
-    "textoModificado": " (De los \u00f3rganos).- La Administraci\u00f3n Nacional de Educaci\u00f3n P\u00fablica tiene los siguientes \u00f3rganos: el Consejo Directivo Central, la Direcci\u00f3n General de Educaci\u00f3n Inicial y Primaria, la Direcci\u00f3n General de Educaci\u00f3n Secundaria, la Direcci\u00f3n General de Educaci\u00f3n T\u00e9cnico Profesional y el Consejo de Formaci\u00f3n en Educaci\u00f3n.(*) "
+    "capituloArticulo": "IV",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Regularizaci\u00f3n de bienes inmuebles a nombre de terceros. Las normas del presente art\u00edculo 149 solo aplican a la regularizaci\u00f3n de bienes inmuebles de titularidad de terceros, y solo en el caso de que el contribuyente que regulariza el bien sea una persona humana, sucesi\u00f3n indivisa o sujeto residente en el exterior y cuando el tercero a nombre de quien se encuentra registrado el bien inmueble es un contribuyente en los t\u00e9rminos del art\u00edculo 53 de la Ley del Impuesto a las Ganancias, texto ordenado en 2019 y sus modificaciones, que tenga dicho bien inmueble declarado en su respectiva declaraci\u00f3n jurada."
 }

@@ -1,21 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:53:28",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N XI - OTRAS DISPOSICIONES  CAP\u00cdTULO II - PORTABILIDAD N\u00daMERICA  ",
-        "nombreArticulo": "Art\u00edculo 471 ",
-        "textoArticulo": "    (Derecho a la portabilidad num\u00e9rica).- Decl\u00e1rase que la \"portabilidad num\u00e9rica\" es un derecho de los usuarios de los servicios de telefon\u00eda m\u00f3vil. \r\n "
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO VI - INTERIOR, AMBIENTE, TURISMO Y DEPORTE\r\n  CAP\u00cdTULO XIII - JUICIO POR JURADOS",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "471",
-    "seccionArticulo": "XI",
-    "capituloArticulo": "II",
-    "textoArticulo": " (Derecho a la portabilidad num\u00e9rica).- Decl\u00e1rase que la \"portabilidad num\u00e9rica\" es un derecho de los usuarios de los servicios de telefon\u00eda m\u00f3vil. ",
-    "textoOriginal": " (Derecho a la portabilidad num\u00e9rica).- Decl\u00e1rase que la \"portabilidad num\u00e9rica\" es un derecho de los usuarios de los servicios de telefon\u00eda m\u00f3vil. "
+    "seccionArticulo": "VI",
+    "capituloArticulo": "XIII",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Sustituyese el art\u00edculo 16 ter de la Ley N\u00b0 26.215 de Financiamiento de los Partidos Pol\u00edticos, por el siguiente texto:\n\n\u201cART\u00cdCULO 16 ter.- Declaraci\u00f3n de los aportes. La Justicia Nacional Electoral establecer\u00e1 una plataforma a trav\u00e9s de la cual las agrupaciones pol\u00edticas informen quienes han realizado un aporte, debiendo el aportante manifestar, en car\u00e1cter de declaraci\u00f3n jurada a esa agrupaci\u00f3n, que no est\u00e1 contemplado en ninguna de las prohibiciones previstas en esta ley.\u201d"
 }

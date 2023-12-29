@@ -1,21 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:52:36",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N IV - ECONOM\u00cdA Y EMPRESAS P\u00daBLICAS  CAP\u00cdTULO I - REGLA FISCAL  ",
-        "nombreArticulo": "Art\u00edculo 211 ",
-        "textoArticulo": "    (Rendici\u00f3n de Cuentas).- En las respectivas instancias de rendici\u00f3n de cuentas y balance de ejecuci\u00f3n presupuestal se presentar\u00e1 el d\u00e9ficit fiscal ajustado con el ciclo econ\u00f3mico y se lo comparar\u00e1 con la meta de balance estructural. \r\n "
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO IV - OPERACIONES DE CR\u00c9DITO P\u00daBLICO",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "211",
-    "seccionArticulo": "IV",
-    "capituloArticulo": "I",
-    "textoArticulo": " (Rendici\u00f3n de Cuentas).- En las respectivas instancias de rendici\u00f3n de cuentas y balance de ejecuci\u00f3n presupuestal se presentar\u00e1 el d\u00e9ficit fiscal ajustado con el ciclo econ\u00f3mico y se lo comparar\u00e1 con la meta de balance estructural. ",
-    "textoOriginal": " (Rendici\u00f3n de Cuentas).- En las respectivas instancias de rendici\u00f3n de cuentas y balance de ejecuci\u00f3n presupuestal se presentar\u00e1 el d\u00e9ficit fiscal ajustado con el ciclo econ\u00f3mico y se lo comparar\u00e1 con la meta de balance estructural. "
+    "seccionArticulo": "III",
+    "capituloArticulo": "IV",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Sustit\u00fayese el art\u00edculo 42 de la Ley 27.541 por el siguiente:\n\n\u201cART\u00cdCULO 42.- El producido del impuesto establecido en el art\u00edculo 35 ser\u00e1 distribuido en su totalidad por el Poder Ejecutivo nacional para el financiamiento de los programas a cargo de la Administraci\u00f3n Nacional de la Seguridad Social y de las prestaciones del Instituto Nacional de Servicios Sociales para Jubilados y Pensionados.\u201d"
 }

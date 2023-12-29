@@ -1,24 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:50:36",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N I - SEGURIDAD P\u00daBLICA\r\n  CAP\u00cdTULO I - NORMAS PENALES  ",
-        "nombreArticulo": "Art\u00edculo 5 ",
-        "textoArticulo": "    (Circunstancia agravante del encubrimiento).-\r\n \r\n   (*) ",
-        "notasArticulo": "<b><font color=\"#0000FF\">Este art\u00edculo agreg\u00f3 a:</font></b> C\u00f3digo Penal de 04/12/1933 art\u00edculo <a href=\"/bases/codigo-penal/9155-1933/197_BIS\" >197 - BIS</a>.\r\n"
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO II - REORGANIZACI\u00d3N ADMINISTRATIVA\r\n  CAP\u00cdTULO I - EMERGENCIA Y REORGANIZACI\u00d3N ADMINISTRATIVA",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "5",
-    "seccionArticulo": "I",
+    "seccionArticulo": "II",
     "capituloArticulo": "I",
-    "textoArticulo": " (Circunstancia agravante del encubrimiento).- (*) ",
-    "notasArticulo": "Este art\u00edculo agreg\u00f3 a: C\u00f3digo Penal de 04/12/1933 art\u00edculo 197 - BIS. ",
-    "textoOriginal": " (Circunstancia agravante del encubrimiento).- (*) ",
-    "textoModificado": " Se considerar\u00e1 circunstancia agravante del encubrimiento que refiera a cualquiera de los delitos previstos por el Decreto-Ley N\u00b0 14.294, de 31 de octubre de 1974, y sus modificativas (Estupefacientes) y en los delitos previstos en los art\u00edculos 344 (Rapi\u00f1a), 344 BIS (Rapi\u00f1a con privaci\u00f3n de libertad. Copamiento), 346 (Secuestro) o 350 BIS (Receptaci\u00f3n), del C\u00f3digo Penal, siendo en estos casos aumentada la pena en un tercio. (*) "
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "\u00c1mbito de aplicaci\u00f3n. La emergencia administrativa declarada por el art\u00edculo 3\u00b0 de la presente ley, comprender\u00e1 a todos los \u00f3rganos y entidades que componen el sector p\u00fablico nacional definido en el art\u00edculo 8\u00b0 de la Ley N\u00b0 24.156. Asimismo, se aplicar\u00e1 lo pertinente a la porci\u00f3n correspondiente al Estado nacional en toda entidad en el que aqu\u00e9l tenga participaci\u00f3n concurrente o minoritaria, y que por tanto no integre la estructura de la Administraci\u00f3n P\u00fablica nacional."
 }

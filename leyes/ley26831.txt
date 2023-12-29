@@ -1,0 +1,1344 @@
+
+
+MERCADO DE CAPITALES
+
+Ley 26.831
+
+Ley de Mercado de Capitales.
+
+Ver Antecedentes Normativos
+
+Sancionada: Noviembre 29 de 2012
+
+Promulgada: Diciembre 27 de 2012
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc. sancionan con fuerza de Ley:
+
+LEY DE MERCADO DE CAPITALES
+
+TITULO PRELIMINAR
+
+Principios y definiciones
+
+ARTICULO 1° — Objeto. Principios.
+
+La presente ley tiene por objeto el desarrollo del mercado de capitales y la regulación de los sujetos y valores negociables comprendidos dentro de dicho mercado.
+
+Son objetivos y principios fundamentales que informan y deberán guiar la interpretación de este ordenamiento, sus disposiciones complementarias y reglamentarias:
+
+a) Promover la participación en el mercado de capitales de inversores, asociaciones sindicales, asociaciones y cámaras empresariales, organizaciones profesionales y de todas las instituciones de ahorro público, favoreciendo especialmente los mecanismos que fomenten el ahorro nacional y su canalización hacia el desarrollo productivo;
+
+b) Fortalecer los mecanismos de protección y prevención de abusos contra los inversores, en el marco de la función tuitiva del derecho del consumidor;
+
+c) Promover el acceso al mercado de capitales de las pequeñas y medianas empresas;
+
+d) Propender a la creación de un mercado de capitales federalmente integrado, a través de mecanismos de acceso y conexión, con protocolos de comunicación estandarizados, de los sistemas informáticos de los distintos ámbitos de negociación, con los más altos estándares de tecnología;
+
+e) Fomentar la simplificación de la negociación para los usuarios y así lograr una mayor liquidez y competitividad a fin de obtener las condiciones más favorables al momento de concretar las operaciones;
+
+f) Reducir el riesgo sistémico en los mercados de capitales mediante acciones y resoluciones tendientes a contar con mercados más seguros conforme las mejores prácticas internacionales;
+
+g) Propender a la integridad y transparencia de los mercados de capitales;
+
+h) Propender a la inclusión financiera.
+
+(Artículo sustituido por art. 33 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 2° — Definiciones. En esta ley y sus disposiciones reglamentarias, se entenderá por:
+
+Actuación concertada: Actuación coordinada de dos (2) o más personas, según un acuerdo o entendimiento formal o informal, para cooperar activamente en la adquisición, tenencia o disposición de acciones u otros valores o derechos convertibles en acciones de una entidad cuyos valores negociables están admitidos a la oferta pública, sea actuando por intermedio de cualquiera de dichas personas, a través de cualquier sociedad u otra forma asociativa en general, o por intermedio de otras personas a ellas relacionadas, vinculadas o bajo su control, o que sean titulares de derechos de voto por cuenta de aquéllas.
+
+Agentes de administración de productos de inversión colectiva: Sociedades gerentes de la ley 24.083 y sus modificaciones, a los fiduciarios financieros regidos por el capítulo 30 del libro tercero del título IV del Código Civil y Comercial de la Nación y sus modificaciones y a las demás entidades que desarrollen similares funciones y que, a criterio de la Comisión Nacional de Valores, corresponda registrar en este carácter para su actuación en el marco del funcionamiento de los productos de inversión colectiva.
+
+Agentes de calificación de riesgos: Entidades registradas ante la Comisión Nacional de Valores para prestar servicios de calificación de valores negociables, y de otro tipo de riesgos, quedando bajo competencia del citado organismo las actividades afines y complementarias compatibles con el desarrollo de ese fin.
+
+Agentes de colocación y distribución: Personas humanas y/o jurídicas registradas ante la Comisión Nacional de Valores para desarrollar canales de colocación y distribución de valores negociables, con arreglo a la reglamentación que a estos efectos establezca la citada Comisión.
+
+Agentes de corretaje: Personas jurídicas registradas ante la Comisión Nacional de Valores para poner en relación a dos (2) o más partes para la conclusión de negocios sobre valores negociables, sin estar ligadas a ninguna de ellas por relaciones de colaboración, subordinación o representación (primera parte del inciso a) del artículo 34 del anexo I a la lev 25.028).
+
+Agentes de custodia de productos de inversión colectiva: Sociedades depositarías de la ley 24.083 y sus modificatorias registradas ante la Comisión Nacional de Valores desarrollando las funciones asignadas por las leyes aplicables y las que dicho organismo determine complementariamente.
+
+Agentes de liquidación y compensación: Personas jurídicas registradas ante la Comisión Nacional de Valores para intervenir en la liquidación y compensación de operaciones con valores negociables registradas en el marco de mercados, incluyendo bajo su jurisdicción cualquier actividad que éstas realicen, con arreglo a la reglamentación que a estos efectos establezca la Comisión Nacional de Valores.
+
+Agente de negociación: Personas jurídicas autorizadas a actuar como intermediarios de valores negociables en mercados bajo competencia del organismo, cualquier actividad vinculada y complementaria que éstos realicen, con arreglo a la reglamentación que a estos efectos establezca la Comisión Nacional de Valores.
+
+Agente depositario central de valores negociables: Personas jurídicas registradas ante la Comisión Nacional de Valores para recibir depósitos colectivos y regulares de valores negociables, prestar servicios de custodia, liquidación y pago de acreencias de los valores negociables depositados y en custodia y aquellas otras actividades que establezca la reglamentación de la Comisión Nacional de Valores, en los términos de la ley 20.643 y sus modificaciones y de la presente ley.
+
+Agentes productores: Personas humanas y/o jurídicas registradas ante la Comisión Nacional de Valores para desarrollar actividades de difusión y promoción de valores negociables bajo responsabilidad de un agente registrado, con arreglo a la reglamentación que a estos efectos establezca el citado organismo.
+
+Agentes registrados: Personas humanas y/o jurídicas autorizadas por la Comisión Nacional de Valores para su inscripción dentro de los registros correspondientes creados por la citada comisión, para abarcar las actividades de negociación, de colocación, distribución, corretaje, liquidación y compensación, custodia y depósito colectivo de valores negociables, las de administración y custodia de productos de inversión colectiva, las de calificación de riesgos, y todas aquellas que, a criterio de la Comisión Nacional de Valores, corresponda registrar para el desarrollo del mercado de capitales.
+
+Cámaras compensadoras: Sociedades anónimas autorizadas por la Comisión Nacional de Valores, con arreglo a la reglamentación que a estos efectos establezca dicho organismo, cuyo objeto social consista en la liquidación y compensación de las operaciones autorizadas por la Comisión Nacional de Valores, cumpliendo el rol de contraparte central, pudiendo desarrollar actividades afines y complementarias al mismo.
+
+Controlante, grupo controlante o grupos de control: Personas humanas o jurídicas que posean en forma directa o indirecta, individual o conjuntamente, según el caso, una participación por cualquier título en el capital social o valores con derecho a voto que, de derecho o de hecho, en este último caso si es en forma estable, les otorgue los votos necesarios para formar la voluntad social en asambleas ordinarias o para elegir o revocar la mayoría de los directores o consejeros de vigilancia.
+
+Entidades de registro de operaciones de derivados: Sociedades anónimas que tengan por objeto principal cumplir con las funciones previstas en la normativa aplicable y que sean autorizadas por la Comisión Nacional de Valores a dichos efectos.
+
+Información reservada o privilegiada: Toda información concreta que se refiera a uno (1) o varios valores negociables, o a uno (1) o varios emisores de valores negociables, que no se haya hecho pública y que, de hacerse o haberse hecho pública, podría influir o hubiese influido de manera sustancial sobre las condiciones o el precio de colocación o el curso de negociación de tales valores negociables.
+
+Mercados: Sociedades anónimas autorizadas por la Comisión Nacional de Valores con el objeto principal de organizar las operaciones con valores negociables que cuenten con oferta pública, quedando bajo competencia del citado organismo las actividades afines y complementarias compatibles con el desarrollo de ese fin.
+
+Mercado de capitales: Es el ámbito donde se ofrecen públicamente valores negociables u otros instrumentos previamente autorizados para que, a través de la negociación por agentes habilitados, el público realice actos jurídicos, todo ello bajo la supervisión de la Comisión Nacional de Valores.
+
+Oferta pública: Invitación que se hace a personas en general o a sectores o a grupos determinados para realizar cualquier acto jurídico con valores negociables, efectuada por los emisores, por sus tenedores o por organizaciones unipersonales o sociedades dedicadas en forma exclusiva o parcial al comercio de aquéllos, por medio de ofrecimientos personales, publicaciones periodísticas, transmisiones radiotelefónicas, telefónicas o de televisión, proyecciones cinematográficas, colocación de afiches, letreros o carteles, programas, medios electrónicos incluyendo el uso de correo electrónico y redes sociales, circulares y comunicaciones impresas o cualquier otro procedimiento de difusión.
+
+Productos de inversión colectiva: Fondos Comunes de Inversión de la ley 24.083 y sus modificaciones, a los fideicomisos financieros regidos por el capítulo 30 del libro tercero del título IV del Código Civil y Comercial de la Nación y sus modificaciones y a todos los otros vehículos del mercado de capitales que soliciten autorización para emisiones de oferta pública a la Comisión Nacional de Valores. La Comisión Nacional de Valores tendrá competencia, exclusivamente, en relación a los fideicomisos financieros que cuenten con autorización de ese organismo para hacer oferta pública de sus valores negociables y respecto de los fiduciarios financieros que participen en tal carácter en los mencionados fideicomisos.
+
+Registro de operaciones de derivados: Es el registro, con arreglo a la reglamentación que a estos efectos dicte la Comisión Nacional de Valores, de los contratos de derivados celebrados de forma bilateral fuera de mercados autorizados por dicho organismo. Este registro deberá ser llevado por las entidades de registro de operaciones de derivados, conforme se define dicho término en la presente ley. En ausencia de entidades de registro, el mismo podrá ser llevado por los mercados y/o cámaras compensadoras.
+
+Valores negociables: Títulos valores emitidos tanto en forma cartular así como a todos aquellos valores incorporados a un registro de anotaciones en cuenta incluyendo, en particular, los valores de crédito o representativos de derechos creditorios, las acciones, las cuotapartes de fondos comunes de inversión, los títulos de deuda o certificados de participación de fideicomisos financieros o de otros vehículos de inversión colectiva y, en general, cualquier valor o contrato de inversión o derechos de crédito homogéneos y fungibles, emitidos o agrupados en serie y negociables en igual forma y con efectos similares a los títulos valores; que por su configuración y régimen de transmisión sean susceptibles de tráfico generalizado e impersonal en los mercados financieros. Asimismo, quedan comprendidos dentro de este concepto, los contratos de futuros, los contratos de opciones y los contratos de derivados en general que se registren conforme la reglamentación de la Comisión Nacional de Valores, y los cheques de pago diferido, certificados de depósitos de plazo fijo admisibles, facturas de crédito, certificados de depósito y warrants, pagarés, letras de cambio, letras hipotecarias y todos aquellos títulos susceptibles de negociación secundaria en mercados.
+
+(Artículo sustituido por art. 34 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 3° — Creación de valores negociables: Cualquier persona jurídica puede crear y emitir valores negociables para su negociación en mercados de los tipos y en las condiciones que elija, incluyendo los derechos conferidos a sus titulares y los demás términos y condiciones que se establezcan en el acto de emisión, siempre que no exista confusión con el tipo, denominación y condiciones de los valores negociables previstos especialmente en la legislación vigente. A los efectos de determinar el alcance de los derechos emergentes del valor negociable así creado, debe estarse al instrumento de creación, acto de emisión e inscripciones regístrales ante las autoridades de contralor competentes.
+
+(Artículo sustituido por art. 35 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 4° — Conflictos de interés. Las personas que participen en el proceso de colocación de una emisión de valores negociables únicamente podrán adquirir u ofrecer comprar por vía directa o indirecta dichos valores negociables, así como otros de igual clase o serie, o derecho a comprarlos, en los supuestos y condiciones que fije la Comisión Nacional de Valores.
+
+La reglamentación establecerá las condiciones para que los sujetos mencionados en el párrafo anterior puedan vender, directa o indirectamente, valores negociables, o los derechos a venderlos, correspondientes a la emisora a la que se encuentra vinculado el proceso de colocación en que intervienen, mientras dure su participación en el mismo, con el objeto de evitar la formación artificial de los precios u otras de las prácticas sancionadas por esta ley.
+
+(Artículo sustituido por art. 36 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 5° — Documentos digitales. Los documentos firmados digitalmente que se remitan por vía electrónica a la Comisión Nacional de Valores de acuerdo a las reglamentaciones dictadas por dicha comisión para su identificación a todos los efectos legales y reglamentarios gozarán de idéntica validez y eficacia que los firmados en soporte papel.
+
+TITULO I
+
+Comisión Nacional de Valores
+
+CAPITULO I
+
+Organización y funcionamiento
+
+ARTICULO 6° — Autarquía. La Comisión Nacional de Valores es una entidad autárquica del Estado nacional regida por las disposiciones de la presente ley y las demás normas legales concordantes. Sus relaciones con el Poder Ejecutivo nacional se mantienen por intermedio del Ministerio de Finanzas, que entenderá en los recursos de alzada que se interpongan contra sus decisiones, sin perjuicio de las acciones y recursos judiciales regulados en esta ley.
+
+ARTICULO 7° — Sede y delegaciones. La Comisión Nacional de Valores tendrá su domicilio en la Ciudad Autónoma de Buenos Aires pero podrá sesionar y establecer delegaciones regionales en cualquier lugar del país.
+
+ARTICULO 8° — Integración. La Comisión Nacional de Valores estará a cargo de un directorio integrado por cinco (5) vocales designados por el Poder Ejecutivo nacional, entre personas de reconocida idoneidad y experiencia profesional en la materia.
+
+El Poder Ejecutivo nacional designa al presidente y vicepresidente del directorio.
+
+ARTICULO 9° — Impedimentos. No pueden ser miembros del directorio de la Comisión Nacional de Valores:
+
+a) Los accionistas o quienes hubieren formado parte de los órganos de dirección, administración o fiscalización o de cualquier modo prestaren servicios a entidades sometidas a la regulación y fiscalización de la Comisión Nacional de Valores al momento de su designación y durante los doce (12) meses anteriores;
+
+b) Los que se encuentren alcanzados por las inhabilidades previstas en los incisos 1°, 2° y 3° del artículo 264 de la Ley General de Sociedades 19.550, t. o. 1984 y sus modificaciones;
+
+c) Los empleados o funcionarios de cualquier repartición del Gobierno nacional y los que tuvieren otros cargos o puestos rentados o remunerados en cualquier forma, que dependiesen de los gobiernos nacional, provinciales, de la Ciudad Autónoma de Buenos Aires o municipales, incluidos sus poderes legislativos y judiciales al momento de su designación. Los funcionarios públicos de carrera podrán conservar sus cargos en cuyo caso deberán pedir licencia. No se encuentran comprendidos en las disposiciones de este inciso quienes ejercen la docencia;
+
+d) Los que no acrediten los requisitos de idoneidad y experiencia profesional en la materia conforme se establezca en la reglamentación. El cumplimiento de estos requisitos en el proceso de la designación de cada director deberá contar con acuerdo de Senado de la Nación. El Poder Ejecutivo nacional podrá realizar nombramientos en comisión por el plazo de tratamiento de la designación por el Senado de la Nación.
+
+(Artículo sustituido por art. 37 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 10. — Duración del mandato. Remoción. Los directores de la Comisión Nacional de Valores duran cinco (5) años en sus funciones y sus mandatos pueden ser renovados por períodos sucesivos.
+
+Podrán ser removidos antes del término de sus mandatos por el Poder Ejecutivo nacional únicamente por las siguientes causas:
+
+a) Comisión de delitos dolosos de cualquier naturaleza en el ejercicio o en ocasión de sus funciones;
+
+b) Mala conducta o negligencia en el cumplimiento de sus funciones o incumplimientos de las disposiciones contenidas en la presente ley o de otras que alcanzaren al funcionario o cuya aplicación le incumbiere por razón de su cargo;
+
+c) Inhabilidad sobreviniente para ejercer el cargo.
+
+La decisión de remover al funcionario no será revisable judicialmente, pero el afectado podrá reclamar ante la justicia nacional en lo contencioso administrativo federal la reparación de los daños y perjuicios sufridos cuando aquélla se hubiere fundado en el inciso b) y acreditare que hubiera sido manifiestamente irrazonable. La indemnización en ningún caso podrá superar el importe de los salarios brutos que le hubiere correspondido percibir al funcionario hasta la terminación de su mandato.
+
+En el caso del inciso a), la revocación de la condena pronunciada en ningún caso dará lugar a la reinstalación del funcionario removido.
+
+ARTICULO 11. — Quorum y mayorías. El directorio de la Comisión Nacional de Valores sesionará con la mayoría de los miembros, sin que sea necesario que se encuentren en el mismo recinto si estuvieren comunicados por medios de transmisión simultánea de sonido, imágenes y palabras, según la reglamentación que a tal efecto dictará el organismo. El presidente o, en su caso, el vicepresidente en ausencia del presidente, tiene voto dirimente en caso de empate, siempre y cuando el directorio estuviese conformado en su totalidad.
+
+(Artículo sustituido por art. 38 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 12. — Situaciones excepcionales. Cuando circunstancias excepcionales impidieren al directorio de la Comisión Nacional de Valores sesionar válidamente por falta de quorum o fuere necesario adoptar resoluciones urgentes, el presidente juntamente con al menos dos (2) directores que se encontraren en la sede del organismo y/o reunidos conforme a los mecanismos establecidos por el artículo 11 de la presente ley podrán adoptarlas por sí y bajo su responsabilidad ad referéndum del directorio al que informarán en su primera sesión.
+
+(Artículo sustituido por art. 39 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 13. — Reemplazos. Cuando alguno de los directores de la Comisión Nacional de Valores debiere hacer uso de licencia por un período prolongado, el Ministerio de Finanzas podrá nombrar a un reemplazante interino de entre los gerentes del organismo, hasta que cesen las causas que hubieren determinado su designación.
+
+CAPITULO II
+
+Recursos
+
+ARTICULO 14. — Fuentes. Asignación y redistribución de fondos.
+
+I. Fuentes. Para su funcionamiento, la Comisión Nacional de Valores contará con los siguientes recursos:
+
+a) Los recursos que le asigne la Ley de Presupuesto General de la Administración Nacional para el ejercicio vigente;
+
+b) Los recursos percibidos en concepto de una (1) tasa de fiscalización y control y dos (2) aranceles de autorización de la oferta pública de valores negociables y registración de los distintos agentes, mercados, cámaras compensadoras y entidades de registro de derivados que se encuentren bajo fiscalización de la Comisión Nacional de Valores y tres (3) de otros servicios que el organismo preste a las personas bajo su fiscalización. Los montos de dichos recursos serán fijados por el Ministerio de Finanzas, a propuesta de la Comisión Nacional de Valores;
+
+c) Las donaciones o legados que se le confieran y las rentas de sus bienes.
+
+II. Asignación y redistribución de fondos. El citado organismo tendrá amplias facultades para asignar y redistribuir los fondos que le correspondan conforme el presente artículo.
+
+(Artículo sustituido por art. 40 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 15. — Intereses. Las tasas de fiscalización y control y aranceles de autorización impagos devengarán intereses resarcitorios a la tasa que determine el Ministerio de Finanzas, la cual no podrá exceder en una vez y media el interés que aplica el Banco de la Nación Argentina, entidad autárquica actuante en la órbita del Ministerio de Finanzas, en sus operaciones de descuento para documentos comerciales.
+
+ARTICULO 16. — Exención. La Comisión Nacional de Valores podrá disponer la reducción o exención de las tasas de fiscalización y control y aranceles de autorización a las emisiones efectuadas por pequeñas y medianas empresas incluyendo a las cooperativas, en los términos de la normativa aplicable a dichas empresas.
+
+(Artículo sustituido por art. 41 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO III
+
+Régimen de empleo e incompatibilidades
+
+ARTICULO 17. — Directores. Los miembros del directorio de la Comisión Nacional de Valores estarán equiparados en cuanto a régimen salarial, rango e incompatibilidades a los subsecretarios del Poder Ejecutivo nacional.
+No podrán desempeñar otra actividad remunerada, salvo la docencia y comisiones de estudio. Concluido su mandato, no podrán prestar servicios ni ocupar cargos directivos en entidades que hayan estado sujetas al contralor de la Comisión Nacional de Valores, sus controladas, controlantes, vinculadas o bajo control común de un mismo grupo económico, durante el plazo de dos (2) años.
+
+ARTICULO 18. — Personal. La designación, contratación, suspensión y remoción del personal corresponde al directorio de la Comisión Nacional de Valores.
+
+(Artículo sustituido por art. 42 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO IV
+
+Competencia y facultades
+
+ARTICULO 19. — Atribuciones. La Comisión Nacional de Valores será la autoridad de aplicación y contralor de la presente ley y, a tal fin, tendrá las siguientes funciones:
+
+a) En forma directa e inmediata, supervisar, regular, inspeccionar, fiscalizar y sancionar a todas las personas humanas y/o jurídicas que, por cualquier causa, motivo o circunstancia, desarrollen actividades relacionadas con la oferta pública de valores negociables, otros instrumentos, operaciones y actividades contempladas en la presente ley y en otras normas aplicables, que por su actuación queden bajo competencia de la Comisión Nacional de Valores. El organismo podrá requerir a los mercados y cámaras compensadoras que ejerzan funciones de supervisión, inspección y fiscalización sobre sus miembros participantes. Dicho requerimiento no implicará una delegación de facultades a los mercados y cámaras compensadoras por parte de la Comisión Nacional de Valores;
+
+b) Llevar el registro, otorgar, suspender y revocar la autorización de oferta pública de valores negociables y otros instrumentos y operaciones;
+
+c) Llevar el registro de todos los sujetos autorizados para ofertar y negociar públicamente valores negociables, y establecer las normas a las que deban ajustarse los mismos y quienes actúen por cuenta de ellos;
+
+d) Llevar el registro, otorgar, suspender y revocar la autorización para funcionar de los mercados, cámaras compensadoras, los agentes registrados y las demás personas humanas y/o jurídicas que por sus actividades vinculadas al mercado de capitales, y a criterio de la Comisión Nacional de Valores queden comprendidas bajo su competencia. El registro será público y estará a cargo del mencionado organismo y en él se inscribirán todos los mercados, cámaras compensadoras, agentes y las demás personas humanas y/o jurídicas que por sus actividades vinculadas al mercado de capitales, y a criterio de la Comisión Nacional de Valores queden comprendidas bajo su competencia;
+
+e) Aprobar los estatutos, reglamentos y toda otra normativa de carácter general dictada por los mercados y cámaras compensadoras y revisar sus decisiones, de oficio o a petición de parte, en cuanto se tratare de medidas vinculadas a la actividad regulada que prestan o que pudieren afectar su prestación;
+
+f) Cumplir las funciones delegadas por la ley 22.169 y sus modificaciones respecto de las personas jurídicas alcanzadas por dicha ley en materia de control societario;
+
+g) Dictar las reglamentaciones que deberán cumplir las personas humanas y/o jurídicas y las entidades autorizadas en los términos del inciso d), desde su inscripción y hasta la baja del registro respectivo;
+
+h) Dictar las reglamentaciones que se deberán cumplir para la autorización de los valores negociables, instrumentos y operaciones del mercado de capitales, y hasta su baja del registro, contando con facultades para establecer las disposiciones que fueren necesarias para complementar las que surgen de las diferentes leyes y decretos aplicables a éstos, así como resolver casos no previstos e interpretar las normas allí incluidas dentro del contexto económico imperante, para el desarrollo del mercado de capitales;
+
+i) Declarar irregulares e ineficaces, a los efectos administrativos los actos sometidos a su fiscalización cuando sean contrarios a esta ley, a las demás leyes aplicables, a las reglamentaciones dictadas por la Comisión Nacional de Valores, a los estatutos, a las disposiciones dictadas por entidades y aprobadas por el organismo;
+
+j) Promover la defensa de los intereses de los inversores;
+
+k) Establecer normas mínimas de capacitación, acreditación y registro para el personal de los agentes registrados o para personas humanas y/o jurídicas que desempeñen tareas vinculadas con el asesoramiento al público inversor;
+
+l) Determinar los requisitos mínimos a los que deberán ajustarse quienes presten servicios de auditoría a las personas sujetas a su supervisión;
+
+m) Propender al desarrollo y fortalecimiento del mercado de capitales creando o, en su caso, propiciando la creación de productos que se consideren necesarios a ese fin;
+
+n) Organizar y administrar archivos y antecedentes relativos a la actividad de la propia Comisión Nacional de Valores o datos obtenidos en el ejercicio de sus funciones para la recuperación de la información relativa a su misión, pudiendo celebrar acuerdos y contratos con organismos nacionales, internacionales y extranjeros a fin de integrarse en redes informativas de tal carácter, para lo que deberá tenerse en cuenta como condición necesaria y efectiva la reciprocidad conforme las previsiones establecidas en los artículos 25 y 26 de la presente ley;
+
+o) Fijar los requerimientos patrimoniales que deberán acreditar las personas humanas y jurídicas sometidas a su fiscalización;
+
+p) Dictar normas complementarias en materia de prevención de lavado de dinero y de la financiación del terrorismo, siguiendo la normativa dictada por la Unidad de Información Financiera, organismo autárquico actuante en el ámbito del Ministerio de Finanzas, aplicable al mercado de capitales y fiscalizar su cumplimiento; ello, sin perjuicio del deber de dar a la citada unidad la debida intervención que le compete en materia sancionatoria y de proporcionar a ésta la colaboración exigida por la ley 25.246 y sus modificatorias. La Comisión Nacional de Valores reglamentará la forma en que se difundirán las sanciones que aplique la Unidad de Información Financiera en materia de prevención de lavado de activos y de la financiación del terrorismo, respecto de los sujetos que actúan bajo la órbita de la competencia de dicho organismo;
+
+q) Regular la forma en que se efectivizará la información y fiscalización exigidas en la presente ley, pudiendo requerir a los entes sujetos a su jurisdicción la implementación de aquellos mecanismos que estime convenientes para un control más efectivo de las conductas descriptas en la presente ley;
+
+r) Establecer regímenes de información y requisitos para la oferta pública diferenciados;
+
+s) Determinar las condiciones bajo las cuales los agentes registrados, que revisten el carácter de personas jurídicas, podrán estar habilitados para llevar a cabo más de una actividad bajo competencia de la Comisión Nacional de Valores, previa inclusión de las mismas dentro de su objeto social, a los fines de su inscripción en los registros respectivos a cargo del organismo;
+
+t) Fiscalizar el cumplimiento objetivo y subjetivo de las normas legales, estatutarias y reglamentarias en lo referente al ámbito de aplicación de la presente ley;
+
+u) Ejercer todas las demás funciones que le otorguen las leyes, decretos y los reglamentos aplicables;
+
+v) Fijar los requisitos de idoneidad, integridad moral, probidad y solvencia que deberán cumplir quienes aspiren a obtener autorización de la Comisión Nacional de Valores para actuar como mercados, cámaras compensadoras y agentes registrados así como los integrantes de sus órganos de administración y fiscalización, según corresponda;
+
+w) Crear nuevas categorías de agentes registrados y modificar las existentes, así como también eliminar las que sean creadas por su propia normativa;
+
+x) Fijar los aranceles máximos que podrán percibir los mercados, cámaras compensadoras, entidades de registro de operaciones de derivados y agentes registrados teniendo en cuenta, entre otros aspectos, la competitividad del mercado de capitales de la región en relación con los aranceles fijados en otros países. Esta facultad se ejercerá en los casos en que -a criterio del organismo- situaciones especiales así lo requieran;
+
+y) Dictar normas tendientes a promover la transparencia e integridad de los mercados de capitales y a evitar situaciones de conflictos de intereses en los mismos; y
+
+z) Evaluar y dictar regulaciones tendientes a mitigar situaciones de riesgo sistémico.
+
+(Artículo sustituido por art. 43 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 20. — Facultades correlativas. En el marco de la competencia establecida en el artículo anterior y teniendo siempre en consideración la protección de los intereses de los accionistas minoritarios y de los tenedores de títulos de deuda la Comisión Nacional de Valores puede:
+
+a) Solicitar informes y documentos, realizar investigaciones e inspecciones en las personas humanas y jurídicas sometidas a su fiscalización, citar a declarar, tomar declaración informativa y testimonial, instruir sumarios e imponer sanciones en los términos de la presente ley;
+
+b) Requerir al juez competente el auxilio de la fuerza pública;
+
+c) Requerir al juez competente el allanamiento de lugares privados con el fin de obtener los antecedentes e informaciones necesarios para el cumplimiento de sus labores de fiscalización e investigación;
+
+d) Iniciar acciones judiciales y reclamar judicialmente el cumplimiento de sus decisiones;
+
+e) Denunciar delitos o constituirse en parte querellante;
+
+f) Solicitar todo tipo de información a organismos públicos y a cualquier persona humana o jurídica que considere necesaria para el cumplimiento de sus funciones, quienes estarán obligados a proporcionarlos dentro del término que se les fije bajo apercibimiento de ley. Esta disposición no regirá respecto de la Unidad de Información Financiera.
+
+(Artículo sustituido por art. 44 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 21. — Atribuciones del presidente. Corresponde al presidente de la Comisión Nacional de Valores:
+
+a) Representar al organismo y presidir sus acuerdos;
+
+b) Ejercer la administración general del organismo;
+
+c) Proveer el despacho de trámite de la comisión;
+
+d) Las demás que le sean delegadas por el reglamento interno del organismo.
+
+ARTICULO 22. — Atribuciones del vicepresidente. Corresponde al vicepresidente sustituir al presidente en caso de ausencia circunstancial o permanente y realizar aquellas funciones que le asigne el reglamento interno de la Comisión Nacional de Valores y las que le delegare el presidente.
+
+ARTICULO 23. — Delegación. El directorio de la Comisión Nacional de Valores podrá delegar en los titulares de sus sedes regionales el ejercicio de las competencias que en cada caso determine.
+
+En el caso de las sanciones, las sedes regionales podrán tramitar toda clase de sumarios, pero la aplicación de las sanciones de multa solamente podrá ser decidida por el directorio de la Comisión Nacional de Valores.
+
+(Artículo sustituido por art. 45 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 24. — Revisión de las decisiones de las sedes permanentes o móviles. La resolución que delegue facultades en las sedes regionales deberá aclarar expresamente si la Comisión Nacional de Valores se reserva el derecho de revisar administrativamente las decisiones previo a que los interesados puedan ocurrir a la vía judicial, entendiéndose en caso contrario que las decisiones de las autoridades delegadas serán impugnables judicialmente con arreglo al régimen previsto para las resoluciones de la comisión.
+
+CAPITULO V
+
+Secreto
+
+ARTICULO 25. — Secreto. Las informaciones recogidas por la Comisión Nacional de Valores en ejercicio de sus facultades de inspección e investigación, tienen carácter secreto con excepción de los supuestos contemplados en los artículos 26 y 27 de la presente ley.
+Los jueces deben rechazar de oficio todo pedido de requerimiento de dichas informaciones a la Comisión Nacional de Valores, salvo en los procesos penales por delitos comunes directamente vinculados con los hechos que se investiguen y en los demás casos previstos en esta ley u otras especiales.
+
+El directorio y el personal de la Comisión Nacional de Valores deben guardar secreto de las informaciones obtenidas en el ejercicio de sus funciones. En caso de violarlo se harán pasibles de las sanciones administrativas y penales que correspondan. Las obligaciones y restricciones establecidas en este artículo no serán aplicables a la comunicación de dichas informaciones y de toda aquella que se vincule con la prevención del lavado de dinero y del financiamiento del terrorismo. No regirán las restricciones cuando se trate de información solicitada o a ser remitida a la Unidad de Información Financiera.
+
+El deber de guardar secreto se extiende a todos los agentes registrados en cualquiera de sus categorías y a los integrantes de los órganos de administración y fiscalización de los mercados.
+
+Quedan exceptuadas las resoluciones de la Comisión Nacional de Valores que dispongan la instrucción de sumarios, las resoluciones finales que recaigan en ellos y las que ordenen formular denuncia penal o querella, las que serán dadas a publicidad según se establezca reglamentariamente.
+
+ARTICULO 26. — Convenios de cooperación. Las limitaciones establecidas en el artículo anterior no serán aplicables a la comunicación de dichas informaciones a autoridades similares del extranjero con las cuales la Comisión Nacional de Valores hubiere celebrado acuerdos de reciprocidad. La Comisión Nacional de Valores deberá mantener la confidencialidad de los pedidos y/o del suministro de información efectuados por las autoridades similares del extranjero.
+
+ARTICULO 27. — Levantamiento de secreto. Las restricciones y limitaciones contenidas en la presente ley; los artículos 39 y 40 de la ley 21.526, modificada por la ley 24.144; 53 de la Carta Orgánica del Banco Central de la República Argentina; 74 de la ley 20.091, relativas a la difusión de información obtenida en el ejercicio de sus funciones por la Comisión Nacional de Valores, el Banco Central de la República Argentina y la Superintendencia de Seguros de la Nación, entidad autárquica actuante en la órbita de la Subsecretaría de Servicios Financieros de la Secretaría de Finanzas del Ministerio de Finanzas, respectivamente, y los funcionarios y empleados de dichos organismos, no regirán ante los requerimientos formales que se efectúen entre sí con respecto a tales informaciones, siempre que sean efectuados por la máxima autoridad de cada una de las entidades. Tampoco regirán las restricciones y limitaciones mencionadas ante los requerimientos efectuados por la Unidad de Información Financiera en el marco de la ley 25.246 y sus modificatorias.
+
+TITULO II
+
+Sujetos
+
+CAPITULO I
+
+Mercados. Garantías. Agentes de liquidación y compensación. Cámaras Compensadoras. Tribunales Arbitrales (Denominación sustituida por art. 46 de la Ley N° 27.440 B.O. 11/5/2018)
+
+
+
+ARTICULO 28. — Denominaciones exclusivas. Las denominaciones “bolsa de valores”, “mercado de valores”, “bolsa de futuros”, “bolsa de opciones”, “mercado de futuros”, “mercado de opciones” u otras similares sólo podrán ser autorizadas por la Comisión Nacional de Valores.
+
+ARTICULO 29. — Requisitos. La Comisión Nacional de Valores reglamentará los requisitos que los mercados y las cámaras compensadoras deben cumplir a los efectos de su autorización para funcionar y de su inscripción en el registro correspondiente.
+
+(Artículo sustituido por art. 47 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 30. — Registro. Los mercados y cámaras compensadoras autorizados por la Comisión Nacional de Valores para su inscripción en el registro, deberán observar el cumplimiento de la totalidad de los requisitos que establezca el citado organismo durante el término de vigencia de su inscripción. Los mercados y cámaras compensadoras deberán abstenerse de funcionar como tales, cuando incurran en cualquier incumplimiento de los requisitos, condiciones y obligaciones dispuestas por el organismo, sin necesidad de intimación previa.
+
+El incumplimiento de cualesquiera de los requisitos, condiciones y obligaciones reglamentados por el organismo dará lugar a la suspensión preventiva del mercado y la cámara compensadora, según corresponda, hasta que hechos sobrevinientes hagan aconsejable la revisión de la medida, sin perjuicio de la eventual aplicación a los infractores de las sanciones previstas en el artículo 132 de la presente ley.
+
+(Artículo sustituido por art. 48 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 31. — Forma jurídica. Los mercados se constituirán como sociedades anónimas comprendidas en el régimen de oferta pública de acciones y deberán listar sus acciones en un mercado autorizado. La Comisión Nacional de Valores establecerá, mediante reglamentación, las tenencias máximas admitidas por accionista y el valor nominal y la cantidad de votos que confiere cada acción. Un accionista no podrá poseer en forma directa o indirecta, individual o conjuntamente, según el caso, una participación por cualquier título en el capital social o valores con derecho a voto que, de derecho o de hecho, les otorgue los votos necesarios para formar la voluntad social en asambleas o para elegir o revocar a la mayoría de los integrantes de los órganos de administración y/o fiscalización. Estas limitaciones no aplicarán cuando el accionista sea otro mercado, debiendo la Comisión Nacional de Valores conceder autorización atendiendo cada situación en particular.
+
+(Artículo sustituido por art. 49 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 32. — Mercados.
+
+I. Funciones.
+
+Los mercados deben contemplar las siguientes funciones principales, de acuerdo a las características propias de su actividad específica y aquellas otras que determine la reglamentación de la Comisión Nacional de Valores:
+
+a) Dictar las reglamentaciones a los efectos de habilitar la actuación en su ámbito de agentes autorizados por la Comisión Nacional de Valores, no pudiendo exigir a estos fines la acreditación de la calidad de accionista del mercado, permitiendo un acceso abierto y equitativo a todos los participantes;
+
+b) Autorizar, suspender y cancelar el listado y/o negociación de valores negociables en la forma que dispongan sus reglamentos;
+
+c) Dictar normas reglamentarias que aseguren la veracidad en el registro de los precios así como de las negociaciones;
+
+d) Dictar las normas y medidas necesarias para asegurar la realidad de las operaciones que efectúen sus agentes;
+
+e) Emitir reglamentaciones conteniendo medidas de buen orden para garantizar el normal funcionamiento de la negociación y cumplimiento de las obligaciones y cargas asumidas por los agentes registrados las que deberán ser sometidas a la previa consideración de la Comisión Nacional de Valores a los efectos de su aprobación;
+
+f) Constituir tribunales arbitrales, conforme lo dispuesto en el artículo 46 de la presente ley;
+
+g) Emitir boletines informativos;
+
+h) Administrar sistemas de negociación de los valores negociables que se operen en los mismos;
+
+i) Registrar contratos de derivados celebrados fuera de los mercados autorizados por la Comisión Nacional de Valores;
+
+j) Administrar por sí o por terceros sistemas de liquidación y/o compensación de operaciones en función de los distintos segmentos de negociación habilitados por la Comisión Nacional de Valores. En los casos de administración de la liquidación y compensación de los segmentos de negociación  garantizados, los mercados deberán desempeñar las funciones asignadas a las cámaras compensadoras previstas en el artículo 35 de la presente ley o suscribir convenios con entidades autorizadas a tal fin; y
+
+k) Ejercer funciones de supervisión, inspección y fiscalización de los agentes participantes y de las operaciones que se realicen en el ámbito de los mismos.
+
+II. Delegación total o parcial de funciones.
+
+Las atribuciones previstas en los incisos b), f) y g) antes indicados podrán ser ejercidas por el mercado o delegadas parcial o totalmente en una entidad calificada en cuanto a su conocimiento a los fines de realizar dichas actividades, la cual deberá estar autorizada por la Comisión Nacional de Valores.
+
+(Artículo sustituido por art. 50 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 33. — Facultades concurrentes. Las atribuciones conferidas a los mercados no impiden el ejercicio de facultades concurrentes de la Comisión Nacional de Valores, al efecto de establecer recaudos mínimos aplicables de manera uniforme en todo el país.
+
+ARTICULO 34. — Precio corriente. El resultado de las operaciones realizadas habitualmente en un mercado determina el precio corriente de los valores negociables.
+
+ARTICULO 35. — Cámaras Compensadoras,
+
+I. Funciones.
+
+Conforme los términos de la reglamentación de la Comisión Nacional de Valores, las cámaras compensadoras tendrán las siguientes funciones, sin perjuicio de aquellas otras que establezca dicho organismo:
+
+a) Administrar sistemas de compensación y liquidación de operaciones de valores negociables;
+
+b) Exigir a los agentes participantes los márgenes iniciales, la reposición de los mismos, los activos a utilizarse como garantía y la moneda para garantizar su operatoria;
+
+c) Recibir y administrar las garantías otorgadas por los agentes participantes;
+
+d) Establecer requisitos de participación de sus agentes;
+
+e) Mantener y administrar fondos de garantía para utilizar frente a los incumplimientos de los agentes participantes;
+
+f) Registrar contratos de derivados celebrados fuera de mercados autorizados por la Comisión Nacional de Valores;
+
+g) Emitir reglamentaciones conteniendo medidas de buen orden para garantizar el normal funcionamiento de la liquidación y compensación y el cumplimiento de las obligaciones y cargas asumidas por los agentes participantes, las que deberán ser sometidas a previa consideración de la Comisión Nacional de Valores a los efectos de su aprobación; y
+
+h) Ejercer funciones de supervisión, inspección y fiscalización de los agentes participantes y de las operaciones que se realicen en el ámbito de las mismas.
+
+II. Requisitos Patrimoniales y de Liquidez de las Cámaras Compensadoras.
+
+La Comisión Nacional de Valores establecerá los requisitos patrimoniales y de liquidez de las cámaras compensadoras así como de sus sistemas de administración de riesgos los cuales deberán incluir, al menos, los riesgos de crédito, de contraparte, de mercado, de liquidez, operacional y legal.
+
+(Artículo sustituido por art. 51 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 36. — Aranceles. Serán libres los derechos y aranceles que perciban por sus servicios los mercados y cámaras compensadoras y otros agentes registrados, sujetos a los máximos que establecerá la Comisión Nacional de Valores, los que podrán ser diferenciados según la clase de instrumentos, el carácter de pequeñas y medianas empresas de las emisoras o la calidad de pequeño inversor.
+
+(Artículo sustituido por art. 52 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 37. — Recursos. Las decisiones de los mercados que denieguen, suspendan o cancelen el listado y/o negociación de valores negociables son recurribles ante la Comisión Nacional de Valores, sin efecto suspensivo, por violación de sus reglamentos dentro del plazo de quince (15) días hábiles.
+
+El escrito de interposición y fundamento del recurso se presenta ante el mercado, el cual debe elevarlo a la Comisión Nacional de Valores dentro del tercer día hábil, al que podrá agregar un informe. El organismo resuelve sin otra sustanciación, salvo las medidas que dicte para mejor proveer.
+
+ARTICULO 38. — Autorización para listar o negociar. Los mercados sólo pueden permitir el listado y/o negociación de valores negociables y otros instrumentos financieros cuya oferta pública hubiese sido autorizada por la Comisión Nacional de Valores y las que deban realizarse por orden judicial. Las operaciones sobre valores negociables dispuestas en causas judiciales deben ser efectuadas por un agente en el respectivo ámbito de negociación de un mercado.
+
+ARTICULO 39. — Sistemas de negociación. Los sistemas de negociación de valores negociables bajo el régimen de oferta pública que se realicen en los mercados deben garantizar la plena vigencia de los principios de protección del inversor, equidad, eficiencia, transparencia, no fragmentación y reducción del riesgo sistémico. Los mercados establecerán las respectivas reglamentaciones, las que deberán ser aprobadas por la Comisión Nacional de Valores.
+
+La Comisión Nacional de Valores deberá requerir que los mercados en los que se listen y/o negocien valores negociables y las cámaras compensadoras, establezcan mecanismos de acceso y conexión, con protocolos de comunicación estandarizados de los sistemas informáticos de los distintos ámbitos de negociación y/o de compensación y liquidación y/o de custodia. También podrá requerir el establecimiento de sistemas de negociación tendientes a que, en la negociación de valores negociables, se dé prevalencia a la negociación con interferencia de ofertas con prioridad del precio-tiempo.
+
+(Artículo sustituido por art. 53 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 40. — Garantía de operaciones. Conforme la reglamentación de la Comisión Nacional de Valores, los mercados deberán establecer con absoluta claridad, en sus estatutos y reglamentos, en qué casos y bajo qué condiciones esas entidades garantizan el cumplimiento de las operaciones que en ellas se realizan o registran.
+
+Cuando se garantice el cumplimiento de las operaciones el mercado o la cámara compensadora, según corresponda, actuarán como contraparte central, conforme la normativa que a tales fines dicte la Comisión Nacional de Valores.
+
+En este caso, el mercado o la cámara compensadora, según corresponda, deberá liquidar las operaciones que tuviese pendientes el agente que se encuentre en concurso preventivo o declarado en quiebra. Si de la liquidación resultase un saldo a favor del concursado o fallido lo depositará en el juicio respectivo.
+
+(Artículo sustituido por art. 54 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 41. — Título ejecutivo. En los casos en que los mercados no garanticen el cumplimiento de las operaciones, deben expedir a favor del agente que hubiese sufrido una pérdida como consecuencia del incumplimiento del otro contratante, un certificado en el que conste la suma a que asciende dicho incumplimiento. Este certificado constituye título ejecutivo contra el agente deudor.
+
+ARTICULO 42. — (Artículo derogado por art. 55 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 43. — Supuesto en casos de incumplimiento. El cliente debe entregar al agente la garantía y la reposición por diferencias dentro de los plazos que establezcan los reglamentos de los mercados. En caso contrario, el agente queda autorizado para liquidar la operación.
+
+ARTICULO 44. — Reglamentaciones. La Comisión Nacional de Valores deberá aprobar todas las reglamentaciones propiciadas por los mercados y las cámaras compensadoras y entidades de registro en forma previa a su entrada en vigencia. Los mercados y cámaras compensadoras deben mantener en todo momento sus reglamentaciones adecuadas a la normativa emanada de la Comisión Nacional de Valores.
+
+(Artículo sustituido por art. 56 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 45. — Fondos de garantía. Los mercados y/o las cámaras compensadoras deberán constituir, conforme lo reglamente la Comisión Nacional de Valores, fondos de garantía destinados a hacer frente a los compromisos no cumplidos por sus agentes participantes y originados en operaciones garantizadas. Dichos fondos deberán organizarse bajo la figura fiduciaria u otra figura que apruebe la Comisión Nacional de Valores y se conformarán acorde a las mejores prácticas internacionales en la materia. Las sumas acumuladas en estos fondos, deberán ser invertidas en la forma y condiciones que establezca la Comisión Nacional de Valores, la cual determinará los criterios de seguridad, rentabilidad y liquidez adecuados.
+
+Las sumas destinadas a todos los fondos de garantía del presente artículo y estos últimos, así como sus rentas, están exentas de impuestos, tasas y cualquier otro gravamen fiscal, incluyendo el Impuesto al Valor Agregado, el impuesto al que hace referencia el primer artículo incorporado a continuación del artículo 25 del título VI de la ley 23.966 y el Impuesto sobre los Créditos y Débitos en cuentas bancarias y otras operatorias no resultando de aplicación, en este caso, lo dispuesto en el segundo párrafo del artículo 2° de la ley 25.413 y sus modificaciones. Se invita a las provincias y a la Ciudad Autónoma de Buenos Aires a adherir con la respectiva eximición de sus impuestos.
+
+(Artículo sustituido por art. 57 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 46. — Tribunal arbitral. Todos los mercados deberán contar en su ámbito con un tribunal arbitral permanente, al cual quedarán sometidas en forma obligatoria las entidades cuyos valores negociables se negocien dentro de su ámbito, en sus relaciones con los accionistas e inversores. Quedan comprendidas en la jurisdicción arbitral todas las acciones derivadas de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones, incluso las demandas de impugnación de resoluciones de los órganos sociales y las acciones de responsabilidad contra sus integrantes o contra otros accionistas, así como las acciones de nulidad de cláusulas de los estatutos o reglamentos. En todos los casos, los reglamentos deberán dejar a salvo el derecho de los accionistas e inversores para optar por acudir a los tribunales judiciales competentes. En los casos en que la ley establezca la acumulación de acciones entabladas con idéntica finalidad ante un solo tribunal, la acumulación se efectuará ante el tribunal judicial. También quedan sometidas a la jurisdicción arbitral establecida en este artículo las personas que efectúen una oferta pública de adquisición respecto de los destinatarios de tal adquisición. Las reglamentaciones que los mercados dicten, aplicables a la creación y funcionamiento de los tribunales arbitrales, deberán ser sometidas a la previa aprobación de la Comisión Nacional de Valores.
+
+CAPITULO II
+
+Agentes registrados
+
+ARTICULO 47. — Registro. Para actuar como agentes los sujetos deberán contar con la autorización y registro de la Comisión Nacional de Valores, y deberán cumplir con las formalidades y requisitos que para cada categoría establezca la misma vía reglamentaria.
+
+(Artículo sustituido por art. 58 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 48. — Prohibiciones e incompatibilidades. No pueden ser autorizados para su inscripción como agentes:
+
+a) Los condenados por los delitos previstos en los artículos 176 a 180 del Código Penal o cometidos con ánimo de lucro o contra la fe pública o que tengan pena principal, conjunta o alternativa de inhabilitación para ejercer cargos públicos, hasta diez (10) años después de cumplida la condena;
+
+b) Los fallidos y los concursados, hasta cinco (5) años después de su rehabilitación;
+
+c) Las personas en relación de dependencia con las sociedades que listen y/o negocien sus valores negociables, conforme sus categorías;
+
+d) Los funcionarios y empleados rentados de la Nación, las provincias, la Ciudad Autónoma de Buenos Aires y los municipios, con exclusión de los que desempeñen actividades docentes o integren comisiones de estudio;
+
+e) Aquellos a quienes se les hubiere cancelado o revocado una inscripción anterior como agentes, hasta cinco (5) años después de quedar firme la cancelación;
+
+f) Las sociedades entre cuyos accionistas controlantes, administradores o síndicos hubiere una o más personas a quienes se les hubiere cancelado una inscripción anterior como agentes, hasta cinco (5) años después de quedar firme la cancelación;
+
+g) Las personas que ejercen tareas que las reglamentaciones dictadas por la Comisión Nacional de Valores declaren incompatibles con esa función;
+
+h) Los miembros de los órganos de administración o fiscalización de agentes de depósito de valores negociables.
+
+Cuando la incompatibilidad sobrevenga a la inscripción, el agente quedará suspendido en sus funciones hasta tanto aquélla desaparezca.
+
+ARTICULO 49. — Autorización. La petición de autorización se presentará ante la Comisión Nacional de Valores, quien se expedirá en el término de veinte (20) días hábiles de recibida. La decisión será notificada al presentante, quien en caso de respuesta desfavorable podrá impugnarla dentro del término de diez (10) días hábiles.
+
+Cumplido este plazo o en forma inmediata cuando el organismo se hubiere expedido favorablemente, se registrará al agente en la categoría en la cual hubiese solicitado su inscripción.
+
+ARTICULO 50. — Denegatoria. En caso que la Comisión Nacional de Valores deniegue la autorización para la inscripción en el registro, el solicitante puede interponer los recursos previstos en las leyes aplicables. La solicitud denegada sólo puede reiterarse luego de transcurridos dos (2) años después de haber quedado firme la pertinente resolución.
+
+ARTICULO 51. — Incumplimiento. Una vez autorizados y registrados los agentes deberán observar el cumplimiento de la totalidad de los requisitos que establezca la Comisión Nacional de Valores durante el término de su inscripción, debiendo abstenerse de funcionar como tales, cuando incurran en cualquier incumplimiento de los requisitos, condiciones y obligaciones dispuestas por el organismo, sin necesidad de intimación previa.
+
+El incumplimiento de cualquiera de los requisitos, condiciones y obligaciones reglamentados por la Comisión Nacional de Valores, dará lugar a la suspensión preventiva, hasta que hechos sobrevinientes hagan aconsejable la revisión de la medida sin perjuicio de la eventual aplicación a los infractores de las sanciones previstas en el artículo 132 de la presente ley.
+
+ARTICULO 52. — Publicidad de registros. La Comisión Nacional de Valores deberá publicar los registros conforme la reglamentación que dicte al respecto, detallando las distintas categorías donde los agentes se encuentren registrados.
+
+(Artículo sustituido por art. 59 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 53. — Secreto. Los agentes registrados deben guardar secreto de las operaciones que realicen por cuenta de terceros así como de sus nombres. Quedarán relevados de esta obligación por decisión judicial dictada por tribunales competentes en procesos vinculados a esas operaciones o a terceros relacionados con ellas, así como también cuando les sean requeridas por la Comisión Nacional de Valores, el Banco Central de la República Argentina, la Unidad de Información Financiera y la Superintendencia de Seguros de la Nación en el marco de investigaciones propias de sus funciones. Estas tres (3) últimas entidades darán noticia del requerimiento a la Comisión Nacional de Valores simultáneamente al ejercicio de la facultad que se les concede.
+
+El secreto tampoco regirá para las informaciones que, en cumplimiento de sus funciones, solicite la Administración Federal de Ingresos Públicos, entidad autárquica actuante en la órbita del Ministerio de Finanzas, de carácter particular o general y referidas a uno (1) o varios sujetos determinados o no, aun cuando éstos no se encontraren bajo fiscalización. Sin embargo, en materia bursátil, las informaciones requeridas no podrán referirse a operaciones en curso de realización o pendientes de compensación o liquidación.
+
+(Artículo sustituido por art. 60 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 54. — Fuerza probatoria. La firma de un agente registrado da autenticidad a todos los documentos en que haya intervenido.
+
+La Comisión Nacional de Valores reglamentará las formalidades que deberán guardar los documentos para gozar de la presunción legal anterior.
+
+ARTICULO 55. — Responsabilidad. El agente registrado, según corresponda en virtud de las actividades que realice, será responsable ante el mercado por cualquier suma que dicha entidad hubiese abonado por su cuenta.
+
+Mientras no regularice su situación y pruebe que han mediado contingencias fortuitas o de fuerza mayor, queda inhabilitado para operar.
+
+(Artículo sustituido por art. 61 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 56. — Competencia disciplinaria. Los agentes registrados quedan sometidos a la competencia disciplinaria exclusiva de la Comisión Nacional de Valores, a la cual los mercados y cámaras compensadoras deberán denunciar toda falta en que incurrieren sus agentes miembros que resulten de las auditorías y controles de supervisión, fiscalización y control practicados por dichos mercados y cámaras compensadoras sobre ellos en los términos de la reglamentación que a tales fines dicte la Comisión Nacional de Valores. La omisión deliberada o la falta de la debida diligencia en el control de los agentes habilitados por parte de los mercados, cámaras compensadoras y entidades de registro de operaciones de derivados serán sancionadas por el citado organismo.
+
+(Artículo sustituido por art. 62 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 57. — Agentes de calificación de riesgo. La Comisión Nacional de Valores establecerá las formalidades y requisitos que deberán cumplir las entidades que soliciten su registro como agentes de calificación de riesgo, incluyendo la reglamentación de lo dispuesto en la presente ley y determinando la clase de organizaciones que podrán llevar a cabo esta actividad.
+
+La Comisión Nacional de Valores podrá incluir dentro de este registro a las universidades públicas autorizadas a funcionar como tales, a los efectos de su actuación, fijando los requisitos que deberán acreditar considerando su naturaleza.
+
+Los agentes de calificación de riesgo no podrán prestar servicios de auditoría, consultoría, y/o asesoramiento a las entidades contratantes o a entidades pertenecientes a su grupo de control.
+
+(Artículo sustituido por art. 63 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 58. — Objeto de calificación. Los agentes de calificación de riesgo, a solicitud de las emisoras y otras entidades, podrán calificar cualquier valor negociable, sujeto o no al régimen de oferta pública.
+
+CAPITULO III
+
+Emisoras
+
+ARTICULO 59. — Normas aplicables. Son aplicables a las entidades emisoras comprendidas en el régimen de la oferta pública, las disposiciones contenidas en el presente capítulo en forma complementaria a las normas aplicables según la forma jurídica adoptada por dichas sociedades.
+
+ARTICULO 60. — Normas contables. Son aplicables a las entidades emisoras comprendidas en el régimen de la oferta pública las siguientes disposiciones referidas a la información contable:
+
+a) Al solo efecto informativo, sin perjuicio de las obligaciones aplicables a cada sociedad, la Comisión Nacional de Valores en cada caso particular podrá autorizar a la sociedad controlante la difusión exclusiva de los estados contables consolidados cuando éstos describan en forma clara, veraz y con mayor fidelidad la situación e información de la sociedad con oferta pública autorizada;
+
+b) Sin perjuicio de la información requerida por las disposiciones legales aplicables, las emisoras deberán incluir adicionalmente en las notas complementarias a sus estados contables la siguiente información:
+
+I. En el caso de las sociedades anónimas, las acciones que hayan sido emitidas o con emisión autorizada por la asamblea y las efectivamente emitidas; así como, conforme al régimen legal y reglamentario aplicable, las opciones otorgadas y los valores convertibles en acciones y los demás que otorguen derechos a participar en los resultados de la sociedad;
+
+II. Los acuerdos que impidan gravar y/o disponer de todos o parte de sus bienes con información adecuada sobre dichos compromisos;
+
+III. Información suficiente sobre la política de asunción y cobertura de riesgo en los mercados, mencionando especialmente los contratos de futuros, opciones y/o cualquier otro contrato derivado;
+
+c) Sin perjuicio de lo establecido en el artículo 66  de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones y de la reglamentación adicional que establecerá la Comisión Nacional de Valores se incluirá en la memoria como información adicional por lo menos la siguiente:
+
+I. La política comercial proyectada y otros aspectos relevantes de la planificación empresaria, financiera y de inversiones;
+
+II. Los aspectos vinculados a la organización de la toma de decisiones y al sistema de control interno de la sociedad;
+
+III. La política de dividendos propuesta o recomendada por el directorio con una explicación fundada y detallada de la misma;
+
+IV. Las modalidades de remuneración del directorio y la política de remuneración de los cuadros gerenciales de la sociedad, planes de opciones y cualquier otro sistema remuneratorio de los directores y gerentes por parte de la sociedad. La obligación de información se extenderá a la que corresponde a sociedades controladas en las que se aplicaren sistemas o políticas sustancialmente diferenciadas.
+
+La Comisión Nacional de Valores podrá autorizar el envío de toda la documentación contable y demás información financiera por medios electrónicos u otras vías de comunicación, siempre que cumplan con las normas de seguridad que a tal efecto disponga.
+
+ARTICULO 61. — Administración. El órgano de administración de las entidades emisoras podrá funcionar con los miembros presentes o comunicados entre sí por otros medios de transmisión simultánea de sonido, imágenes y palabras cuando así lo prevea el estatuto social. El órgano de fiscalización dejará constancia de la regularidad de las decisiones adoptadas.
+
+Se entenderá que sólo se computarán a los efectos del quórum a los miembros presentes salvo que el estatuto establezca lo contrario. Asimismo, el estatuto deberá establecer la forma en que se hará constar en las actas la participación de miembros a distancia.
+
+En el caso de reuniones a distancia del órgano de administración, las actas serán confeccionadas y firmadas dentro de los cinco (5) días hábiles de celebrada la reunión por los miembros presentes y el representante del órgano de fiscalización.
+
+El estatuto podrá prever que las asambleas se puedan también celebrar a distancia a cuyo efecto la Comisión Nacional de Valores reglamentará los medios y condiciones necesarios para otorgar seguridad y transparencia al acto.
+
+ARTICULO 62. — Aumentos de capital. Al adoptar la resolución de aumento de capital, la asamblea podrá autorizar al directorio a aumentar el número de acciones autorizado previendo que en una emisión los pedidos de suscripción excedan la cantidad de acciones ofrecidas por la sociedad. En tal caso, la asamblea deberá fijar el límite de tal emisión en exceso. No podrá superarse el límite que fije la Comisión Nacional de Valores, la que deberá establecer los recaudos a ser cumplidos en estos casos.
+
+ARTICULO 62 bis. — I. En el caso de un aumento de capital de acciones u obligaciones negociables convertibles ofrecidas mediante oferta pública en los términos de la presente ley y sujeto al cumplimiento de las dos (2) condiciones establecidas en el segundo párrafo del presente artículo, el derecho de preferencia contemplado en el artículo 194 de la Ley General de Sociedades 19.550, t.o. 1984 y sus modificaciones y en el artículo 11 de la ley 23.576 y sus modificaciones se ejercerá exclusivamente mediante el procedimiento de colocación que se determine en el prospecto de oferta pública correspondiente sin aplicación del plazo previsto en dicho artículo; otorgándose a los titulares de las acciones y obligaciones negociables convertibles, beneficiarios del derecho de preferencia, prioridad en la adjudicación hasta el monto de las acciones que les correspondan por sus porcentajes de tenencias. Ello será siempre que las órdenes de compra presentadas por los accionistas o tenedores de obligaciones negociables convertibles, beneficiarios del derecho de preferencia, sean (i) al precio que resulte del procedimiento de colocación o a un precio determinado que sea igual o superior a dicho precio de suscripción determinado en la oferta pública; y/o (ii) los accionistas o tenedor de obligaciones negociables convertibles beneficiarios del derecho de preferencias manifiesten su intención de suscribir las acciones al precio de colocación que se determine conforme el procedimiento de colocación utilizado.
+
+Las dos (2) condiciones referidas en el párrafo precedente serán: (i) la inclusión de una disposición expresa en el estatuto social; y (ii) la aprobación de la asamblea de accionistas que apruebe cada emisión de acciones y obligaciones negociables convertibles.
+
+A menos que el estatuto de las sociedades establezca lo contrario, en ningún caso será de aplicación el derecho de acrecer.
+
+II. Las personas jurídicas constituidas en el extranjero podrán participar de todas las asambleas de accionistas, incluyendo -aunque sin limitación- las contempladas en el presente artículo, de sociedades autorizadas a hacer oferta pública de sus acciones a través de mandatarios debidamente instituidos, sin otra exigencia registral.
+
+(Artículo sustituido por art. 64 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 63. — Opciones. En las sociedades que hagan oferta pública de sus acciones, cuando así lo prevea su estatuto, la asamblea podrá aprobar la emisión de opciones sobre acciones a emitir o valores convertibles en acciones y delegar en el directorio la fijación de los términos y condiciones de su emisión y de los derechos que otorguen. Puede delegarse en el órgano de administración la fijación del precio de las opciones y el de las acciones a las que éstas den derecho. Las respectivas decisiones de las asambleas y del directorio deberán publicarse y registrarse. Adicionalmente, será de aplicación lo dispuesto en los artículos 11, 12 y 17 a 27 de la ley 23.576 y sus modificatorias.
+
+ARTICULO 64. — Adquisición de acciones propias. Una sociedad anónima podrá adquirir las acciones que hubiera emitido, en tanto estén admitidas a la oferta pública y listadas por parte de un mercado, bajo las condiciones previstas en este artículo y aquellas que determine la Comisión Nacional de Valores. La reglamentación deberá respetar el principio de trato igualitario entre todos los accionistas y el derecho a la información plena de los inversores.
+
+Son condiciones necesarias para toda adquisición de sus acciones por la sociedad emisora las siguientes:
+
+a) Que las acciones a adquirirse se hallen totalmente integradas;
+
+b) Que medie resolución fundada del directorio con informe del comité de auditoría y de la comisión fiscalizadora. La resolución del directorio deberá establecer la finalidad de la adquisición, el monto máximo a invertir, la cantidad máxima de acciones o el porcentaje máximo sobre el capital social que será objeto de adquisición y el precio máximo a pagar por las acciones, debiendo el directorio brindar a accionistas e inversores información amplia y detallada;
+
+c) Que la adquisición se efectúe con ganancias realizadas y líquidas o con reservas libres o facultativas, debiendo la sociedad acreditar ante la Comisión Nacional de Valores que cuenta con la liquidez necesaria y que dicha adquisición no afecta la solvencia de la sociedad;
+
+d) Que el total de las acciones que adquiera la sociedad, incluidas las que hubiera adquirido con anterioridad y permanecieran en su poder, en ningún caso excedan del límite del diez por ciento (10%) del capital social o del límite porcentual menor que determine la Comisión Nacional de Valores teniendo en cuenta el volumen de negociación de las acciones en cuestión.
+
+ARTICULO 65. — Enajenación. Las acciones adquiridas por la sociedad en exceso de tales límites deberán ser enajenadas en el término de noventa (90) días hábiles contados a partir de la fecha de la adquisición que hubiere dado origen al exceso en la forma dispuesta en el inciso d) del artículo anterior; ello sin perjuicio de la responsabilidad que corresponda imputar a los directores de la sociedad.
+
+ARTICULO 66. — Formas de adquisición. Las operaciones celebradas con motivo de la adquisición de acciones de propia emisión podrán llevarse a cabo mediante operaciones en el mercado o a través de una oferta pública de adquisición. En el caso de adquisiciones en el mercado, el monto de éstas realizadas en un mismo día no podrá ser superior al veinticinco por ciento (25%) del volumen promedio de transacción diario que hayan experimentado las acciones de la sociedad durante los noventa (90) días hábiles anteriores. En cualquier caso, la Comisión Nacional de Valores podrá requerir que tal compra se ejecute mediante una oferta pública de adquisición cuando las acciones a ser adquiridas representen un porcentaje importante con relación al volumen promedio de negociación.
+
+ARTICULO 67. — Consecuencias de la adquisición. Las acciones adquiridas en virtud de lo dispuesto en los artículos anteriores deberán ser enajenadas por la sociedad dentro del plazo máximo de tres (3) años a contar de su adquisición. Transcurrido el plazo indicado y no mediando resolución asamblearia, el capital quedará disminuido de pleno derecho en un monto igual al valor nominal de las acciones que permanezcan en cartera, las cuales quedarán canceladas. Al tiempo de enajenarlas la sociedad deberá realizar una oferta preferente de las acciones a los accionistas en los términos establecidos en el artículo 221 de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones. No será obligatoria esa oferta cuando se trate de cumplir un programa o plan de compensación a favor de personal dependiente de la sociedad o las acciones se distribuyan entre todos los accionistas en proporción a sus tenencias o respecto de la venta de una cantidad de acciones que dentro de cualquier período de doce (12) meses no supere el uno por ciento (1%) del capital accionario de la sociedad, siempre que en tales casos se cuente con la previa aprobación de la asamblea de accionistas.
+
+Si los accionistas no ejercieren, en todo o en parte, el derecho preferente establecido en el párrafo anterior o se tratare de acciones que se encuentran dentro del cupo mencionado, la enajenación deberá efectuarse en un mercado.
+
+ARTICULO 68. — Accionariado obrero. En oportunidad de votarse un aumento de capital la asamblea podrá resolver destinar una parte de las nuevas acciones a emitir, para ser entregadas al personal en relación de dependencia de la sociedad o de alguna o algunas de sus sociedades controladas. El total acumulativo de las acciones emitidas con esta finalidad no podrá superar el diez por ciento (10%) del capital social. La asamblea podrá resolver la entrega de acciones como bonificación, en cuyo caso deberán afectarse utilidades líquidas y realizadas o reservas libres, o sujetas a integración por parte de los beneficiarios debiendo, en tal caso, fijar las modalidades de la integración.
+
+ARTICULO 69. — Pautas reglamentarias. La Comisión Nacional de Valores deberá establecer pautas referentes a:
+
+a) Las ofertas de canje de acciones o cualquier otro procedimiento similar;
+
+b) El voto ejercido por las entidades que sean titulares de acciones por cuenta o interés de terceros, bajo fideicomiso, depósito u otras relaciones jurídicas afines, cuando los respectivos contratos así lo autoricen;
+
+c) La solicitud pública de poderes a fin de asegurar el derecho de información plena del inversor.
+
+Los accionistas que deseen solicitar en forma pública el otorgamiento de poderes a su favor, deberán hacerlo conforme la reglamentación que a tal efecto establezca la Comisión Nacional de Valores. Las personas que promuevan dicha solicitud tendrán que poseer como mínimo el dos por ciento (2%) del capital social representado por acciones con derecho a voto y una antigüedad como accionista de por lo menos un (1) año y deberán cumplir con los requisitos formales que establezca la Comisión Nacional de Valores. El mandato será siempre revocable y deberá ser otorgado para una asamblea determinada.
+
+Los accionistas que promuevan dicha solicitud serán responsables por las informaciones del formulario de poder que sea registrado ante la Comisión Nacional de Valores y por aquella información que se divulgue durante el período de solicitud, debiendo dicha información permitir a los accionistas tomar una decisión con pleno conocimiento de causa. Los intermediarios que participen en dicha solicitud deberán verificar en forma diligente la corrección de dicha información.
+
+Sin perjuicio de la responsabilidad de derecho común que les pudiera corresponder, los infractores a los deberes establecidos en este párrafo y sus normas reglamentarias serán sancionados por la Comisión Nacional de Valores.
+
+ARTICULO 70. — Convocatorias asamblearias. En las sociedades que hagan oferta pública de sus acciones, la primera convocatoria a asamblea deberá publicarse con una anticipación no menor a los veinte (20) días corridos y no mayor a los cuarenta y cinco (45) días corridos de la fecha fijada para su celebración. Los plazos indicados se computarán a partir de la última publicación.
+
+Veinte (20) días corridos antes de la fecha fijada para la celebración de la asamblea, el directorio deberá poner a disposición de los accionistas en su sede social o por medios electrónicos, toda la información relevante concerniente a la celebración de la asamblea, la documentación a ser considerada en la misma y las propuestas del directorio.
+
+Hasta cinco (5) días corridos antes de la fecha para la celebración de la asamblea ordinaria que deba considerar la documentación del ejercicio, los accionistas que representen por lo menos el dos por ciento (2%) del capital social podrán entregar en la sede social comentarios o propuestas relativas a la marcha de los negocios sociales correspondientes al ejercicio. El directorio deberá informar a los accionistas que dichos comentarios o propuestas se encuentran disponibles en la sede social o que podrán consultarse a través de cualquier medio electrónico.
+
+ARTICULO 71. — Asambleas ordinarias. En las sociedades que hacen oferta pública de sus acciones corresponde a la asamblea ordinaria resolver, además de los asuntos mencionados en el artículo 234 de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones, los siguientes:
+
+a) La disposición o gravamen de todo o parte sustancial de los activos de la sociedad cuando ello no se realice en el curso ordinario de los negocios de la sociedad;
+
+b) La celebración de contratos de administración o gerenciamiento de la sociedad. Lo mismo se aplica a la aprobación de cualquier otro pacto por el cual los bienes o servicios que reciba la sociedad sean remunerados total o parcialmente con un porcentaje de los ingresos, resultados o ganancias de la sociedad, si el monto resultante es sustancial habida cuenta del giro de los negocios y del patrimonio social.
+
+ARTICULO 72. — Contratos con partes relacionadas. En las sociedades que hagan oferta pública de sus acciones, los actos o contratos que la sociedad celebre con una parte relacionada y que involucre un monto relevante, deberán cumplir con el procedimiento que se prevé a continuación.
+
+A los efectos del presente artículo:
+
+a) Se entenderá por “parte relacionada” a las siguientes personas en relación con la sociedad emisora:
+
+I. A los directores, integrantes del órgano de fiscalización o miembros del consejo de vigilancia de la sociedad emisora, así como a los gerentes generales o especiales designados de acuerdo con el artículo 270 de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones;
+
+II. A las personas humanas o jurídicas que tengan el control o posean una participación significativa, según lo determine la Comisión Nacional de Valores, en el capital social de la sociedad emisora o en el capital de su sociedad controlante;
+
+III. A otra sociedad que se halle bajo el control común del mismo controlante;
+
+IV. A los ascendientes, descendientes, cónyuges o hermanos de cualquiera de las personas humanas mencionadas en los apartados I y II precedentes;
+
+V. A las sociedades en las que cualquiera de las personas referidas en los apartados I a IV precedentes posean directa o indirectamente participaciones significativas. Siempre que no se configure alguno de los casos mencionados, no será considerada “parte relacionada” a los efectos de este artículo una sociedad controlada por la sociedad emisora;
+
+b) Se entenderá que un acto o contrato es por un “monto relevante” cuando el importe del mismo supere el uno por ciento (1%) del patrimonio social medido conforme al último balance aprobado.
+
+El directorio o cualquiera de sus miembros requerirá al comité de auditoría un pronunciamiento acerca de si las condiciones de la operación pueden razonablemente considerarse adecuadas a las condiciones normales y habituales del mercado. El comité de auditoría debe pronunciarse en un plazo de cinco (5) días hábiles.
+
+Sin perjuicio de la consulta al comité de auditoría la sociedad podrá resolver con el informe de dos (2) firmas evaluadoras independientes, las cuales deberán haberse expedido sobre el mismo punto y sobre las demás condiciones de la operación.
+
+ARTICULO 73. — Procedimiento. Los actos o contratos a que se refiere el artículo anterior, inmediatamente después de haber sido aprobados por el directorio, deberán ser informados conforme el inciso a) del artículo 99 de la presente ley con indicación de la existencia de los pronunciamientos del comité de auditoría o, en su caso, de las firmas evaluadoras independientes.
+
+El directorio deberá poner a disposición de los accionistas el informe del comité de auditoría o los informes de las firmas evaluadoras independientes, según corresponda, en la sede social de la sociedad al día siguiente hábil de haberse adoptado la pertinente resolución del directorio debiendo comunicarse a los accionistas tal hecho en el respectivo boletín del mercado.
+
+En caso de corresponder, el controlante o la persona relacionada que sea contraparte de la operación, deberá poner a disposición del directorio antes de que éste apruebe la operación, todos los antecedentes, informes, documentos y comunicaciones referidos a la operación presentados a entidades supervisoras o reguladoras extranjeras competentes o a bolsas de valores extranjeras.
+
+En el acta de directorio que apruebe la operación deberá hacerse constar el sentido del voto de cada director.
+
+La operación deberá ser sometida a aprobación previa de la asamblea cuando las condiciones previstas no hayan sido calificadas como razonablemente adecuadas al mercado por el comité de auditoría o por ambas firmas evaluadoras.
+
+ARTICULO 74. — Carga probatoria en litigios. En caso de que un accionista demande resarcimiento de los perjuicios ocasionados por una infracción al artículo anterior corresponderá a la parte demandada probar que el acto o contrato se ajustó a condiciones de mercado o que las condiciones de la operación no causaron perjuicio a la sociedad. Tal inversión de la carga probatoria no será aplicable cuando la operación fuese aprobada por el directorio contando con la opinión favorable del comité de auditoría o de las dos (2) firmas evaluadoras o hubiere sido aprobada por la asamblea ordinaria sin el voto decisivo del accionista respecto del cual se configure la condición de parte relacionada o tenga interés en el acto o contrato en cuestión.
+
+ARTICULO 75. — Remuneraciones de directores. Las sociedades autorizadas a hacer oferta pública de sus acciones podrán remunerar a sus directores con funciones ejecutivas o técnico-administrativas, así como a los gerentes, con opciones de compra de acciones de la propia sociedad, cumpliendo con los procedimientos y requisitos que a tales efectos establezca la Comisión Nacional de Valores. En estos casos, la asamblea deberá fijar el precio de las opciones y de las acciones a las que éstas den derecho y el valor a computar a los fines de la remuneración a los efectos de los límites del artículo 261 de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones. Salvo disposición contraria del estatuto, la sociedad podrá contratar un seguro de responsabilidad civil para sus directores para la cobertura de riesgos inherentes al ejercicio de sus funciones.
+
+ARTICULO 76. — Acciones de responsabilidad. En las sociedades que hacen oferta pública de sus acciones, la acción de responsabilidad prevista en el artículo 276 de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones, cuando correspondiere ser ejercida por los accionistas en forma individual, podrá ser ejercida para reclamar en beneficio de la sociedad el resarcimiento del daño total sufrido por ésta o para reclamar el resarcimiento del daño parcial sufrido indirectamente por el accionista en proporción a su tenencia, en cuyo caso la indemnización ingresará a su patrimonio.
+
+Cuando el demandado por responsabilidad lo haya sido por el total del perjuicio que se alega sufrido por la sociedad podrá optar por allanarse al pago a los accionistas demandantes del resarcimiento del perjuicio indirecto que se determine como sufrido por aquéllos en proporción a su tenencia accionaria.
+
+ARTICULO 77. — Asignación de funciones. En las sociedades que hacen oferta pública de sus acciones, la asignación de funciones específicas prevista en el segundo párrafo del artículo 274 de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones, además de inscribirse en el Registro Público de Comercio, deberá comunicarse al mercado en el cual listen las acciones.
+
+ARTICULO 78. — Lealtad de los directores. En las sociedades que hacen oferta pública de sus acciones se entenderán especialmente comprendidas en el deber de lealtad con que deben actuar los directores:
+
+a) La prohibición de hacer uso de los activos sociales y la de hacer uso de cualquier información confidencial, con fines privados;
+
+b) La prohibición de aprovechar o de permitir que otro aproveche, ya sea por acción o por omisión, las oportunidades de negocio de la sociedad;
+
+c) La obligación de ejercer sus facultades únicamente para los fines para los que la ley, el estatuto, la asamblea o el directorio se las hayan concedido;
+
+d) La obligación de velar escrupulosamente para que su actuación nunca incurra en conflicto de intereses, directo o indirecto, con los de la sociedad.
+
+En caso de duda acerca del cumplimiento del deber de lealtad, la carga de la prueba corresponde al director.
+
+ARTICULO 79. — Comisión fiscalizadora. En las sociedades comprendidas en el régimen de oferta pública por acciones o valores negociables de deuda, la totalidad de los miembros de la Comisión Fiscalizadora deberán revestir la calidad de independientes.
+
+Las sociedades que hagan oferta pública de acciones y tengan constituido un Comité de Auditoría podrán prescindir de la Comisión Fiscalizadora. En este caso, los integrantes de ese comité tendrán las atribuciones y deberes que otorga el artículo 294 de la Ley General de Sociedades 19.550, t.o. 1984 y sus modificaciones.
+
+La decisión de eliminar a la Comisión Fiscalizadora corresponde a la asamblea extraordinaria de accionistas que, en primera o segunda convocatoria, deberá contar con la presencia, como mínimo, de accionistas que representen el setenta y cinco por ciento (75%) de las acciones con derecho a voto. Las resoluciones en todos los casos serán tomadas por el voto favorable del setenta y cinco por ciento (75%) de las acciones con derecho a voto, sin aplicarse la pluralidad de voto.
+
+En caso de prescindirse de la Comisión Fiscalizadora, todos los integrantes del Comité de Auditoría deberán reunir los requisitos de idoneidad y experiencia, así como el régimen de inhabilidades e incompatibilidades, requeridos para los síndicos en los artículos 285 y 286, y concordantes, de la Ley General de Sociedades 19.550, t.o. 1984 y sus modificaciones, resultándoles aplicables las responsabilidades previstas en el artículo 294 de dicha norma legal.
+
+(Artículo sustituido por art. 65 de la Ley N° 27.440 B.O. 11/5/2018)
+
+TITULO III
+
+Oferta pública
+
+CAPITULO I
+
+Oferta pública de valores negociables y otros instrumentos financieros
+
+ARTICULO 80. — Facultades. La Comisión Nacional de Valores será la autoridad de aplicación y autorización de la oferta pública de valores negociables en todo el ámbito de la República Argentina.
+
+El citado organismo podrá disponer, cuando así lo considere, la precalificación de autorización de oferta pública de los valores negociables al inicio del trámite, por las bolsas y mercados, la que se sujetará a las formalidades y requisitos que a estos efectos reglamente el organismo.
+
+ARTICULO 81. — Facultades regulatorias. La Comisión Nacional de Valores podrá establecer regímenes diferenciados de autorización de oferta pública de acuerdo con las características objetivas o subjetivas de los emisores y/o de los destinatarios de los ofrecimientos, el número limitado de éstos, el domicilio de constitución del emisor, los montos mínimos de las emisiones y/o de las colocaciones, la naturaleza, origen y/o especie de los valores negociables, o cualquier otra particularidad que lo justifique razonablemente.
+
+Toda negociación de instrumentos que, a criterio de la Comisión Nacional de Valores, comprenda características semejantes a la oferta pública definida en la presente ley se considerará como tal y se someterá a las normas de la Comisión Nacional de Valores.
+
+ARTICULO 82. — Objeto y sujetos de la oferta pública. Pueden ser objeto de oferta pública los valores negociables emitidos o agrupados en serie que por tener las mismas características y otorgar los mismos derechos dentro de su clase  se ofrecen en forma genérica y se individualizan en el momento de cumplirse el contrato respectivo y todos aquellos instrumentos financieros que autorice la Comisión Nacional de Valores.
+
+Pueden realizar oferta pública de valores negociables u otros instrumentos financieros las entidades que los emitan y los agentes registrados autorizados a estos efectos por la Comisión Nacional de Valores.
+
+El citado organismo podrá dictar normas estableciendo y reglamentando supuestos específicos conforme a los cuales se considere que una oferta de valores negociables no constituye una oferta pública sino privada, para lo cual podrá tomar en consideración los medios y mecanismos de difusión, ofrecimiento y distribución y el número y tipo de inversores a los cuales se destina la oferta.
+
+(Artículo sustituido por art. 66 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 83. — Valores emitidos por entes públicos. La oferta pública de valores negociables emitidos por la Nación, las provincias, la Ciudad Autónoma de Buenos Aires, los municipios, los entes autárquicos, así como por los organismos multilaterales de crédito de los que la República Argentina fuere miembro no está comprendida en esta ley.
+
+Se considera oferta pública sujeta a las disposiciones de esta ley, la negociación de los valores negociables citados cuando la misma se lleve a cabo por una persona humana o jurídica privada, en las condiciones que se establecen en el artículo 2° de la presente ley.
+
+La oferta pública de valores negociables emitidos por Estados extranjeros, sus divisiones políticas y otras entidades de naturaleza estatal del extranjero en el territorio de la República Argentina deberá ser autorizada por el Poder Ejecutivo nacional, con excepción de las emisiones de los Estados nacionales de los países miembros del Mercado Común del Sur (Mercosur), las que tendrán oferta pública automática bajo condición de reciprocidad.
+
+(Artículo sustituido por art. 67 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 84. — Procedimiento de autorización. La Comisión Nacional de Valores debe resolver la solicitud de autorización para realizar oferta pública dentro del plazo de treinta (30) días hábiles contados a partir del momento en que queda reunida toda la documentación a satisfacción de la Comisión Nacional de Valores y no se formularen nuevos pedidos u observaciones.
+
+Cuando vencido dicho plazo no se hubiera expedido el interesado puede requerir pronto despacho. A los quince (15) días hábiles de presentado este pedido si la Comisión Nacional de Valores no se hubiera pronunciado se considera concedida la autorización, salvo que aquélla prorrogue el plazo mediante resolución fundada. Dicha prórroga no puede exceder de quince (15) días hábiles a partir de la fecha en que se disponga. Vencido este nuevo plazo la autorización se considera otorgada.
+
+La autorización para efectuar oferta pública de determinada cantidad de valores negociables, contratos, a término, futuros u opciones de cualquier naturaleza u otros instrumentos financieros no importa autorización para el ofrecimiento de otros emitidos por el mismo emisor, aún cuando tengan las mismas características.
+
+La denegatoria no podrá fundarse en razones de oportunidad, mérito o conveniencia.
+
+(Artículo sustituido por art. 68 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 85. — (Artículo derogado por art. 69 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO II
+
+Oferta pública de adquisición
+
+ARTICULO 86. — Ámbito de aplicación y procedimiento. Toda oferta pública de adquisición de acciones con derecho a voto de una sociedad cuyas acciones se encuentren admitidas al régimen de la oferta pública, sea de carácter voluntaria u obligatoria conforme lo dispuesto en los artículos siguientes deberá realizarse en los términos de la presente ley y las reglamentaciones que a tales efectos dicte la Comisión Nacional de Valores, siendo de aplicación las normas de transparencia y principios de protección al público inversor en el régimen de oferta pública.
+
+Las ofertas públicas de adquisición obligatorias contempladas en los artículos 87, 91 y 98 de la presente ley deberán (i) también incluir a los titulares de derechos de suscripción u opciones sobre acciones, de títulos de deuda convertibles u otros valores negociables similares que, directa o indirectamente, puedan dar derecho a la suscripción, adquisición o conversión en acciones con derecho a voto; y (ii) efectuarse por la totalidad de las acciones con derecho a voto y demás valores negociables emitidos que den derecho a acciones con derecho a voto, y no podrán sujetarse a condición alguna.
+
+El procedimiento que establezca la Comisión Nacional de Valores deberá asegurar y prever:
+
+a) La igualdad de tratamiento entre los accionistas tanto en las condiciones económicas y financieras como en cualquier otra condición de la adquisición para todas las acciones, títulos o derechos de una misma categoría o clase;
+
+b) El cumplimiento de las disposiciones sobre el precio equitativo, conforme las disposiciones del artículo 88 de la presente ley;
+
+c) Plazos razonables y suficientes para que los destinatarios de la oferta dispongan del tiempo adecuado para adoptar una decisión respecto de la misma, así como el modo de cómputo de esos plazos;
+
+d) La obligación de brindar al inversor la información detallada que le permita adoptar su decisión contando con los datos y elementos necesarios y con pleno conocimiento de causa;
+
+e) La irrevocabilidad de la oferta;
+
+f) La constitución de garantías para el cumplimiento de las obligaciones resultantes de la oferta;
+
+g) La reglamentación de los deberes del órgano de administración -que estuviere en funciones al momento del anuncio de la oferta- para brindar, en interés de la sociedad y de todos los tenedores de valores negociables objeto de la oferta, su opinión sobre la oferta y sobre los precios o las contraprestaciones ofrecidas, la cual deberá ser fundada y acompañada de uno (1) o más informes de valuación independientes;
+
+h) El régimen de las posibles ofertas competidoras;
+
+i) Las reglas sobre retiro o revisión de la oferta, prorrateo, revocación de aceptaciones, reglas de mejor precio ofrecido y mínimo período de oferta, entre otras;
+
+j) La información a incluirse en la documentación que deberá incluir un documento de solicitud de oferta y un aviso y prospecto de la misma; k) Las reglas sobre publicidad de la oferta y de los documentos conexos emitidos por el oferente y los administradores de la sociedad;
+
+l) Para los casos de ofertas de canje de valores negociables, la reglamentación de la información financiera y contable del emisor de los valores negociables ofrecidos en canje que deberá incluirse en el prospecto de la oferta;
+
+m) La vigencia del principio de que al órgano de administración de la sociedad le está vedado obstaculizar el normal desarrollo de la oferta, a menos que se trate de la búsqueda de ofertas alternativas o haya recibido una autorización previa a tal efecto de la asamblea extraordinaria de accionistas durante el plazo de vigencia de la oferta;
+
+n) Que la sociedad no vea obstaculizadas sus actividades por el hecho de que sus valores negociables sean objeto de una oferta durante más tiempo del razonable;
+
+o) Las excepciones que sean aplicables a tal procedimiento.
+
+(Artículo sustituido por art. 70 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 87. — Toma y Participación de control.
+
+I. Toma de control. Quedará obligado a formular una oferta pública de adquisición a un precio equitativo, el cual se fijará conforme a los términos del artículo 88 de la presente ley, quien, de manera individual o mediante actuación concertada conforme el término que se define en la presente ley, haya alcanzado, de manera efectiva, una participación de control de una sociedad cuyas acciones se encuentren admitidas al régimen de la oferta pública.
+
+II. Participación de control, A los efectos del presente capítulo, se entenderá que una persona tiene, individual o concertadamente con otras personas, una participación de control cuando:
+
+i) Alcance, directa o indirectamente, un porcentaje de derechos de voto igual o superior al cincuenta por ciento (50 %) de la sociedad, quedando excluidas de la base de cómputo las acciones que, pertenezcan, directa o indirectamente, a la sociedad afectada; o
+
+ii) haya alcanzado una participación inferior al cincuenta por ciento (50 %) de derechos de voto de una sociedad pero actúe como controlante, conforme el término que se define en la presente ley.
+
+III. Plazo de presentación. La oferta se presentará ante la Comisión Nacional de Valores tan pronto como sea posible y como máximo en el plazo de un (1) mes desde que se concrete el cierre de la participación de control.
+
+(Artículo sustituido por art. 71 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 88. — I. Precio equitativo en ofertas por toma de control. El precio equitativo de las ofertas públicas de adquisición obligatorias por toma de control deberá ser el mayor de los siguientes:
+
+a) El precio más elevado que el oferente o personas que actúen concertadamente con él hubieran pagado o acordado por los valores negociables objeto de la oferta durante los doce (12) meses previos a la fecha de comienzo del período durante el cual se debe realizar la oferta pública de adquisición; y
+
+b) El precio promedio de los valores negociables objeto de la oferta durante el semestre inmediatamente anterior a la fecha de anuncio de la operación por la cual se acuerde el cambio en la participación de control, cualquiera que sea el número de sesiones en que se hubieran negociado.
+
+En relación con el inciso a) anterior no se considerarán las adquisiciones de un volumen no significativo en términos relativos, siempre que hayan sido realizados a precio de cotización, en cuyo caso se estará al precio más elevado o pagado por las restantes adquisiciones en el período de referencia.
+
+En las ofertas públicas de adquisición obligatorias por toma de control no será de aplicación el precio al que se hace referencia en el inciso b) del presente apartado, cuando el porcentaje de acciones listadas en un mercado autorizado por la Comisión Nacional de Valores represente como mínimo el veinticinco por ciento (25 %) del capital social de la emisora y se cumplan las condiciones de liquidez que determine dicho organismo en su reglamentación.
+
+II. Precio equitativo en los otros supuestos de ofertas obligatorias. En el caso de las ofertas públicas de adquisición obligatorias en virtud de los artículos 91 y 98 se contemplarán los siguientes criterios de precio:
+
+a) El precio más elevado que el oferente o personas que actúen concertadamente con él hubieran pagado o acordado por los valores negociables objeto de la oferta durante los doce (12) meses previos a la intimación contemplada en el inciso a) del artículo 91 o la declaración unilateral contemplada en el inciso b) del artículo 91 o acuerdo de solicitud de retiro en el caso del artículo 98 de la presente ley;
+
+b) El precio promedio de los valores negociables objeto de la oferta durante el semestre inmediatamente anterior previos a la intimación contemplada en el inciso a) del artículo 91 o la declaración unilateral contemplada en el inciso b) del artículo 91 o acuerdo de solicitud de retiro en el caso del artículo 98 de la presente ley o desde la fecha en la que corresponda formular la oferta;
+
+c) El valor patrimonial de las acciones, considerándose a los fines del artículo 98 de la presente ley un balance especial de retiro de cotización;
+
+d) El valor de la compañía valuada según criterios de flujos de fondos descontados y/o indicadores aplicables a compañías o negocios comparables; y
+
+e) El valor de liquidación de la sociedad.
+
+Se establece que el precio equitativo en ningún caso podrá ser inferior al mayor de los indicados en los incisos a) y b) del presente apartado.
+
+En los casos en que la oferta pública de adquisición obligatoria deba formularse sin haberse producido previamente la adquisición por el oferente, el precio equitativo no podrá ser inferior al calculado conforme a los métodos de valuación contenidos en el inciso b) del presente apartado, siendo de aplicación las reglas precedentes de ajuste de precio en los casos que corresponda.
+
+III. Integración del precio equitativo. A los efectos de la determinación del precio equitativo el oferente deberá incluir el importe íntegro de la contraprestación que en cada caso haya pagado o acordado pagar el oferente, aplicándose, a título meramente enunciativo, las siguientes reglas:
+
+a) En el caso que la compraventa fuese ejecución de un derecho de opción de compra o venta o de otros derivados, al precio de la compraventa se le adicionará la prima pagada bajo dichas opciones y derivados, aplicándose el mayor precio que resulte de sumar la prima pagada;
+
+b) Cuando la adquisición de los valores se haya efectuado a través de un canje o conversión, el precio se calculará como la media ponderada de los precios de mercado de los indicados valores en la fecha de adquisición;
+
+c) Cuando la adquisición incluya alguna compensación adicional al precio pagado o acordado o cuando se haya acordado un diferimiento en el pago, el precio de la oferta no podrá ser inferior al más alto que resulte incluyendo el importe correspondiente a dicha compensación o al pago diferido.
+
+IV. Informe de valuación. El oferente deberá presentar, en los términos de la reglamentación de la Comisión Nacional de Valores, un informe sobre los métodos y criterios aplicados para determinar el precio equitativo.
+
+Estos criterios se tomarán en cuenta en forma conjunta o separada y con justificación de su respectiva relevancia al momento en que se formule la oferta y en forma debidamente fundada en el prospecto de la oferta, debiendo en todos los casos contarse con la aprobación de los órganos de administración y de fiscalización y del Comité de Auditoría del oferente, en caso de existir, y con la opinión de los accionistas vendedores con respecto al inciso c) del apartado III. Integración del Precio Equitativo.
+
+V. Objeción del precio. La Comisión Nacional de Valores podrá, dentro del plazo que establezca la reglamentación que dicte el organismo, objetar el precio ofrecido con arreglo a lo dispuesto en los apartados anteriores cuando se diera alguna de las siguientes circunstancias:
+
+a) Que la negociación de los valores negociables de la sociedad afectada en el período de referencia se haya visto afectada por el pago de un dividendo, una operación societaria o algún acontecimiento extraordinario que permita realizar una corrección objetiva del precio;
+
+b) Que la negociación de los valores de la sociedad afectada en el período de referencia presentase indicios razonables de manipulación, que motiven el inicio de una investigación y/o procedimiento sumarial por la Comisión Nacional de Valores;
+
+c) Que las adquisiciones del período de referencia incluyan alguna compensación adicional al precio pagado o acordado, en cuyo caso el precio de la oferta no podrá ser inferior al precio más alto que resulte de incluir el importe correspondiente a dicha compensación.
+
+La Comisión Nacional de Valores podrá, en caso de cumplirse las condiciones establecidas en su reglamentación y a pedido fundado del oferente, exceptuar en las ofertas públicas de adquisición obligatorias, la aplicación del inciso b) de los apartados I) y II) del presente artículo cuando la sociedad afectada se encuentre de forma demostrable en serias dificultades financieras conforme mecanismos fehacientes de evaluación que surjan de la reglamentación que a tales efectos dicte el organismo.
+
+La Comisión Nacional de Valores deberá tomar especialmente en cuenta el proceso de decisión que fije el precio de la oferta, en particular la información previa y fundamentos de esa decisión, así como el hecho de que para tal decisión se haya pedido la opinión de una evaluadora especializada independiente y se cuente con la opinión favorable del Comité de Auditoría y de los órganos de administración y de fiscalización de la sociedad emisora de los valores negociables objeto de la oferta. La Comisión Nacional de Valores dictará un procedimiento a aplicarse para los casos en que dicho organismo objete el precio, el cual incluirá la forma en que el oferente podrá impugnar la objeción de esa comisión.
+
+Las ofertas públicas de adquisición obligatorias no podrán ser lanzadas hasta que no se resuelvan las objeciones que la Comisión Nacional de Valores pueda tener con respecto al precio ofrecido en los términos del presente artículo así como a otros aspectos de la documentación presentada.
+
+La falta de objeción del precio por parte de la Comisión Nacional de Valores, en el plazo establecido en la reglamentación, no perjudica el derecho de los accionistas a impugnar en sede judicial o arbitral el precio ofrecido. Para la impugnación del precio por los accionistas se estará a lo establecido en el artículo 96 de esta ley.
+
+VI. Precio en las ofertas públicas de adquisición voluntarias. En las ofertas públicas de adquisición voluntarias el oferente podrá fijar el precio a su discreción sin que sean de aplicación las reglas establecidas en el presente artículo y en el artículo 98 de la presente ley relativas al precio equitativo. Sin perjuicio de ello, el oferente deberá cumplir con todas las demás obligaciones establecidas en la presente ley y en la reglamentación que dicte la Comisión Nacional de Valores.
+
+(Artículo sustituido por art. 72 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 89. — Incumplimiento. En caso de incumplimiento en la formulación de una oferta pública de adquisición obligatoria la Comisión Nacional de Valores, previa intimación a los obligados para que cumplan con las disposiciones del presente capítulo, dispondrá la subasta de las participaciones adquiridas, sin perjuicio de las demás sanciones que pudieren corresponder, disponiéndose adicionalmente que la Comisión Nacional de Valores podrá resolver que las personas que incumplan la obligación de formular una oferta pública de adquisición no ejerzan los derechos políticos derivados de las acciones de la sociedad cuyo ejercicio le corresponda por cualquier título, siendo nulos los actos adoptados en ejercicio de dichos derechos.
+
+Se entenderá que incumple la obligación de formular una oferta pública de adquisición quien (1) no la presente dentro del plazo máximo establecido, (2) la presente con irregularidades manifiestas conforme los criterios que contenga la reglamentación del citado organismo; (3) la presente fuera del plazo máximo establecido; y/o (4) no la concrete dentro del plazo que fije la normativa que dicte la Comisión Nacional de Valores desde que fuera obligatoria la oferta pública de adquisición.
+
+(Artículo sustituido por art. 73 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 90. — Alcance universal. El régimen de oferta pública de adquisición regulado en este capítulo comprende a todas las sociedades que se encuentren autorizadas por la Comisión Nacional de Valores como emisoras en el régimen de oferta pública de acciones.
+
+(Artículo sustituido por art. 74 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO III
+
+Régimen de participaciones residuales
+
+ARTICULO 91. — Supuestos. Lo dispuesto en el presente capítulo es aplicable a todas las sociedades anónimas cuyas acciones cuenten con autorización de la oferta pública otorgada por la Comisión Nacional de Valores.
+
+Cuando una sociedad anónima quede sometida a control casi total:
+
+a) Cualquier accionista minoritario podrá, en cualquier tiempo, intimar a la persona controlante para que ésta haga una oferta de compra a la totalidad de los accionistas minoritarios a un precio equitativo en los términos del apartado II) del artículo 88 de la presente ley;
+
+b) Dentro del plazo de seis (6) meses desde la fecha en que haya quedado bajo el control casi total de otra persona, esta última podrá emitir una declaración unilateral de voluntad de adquisición de la totalidad del capital social remanente en poder de terceros.
+
+(Artículo sustituido por art. 75 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 92. — Control casi total. A los efectos de lo dispuesto en el presente capítulo:
+
+a) Se entiende que se halla bajo control casi total toda sociedad anónima respecto de la cual otra persona humana o jurídica, ya sea en forma directa o a través de otra u otras sociedades a su vez controladas por ella, sea titular del noventa y cinco por ciento (95%) o más del capital suscripto;
+
+b) Se tomará como fecha en la que una sociedad anónima ha quedado bajo control casi total de otra persona la del día en que se perfeccionó el acto de transmisión de la titularidad de las acciones con las que se alcanza el porcentual establecido en el inciso precedente;
+
+c) Se define como accionistas minoritarios a los titulares de acciones de cualquier tipo o clase, así como a los titulares de todos los otros títulos convertibles en acciones que no sean de la persona o personas controlantes;
+
+d) La legitimación para ejercer el derecho atribuido a los accionistas minoritarios sólo corresponde a quienes acrediten la titularidad de sus acciones o de sus otros títulos a la fecha en que la sociedad quedó sometida a control casi total; la legitimación sólo se transmite a los sucesores a título universal;
+
+e) La sociedad o persona controlante y la sociedad controlada deberán comunicar a la Comisión Nacional de Valores y al mercado en que la sociedad controlada lista sus acciones el hecho de hallarse en situación de control casi total, en el plazo y condiciones que se fijen reglamentariamente. Sin perjuicio de las demás sanciones que pudieren corresponder, no se podrá hacer uso del derecho establecido en el artículo 94 de la presente ley hasta el cumplimiento de las comunicaciones precedentes. La existencia de control casi total podrá ser constatada por la Comisión Nacional de Valores a requerimiento de los accionistas minoritarios. En caso de constatarse dicha situación, el organismo la notificará a los accionistas minoritarios por el medio que estime adecuado, y éstos quedarán a partir de entonces, habilitados para ejercer el derecho que les concede el artículo siguiente.
+
+Las disposiciones del presente capítulo también son aplicables al supuesto de ejercicio de control casi total compartido o concertado entre dos (2) o más entidades, o entre una entidad y otras personas humanas o jurídicas, aunque no formen parte de un mismo grupo ni estén vinculadas entre sí, siempre que el ejercicio de ese control común tenga características de estabilidad y así se lo declare, asumiendo responsabilidad solidaria entre todos ellos.
+
+ARTICULO 93. — Derecho de los accionistas minoritarios. Intimada la persona controlante para que haga a la totalidad de los accionistas minoritarios una oferta de compra, si la persona controlante acepta hacer la oferta, podrá optar por hacer una oferta pública de adquisición o por utilizar el método de la declaración de adquisición reglamentado en este capítulo.
+
+En caso de que la persona controlante sea una sociedad anónima con negociación de sus acciones y estas acciones cuenten con oferta pública en mercados del país o del exterior autorizados por la Comisión Nacional de Valores, la sociedad controlante, adicionalmente a la oferta en efectivo, podrá ofrecer a la totalidad de los accionistas minoritarios de la sociedad bajo control casi total que éstos opten por el canje de sus acciones por acciones de la sociedad controlante. La sociedad controlante deberá proponer la relación de canje sobre la base de balances confeccionados de acuerdo a las reglas establecidas para los balances de fusión. La relación de canje deberá contar, además, con el respaldo de la opinión de uno (1) o más evaluadores independientes especializados en la materia. La Comisión Nacional de Valores reglamentará los requisitos para que los accionistas minoritarios ejerzan la opción.
+
+Transcurridos sesenta (60) días hábiles contados desde la intimación a la persona controlante sin que ésta efectúe una oferta pública de adquisición de acciones ni la declaración de adquisición, el accionista puede demandar que se declare que sus acciones han sido adquiridas por la persona controlante y que el tribunal judicial o arbitral competente fije el precio equitativo en dinero de sus acciones, conforme los criterios del apartado II) del artículo 88 de la presente ley y que la persona controlante sea condenada a pagarlo.
+
+En cualquiera de los casos previstos en el presente artículo, incluso para todos los fines dispuestos en el párrafo precedente, o para impugnar el precio o la relación de canje, regirán las normas procesales establecidas en el artículo 96 de esta ley, sea que el litigio tramite en sede judicial o arbitral.
+
+(Artículo sustituido por art. 76 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 94. — Declaración de voluntad de adquisición de la totalidad del capital remanente. La declaración unilateral de voluntad de adquisición de la totalidad del capital social remanente en poder de terceros a que hace referencia el inciso b) del artículo 91 de esta ley, denominada declaración de adquisición, deberá ser resuelta por el órgano de administración de la persona jurídica controlante o efectuada en un instrumento público en caso de tratarse de personas humanas. Es condición de validez de la declaración, que la adquisición comprenda a la totalidad de las acciones en circulación, así como de todos los otros títulos convertibles en acciones que se hallen en poder de terceros.
+
+La declaración de adquisición deberá contener la fijación del precio equitativo, en los términos del apartado II) del artículo 88 de la presente ley que la persona controlante pagará por cada acción remanente en poder de terceros. En su caso, también contendrá la fijación del precio equitativo que se pagará por cada título convertible en acciones. Para la determinación del precio equitativo se estará a lo establecido en el inciso d) del artículo 98 de esta ley. De ser la persona controlante una sociedad anónima con negociación de sus acciones y demás condiciones establecidas en el segundo párrafo del artículo 93 de la presente ley, podrá ofrecer a los accionistas minoritarios la opción de canje de acciones allí prevista, en las mismas condiciones ahí establecidas.
+
+Dentro del plazo de cinco (5) días hábiles contados a partir de la emisión de la declaración, la persona controlante deberá notificar a la sociedad bajo control casi total la declaración de adquisición y presentar la solicitud de retiro de la oferta pública a la Comisión Nacional de Valores y a los mercados en los que estén listadas sus acciones.
+
+La declaración de adquisición, el valor fijado y las demás condiciones, incluido el nombre y domicilio de la entidad financiera a la que se refiere el párrafo siguiente, deberán publicarse por tres (3) días en el Boletín Oficial del mercado donde se listen las acciones, en el Boletín Oficial de la República Argentina y en uno (1) de los diarios de mayor circulación de la República Argentina. Las publicaciones deben ser inmediatas de acuerdo con la frecuencia de cada uno de los medios.
+
+Dentro del plazo de cinco (5) días hábiles contados desde la conformidad por parte de la Comisión Nacional de Valores, la persona controlante está obligada a depositar el monto correspondiente al valor total de las acciones y demás títulos convertibles comprendidos en la declaración de adquisición, en una cuenta especialmente abierta al efecto en una entidad financiera en la cual se admita que el Fondo de Garantía de Sustentabilidad del Sistema Integrado Previsional Argentino pueda realizar inversiones bajo la forma de depósitos de plazo fijo. En el caso de ofertas de canje, los títulos representativos de las acciones aceptadas en canje por los accionistas minoritarios que hubiesen manifestado su voluntad en tal sentido deberán ser depositados en las cuentas de las entidades autorizadas por la Comisión Nacional de Valores. El depósito deberá ir acompañado de un listado de los accionistas minoritarios y, en su caso, de los titulares de los demás títulos convertibles, con indicación de sus datos personales y de la cantidad de acciones e importes y, en su caso, de acciones de canje que corresponden a cada uno. La Comisión Nacional de Valores deberá arbitrar los medios para tener actualizado y a disposición del público, el listado de entidades financieras admitidas a los efectos del depósito referido.
+
+(Artículo sustituido por art. 77 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 95. — Efectos de la declaración de adquisición y de la disposición de los fondos. Luego de la última publicación y de inscripta en el Registro Público de Comercio la autorización de la Comisión Nacional de Valores, y una vez efectuado el depósito, la declaración de adquisición será elevada por la persona controlante a escritura pública, en la cual se hará constar:
+
+a) La declaración de la persona controlante de que, por ese acto, adquiere la totalidad de las acciones pertenecientes a los accionistas minoritarios y, en su caso, la totalidad de los demás títulos convertibles pertenecientes a terceros, así como la referencia de la resolución del órgano de administración que decidió emitir la declaración de adquisición, de corresponder;
+
+b) El precio por acción y el precio por cada otro título convertible;
+
+c) Los datos del depósito, incluyendo fecha, entidad financiera y cuenta;
+
+d) Los datos de las publicaciones efectuadas;
+
+e) Los datos de inscripción de la sociedad controlada;
+
+f) Los datos de la conformidad de la Comisión Nacional de Valores y la constancia de que la sociedad se retira de la oferta pública de sus acciones.
+
+La escritura pública conteniendo esta declaración deberá ser inscripta en el Registro Público de Comercio y presentada a la Comisión Nacional de Valores y al mercado en que la sociedad listaba sus acciones.
+
+La escritura pública convierte de pleno derecho a la persona controlante en titular de las acciones y títulos convertibles. La sociedad controlada cancelará los títulos anteriores y emitirá títulos nuevos a la orden de la controlante, registrando el cambio de titularidad en el registro de accionistas o en el registro de acciones escriturales, según corresponda.
+
+La declaración de adquisición importará, por sí misma, y de pleno derecho, el retiro de oferta pública de las acciones a partir de la fecha de la escritura pública.
+
+Respecto de las sociedades bajo control casi total que hayan sido objeto de la declaración de adquisición reglada en el presente artículo, no regirá lo dispuesto en el inciso 8 del artículo 94 de la ley 19.550 de sociedades comerciales (t.o. 1984) y sus modificaciones.
+
+Desde la fecha de acreditación del depósito a que se refiere el último párrafo del artículo 94 de la presente ley, los accionistas minoritarios y, en su caso, los titulares de los demás títulos convertibles, tendrán derecho a retirar de la cuenta bancaria los fondos que les correspondiesen, con más los intereses que hayan acrecido los respectivos importes. El retiro voluntario de los fondos importará la aceptación del precio equitativo asignado por la persona controlante a las acciones y demás títulos convertibles.
+
+ARTICULO 96. — Impugnación del precio equitativo. Dentro del plazo de tres (3) meses desde la fecha de la última publicación a que se refiere el anteúltimo párrafo del artículo 94 de la presente ley, todo accionista minoritario y, en su caso, todo titular de cualquier otro título convertible, puede impugnar el valor asignado a las acciones o títulos convertibles o, en su caso, la relación de canje propuesta, alegando que el asignado por la persona controlante no es un precio equitativo.
+
+En el caso de las ofertas públicas de adquisición obligatorias contempladas en los artículos 87, 91 y 98 de la presente ley, los accionistas minoritarios podrán objetar el precio desde el anuncio de la oferta y presentación de la solicitud de retiro y hasta el plazo de objeción que tendrá la Comisión Nacional de Valores conforme la reglamentación que dicte a tales efectos.
+
+Transcurridos los plazos aquí indicados, los que darán lugar a la caducidad, se tendrá por firme la valuación publicada respecto del accionista minoritario que no hubiere impugnado. Idéntica caducidad rige respecto del titular de títulos convertibles que no hubiere impugnado.
+
+El trámite de la impugnación no altera la transmisión de pleno derecho de las acciones y de los títulos convertibles a favor de la persona controlante, salvo en el caso de las ofertas establecidas en los artículos 87, 91 y 98 de esta ley, las que no podrán concretarse hasta no obtenerse la autorización previa de la Comisión Nacional de Valores. Durante el trámite de la impugnación, todos los derechos correspondientes a las acciones y a los títulos convertibles, patrimoniales o no patrimoniales, corresponden a la persona controlante.
+
+La impugnación podrá efectuarse ante el tribunal arbitral del mercado en que hubiere negociado la sociedad o ante los tribunales ordinarios con competencia en materia comercial del domicilio de la sociedad. La totalidad de las impugnaciones que presenten los accionistas minoritarios y, en su caso, los titulares de otros títulos convertibles, serán acumuladas para su trámite ante el mismo tribunal. Se suspenderá el trámite de la impugnación hasta tanto haya vencido el plazo de caducidad a que se refiere el primer párrafo del presente artículo o hasta que la totalidad de los legitimados hayan iniciado la acción de impugnación.
+
+A tal fin se entenderán como legitimados a todos aquellos accionistas o titulares de otros títulos convertibles que no hubieran retirado voluntariamente los fondos de la cuenta a la que se hace mención en el último párrafo del artículo 95 de esta ley.
+
+De la impugnación, que solamente podrá referirse a la valuación dada a las acciones y, en su caso, a los demás títulos convertibles, así como a la relación de canje, si fuera el caso, se dará traslado a la persona controlante por el plazo de diez (10) días hábiles. Las pruebas deberán ofrecerse con el escrito de inicio y con la contestación del mismo. El tribunal arbitral o el juez, según corresponda, nombrará los peritos tasadores en el número que estime corresponder al caso y, luego de un nuevo traslado por cinco (5) días hábiles, deberá dictar sentencia fijando el precio equitativo definitivo en el plazo de quince (15) días hábiles. La sentencia es apelable y la apelación deberá presentarse debidamente fundada, dentro del plazo de diez (10) días hábiles. El traslado se correrá por igual plazo, y el tribunal de apelación deberá resolver dentro de los veinte (20) días hábiles.
+
+Los honorarios de abogados y peritos serán fijados por el tribunal arbitral o judicial, según corresponda, conforme a la escala aplicable a los incidentes. Cada parte soportará los honorarios de sus abogados y peritos de parte o consultores técnicos. Los honorarios de los peritos designados por el tribunal judicial o arbitral estarán siempre a cargo de la persona controlante excepto que la diferencia entre el precio equitativo pretendido por el impugnante supere en un treinta por ciento (30 %) el ofrecido por el controlante, en cuyo caso se aplicará lo dispuesto en el primer párrafo del artículo 154 de la ley General de Sociedades 19.550 t.o. 1.984 y sus modificaciones.
+
+En caso de corresponder, en el plazo de cinco (5) días hábiles, luego de que la sentencia definitiva haya adquirido autoridad de cosa juzgada, la persona controlante deberá depositar en la cuenta indicada en el último párrafo del artículo 95 de esta ley el monto de las diferencias de precio que se hubieren determinado. La mora en el cumplimiento del depósito hará devengar a cargo de la persona controlante un interés punitorio igual a una vez y media la tasa que rija en los tribunales comerciales de la jurisdicción correspondiente al domicilio de la sociedad. Si la mora excediere de los treinta (30) días corridos, cualquier accionista estará legitimado para declarar la caducidad de la venta de sus títulos. En tal caso, la persona controlante deberá restituir la titularidad de las acciones y demás derechos del accionista a su anterior estado, además de su responsabilidad por los daños y perjuicios causados.
+
+Los accionistas minoritarios y, en su caso, los titulares de otros títulos convertibles, podrán retirar los fondos correspondientes a sus acciones o títulos convertibles a partir de la fecha de la acreditación de este último depósito, con más los intereses que hubieren acrecido los importes respectivos.
+
+(Artículo sustituido por art. 78 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO IV
+
+Retiro de la oferta pública
+
+ARTICULO 97. — Retiro voluntario del régimen de oferta pública. Cuando una sociedad, cuyas acciones se encuentren admitidas a los regímenes de oferta pública acuerde su retiro voluntario deberá seguir el procedimiento que establezca la Comisión Nacional de Valores y, asimismo, deberá promover obligatoriamente una oferta pública de adquisición de sus acciones, de derechos de suscripción, obligaciones convertibles en acciones u opciones sobre acciones en los términos previstos en el artículo siguiente.
+
+La adquisición de las propias acciones deberá efectuarse con ganancias realizadas y líquidas o con reservas libres, cuando estuvieran completamente integradas, y para su amortización o su enajenación en el plazo del artículo 221 de la Ley General de Sociedades 19.550 t.o. 1984 y sus modificaciones, debiendo la sociedad acreditar ante la Comisión Nacional de Valores que cuenta con la liquidez necesaria y que el pago de las acciones no afecta a su solvencia. De no acreditarse dichos extremos, y en los casos de control societario, la obligación aquí prevista quedará a cargo de la sociedad controlante, la cual deberá acreditar idénticos extremos.
+
+(Artículo sustituido por art. 79 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 98. — Condiciones. La oferta pública de adquisición obligatoria prevista en el artículo anterior deberá sujetarse a las siguientes condiciones:
+
+a) Deberá extenderse a todas las obligaciones convertibles en acciones y demás valores negociables que den derecho a su suscripción o adquisición;
+
+b) No será preciso extender la oferta a aquellos que hubieran votado a favor del retiro en la asamblea, quienes deberán inmovilizar sus valores hasta que transcurra el plazo de aceptación que determine la reglamentación;
+
+c) En el prospecto explicativo de la oferta pública de adquisición se expresará con claridad tal circunstancia y se identificarán los valores negociables que hayan quedado inmovilizados, así como la identidad de sus titulares; y
+
+d) Cumplir con las reglas de determinación, información y objeción y demás disposiciones del precio equitativo conforme se establece en el artículo 88 y demás artículos aplicables de la presente ley.
+
+(Artículo sustituido por art. 80 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO V
+
+Régimen de transparencia
+
+SECCION I
+
+Regímenes informativos
+
+ARTICULO 99. — Régimen Informativo General.
+
+I. Régimen informativo general. Las personas mencionadas en el presente artículo deberán informar a la Comisión Nacional de Valores en forma directa, veraz, suficiente y oportuna, con las formalidades y periodicidad que ella disponga los siguientes hechos y circunstancias, sin perjuicio de los demás que se establezcan reglamentariamente:
+
+a) Los administradores de entidades registradas que realizan oferta pública de valores negociables y los integrantes de su órgano de fiscalización, estos últimos en materia de su competencia, acerca de todo hecho o situación que por su importancia sea apto para afectar en forma sustancial la colocación de valores negociables o el curso de su negociación. Esta obligación rige desde el momento de presentación de la solicitud para realizar oferta pública de valores negociables y deberá ser puesta en conocimiento de la Comisión Nacional de Valores en forma inmediata. El órgano de administración, con la intervención del órgano de fiscalización, deberá designar a una (1) persona para que se desempeñe como responsable de relaciones con el mercado a fin de realizar la comunicación y divulgación de las informaciones mencionadas en el presente inciso, dando cuenta de la citada designación a la Comisión Nacional de Valores y al respectivo mercado y sin que el nombramiento libere de responsabilidad a las personas mencionadas precedentemente respecto de las obligaciones que se establecen;
+
+b) Los agentes autorizados para actuar en el ámbito de la oferta pública, acerca de todo hecho o situación no habitual que por su importancia sea apto para afectar el desenvolvimiento de sus negocios, su responsabilidad o sus decisiones sobre inversiones;
+
+c) Los directores, administradores, síndicos, gerentes designados de acuerdo con el artículo 270 de la Ley General de Sociedades, 19.550, t. o. 1984 y sus modificaciones, y miembros del consejo de vigilancia, titulares y suplentes, así como los accionistas controlantes de entidades emisoras que realizan oferta pública de sus valores negociables, acerca de la cantidad y clases de acciones, títulos representativos de deuda convertibles en acciones y opciones de compra o venta de ambas especies de valores negociables que posean de la entidad a la que se encuentren vinculados;
+
+d) Los integrantes del consejo de calificación, directores, administradores, gerentes, síndicos o integrantes del consejo de vigilancia, titulares y suplentes, de agentes de calificación de riesgos, sobre la cantidad y clases de acciones, títulos representativos de deuda u opciones de compra o venta de acciones que posean de sociedades autorizadas a hacer oferta pública de sus valores negociables;
+
+e) Los directores y funcionarios de la Comisión Nacional de Valores, de los mercados, cámaras compensadoras, entidades de registro y de los demás agentes registrados, sobre la cantidad y clases de acciones, títulos representativos de deuda y opciones de compra o venta de acciones que posean de sociedades autorizadas a hacer oferta pública de sus valores negociables;
+
+j) Toda persona humana o jurídica que, en forma directa o por intermedio de otras personas humanas o jurídicas, o todas las personas integrantes de cualquier grupo que actuando en forma concertada, adquiera o enajena acciones de una sociedad que realice oferta pública de valores negociables en cantidad tal que implique un cambio en las tenencias que configuran el o los grupos de control afectando su conformación, respecto a dicha operación o conjunto de operaciones realizadas en forma concertada sin perjuicio, en su caso, del cumplimiento del procedimiento previsto en el capítulo II de este título;
+
+g) Toda persona humana o jurídica no comprendida en la operación del inciso precedente que, en forma directa o por intermedio de otras personas humanas o jurídicas, o todas las personas integrantes de cualquier grupo que actuando en forma concertada, adquiera o enajene por cualquier medio acciones de una emisora cuyo capital se hallare comprendido en el régimen de la oferta pública y que otorgare el cinco por ciento (5%) o más de los votos que pudieren emitirse a los fines de la formación de la voluntad social en las asambleas ordinarias de accionistas, respecto de tales operaciones, una vez efectuada aquella mediante la cual se superó el límite anteriormente mencionado;
+
+h) Toda persona humana o jurídica que celebre pactos o convenios de accionistas cuyo objeto sea ejercer el derecho a voto en una sociedad cuyas acciones están admitidas a la oferta pública o en la sociedad que la controle, cualquiera sea su forma, incluyendo, a título meramente enunciativo, pactos que creen la obligación de consulta previa para ejercer el voto, limiten la transferencia de las correspondientes acciones o de valores negociables, atribuyan derechos de compra o de suscripción de las mismas, o prevean la compra de esos valores y, en general, tengan por objeto o por efecto, el ejercicio conjunto de una influencia dominante en dichas sociedades o cambios significativos en la estructura o en las relaciones de poder en el gobierno de la sociedad, respecto de tales pactos, convenios o cambios. Igual obligación de informar tendrán, cuando sean parte de dichos pactos o tengan conocimiento de ellos, los directores, administradores, síndicos y miembros del consejo de vigilancia, así como los accionistas controlantes de dichas sociedades acerca de la celebración o ejecución de dichos acuerdos. Dichos pactos o convenios deberán presentarse ante la Comisión Nacional de Valores. El cumplimiento de la notificación y presentación de estos pactos o convenios al citado organismo no implica el reconocimiento sobre la validez de los mismos. En caso de incumplimiento de la obligación de informar, los pactos o convenios carecerán de valor alguno.
+
+II. Alcance de la Obligación de Informar. En los supuestos contemplados en los incisos c), d) y e) del presente artículo, el alcance de la obligación de informar alcanzará tanto a lo referido a las tenencias de su propiedad como a las que administren directa o indirectamente de tales sociedades y de sociedades controlantes, controladas o vinculadas con ellas.
+
+El deber de informar se mantendrá durante el término del ejercicio para el que fueren designados y en el caso de las personas comprendidas en los incisos c), d) y e) del presente artículo durante los seis (6) meses posteriores al cese efectivo de sus funciones.
+
+Las manifestaciones efectuadas por las personas enunciadas precedentemente ante la Comisión Nacional de Valores tendrán, a los fines de la presente ley, el efecto de declaración jurada.
+
+(Artículo sustituido por art. 81 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 100. — Régimen informativo para mercados. Los sujetos mencionados en los incisos a), b), c), f), g) y h) del artículo anterior deberán dirigir comunicaciones similares en forma simultánea, a excepción del supuesto previsto en el párrafo siguiente, a aquellos mercados en los cuales se encuentren habilitados los agentes autorizados o tales valores negociables. Los mercados deberán publicar de inmediato las comunicaciones recibidas en sus boletines de información o en cualquier otro medio que garantice su amplia difusión.
+
+En el caso de que se trate de valores negociables que no se negocien en los mercados, la comunicación se entenderá cumplida por la publicidad efectuada en un (1) diario de amplia circulación nacional.
+
+SECCION II
+
+Reserva
+
+ARTICULO 101. — Excepciones al régimen informativo general. La Comisión Nacional de Valores establecerá las condiciones en que, a pedido de parte, por resolución fundada y por un período determinado, se podrá suspender la obligación de informar al público sobre ciertos hechos y antecedentes incluidos en los incisos a), b) y h) del artículo 99 que no sean de conocimiento público y cuya divulgación pudiera afectar el interés social. La dispensa referida al inciso h) del artículo citado podrá ser por tiempo indeterminado cuando se trate de aspectos que a juicio de la Comisión Nacional de Valores se refieran a acuerdos que sólo afecten los intereses privados de las partes.
+
+ARTICULO 102. — Deber de reserva. Los directores, administradores, gerentes, síndicos, miembros del consejo de vigilancia, accionistas controlantes y profesionales intervinientes de cualquier entidad autorizada a la oferta pública de valores negociables o persona que haga una oferta pública de adquisición o canje de valores respecto de una entidad autorizada a la oferta pública y los agentes, según la categoría que corresponda y, en general, cualquier persona que en razón de su cargo o actividad tenga información acerca de un hecho aún no divulgado públicamente y que por su importancia sea apto para afectar la colocación o el curso de la negociación que se realice con valores negociables con oferta pública autorizada deberán guardar estricta reserva y abstenerse de negociar hasta tanto dicha información tenga carácter público.
+
+Igual reserva deberán guardar los funcionarios públicos y aquellos directivos, funcionarios y empleados de los agentes de calificación de riesgo y de los organismos de control públicos o privados, incluidos la Comisión Nacional de Valores, mercados y agentes de depósito colectivo y cualquier otra persona que en razón de sus tareas tenga acceso a similar información.
+
+El deber de reserva se extiende a todas aquellas personas que por relación temporaria o accidental con la sociedad o con los sujetos precedentemente mencionados pudieran haber accedido a la información allí descripta y, asimismo, a los subordinados y terceros que por la naturaleza de sus funciones hubieren tenido acceso a la información.
+
+ARTICULO 103. — Deber de colaboración. Toda persona sujeta a un procedimiento de investigación debe proveer a la Comisión Nacional de Valores la información que ésta le requiera. La conducta renuente y reiterada en contrario observada durante el procedimiento podrá constituir uno de los elementos de convicción corroborante de los demás existentes para decidir la apertura del sumario y su posterior resolución final. La persona objeto de investigación debe haber sido previamente notificada de modo personal o por otro medio de notificación fehaciente, cursado a su domicilio real o constituido, informándole acerca del efecto que puede atribuirse a la falta o reticencia en el deber de información impuesto por este artículo.
+
+SECCION III
+
+Auditores externos
+
+ARTICULO 104. — Auditores externos. Los estados contables de sociedades que hacen oferta pública de sus valores negociables, que cierren a partir de la fecha que la Comisión Nacional de Valores determine, sólo podrán ser auditados por contadores que hayan presentado previamente una declaración jurada informando las sanciones de las que hubieran sido pasibles sean de índole penal, administrativa o profesional, excepto aquéllas de orden profesional que hayan sido calificadas como privadas por el consejo profesional actuante. Esta información deberá mantenerse permanentemente actualizada por los interesados y será accesible al público a través de los procedimientos que la Comisión Nacional de Valores determine por vía reglamentaria. La falsedad u omisión de esta información o de sus actualizaciones será considerada falta grave.
+
+ARTICULO 105. — Designación del auditor externo. La asamblea ordinaria de accionistas, en ocasión de la aprobación de los estados contables, designará para desempeñar las funciones de auditoría externa correspondiente al nuevo ejercicio a contadores públicos matriculados independientes según los criterios que establezca la Comisión Nacional de Valores por vía reglamentaria. La asamblea revocará el encargo cuando se produzca una causal justificada. Cuando la designación o su revocación sean decididas a propuesta del órgano de administración, deberá contarse con la previa opinión del Comité de Auditoría.
+
+Para el supuesto de tratarse de una Pequeña y Mediana Empresa definida de esta forma conforme la reglamentación de la Comisión Nacional de Valores, que no cuente con Comité de Auditoría, deberá requerirse la previa opinión del órgano de fiscalización.
+
+(Artículo sustituido por art. 82 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 106. — Control sobre los auditores externos. La Comisión Nacional de Valores supervisará la actividad y velará por la independencia de los auditores externos y de las asociaciones profesionales de auditores externos de aquellas entidades que hacen oferta pública de sus valores negociables y de los demás participantes del mercado de capitales sujetos a su control, sin perjuicio de la competencia de los consejos profesionales en lo relativo a la vigilancia sobre el desempeño profesional de sus miembros.
+
+(Artículo sustituido por art. 83 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 107. — Régimen informativo de sanciones. Los Consejos Profesionales de Ciencias Económicas deberán informar a la Comisión Nacional de Valores en forma inmediata sobre las sanciones aplicadas a los contadores públicos de su matrícula que cumplan funciones de auditoría referidos a estados contables de personas sujetas al control de la Comisión Nacional de Valores.
+
+(Artículo sustituido por art. 84 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 108. — Facultades para el contralor de los auditores externos. A los fines del cumplimiento de sus funciones la Comisión Nacional de Valores tendrá las siguientes facultades:
+
+a) Llevar un registro de los auditores externos y asociaciones de profesionales auditores que auditen los estados contables de las entidades sujetas a su control;
+
+b) Establecer las normas de auditoría y de encargos de revisión que deberán cumplir los auditores externos;
+
+c) Establecer las normas de control de calidad y criterios de independencia que deberán seguir y respetar los auditores externos y las asociaciones de profesionales universitarios de auditores externos;
+
+d) Organizar un sistema de supervisión del control de calidad de las auditorías externas de las entidades que hagan oferta pública de sus valores negociables;
+
+e) Requerir en forma periódica u ocasional, a los auditores externos de todas las entidades sujetas al control de la Comisión Nacional de Valores, a las asociaciones profesionales de auditores y a los consejos profesionales, datos e informaciones relativas a actos o hechos vinculados a su actividad en relación a aquellas auditorías, realizar inspecciones y solicitar aclaraciones;
+
+f) En los casos en que los derechos de los accionistas minoritarios puedan resultar afectados y a pedido fundado de accionistas que representen un porcentaje no inferior al cinco por ciento (5%) del capital social de la sociedad que haga oferta pública de sus acciones, la Comisión Nacional de Valores podrá, previa opinión del órgano de fiscalización y del Comité de Auditoría de la sociedad y siempre que advierta verosimilitud del daño invocado a los accionistas, solicitar a la sociedad la designación de un (1) auditor externo propuesto por éstos para la realización de una (1) o varias tareas particulares o limitadas en el tiempo, a costa de los requirentes; y
+
+g) Imponer sanciones a los auditores externos en los términos de los artículos 132 y siguientes de la presente ley.
+
+(Artículo sustituido por art. 85 de la Ley N° 27.440 B.O. 11/5/2018)
+
+SECCION IV
+
+Comité de auditoría
+
+ARTICULO 109. — Integración. En las sociedades que hagan oferta pública de sus acciones deberá constituirse un Comité de Auditoría que funcionará en forma colegiada con tres (3) o más miembros del directorio y cuya mayoría deberá necesariamente investir la condición de independiente, conforme con los criterios que determine la Comisión Nacional de Valores. Estos criterios determinarán que, para ser calificado de independiente, el director deberá serlo tanto respecto de la sociedad como de los accionistas de control y no deberá desempeñar funciones ejecutivas en la sociedad.
+
+El Comité de Auditoría podrá funcionar con los miembros presentes o comunicados entre sí por medios de transmisión simultánea de sonido, imágenes y palabras cuando así lo prevea el estatuto social. Se entenderá que sólo se computarán a los efectos del quorum a los miembros presentes del comité salvo que el estatuto establezca lo contrario. El estatuto deberá establecer la forma en que se hará constar en las actas la participación de miembros a distancia. En el caso de reuniones a distancia del Comité de Auditoría, las actas serán confeccionadas y firmadas dentro de los cinco (5) días hábiles de celebrada la reunión por los miembros presentes y el representante del órgano de fiscalización.
+
+(Artículo sustituido por art. 86 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 110. — Funciones. Corresponde al comité de auditoría:
+
+a) Opinar respecto de la propuesta del directorio para la designación de los auditores externos a contratar por la sociedad y velar por su independencia;
+
+b) Supervisar el funcionamiento de los sistemas de control interno y del sistema administrativo-contable, así como la fiabilidad de este último y de toda la información financiera o de otros hechos significativos que sea presentada a la Comisión Nacional de Valores y a los mercados en cumplimiento del régimen informativo aplicable;
+
+c) Supervisar la aplicación de las políticas en materia de información sobre la gestión de riesgos de la sociedad;
+
+d) Proporcionar al mercado información completa respecto de las operaciones en las cuales exista conflicto de intereses con integrantes de los órganos sociales o accionistas controlantes;
+
+e) Opinar sobre la razonabilidad de las propuestas de honorarios y de planes de opciones sobre acciones de los directores y administradores de la sociedad que formule el órgano de administración;
+
+f) Opinar sobre el cumplimiento de las exigencias legales y sobre la razonabilidad de las condiciones de emisión de acciones o valores convertibles en acciones, en caso de aumento de capital con exclusión o limitación del derecho de preferencia;
+
+g) Verificar el cumplimiento de las normas de conducta que resulten aplicables;
+
+h) Emitir opinión fundada respecto de operaciones con partes relacionadas en los casos establecidos por la presente ley. Emitir opinión fundada y comunicarla a los mercados conforme lo determine la Comisión Nacional de Valores toda vez que en la sociedad exista o pueda existir un supuesto de conflicto de intereses.
+
+Anualmente, el comité de auditoría deberá elaborar un plan de actuación para el ejercicio del que dará cuenta al directorio y al órgano de fiscalización. Los directores, miembros del órgano de fiscalización, gerentes y auditores externos estarán obligados, a requerimiento del comité de auditoría, a asistir a sus sesiones y a prestarle su colaboración y acceso a la información de que dispongan. Para un mejor cumplimiento de las facultades y deberes aquí previstos el comité podrá recabar el asesoramiento de letrados y otros profesionales independientes y contratar sus servicios por cuenta de la sociedad dentro del presupuesto que a tal efecto le apruebe la asamblea de accionistas. El comité de auditoría tendrá acceso a toda la información y documentación que estime necesaria para el cumplimiento de sus obligaciones.
+
+La Comisión Nacional de Valores podrá exceptuar con carácter general a las pequeñas y medianas empresas de constituir el comité de auditoría previsto en este artículo.
+
+SECCION V
+
+Publicidad
+
+ARTICULO 111. — Operaciones. Los mercados deberán difundir al público en general en forma diaria, el registro de cada una de las operaciones, indicando el tipo de operación, la identidad del valor negociable y la cuantía, el precio, la hora, minuto y segundo del registro de la operación. Los mercados deberán tener disponible esta misma información en tiempo real. La Comisión Nacional de Valores dictará una reglamentación a los efectos previstos en el presente artículo.
+
+(Artículo sustituido por art. 87 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 112. — Publicidad engañosa. La publicidad, propaganda y difusión que por cualquier medio hagan las sociedades emisoras, mercados, agentes y cualquier otra persona o entidad que participe en una emisión, colocación y negociación de valores negociables, no podrá contener declaraciones, alusiones, nombres, expresiones o descripciones que puedan inducir a error, equívoco o confusión al público sobre la naturaleza, precio, rentabilidad, rescate, liquidez, garantía o cualquier otra característica de los valores negociables, de sus sociedades emisoras o de los servicios que se ofrezcan.
+
+ARTICULO 113. — Denominaciones que se prestan a confusión. Las denominaciones que se utilizan en la presente ley para caracterizar a las entidades y sus operaciones sólo podrán ser empleadas por las entidades autorizadas. No podrán utilizarse denominaciones similares, derivadas o que ofrezcan dudas acerca de su naturaleza o individualidad.
+
+ARTICULO 114. — Facultades de la Comisión Nacional de Valores. La Comisión Nacional de Valores podrá ordenar a las personas mencionadas en el artículo 112 de la presente ley el cese preventivo de la publicidad o de la utilización de nombres o expresiones u otras referencias que pudieran inducir a error, equívocos o confusión al público sin perjuicio de las demás sanciones que pudieren corresponder.
+
+ARTICULO 115. — Alcance. Las previsiones contenidas en esta sección resultan de aplicación a toda publicidad encargada por la sociedad emisora, los agentes registrados o cualquier otra persona humana o jurídica con independencia del medio elegido para la publicación.
+
+No serán aplicables, por el contrario, a editoriales, notas, artículos o cualquier otra colaboración periodística.
+
+ARTICULO 116. — Conductas sancionables. Serán pasibles de sanción las personas que en el ámbito de la oferta pública, difundieren noticias falsas por alguno de los medios previstos en la definición de oferta pública establecida en el artículo 2° de la presente ley, aún cuando no persiguieren con ello obtener ventajas o beneficios para sí o para terceros, o perjuicios para terceros, incluida la sociedad emisora, siempre que hubieren obrado con dolo o culpa grave.
+
+CAPITULO VI
+
+Acciones y sanciones por conductas contrarias a la transparencia
+
+SECCION I
+
+Conductas contrarias a la transparencia
+
+ARTICULO 117.
+
+a) Abuso de información privilegiada. Los directores, miembros del órgano de fiscalización, accionistas, representantes de accionistas y todo el que por su trabajo, profesión o función dentro de una sociedad emisora o entidad registrada, por sí o por persona interpuesta, así como los funcionarios públicos y aquellos directivos, funcionarios y empleados de los agentes de calificación de riesgo y de los organismos de control públicos o privados, incluidos la Comisión Nacional de Valores, mercados y agentes de depósito y cualquier otra persona que, en razón de sus tareas tenga acceso a similar información, no podrán valerse de la información reservada o privilegiada a fin de obtener, para sí o para otros, ventajas de cualquier tipo, deriven ellas de la compra o venta de valores negociables o de cualquier otra operación relacionada con el régimen de la oferta pública. Lo aquí dispuesto se aplica también a las personas mencionadas en el artículo 35 de la ley 24.083 y sus modificaciones. En estos casos, el diferencial de precio positivo obtenido por quienes hubieren hecho uso indebido de información privilegiada proveniente de cualquier operación efectuada dentro de un período de seis (6) meses, respecto de cualquier valor negociable de los emisores a que se hallaren vinculados, corresponderá al emisor y será recuperable por él, sin perjuicio de las sanciones que pudieren corresponder al infractor. Si el emisor omitiera incoar la acción correspondiente o no lo hiciera dentro de los sesenta (60) días de ser intimado a ello, o no lo impulsara diligentemente después de la intimación, dichos actos podrán ser realizados por cualquier accionista;
+
+b) Manipulación y engaño. Los emisores, agentes registrados, inversores o cualquier otro interviniente o participante en los mercados autorizados, deberán abstenerse de realizar, por sí o por interpósita persona, en ofertas iniciales o mercados secundarios, prácticas o conductas que pretendan o permitan la manipulación de precios o volúmenes de los valores negociables, alterando el normal desenvolvimiento de la oferta y la demanda. Asimismo, dichas personas deberán abstenerse de incurrir en prácticas o conductas engañosas que puedan inducir a error a cualquier participante en dichos mercados, en relación con la compra o venta de cualquier valor negociable en la oferta pública, ya sea mediante la utilización de artificios, declaraciones falsas o inexactas o en las que se omitan hechos esenciales o bien a través de cualquier acto, práctica o curso de acción que pueda tener efectos engañosos y perjudiciales sobre cualquier persona en el mercado.
+
+A los efectos de la determinación de la sanción de aquellas conductas descriptas, la Comisión Nacional de Valores considerará como agravante si la conducta sancionada fuere realizada por el accionista de control, los administradores, gerentes, síndicos de todas las personas sujetas a la fiscalización de la Comisión Nacional de Valores o funcionarios de los órganos de control;
+
+c) Prohibición de intervenir u ofrecer en la oferta pública en forma no autorizada. Toda persona humana o jurídica que intervenga, se ofrezca u ofrezca servicios en la oferta pública de valores negociables sin contar con la autorización pertinente de la Comisión Nacional de Valores, será pasible de sanciones administrativas sin perjuicio de las sanciones penales que correspondan.
+
+ARTICULO 118. — Acción de recupero. La acción de recupero prescribirá a los tres (3) años, podrá promoverla cualquier accionista con sujeción a las normas que regulan la acción subrogatoria y será acumulable a la de responsabilidad prevista en el artículo 276 de la ley 19.550 de sociedades comerciales (t.o. 1.984) y sus modificaciones, sin que sea necesario previa resolución asamblearia.
+
+SECCION II
+
+Prospectos
+
+ARTICULO 119. — Responsables directos. Los emisores de valores negociables, juntamente con los integrantes de los órganos de administración y fiscalización, estos últimos en materia de su competencia, y en su caso los oferentes de los valores negociables con relación a la información vinculada a los mismos, y las personas que firmen el prospecto de una emisión de valores negociables, serán responsables de toda la información incluida en los prospectos por ellos registrados ante la Comisión Nacional de Valores.
+
+ARTICULO 120. — Responsables indirectos. Las entidades y agentes intermediarios en el mercado que participen como organizadores o colocadores en una oferta pública de venta o compra de valores negociables deberán revisar diligentemente la información contenida en los prospectos de la oferta. Los expertos o terceros que opinen sobre ciertas partes del prospecto sólo serán responsables por la parte de dicha información sobre la que han emitido opinión.
+
+ARTICULO 121. — Legitimación y carga probatoria. Tendrán legitimación para demandar los compradores o adquirentes a cualquier título de los valores negociables con oferta pública ofrecidos mediante el respectivo prospecto, debiendo probar la existencia de un error u omisión de un aspecto esencial en la información relativa a la oferta. A tal fin, se considerará esencial aquella información que un inversor común hubiere apreciado como relevante para decidir la compra o venta de los valores negociables ofrecidos. Probado que sea el error u omisión esencial, salvo prueba en contrario aportada por el emisor u oferente, se presume la relación de causalidad entre el error o la omisión y el daño generado, excepto que el demandado demuestre que el inversor conocía el carácter defectuoso de la información.
+
+ARTICULO 122. — Indemnización. El monto de la indemnización no podrá superar la pérdida ocasionada al inversor referida a la diferencia entre el precio de compra o venta fijado en el prospecto y efectivamente pagado o percibido por el inversor, y el precio del título respectivo al momento de la presentación de la demanda o, en su caso, el precio de su enajenación por parte del inversor de ser anterior a tal fecha.
+
+La limitación establecida en el párrafo precedente no excluye la aplicación de las sanciones previstas en el artículo 46 de la ley 25.156.
+
+ARTICULO 123. — Solidaridad. La responsabilidad entre los infractores tendrá carácter solidario. El régimen de contribuciones o participaciones entre los infractores, siempre que no hubiere mediado dolo, se determinará teniendo en cuenta la actuación individual de cada uno de ellos y el grado de acceso a la información errónea u omitida.
+
+ARTICULO 124. — Prescripción. La acción por daños regulada en esta sección prescribe a los tres (3) años de haberse advertido el error u omisión del referido prospecto por parte del actor.
+
+SECCION III
+
+Operación en infracción
+
+ARTICULO 125. — Responsabilidad. Sin perjuicio de lo dispuesto en los artículos anteriores, toda persona que opere en un mercado autorizado, en violación a los deberes impuestos en este título, será responsable por el daño causado a todas aquellas personas que contemporáneamente con la compra o venta de los valores negociables objeto de dicha violación, hayan comprado o vendido siempre que la violación esté basada, según corresponda, en la venta o compra de aquellos instrumentos o que vieran afectado un derecho, renta o interés, como consecuencia o en ocasión de la violación de deberes aludida.
+
+ARTICULO 126. — Indemnización. La indemnización no excederá el diferencial de precio positivo obtenido o la pérdida evitada en la transacción o transacciones objeto de la violación, siempre que no se diere alguna de las conductas tipificadas en los artículos 307 a 310 del Código Penal.
+
+ARTICULO 127. — Prescripción. La acción prescribirá a los tres (3) años.
+
+ARTICULO 128. — No anulabilidad. No serán anulables las operaciones que motiven las acciones de resarcimiento dispuestas en el presente capítulo.
+
+CAPITULO VII
+
+Régimen legal de los valores anotados en cuenta o escriturales
+
+ARTICULO 129. — Régimen legal. Sin perjuicio de las disposiciones especiales aplicables a cada valor negociable o previstas en los documentos de emisión, a los valores negociables anotados en cuenta o escriturales se les aplicará el siguiente régimen legal:
+
+a) La creación, emisión, transmisión o constitución de derechos reales, los gravámenes, medidas precautorias y cualquier otra afectación de los derechos conferidos por el valor negociable se llevará a cabo mediante asientos en registros especiales que debe llevar el emisor o, en nombre de éste, un agente de depósito colectivo autorizado o bancos comerciales o bancos de inversión o agentes de registro designados y producirá efectos legales siendo oponible a terceros desde la fecha de tal registración;
+
+b) La entidad autorizada que lleve el registro de los valores negociables deberá otorgar al titular comprobante de la apertura de su cuenta y de todo movimiento que inscriban en ella. Todo titular tiene derecho a que se le entregue, en todo tiempo, constancia del saldo de su cuenta a su costa. Los comprobantes deberán indicar fecha, hora de expedición y número de comprobante; la especie, cantidad y emisor de los valores negociables y todo otro dato identificatorio de la emisión; identificación completa del titular; derechos reales y medidas cautelares que graven los valores negociables y la constancia de expedición de comprobantes de saldos de cuenta y sus modalidades, indicando la fecha de expedición y la fecha de vencimiento;
+
+c) La expedición de un comprobante de saldo de cuenta a efectos de la transmisión de los valores negociables o constitución sobre ellos de derechos reales importará el bloqueo de la cuenta respectiva por un plazo de diez (10) días hábiles;
+
+d) La expedición de comprobantes del saldo de cuenta para la asistencia a asambleas o el ejercicio de derechos de voto importará el bloqueo de la cuenta respectiva hasta el día siguiente al fijado para la celebración de la asamblea correspondiente. Si la asamblea pasara a cuarto intermedio o se reuniera en otra oportunidad, se requerirá la expedición de nuevos comprobantes, pero éstos sólo podrán expedirse a nombre de las mismas personas que fueron legitimadas mediante la expedición de los comprobantes originales;
+
+e) Se podrán expedir comprobantes del saldo de cuenta a efectos de legitimar al titular para reclamar judicialmente o ante jurisdicción arbitral en su caso, incluso mediante acción ejecutiva si correspondiere, presentar solicitudes de verificación de crédito o participar en procesos universales para lo que será suficiente título dicho comprobante, sin necesidad de autenticación u otro requisito. Su expedición importará el bloqueo de la cuenta respectiva, sólo para inscribir actos de disposición por su titular, por un plazo de treinta (30) días hábiles salvo que el titular devuelva el comprobante o dentro de dicho plazo se reciba una orden de prórroga del bloqueo del juez o Tribunal Arbitral ante el cual el comprobante se hubiera hecho valer. Los comprobantes deberán mencionar estas circunstancias.
+
+ARTICULO 130. — Efectos frente a terceros. El tercero que adquiera a título oneroso valores negociables anotados en cuenta o escriturales de una persona que, según los asientos del registro correspondiente, aparezca legitimada para transmitirlos no estará sujeto a reivindicación a no ser que en el momento de la adquisición haya obrado de mala fe o con dolo.
+
+ARTICULO 131. — Certificados globales. Se podrán expedir comprobantes de los valores negociables representados en certificados globales a favor de las personas que tengan una participación en los mismos, a los efectos y con el alcance indicados en el inciso e) del artículo 129. El bloqueo de la cuenta sólo afectará a los valores negociables a los que refiera el comprobante. Los comprobantes serán emitidos por la entidad del país o del exterior que administre el sistema de depósito colectivo en el cual se encuentren inscriptos los certificados globales. Cuando entidades administradoras de sistemas de depósito colectivo tengan participaciones en certificados globales inscriptos en sistemas de depósito colectivo administrados por otra entidad, los comprobantes podrán ser emitidos directamente por las primeras. En caso de certificados globales de deuda el fiduciario, si lo hubiere, tendrá la legitimación del referido inciso e) con la mera acreditación de su designación.
+
+TITULO IV
+
+Sanciones y procedimientos administrativos
+
+CAPITULO I
+
+Sanciones
+
+ARTICULO 132. — Sanciones.
+
+I. Sanciones aplicables. Las personas humanas y jurídicas de cualquier naturaleza que infringieren las disposiciones de la presente ley y sus reglamentaciones, sin perjuicio de la responsabilidad penal o civil en que incurrieren, serán pasibles de las siguientes sanciones:
+
+a) Apercibimiento, que podrá ser acompañado de la obligación de publicar la parte dispositiva de la resolución en el Boletín Oficial de la República Argentina y hasta en dos (2) diarios de circulación nacional a costa del sujeto punido;
+
+b) Multa de pesos cien mil ($ 100.000) a pesos cien millones ($ 100.000.000), que podrá ser elevada hasta el quíntuplo del beneficio obtenido o del perjuicio ocasionado como consecuencia del accionar ilícito, si alguno de ellos resultare mayor;
+
+c) Inhabilitación de hasta cinco (5) años para ejercer funciones como directores, administradores, síndicos, miembros del consejo de vigilancia, contadores dictaminantes o auditores externos o gerentes de mercados autorizados y de agentes registrados o de cualquier otra entidad bajo fiscalización de la Comisión Nacional de Valores;
+
+d) Suspensión de hasta dos (2) años para efectuar oferta pública o, en su caso, de la autorización para actuar en el ámbito de la oferta pública. En el caso de los fondos comunes de inversión, se podrán únicamente realizar actos comunes de administración y atender solicitudes de rescate de cuotapartes, pudiendo vender con ese fin los bienes de la cartera con control de la Comisión Nacional de Valores;
+
+e) Prohibición para efectuar ofertas públicas de valores negociables o, en su caso, de la autorización para actuar en el ámbito de la oferta pública de valores negociables.
+
+II. Ingreso del importe correspondiente a las sanciones. El importe correspondiente a las sanciones de multa deberá ser ingresado por los obligados a su pago dentro de los cinco (5) días posteriores a la fecha en que la resolución que las impone quede firme en sede administrativa y/o judicial según corresponda. Los recursos provenientes de las multas que aplique la Comisión Nacional de Valores serán transferidos al Tesoro nacional.
+
+(Artículo sustituido por art. 88 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 133. — Pautas para graduación. A los fines de la fijación de las sanciones antes referidas la Comisión Nacional de Valores deberá tener especialmente en cuenta las siguientes pautas de graduación: la magnitud de la infracción; los beneficios generados o los perjuicios ocasionados por el infractor; el volumen operativo del infractor; la actuación individual de los miembros de los órganos de administración y fiscalización y su vinculación con el grupo de control, en particular, el carácter de miembro independiente o externo de dichos órganos. En el caso de las personas jurídicas responderán solidariamente los directores, administradores, síndicos o miembros del Consejo de Vigilancia y, en su caso, gerentes e integrantes del Consejo de Calificación, respecto de quienes se haya determinado responsabilidad individual en la comisión de las conductas sancionadas.
+
+(Artículo sustituido por art. 89 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 134. — Intereses de multas. Las multas impagas devengarán intereses a la tasa que determine el Ministerio de Finanzas, la cual no podrá exceder en una vez y media el interés que aplica el Banco de la Nación Argentina, entidad autárquica actuante en el ámbito del citado Ministerio, en sus operaciones de descuento para documentos comerciales.
+
+(Artículo sustituido por art. 90 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 135. — Prescripción. La prescripción de las acciones que nacieran de las infracciones al régimen de la presente ley y de la ley 24.083 y sus modificatorias operará a los seis (6) años de la comisión del hecho que la configure. Ese plazo quedará interrumpido por la resolución del Directorio de la Comisión Nacional de Valores que ordene la apertura del sumario administrativo y por los actos y diligencias de procedimiento inherentes a la sustanciación del sumario teniendo "como tales la apertura a prueba, el cierre del período probatorio y la convocatoria para alegar, con sus respectivas notificaciones. La prescripción de la multa operará a los tres (3) años contados a partir de la fecha de notificación de dicha sanción o desde que quede firme, si hubiere sido recurrida.
+
+(Artículo sustituido por art. 91 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO II
+
+Procedimiento sumarial
+
+ARTICULO 136. — Garantías mínimas. Las sanciones establecidas en el presente título serán aplicadas por el directorio de la Comisión Nacional de Valores, mediante resolución fundada, previo sumario sustanciado a través del procedimiento que establezca el organismo. Serán de aplicación supletoria los principios y normas del procedimiento administrativo y deberá resguardarse a través de la transcripción en actas de las audiencias orales, la totalidad de lo actuado para la eventual revisión en segunda instancia.
+
+ARTICULO 137. — No prejudicialidad. La existencia de causas ante la justicia con competencia en lo criminal con respecto a conductas descriptas en la presente ley y que pudieren también dar lugar a condenas en esa sede, no obstará a la prosecución y conclusión del trámite de los sumarios respectivos en la Comisión Nacional de Valores.
+
+ARTICULO 138. — Tramitación. La sustanciación del sumario será función de otra dependencia de la Comisión Nacional de Valores separada e independiente de la que formule la propuesta de cargos. La dependencia sumariante, una vez sustanciado el sumario, elevará las actuaciones al directorio con sus recomendaciones para la consideración y decisión del mismo. Las decisiones que dicte la Comisión Nacional de Valores instruyendo sumario y durante su sustanciación serán irrecurribles pero podrán ser cuestionadas al interponerse el recurso respectivo, si se apelara la resolución definitiva.
+
+Una vez formulada la propuesta de los cargos y en forma previa a la apertura a prueba del procedimiento sumarial, se celebrará una audiencia preliminar para recibir las explicaciones de los imputados y con la finalidad de determinar los hechos cuestionados, a los efectos de dar virtualidad a los principios de concentración, economía procesal e inmediación.
+
+(Artículo sustituido por art. 92 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 139. — Denunciante. Cuando las actuaciones se inicien por denuncia ante la Comisión Nacional de Valores, el denunciante no será considerado parte del procedimiento y no podrá acceder a las actuaciones.
+
+Las denuncias que se presenten tramitarán por el procedimiento reglado que establezca la Comisión Nacional de Valores.
+
+El directorio del mencionado organismo podrá, previo dictamen de los órganos competentes, desestimar la denuncia cuando de su sola exposición o del examen preliminar efectuado resultare que los hechos no encuadran en las infracciones descriptas en la ley o en la reglamentación aplicable.
+
+(Artículo sustituido por art. 93 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 140. — Procedimiento abreviado. La Comisión Nacional de Valores podrá disponer, en la resolución de apertura del sumario, la comparecencia personal de las partes involucradas en el procedimiento sumarial a la audiencia preliminar prevista en el artículo 138 de la presente ley para requerir las explicaciones que estime necesarias y aún para discutir las discrepancias que pudieren existir sobre cuestiones de hecho labrándose acta de lo actuado en dicha audiencia preliminar. En la citación se hará constar concretamente el objeto de la comparecencia. De resultar admitidos los hechos y mediando el reconocimiento expreso por parte de los involucrados en las conductas infractoras y de su responsabilidad, la Comisión Nacional de Valores podrá disponer la conclusión del procedimiento sumarial resolviendo sin más trámite la aplicación de las sanciones que correspondan.
+
+(Artículo sustituido por art. 94 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO III
+
+Situaciones de riesgo sistémico
+
+ARTICULO 141. — Riesgo sistémico. Cuando fundadamente se advierta la existencia de situaciones de riesgo sistémico, u otras de muy grave peligro, la Comisión Nacional de Valores podrá suspender preventivamente la oferta pública o la negociación de valores negociables, otros instrumentos financieros y la ejecución de cualquier acto sometido a su fiscalización hasta que hechos sobrevinientes hagan aconsejable la revisión de la medida. Dicha medida también podrá adoptarse al iniciarse la investigación o en cualquier etapa del sumario.
+
+ARTICULO 142. — Interrupción. La Comisión Nacional de Valores podrá interrumpir transitoriamente la oferta pública de valores negociables u otros instrumentos financieros u operaciones, cuando se encuentre pendiente la difusión de información relevante o se presenten circunstancias extraordinarias que lo tornen aconsejable y hasta que desaparezcan las causas que determinaron su adopción.
+
+TITULO V
+
+Procesos judiciales
+
+CAPITULO I
+
+Competencia
+
+ARTICULO 143. — Recurso. Competencia.
+
+I. Recursos directos. Corresponde a las Cámaras de Apelaciones Federales con competencia en materia comercial:
+
+a) Entender en la revisión de las sanciones que imponga la Comisión Nacional de Valores, incluso de las declaraciones de irregularidad e ineficacia a los efectos administrativos y la suspensión o revocación de inscripciones o autorizaciones; y
+
+b) Entender en la revisión de las denegaciones de inscripción y autorizaciones.
+
+(Artículo sustituido por art. 95 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 144. — Juzgados. Competencia.
+
+I. Juzgados. Corresponde a los juzgados federales con competencia en materia comercial entender en:
+
+a) La ejecución de tasas de fiscalización, aranceles de autorización y multas impuestas por la Comisión Nacional de Valores;
+
+b) Las peticiones de órdenes de allanamiento que solicite la Comisión Nacional de Valores para el cumplimiento de sus funciones de fiscalización;
+
+c) Las demás peticiones de auxilio judicial para la ejecución de sus decisiones;
+
+d) Los pedidos de designación de interventores que efectúe la Comisión Nacional de Valores, los que deberán sustanciarse en los términos de la Ley General de Sociedades, 19.550, t. o. 1984 y sus modificaciones.
+
+(Artículo sustituido por art. 96 de la Ley N° 27.440 B.O. 11/5/2018)
+
+CAPITULO II
+
+Impugnación de actos de la Comisión Nacional de Valores
+
+ARTICULO 145. — Apelación de sanciones. Los recursos directos a los que se hace referencia en el inciso a) del apartado I) del artículo 143 de la presente se interpondrán y fundarán ante la Comisión Nacional de Valores dentro de los diez (10) días hábiles de la notificación del acto recurrido.
+
+El recurso se interpondrá y fundará por escrito ante la Comisión Nacional de Valores dentro de los diez (10) días hábiles de notificada la medida y se concederá con efecto devolutivo, con excepción del recurso contra la imposición de multa que será con efecto suspensivo. La Comisión Nacional de Valores remitirá las actuaciones a la cámara federal con materia en lo comercial que corresponda, la cual le imprimirá el trámite previsto en el Código Procesal Civil y Comercial de la Nación para las apelaciones libremente concedidas.
+
+La Comisión Nacional de Valores será parte contraria en el recurso y el Ministerio Público actuará como fiscal de la ley.
+
+(Artículo sustituido por art. 97 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 146. — Denegación de inscripciones. Los recursos directos previstos en el inciso b) del artículo 143 se interpondrán fundados por ante la Comisión Nacional de Valores dentro de los treinta (30) días hábiles de notificada la denegación de la inscripción peticionada.
+La Comisión Nacional de Valores concederá el recurso y remitirá las actuaciones a la Cámara que corresponda dentro de los veinte (20) días hábiles de recibido el recurso, junto con su contestación, y el tribunal resolverá previa vista al Ministerio Público.
+
+CAPITULO III
+
+Ejecución de tasas de fiscalización, aranceles de autorización y multas
+
+ARTICULO 147. — Procedimiento aplicable. La ejecución de tasas de fiscalización, multas y aranceles de autorización tramitará por el procedimiento de ejecución fiscal establecido en los artículos 604 y 605 del Código Procesal Civil y Comercial de la Nación.
+
+ARTICULO 148. — Título ejecutivo. Constituirá título ejecutivo la constancia de deuda del arancel, tasa o multa de que se tratare, suscripta por un director de la Comisión Nacional de Valores o el funcionario en quien se delegare esta facultad, en la que deberá constar el nombre del deudor, monto y conceptos adeudados y fecha de vencimiento de la obligación.
+
+ARTICULO 149. — Intereses. Desde la interposición de la demanda, el crédito reclamado devengará intereses a la tasa que determine el Ministerio de Finanzas, la cual no podrá exceder en dos veces y media el interés que aplica el Banco de la Nación Argentina en sus operaciones de descuento para documentos comerciales.
+
+CAPITULO IV
+
+Allanamientos y otras medidas coercitivas
+
+ARTICULO 150. — Presupuestos. En las peticiones de órdenes de allanamiento, la Comisión Nacional de Valores indicará la documentación o información que pretende secuestrar y acreditará sumariamente su vinculación con funciones que le son propias así como también que aquella se encontraría o debería encontrarse en el lugar que se pretende allanar.
+
+ARTICULO 151. — Carácter no contencioso. La orden de allanamiento se librará sin previa audiencia del afectado y no será recurrible por éste ni su cumplimiento será suspendido por ningún incidente o cuestión que introdujere, las que serán rechazadas sin más trámite; pero quedará a salvo su derecho de promover la reparación de los daños que la ilegitimidad de la medida o el exceso en que se hubiere incurrido en su ejecución le hubieren causado.
+
+ARTICULO 152. — Otras medidas de coerción. Las demás medidas de coerción que pudiera requerir la Comisión Nacional de Valores serán despachadas bajo su responsabilidad y previa acreditación sumaria de su necesidad y legalidad y el procedimiento estará sometido al régimen no contencioso establecido en el artículo anterior.
+
+TITULO COMPLEMENTARIO
+
+Disposiciones finales
+
+ARTICULO 153. — Adelantos por defensa legal. En los procesos civiles o penales incoados contra los funcionarios de la Comisión Nacional de Valores por actos u omisiones en el ejercicio de sus funciones, el organismo o el Estado nacional adelantarán los costos razonables que por asistencia legal requiera la defensa del funcionario a resultas de la decisión final de las acciones legales. Cuando por sentencia firme se le atribuya responsabilidad, el funcionario estará obligado a la devolución de los adelantos que hubiera recibido con más los intereses correspondientes. La Comisión Nacional de Valores reglamentará el procedimiento contemplado en el presente artículo.
+
+El término "funcionario" comprenderá a los miembros del directorio y al resto del personal de la Comisión Nacional de Valores.
+
+(Artículo sustituido por art. 98 de la Ley N° 27.440 B.O. 11/5/2018)
+
+ARTICULO 154. — Derogaciones. Deróganse la ley 17.811, el artículo 80 de la ley 11.672, complementaria permanente de presupuesto (t.o. 2005), los decretos 656 de fecha 23 de abril de 1992, 749 de fecha 29 de agosto de 2000, 677 de fecha 22 de mayo de 2001 y 476 de fecha 20 de abril de 2004, los artículos 80 a 84 del decreto 2.284 de fecha 31 de octubre de 1991 y toda otra norma que se oponga a la presente ley.
+
+ARTICULO 155. — Vigencia. La presente ley entrará en vigencia a los treinta (30) días corridos de su publicación en el Boletín Oficial, excepto aquellas disposiciones sujetas a reglamentación por parte de la Comisión Nacional de Valores.
+
+La Comisión Nacional de Valores deberá dictar las reglamentaciones dentro de los ciento ochenta (180) días corridos contados a partir de la fecha de la entrada en vigencia de la presente ley.
+
+Dicha reglamentación fijará las normas y cronogramas de adecuación para las distintas entidades, bolsas y agentes intermediarios.
+
+ARTICULO 156. — En ningún caso se podrán disponer despidos por causa de las disposiciones de la presente ley.
+
+ARTICULO 157. — Comuníquese al Poder Ejecutivo nacional.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS VEINTINUEVE DIAS DEL MES DE NOVIEMBRE DEL AÑO DOS MIL DOCE.
+
+— REGISTRADA BAJO EL Nº 26.831 —
+
+BEATRIZ ROJKES DE ALPEROVICH. — JULIAN A. DOMINGUEZ. — Gervasio Bozzano. — Juan H. Estrada.
+
+(Nota Infoleg: Por art. 218 de la Ley N° 27.440 B.O. 11/5/2018, se  establece que en el texto de la presente; siempre que se haga referencia al término "persona de existencia visible" o "persona física" deberá leerse "persona humana" y donde diga "Ministerio de Economía", "Ministerio de Economía y Producción" o "Ministerio de Economía y Finanzas Públicas" deberá leerse "Ministerio de Finanzas")
+
+Antecedentes Normativos
+
+- Artículo 2°, Definiciones incorporadas por art. 23 de la Ley N° 27.349 B.O. 12/4/2017

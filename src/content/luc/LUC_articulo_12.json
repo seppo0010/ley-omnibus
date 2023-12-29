@@ -1,21 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:50:39",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N I - SEGURIDAD P\u00daBLICA\r\n  CAP\u00cdTULO I - NORMAS PENALES  ",
-        "nombreArticulo": "Art\u00edculo 12 ",
-        "textoArticulo": "    (Disposiciones aplicables a otros tipos penales).- Lo dispuesto en los art\u00edculos 63 (Del colaborador) y 64 (Agentes encubiertos) de la Ley N\u00b0 19.574, de 20 de diciembre de 2017, ser\u00e1 aplicable tambi\u00e9n a todos los delitos que sean competencia de los Juzgados Letrados de Primera Instancia en lo Penal.\r\n "
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO II - REORGANIZACI\u00d3N ADMINISTRATIVA\r\n  CAP\u00cdTULO III - POL\u00cdTICA DE CALIDAD REGULATORIA",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "12",
-    "seccionArticulo": "I",
-    "capituloArticulo": "I",
-    "textoArticulo": " (Disposiciones aplicables a otros tipos penales).- Lo dispuesto en los art\u00edculos 63 (Del colaborador) y 64 (Agentes encubiertos) de la Ley N\u00b0 19.574, de 20 de diciembre de 2017, ser\u00e1 aplicable tambi\u00e9n a todos los delitos que sean competencia de los Juzgados Letrados de Primera Instancia en lo Penal. ",
-    "textoOriginal": " (Disposiciones aplicables a otros tipos penales).- Lo dispuesto en los art\u00edculos 63 (Del colaborador) y 64 (Agentes encubiertos) de la Ley N\u00b0 19.574, de 20 de diciembre de 2017, ser\u00e1 aplicable tambi\u00e9n a todos los delitos que sean competencia de los Juzgados Letrados de Primera Instancia en lo Penal. "
+    "seccionArticulo": "II",
+    "capituloArticulo": "III",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Pol\u00edtica de calidad regulatoria. El Poder Ejecutivo Nacional deber\u00e1 implementar una pol\u00edtica de calidad regulatoria para la Administraci\u00f3n P\u00fablica Nacional, que incluya la simplificaci\u00f3n, digitalizaci\u00f3n y desburocratizaci\u00f3n administrativa, promoviendo la transparencia y el debido proceso administrativo, as\u00ed como el alivio de cargas y costos administrativos, para obtener regulaciones eficientes para la competitividad de los mercados, la creaci\u00f3n de empleo y todo cuanto contribuya a elevar el nivel de vida de los ciudadanos y a la consiguiente reducci\u00f3n de los \u00edndices de pobreza.\n\nAsimismo, se incluir\u00e1 en dicha pol\u00edtica de calidad regulatoria lo siguiente:\n\na. Toda regulaci\u00f3n requerir\u00e1 un an\u00e1lisis previo de impacto regulatorio que incluya una evaluaci\u00f3n donde los costos justifiquen los beneficios, necesidad y razonabilidad de la regulaci\u00f3n (incluidos los medios elegidos) teniendo en cuenta los efectos econ\u00f3micos, sociales, ambientales, de salud p\u00fablica y de seguridad a producirse, maximiz\u00e1ndose los beneficios y disminuyendo los riesgos y efectos distributivos en el tiempo.\n\nb. En un plazo no mayor a CUATRO (4) a\u00f1os de promulgada la presente ley, se elaboren textos ordenados de las principales regulaciones, concentr\u00e1ndolas en cuerpos normativos \u00fanicos, de f\u00e1cil lectura y comprensi\u00f3n y accesible para la ciudadan\u00eda.\n\nc. Previo a la emisi\u00f3n de una norma de alcance general con alto impacto ciudadano, la autoridad competente podr\u00e1, a trav\u00e9s de un portal digital, publicar la propuesta de norma a emitirse y abrir una instancia de participaci\u00f3n ciudadana para recibir comentarios sobre la misma.\n\nd. Todos los registros vigentes y futuros deber\u00e1n ser digitales y de f\u00e1cil acceso para los ciudadanos y empresas y estar\u00e1n regidos por el principio de gratuidad.\n\ne. La implementaci\u00f3n y utilizaci\u00f3n de est\u00e1ndares tecnol\u00f3gicos para promover la interoperabilidad e integraci\u00f3n de los sistemas de gesti\u00f3n con el fin de mejorar el control y la eficiencia de los sistemas."
 }

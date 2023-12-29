@@ -1,0 +1,531 @@
+
+
+LEY Nº 24.065
+
+REGIMEN DE LA ENERGIA ELECTRICA
+
+Generación, transporte y distribución de electricidad. Objeto. Política general y agentes. Transporte y distribución. Generadores, transportistas, distribuidores y grandes usuarios. Disposiciones comunes a transportistas y distribuidores. Provisión de servicios. Limitaciones. Exportación e importación. Despacho de cargas. Tarifas. Adjudicaciones. Ente Nacional Regulador. Fondo Nacional de la Energía Eléctrica. Procedimientos y control jurisdiccional. Contravenciones y sanciones. Disposiciones varias. Ambito de aplicación. Disposiciones transitorias. Modificaciones a la ley 15.336. Privatización. Adhesión.
+
+Sancionada: Diciembre 19 de 1991
+
+Promulgada Parcialmente: Enero 3 de 1992
+
+Publicada B.O.: 16 de enero de 1992
+
+Generación, transporte y distribución de electricidad.
+
+CAPITULO I
+
+Objeto
+
+ARTICULO 1º.- Caracterízase como servicio público al transporte y distribución de electricidad. Exceptúase, no obstante su naturaleza monopólica, el régimen de ampliación del transporte que no tenga como objetivo principal la mejora o el mantenimiento de la confiabilidad que, en tanto comparta las reglas propias del mercado, será de libre iniciativa y a propio riesgo de quien la ejecute.
+
+La actividad de generación, en cualquiera de sus modalidades, destinada total o parcialmente a abastecer de energía a un servicio público será considerada de interés general, afectada a dicho servicio y encuadrada en las normas legales y reglamentarias que aseguren el normal funcionamiento del mismo.
+
+(Artículo sustituido por art.1 del Decreto N°804/2001 B.O. 21/6/2001. Sustitución derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001)
+
+CAPITULO II
+
+Política general y agentes.
+
+ARTICULO 2º.- Fíjanse los siguientes objetivos para la política nacional en materia de abastecimiento, transporte y distribución de electricidad:
+
+a) Proteger adecuadamente los derechos de los usuarios;
+
+b) Promover la competitividad de los mercados de producción y demanda de electricidad y alentar inversiones para asegurar el suministro a largo plazo;
+
+c) Promover la operación, confiabilidad, igualdad, libre acceso, no discriminación y uso generalizado de los servicios e instalación de transporte y distribución de electricidad;
+
+d) Regular las actividades del transporte y la distribución de electricidad, asegurando que las tarifas que se apliquen a los servicios sean justas y razonables;
+
+e) Incentivar el abastecimiento, transporte, distribución y uso eficiente de la electricidad fijando metodologías tarifarias apropiadas;
+
+f) Alentar la realización de inversiones privadas en producción, transporte y distribución, asegurando la competitividad de los mercados donde sea posible.
+
+El Ente Nacional Regulador de la Electricidad que se crea en el Artículo 54 de la presente ley, sujetará su accionar a los principios y disposiciones de la presente norma, y deberá controlar que la actividad del sector eléctrico se ajuste a los mismos.
+
+CAPITULO III
+
+Transporte y distribución.
+
+ARTICULO 3º.- El transporte y la distribución de electricidad deberán prioritariamente ser realizados por personas jurídicas privadas a las que el Poder Ejecutivo les haya otorgado las correspondientes concesiones de conformidad con las disposiciones de las leyes 15.336, 23.696 y de la presente ley.
+
+El Estado por sí, o a través de cualquiera de sus entes o empresas dependientes, y a efectos de garantizar la continuidad del servicio, deberá proveer servicios de transporte o distribución en el caso en que, cumplidos los procedimientos de selección referidos en la presente ley, no existieron oferentes, a los que puedan adjudicarse las prestaciones de los mismos.
+
+En las ampliaciones del transporte de libre iniciativa no se requerirá el otorgamiento de concesiones, conforme lo dispuesto en el párrafo precedente, siendo reguladas en aquellos aspectos y circunstancias que afecten el interés general, mediante el otorgamiento de una licencia por parte de la SECRETARIA DE ENERGIA Y MINERIA dependiente del MINISTERIO DE INFRAESTRUCTURA Y VIVIENDA. (Párrafo incorporado por art. 2° del Decreto N°804/2001 B.O. 21/6/2001. Incorporación derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001, no especificando expresamente si recobra vigencia el texto anterior)
+
+La norma que dicte el MINISTERIO DE INFRAESTRUCTURA Y VIVIENDA, a la que refiere el artículo 36 de la presente ley, deberá prever la adecuada relación entre los concesionarios de transporte y aquellas personas jurídicas que, a propia iniciativa, realicen ampliaciones del sistema. (Párrafo incorporado por art. 2° del Decreto N°804/2001B.O. 21/6/2001. Incorporación derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001, no especificando expresamente si recobra vigencia el texto anterior)
+
+CAPITULO IV
+
+Generadores, transportistas, distribuidores y grandes usuarios.
+
+ARTICULO 4º.- Serán actores reconocidos del MERCADO ELECTRICO MAYORISTA:
+
+a) Generadores o productores, autogeneradores y cogeneradores
+
+b) Transportistas
+
+c) Distribuidores
+
+d) Grandes Usuarios
+
+e) Comercializadores.
+
+(Artículo sustituido por art. 3° del Decreto N°804/2001 B.O. 21/6/2001. Sustitución derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001)
+
+ARTICULO 5º.- Se considera generador a quien, siendo titular de una central eléctrica adquirida o instalada en los términos de esta ley, o concesionarios de servicios de explotación de acuerdo al artículo 14 de la ley 15.336, coloque su producción en forma total o parcial en el sistema de transporte y/o distribución sujeto a jurisdicción nacional.
+
+ARTICULO 6º.- Los generadores podrán celebrar contratos de suministro directamente con distribuidores y grandes usuarios. Dichos contratos serán libremente negociados entre las partes.
+
+ARTICULO 7º.- Se considera transportista a quien, siendo titular de una concesión de transporte de energía eléctrica otorgada bajo el régimen de la presente ley, es responsable de la transmisión y transformación a ésta vinculada, desde el punto de entrega de dicha energía por el generador, hasta el punto de recepción por el distribuidor o gran usuario, según sea el caso.
+
+ARTICULO 8º.- Se considera comercializador al que compre o venda para terceros energía eléctrica en el MERCADO ELECTRICO MAYORISTA, realizando operaciones comerciales en las condiciones que fije la reglamentación del MINISTERIO DE INFRAESTRUCTURA Y VIVIENDA. También se considerará como tales a quienes reciban energía en bloque por pago de regalías o servicios que la comercialicen de igual manera que los generadores.
+
+(Artículo sustituido por art. 4° del Decreto N°804/2001 B.O. 21/6/2001. Sustitución derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001)
+
+ARTICULO 9º.- Se considera distribuidor a quien, dentro de su zona de concesión, sea responsable de abastecer toda demanda a usuarios finales que no tengan la facultad de contratar su suministro en forma independiente y realicen dentro de su zona de concesión, la actividad de transmitir toda la energía eléctrica demandada en la misma, a través de instalaciones conectadas a la red de transporte y/o generación hasta las instalaciones del usuario.
+
+(Artículo sustituido por art.5° del Decreto N°804/2001 B.O. 21/6/2001. Sustitución derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001)
+
+ARTICULO 10.- Se considera gran usuario a quien contrata, en forma independiente y para consumo propio, su abastecimiento de energía eléctrica con el generador y/o el distribuidor. La reglamentación establecerá los módulos de potencia y de energía y demás parámetros técnicos que lo caracterizan.
+
+CAPITULO V
+
+Disposiciones comunes a transportistas y distribuidores.
+
+ARTICULO 11.- Ningún transportista o distribuidor podrá comenzar la construcción y/u operación de instalaciones de la magnitud que precise la calificación del ente, ni la extensión o ampliación de las existentes, sin obtener de aquél un certificado que acredite la conveniencia y necesidad pública de dicha construcción, extensión o ampliación. El ente dispondrá la publicidad de este tipo de solicitudes y la realización de una audiencia pública antes de resolver sobre el otorgamiento del respectivo certificado.
+
+ARTICULO 12.- El inicio o la inminencia de inicio de una construcción y/u operación que carezca del correspondiente certificado de conveniencia y utilidad pública, facultará a cualquier persona a acudir al ente para denunciar u oponerse a aquéllas. El ente ordenará la suspensión de dicha construcción y/u operación hasta tanto resuelva sobre el otorgamiento del referido certificado, sin perjuicio de las sanciones que pudieren corresponder por la infracción.
+
+ARTICULO 13.- La construcción o ampliación de las instalaciones de un transportista o distribuidor que interfiriere o amenazare interferir irrazonablemente el servicio o sistema correspondiente a otro transportista o distribuidor, facultará a estos últimos para acudir ante el ente, el que oyendo a los interesados autorizará o no la nueva obra, pudiendo convocar, previo a ello, a una audiencia pública.
+
+ARTICULO 14.- Ningún transportista ni distribuidor podrá abandonar total ni parcialmente las instalaciones destinadas al transporte y distribución de electricidad, ni dejar de prestar los servicios a su cargo, sin contar con la aprobación del ente, quien sólo la otorgará después de comprobar que las instalaciones o servicios a ser abandonados no resultan necesarios para el servicio público en el presente ni en un futuro previsible.
+
+ARTICULO 15.- El ente resolverá, en los procedimientos indicados en los artículos 11, 12, 13 y 14, dentro del plazo de tres (3) meses contados a partir de la fecha de iniciación de los mismos.
+
+ARTICULO 16.- Los generadores, transportistas, distribuidores y usuarios de electricidad están obligados a operar y mantener sus instalaciones y equipos en forma que no constituyan peligro alguno para la seguridad pública, y a cumplir con los reglamentos y resoluciones que el ente emita a tal efecto. Dichas instalaciones y equipos estarán sujetos a la inspección, revisación y pruebas que periódicamente realizará el ente, el que tendrá, asimismo, facultades para ordenar la suspensión del servicio, la reparación o reemplazo de instalaciones y equipos, o cualquier otra medida tendiente a proteger la seguridad pública.
+
+ARTICULO 17.- La infraestructura física, las instalaciones y la operación de los equipos asociados con la generación, transporte y distribución de energía eléctrica, deberán adecuarse a las medidas destinadas a la protección de las cuencas hídricas y de los ecosistemas involucrados. Asimismo deberán responder a los estándares de emisión de contaminantes vigentes y los que se establezcan en el futuro, en el orden nacional por la Secretaría de Energía.
+
+ARTICULO 18.- Los transportistas y los distribuidores gozarán de los derechos de servidumbre previstos en la ley 19.552.
+
+ARTICULO 19.- Los generadores, transportistas y distribuidores, no podrán realizar actos que impliquen competencia desleal ni abuso de una posición dominante en el mercado. La configuración de las situaciones descritas precedentemente, habilitará la instancia judicial para el ejercicio de las acciones previstas por la ley 22.262, no siendo aplicable para ello lo dispuesto en el artículo 32 de dicha ley.
+
+ARTICULO 20.- Los generadores, transportistas y distribuidores abonarán una tasa de inspección y control que será fijada por el ente de conformidad con lo dispuesto por los artículos 67 y 68 de la presente ley.
+
+CAPITULO VI
+
+Provisión de servicios.
+
+ARTICULO 21.- Los distribuidores deberán satisfacer toda demanda de servicios de electricidad que les sea requerida en los términos de su contrato de concesión.
+
+Los distribuidores serán responsables de atender todo incremento de demanda en su zona de concesión a usuarios finales, por lo que deberán asegurar su aprovisionamiento, celebrando los contratos de compraventa en bloque, que consideren convenientes. No podrán invocar el abastecimiento insuficiente de energía eléctrica como eximente de responsabilidad por el incumplimiento de las normas de calidad de servicio que se establezcan en su contrato de concesión.
+
+A los efectos de dar cumplimiento a la obligación precedentemente establecida, el MINISTERIO DE INFRAESTRUCTURA Y VIVIENDA dictará la reglamentación que determine las condiciones en las que los distribuidores podrán contratar un porcentaje de su demanda en el mercado a término, debiendo cumplir los plazos de contratación y el volumen de energía asociada y demás condiciones que fije la reglamentación mencionada, para que los precios de los contratos formen parte del cálculo del precio de referencia que se menciona en el artículo 40, inciso c), de la presente ley y sus modificaciones.
+
+Será responsabilidad del distribuidor, sin perjuicio de lo expuesto en los párrafos precedentes, la transmisión de toda la demanda de energía eléctrica a través de sus redes y las ampliaciones de instalaciones derivadas de todo incremento de demanda en su zona de concesión, en los términos del contrato de concesión.
+
+(Artículo sustituido por art. 7° del Decreto N°804/2001 B.O. 21/6/2001. Sustitución derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001)
+
+ARTICULO 22.- Los transportistas y los distribuidores están obligados a permitir el acceso indiscriminado de terceros a la capacidad de transporte de sus sistemas que no esté comprometida para abastecer la demanda contratada, en las condiciones convenidas por las partes y de acuerdo a los términos de esta ley.
+
+A los fines de esta ley la capacidad de transporte incluye la de transformación y acceso a toda otra instalación o servicio que el ente determine.
+
+ARTICULO 23.- Ningún transportista ni distribuidor podrá otorgar ni ofrecer ventajas o preferencias en el acceso a sus instalaciones, excepto las que puedan fundarse en categorías de usuarios o diferencias concretas que determine el ente.
+
+ARTICULO 24.- Los transportistas y los distribuidores responderán a toda solicitud de servicio dentro de los treinta (30) días corridos, contados a partir de su recepción.
+
+ARTICULO 25.- Quien requiera un servicio de suministro eléctrico de un distribuidor o acceso a la capacidad de transporte de un transportista o distribuidor y no llegue a un acuerdo sobre las condiciones del servicio requerido, podrá solicitar la intervención del ente el que, escuchando también a la otra parte, resolverá el diferendo, debiendo tener, a tales efectos, como objetivo fundamental el asegurar el abastecimiento.
+
+ARTICULO 26.- Los transportistas y los distribuidores deberán fijar especificaciones mínimas de calidad para la electricidad que se coloque en sus sistemas. Dichas especificaciones serán publicadas en los respectivos cuadros tarifarios.
+
+ARTICULO 27.- Los transportistas y los distribuidores efectuarán el mantenimiento de sus instalaciones en forma de asegurar un servicio adecuado a los usuarios.
+
+ARTICULO 28.- Los contratos de concesión podrán obligar a los transportistas y distribuidores a extender o ampliar las instalaciones, cuando ello resulte conveniente a las necesidades del servicio público. En este caso, los concesionarios podrán recuperar el monto de sus inversiones conforme lo dispuesto en el artículo 41 de esta ley.
+
+ARTICULO 29.- La concesión de transporte sujeta a jurisdicción nacional se otorgará por plazo fijo, en los términos del artículo 18 de la ley 15.336, no siéndole aplicables los incisos 3, 11, 12, 16, 17 y 18. A su vez, deberá también especificarse la capacidad, características y el plan de obras e instalaciones a efectuarse así como el régimen de precios del peaje.
+
+CAPITULO VII
+
+Limitaciones.
+
+ARTICULO 30.- Los transportistas (sea individualmente, o como propietarios mayoritarios, y/o como tenedores de paquetes accionarios mediante los cuales accedan al control de la empresa concesionaria del transporte), no podrán comprar ni vender energía eléctrica.
+
+ARTICULO 31.- Ningún generador, distribuidor, gran usuario ni empresa controlada por algunos de ellos o controlante de los mismos, podrá ser propietario o accionista mayoritario de una empresa transportista o de su controlante. No obstante ello, el Poder Ejecutivo podrá autorizar a un generador, distribuidor y/o gran usuario a construir, a su exclusivo costo y para su propia necesidad, una red de transporte, para lo cual establecerá las modalidades y forma de operación.
+
+ARTICULO 32.- Sólo mediante la expresa autorización del ente dos o más transportistas, o dos o más distribuidores, podrán consolidarse en un mismo grupo empresario o fusionarse.
+
+También será necesaria dicha autorización para que un transportista o distribuidor pueda adquirir la propiedad de acciones de otro transportista o distribuidor, respectivamente.
+
+El pedido de autorización deberá ser formulado al ente, indicando las partes involucradas, una descripción del acuerdo cuya aprobación se solicita, el motivo del mismo y toda otra información que para resolver pueda requerir el ente.
+
+El ente dispondrá la realización de audiencias para conocer la opinión de todos los interesados y otras investigaciones que considere necesarias y otorgará la autorización siempre que no se vulneren las disposiciones de la presente ley ni se resientan el servicio ni el interés público.
+
+ARTICULO 33.- A los fines de este título, si las sociedades que se dediquen al transporte y distribución de energía eléctrica fueran sociedades por acciones, su capital deberá estar representado por acciones nominativas no endosables.
+
+CAPITULO VIII
+
+Exportación e importación.
+
+ARTICULO 34.- La exportación e importación de energía eléctrica deberán ser previamente autorizadas por la Secretaría de Energía dependiente del Ministerio de Economía y Obras y Servicios Públicos.
+
+CAPITULO IX
+
+Despacho de cargas.
+
+ARTICULO 35.- El despacho técnico del Sistema Argentino de Interconexión (SADI), estará a cargo del Despacho Nacional de Cargas (DNDC), órgano que se constituirá bajo la forma de una sociedad anónima cuyo capital deberá estar representado por acciones nominativas no endosables y cuya mayoría accionaria estará, inicialmente, en la cabeza de la Secretaría de Energía, y en el que podrán tener participación accionaria los distintos actores del Mercado Eléctrico Mayorista (MEM). La participación estatal, inicialmente mayoritaria, podrá ser reducida por el Poder Ejecutivo hasta el diez por ciento (10 %) del capital social, no obstante este porcentaje deberá asegurarle la participación y poder de veto en el directorio.
+
+La Secretaría de Energía determinará las normas a las que se ajustará el DNDC para el cumplimiento de sus funciones, las que deberán garantizar la transparencia y equidad de las decisiones, atendiendo a los siguientes principios:
+
+a) Permitir la ejecución de los contratos libremente pactados entre las partes, entendiendo por tales a los generadores (con excepción de aquellos comprendidos en el artículo 1º de la ley 23.696 y la parte argentina de los entes binacionales), grandes usuarios y distribuidores (mercado a término);
+
+b) Despachar la demanda requerida, en base al reconocimiento de precios de energía y potencia que se establecen en el artículo siguiente, que deberán comprometerse explícitamente a aceptar los actores del mercado, para tener derecho a suministrar o recibir electricidad no pactada libremente entre las partes.
+
+ARTICULO 36.- El MINISTERIO DE INFRAESTRUCTURA Y VIVIENDA fijará, mediante resolución, las bases que regirán el despacho para las transacciones en el mercado, cuya aplicación será de competencia del DESPACHO NACIONAL DE CARGAS.
+
+La referida Resolución dispondrá que los generadores sean remunerados por la energía vendida, conforme a un procedimiento de despacho horario, el que será determinado en base a la oferta libre de precios que presente cada generador para las distintas bandas horarias, junto con sus límites operativos máximos y mínimos de potencia disponible, con independencia de los contratos de suministro comprometidos, a los efectos de fijar el precio spot horario por nodo.
+
+Asimismo dicha Resolución deberá prever que los demandantes paguen un precio en los puntos de recepción que incluya lo que deban percibir los generadores por la energía vendida y la remuneración del transporte.
+
+(Artículo sustituido por art. 8° del Decreto N°804/2001 B.O. 21/6/2001. Sustitución derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001)
+
+ARTICULO 37.- Las empresas de generación y transporte de propiedad total o mayoritaria del Estado nacional tendrán derecho a recuperar solamente sus costos operativos y de mantenimiento totales que les permitan mantener la calidad, continuidad y seguridad del servicio, cuyo concepto y metodología de determinación serán establecidos por la Secretaría de Energía. Los excedentes resultantes de la diferencia entre dicho valor y el precio de venta de la energía generada conforme al artículo precedente, así como los que resulten entre este último y el precio de venta de la energía generada por los entes binacionales conforme sus respectivos convenios, o resultantes de interconexiones internacionales, integrarán un fondo unificado, cuyo presupuesto será aprobado anualmente por el Congreso de la Nación y será administrado por la Secretaría de Energía, la que deberá atender con el mismo los compromisos emergentes de deudas contraídas hasta el presente y las inversiones en las obras que se encuentren en ejecución a la fecha de vigencia de esta ley que determine la Secretaría de Energía. El fondo unificado se destinará también para estabilizar, por el período que se determine, los precios que pagarán los distribuidores, conforme el artículo 36 de esta ley.
+
+La citada secretaría podrá dividir en cuentas independientes los recursos del Fondo, conforme su origen y destino, pudiendo establecer un sistema de préstamos reintegrables entre las mismas.
+
+ARTICULO 38.- La Secretaría de Energía preparará y publicitará entre los interesados planes orientativos sobre las condiciones de oferta y de demanda del SADI, que ofrezcan información fehaciente a los actores y potenciales inversores del MEM sobre las perspectivas de despacho.
+
+ARTICULO 39.- El DNDC no impondrá restricciones a los autogeneradores que suministren energía a través de contratos libremente pactados con los demandantes, salvo que existieran razones técnicas fundadas, y canalizará ventas de saldos de este tipo de generación, en la medida que resulte económico para el sistema.
+
+CAPITULO X
+
+Tarifas.
+
+ARTICULO 40.- Los servicios suministrados por los transportistas y distribuidores serán ofrecidos a tarifas justas y razonables, las que se ajustarán a los siguientes principios:
+
+a) Proveerán a los transportistas y distribuidores que operen en forma económica y prudente, la oportunidad de obtener ingresos suficientes para satisfacer los costos operativos razonables aplicables al servicio, impuestos, amortizaciones y una tasa de retorno determinada conforme lo dispuesto en el artículo 41 de esta ley;
+
+b) Deberán tener en cuenta las diferencias razonables que existan en el costo entre los distintos tipos de servicios considerando la forma de prestación, ubicación geográfica y cualquier otra característica que el ente califique como relevante;
+
+c) En el caso de las tarifas de los distribuidores, el precio de venta de la electricidad a los usuarios incluirá un término representativo de sus adquisiciones en el MERCADO ELECTRICO MAYORISTA. A tal efecto se calculará un precio de referencia que estará conformado por el precio de los contratos que el distribuidor celebre en los términos del artículo 21 de la presente ley, el precio spot horario por nodo que resulte de lo dispuesto en el artículo 36 de la presente ley y los costos de transporte asociados, ambos con las modificaciones que se les introducen por los artículos 8º y 9º respectivamente del presente decreto; (Inciso sustituido por art. 9° del Decreto N°804/2001 B.O. 21/6/2001. Sustitución derogada por art. 1° de la Ley N° 25.468 B.O. 16/10/2001)
+
+d) Sujetas al cumplimiento de los requisitos establecidos en los incisos precedentes, asegurarán el mínimo costo razonable para los usuarios compatible con la seguridad del abastecimiento.
+
+ARTICULO 41.- Las tarifas que apliquen los transportistas y distribuidores deberán posibilitar una razonable tasa de rentabilidad, a aquellas empresas que operen con eficiencia. Asimismo, la tasa deberá: a) Guardar relación con el grado de eficiencia y eficacia operativa de la empresa;
+
+b) Ser similar, como promedio de la industria, a la de otras actividades de riesgo similar o comparable nacional e internacionalmente.
+
+ARTICULO 42.- Los contratos de concesión a transportistas y distribuidores incluirán un cuadro tarifario inicial que será válido por un período de cinco (5) años y se ajustará a los siguientes principios: a) Establecerá las tarifas iniciales que correspondan a cada tipo de servicio ofrecido, tales bases serán determinadas de conformidad con lo dispuesto en los artículos 40 y 41 de la presente ley;
+
+b) Las tarifas subsiguientes establecerán el precio máximo que se fije para cada clase de servicios;
+
+c) El precio máximo será determinado por el ente de acuerdo con los indicadores de mercados que reflejen los cambios de valor de bienes y/o servicios. Dichos indicadores serán a su vez ajustados, en más o en menos, por un factor destinado a estimular la eficiencia y, al mismo tiempo, las inversiones en construcción, operación y mantenimiento de instalaciones;
+
+d) Las tarifas estarán sujetas a ajustes que permitan reflejar cualquier cambio en los costos del concesionario, que éste no pueda controlar;
+
+e) En ningún caso los costos atribuibles al servicio prestado a un usuario o categoría de usuarios podrán ser recuperados mediante tarifas cobradas a otros usuarios.
+
+ARTICULO 43.- Finalizado el período inicial de cinco (5) años el ente fijará nuevamente las tarifas por períodos sucesivos de cinco (5) años. El cálculo de las nuevas tarifas se efectuará de conformidad con lo establecido por los artículos 40 y 41 y se fijarán precios máximos de acuerdo a lo dispuesto por el artículo precedente.
+
+ARTICULO 44.- Ningún transportista ni distribuidor podrá aplicar diferencias en sus tarifas, cargos, servicios o cualquier otro concepto excepto que aquéllas resulten de distinta localización, tipo de servicios o cualquier otro distingo equivalente que razonablemente apruebe el ente.
+
+ARTICULO 45.- Los transportistas y distribuidores, dentro del último año del período indicado en el artículo 43 de esta ley, y con sujeción a la reglamentación que dicte el ente, deberán solicitarle la aprobación de los cuadros tarifarios que respondan a lo establecido en el artículo 42 que se proponen aplicar, indicando las modalidades, tasas y demás cargos que correspondan a cada tipo de servicio, así como las clasificaciones de sus usuarios y las condiciones generales del servicio. Dichos cuadros tarifarios, luego de su aprobación, deberán ser ampliamente difundidos para su debido conocimiento por parte de los usuarios.
+
+ARTICULO 46.- Los transportistas y distribuidores aplicarán estrictamente las tarifas aprobadas por el ente. Podrán, sin embargo, solicitar a este último las modificaciones que consideren necesarias, si su pedido se basa en circunstancias objetivas y justificadas. Recibida la solicitud de modificación, el ente dará inmediata difusión pública a la misma por un plazo de treinta (30) días y convocará a una audiencia pública para el siguiente día hábil a fin de determinar si el cambio solicitado se ajusta a las disposiciones de esta ley y al interés público.
+
+ARTICULO 47.- El ente deberá resolver dentro de los ciento veinte (120) días corridos contados a partir de la fecha del pedido de modificación, si así no lo hiciere el concesionario podrá ajustar sus tarifas a los cambios solicitados como si éstos hubieran sido efectivamente aprobados, debiendo, sin embargo, reintegrar a los usuarios cualquier diferencia que pueda resultar a favor de estos últimos si las modificaciones no fueran finalmente aprobadas por el ente o si la aprobación fuera solamente parcial.
+
+ARTICULO 48.- Cuando, como consecuencia de procedimientos iniciados de oficio o por denuncia de particulares, el ente considere que existen motivos razonables para alegar que la tarifa de un transportista o distribuidor es injusta, irrazonable, indebidamente discriminatoria o preferencial, notificará tal circunstancia al transportista o distribuidor, la dará a publicidad, y convocará a una audiencia pública con no menos de treinta (30) días de anticipación. Celebrada la misma, dictará resolución dentro del plazo indicado en el artículo precedente.
+
+ARTICULO 49.- Las tarifas por transporte y distribución estarán sujetas a topes anualmente decrecientes en términos reales a partir de fórmulas de ajuste automático que fijará y controlará el ente.
+
+CAPITULO XI
+
+Adjudicaciones.
+
+ARTICULO 50.- El transporte y la distribución de electricidad sólo podrán ser realizados por empresas a las que el Poder Ejecutivo les haya otorgado una concesión de conformidad con lo dispuesto por la ley 15.336 y la presente ley. Las concesiones serán adjudicadas de conformidad con procedimientos de selección preestablecidos por la Secretaría de Energía.
+
+ARTICULO 51.- Con una anterioridad no menor de dieciocho (18) meses a la fecha de finalización de una concesión, los transportistas y distribuidores tendrán derecho a requerir del ente la prórroga por un período de diez (10) años, o el otorgamiento de una nueva concesión. Dentro de los sesenta (60) días de requerido el ente resolverá fundadamente, sobre el otorgamiento o no de la prórroga o la negociación de una nueva concesión.
+
+ARTICULO 52.- Si el ente decidiera no otorgar la prórroga o una nueva concesión al concesionario existente, iniciará un nuevo procedimiento de selección dentro del plazo de treinta (30) días para adjudicar los servicios de transporte o distribución en cuestión.
+
+ARTICULO 53.- En el caso del artículo precedente, si la nueva concesión no pudiese ser otorgada antes de la finalización de la anterior concesión, el ente podrá requerir al titular de esta última la continuación del servicio por un plazo no mayor a doce (12) meses contados a partir de la fecha original de finalización de la concesión anterior.
+
+CAPITULO XII
+
+Ente Nacional Regulador.
+
+ARTICULO 54.- Créase en el ámbito de la Secretaría de Energía del Ministerio de Economía y Obras y Servicios Públicos, el Ente Nacional Regulador de la Electricidad, el que deberá llevar a cabo todas las medidas necesarias para cumplir los objetivos enunciados en el artículo 2º de esta ley. El Ente Nacional Regulador de la Electricidad deberá estar constituido y en condiciones de cumplir sus funciones dentro de los sesenta (60) días de la puesta en vigencia de la presente ley.
+
+(Nota Infoleg: por art. 1° del Decreto N° 277/2020 B.O. 17/3/2020 se dispone la intervención del ENTE NACIONAL REGULADOR DE LA ELECTRICIDAD (ENRE), organismo autárquico en el ámbito de la SECRETARÍA DE ENERGÍA del MINISTERIO DE DESARROLLO PRODUCTIVO, hasta el 31 de diciembre de 2020)
+
+ARTICULO 55.- El ente gozará de autarquía y tendrá plena capacidad jurídica para actuar en los ámbitos del derecho público y privado, y su patrimonio estará constituido por los bienes que se le transfieran y por los que adquiera en el futuro por cualquier título. Tendrá su sede en la ciudad de Buenos Aires. El ente aprobará su estructura orgánica.
+
+ARTICULO 56.- El ente tendrá las siguientes funciones y facultades:
+
+a) Hacer cumplir la presente ley, su reglamentación y disposiciones complementarias, controlando la prestación de los servicios y el cumplimiento de las obligaciones fijadas en los contratos de concesión;
+
+b) Dictar reglamentos a los cuales deberán ajustarse los productores, transportistas, distribuidores y usuarios de electricidad en materia de seguridad, normas y procedimientos técnicos, de medición y facturación de los consumos, de control y uso de medidores, de interrupción y reconexión de los suministros, de acceso a inmuebles de terceros y de calidad de los servicios prestados;
+
+c) Prevenir conductas anticompetitivas, monopólicas o discriminatorias entre los participantes de cada una de las etapas de la industria, incluyendo a productores y usuarios;
+
+d) Establecer las bases para el cálculo de las tarifas de los contratos que otorguen concesiones a transportistas y distribuidores y controlar que las tarifas sean aplicadas de conformidad con las correspondientes concesiones y con las disposiciones de esta ley;
+
+e) Publicar los principios generales que deberán aplicar los transportistas y distribuidores en sus respectivos contratos para asegurar el libre acceso a sus servicios;
+
+f) Determinar las bases y condiciones de selección para el otorgamiento de concesiones de transporte y distribución de electricidad mediante procedimientos públicos o privados cuando razones especiales debidamente acreditadas así lo justifiquen;
+
+g) Llamará a participar en procedimientos de selección y efectuará las adjudicaciones correspondientes, firmando el contrato de concesión ad referéndum del Poder Ejecutivo el que podrá delegar tal función en el órgano o funcionario que considere conveniente;
+
+h) Propiciar ante el Poder Ejecutivo, cuando corresponda, la cesión, prórroga, caducidad o reemplazo de concesiones;
+
+i) Autorizar las servidumbres de electroducto mediante los procedimientos aplicables de acuerdo a lo dispuesto por el artículo 18 de esta ley, y otorgar toda otra autorización prevista en la presente;
+
+j) Organizar y aplicar el régimen de audiencias públicas previsto en esta ley;
+
+k) Velar por la protección de la propiedad, el medio ambiente y la seguridad pública en la construcción y operación de los sistemas de generación, transporte y distribución de electricidad, incluyendo el derecho de acceso a las instalaciones de propiedad de generadores, transportistas, distribuidores y usuarios, previa notificación, a efectos de investigar cualquier amenaza real o potencial a la seguridad y conveniencia públicas en la medida que no obste la aplicación de normas específicas;
+
+l) Promover, ante los Tribunales competentes, acciones civiles o penales, incluyendo medidas cautelares, para asegurar el cumplimiento de sus funciones y de los fines de esta ley, su reglamentación y los contratos de concesión;
+
+m) Reglamentar el procedimiento para la aplicación de las sanciones que correspondan por violación de disposiciones legales, reglamentarias o contractuales, asegurando el principio del debido proceso;
+
+n) Requerir de los transportadores y distribuidores los documentos e información necesaria para verificar el cumplimiento de esta ley, su reglamentación y los respectivos contratos de concesión, realizando las inspecciones que al efecto resulten necesarias, con adecuado resguardo de la confidencialidad de información que pueda corresponder;
+
+ñ) Publicar la información y dar el asesoramiento que sea de utilidad para generadores, transportistas y usuarios, siempre que ello no perjudique injustificadamente derechos de terceros;
+
+o) Aplicar las sanciones previstas en la presente ley, en sus reglamentaciones y en los contratos de concesión, respetando en todos los casos los principios del debido proceso;
+
+p) Asegurar la publicidad de las decisiones, que adopte, incluyendo los antecedentes en base a los cuales fueron adoptadas las mismas;
+
+q) Someter anualmente al Poder Ejecutivo y al Congreso de la Nación un informe sobre las actividades del año y sugerencias sobre medidas a adoptar en beneficio del interés público, incluyendo la protección de los usuarios y el desarrollo de la industria eléctrica;
+
+r) Delegar en sus funcionarios las atribuciones que considere adecuadas para una eficiente y económica aplicación de la presente ley;
+
+s) En general, realizar todo otro acto que sea necesario para el mejor cumplimiento de sus funciones y de los fines de esta ley y su reglamentación.
+
+ARTICULO 57.- El ente será dirigido y administrado por un directorio integrado por cinco (5) miembros, de los cuales uno será su presidente, otro su Vicepresidente y los restantes vocales.
+
+ARTICULO 58.- Los miembros del directorio serán seleccionados entre personas con antecedentes técnicos y profesionales en la materia y designados por el Poder Ejecutivo, dos (2) de ellos a propuesta del Consejo Federal de la Energía Eléctrica. Su mandato durará cinco (5) años y podrá ser renovado en forma indefinida. Cesarán en sus mandatos en forma escalonada cada año . Al designar el primer directorio, el Poder Ejecutivo establecerá la fecha de finalización del mandato del presidente, vicepresidente y de cada vocal para permitir tal escalonamiento.
+
+ARTICULO 59.- Los miembros del directorio tendrán dedicación exclusiva en su función, alcanzándoles las incompatibilidades fijadas por ley para los funcionarios públicos y sólo podrán ser removidos de sus cargos por acto fundado del Poder Ejecutivo.
+
+Previa a la designación y/o a la remoción el Poder Ejecutivo deberá comunicar los fundamentos de tal decisión a una comisión del Congreso de la Nación integrada por dieciséis (16) miembros que serán los presidentes y vicepresidentes de las comisiones que cada una de las Cámaras determinen en función de su incumbencia, garantizando una representación igualitaria de senadores y diputados. Esta comisión podrá emitir opinión dentro del plazo de treinta (30) días corridos de recibidas las actuaciones. Emitida la misma o transcurrido el plazo establecido para ello, el Poder Ejecutivo Nacional quedará habilitado para el dictado del acto respectivo.
+
+ARTICULO 60.- Los miembros del directorio no podrán ser propietarios ni tener interés alguno, directo ni indirecto, en empresas reconocidas como actores del mercado eléctrico por el artículo 4º de esta ley, ni en sus controladas o controlantes.
+
+ARTICULO 61.- El presidente durará cinco (5) años en sus funciones y podrá ser reelegido. Ejercerá la representación legal del ente y en caso de impedimento o ausencia transitorios será reemplazado por el vicepresidente.
+
+ARTICULO 62.- El directorio formará quórum con la presencia de tres (3) de sus miembros, uno de los cuales será el presidente o quien lo reemplace y sus resoluciones se adoptarán por mayoría simple. El presidente, o quien lo reemplace, tendrá doble voto en caso de empate.
+
+ARTICULO 63.- Serán funciones del directorio, entre otras:
+
+a) Aplicar y fiscalizar el cumplimiento de las normas legales y reglamentarias que rigen la actividad del ente;
+
+b) Dictar el reglamento interno del cuerpo;
+
+c) Asesorar al Poder Ejecutivo en todas las materias de competencia del ente;
+
+d) Contratar y remover al personal del ente, fijándole sus funciones y condiciones de empleo;
+
+e) Formular el presupuesto anual de gastos y cálculo de recursos, que el ente elevará por intermedio del Poder Ejecutivo nacional para su aprobación legislativa mediante la Ley Nacional de Presupuesto del ejercicio correspondiente;
+
+f) Confeccionar anualmente su memoria y balance;
+
+g) En general, realizar todos los demás actos que sean necesarios para el cumplimiento de las funciones del ente y los objetivos de la presente ley.
+
+ARTICULO 64.- El ente se regirá en su gestión financiera, patrimonial y contable por las disposiciones de la presente ley y los reglamentos que a tal fin se dicten. Quedará sujeto al control externo que establece el régimen de contralor público. Las relaciones con su personal se regirán por la Ley de Contrato de Trabajo, no siéndoles de aplicación el régimen jurídico básico de la función pública.
+
+ARTICULO 65.- El ente confeccionará anualmente su presupuesto, estimando razonablemente los gastos e inversiones correspondientes al próximo ejercicio. Un proyecto de presupuesto será previamente publicado, dando oportunidad a los transportistas, distribuidores y usuarios a objetarlos fundadamente.
+
+ARTICULO 66.- Los recursos del ente se formarán con los siguientes ingresos:
+
+a) La tasa de inspección y control que se crea por el artículo siguiente;
+
+b) Los subsidios, herencias, legados, donaciones o transferencias bajo cualquier título que reciba;
+
+c) Los demás fondos, bienes o recursos que puedan serle asignados en virtud de las leyes y reglamentaciones aplicables;
+
+d) El producido de las multas y decomisos;
+
+e) Los intereses y beneficios resultantes de la gestión de sus propios fondos.
+
+ARTICULO 67.- Productores, transportistas y distribuidores abonarán anualmente, y por adelantado una tasa de fiscalización y control a ser fijada por el ente en su presupuesto.
+
+Esta tasa será fijada en forma singular para cada productor, transportista o distribuidor en particular y será igual a la suma total de gastos e inversiones previstos por el ente en dicho presupuesto, multiplicada por una fracción en la cual el numerador, serán los ingresos brutos por la operación correspondiente al año calendario anterior, y el denominador, el total de los ingresos brutos por operación de la totalidad de los productores, transportistas y distribuidores del país, durante igual período.
+
+ARTICULO 68.- Si durante la ejecución de un presupuesto los recursos estimados para el ejercicio resultaren insuficientes por hechos imprevisibles a la fecha de confección del referido presupuesto, el ente podrá requerir el pago de una tasa complementaria, sujeta a la aprobación del Poder Ejecutivo, hasta satisfacer las necesidades presupuestarias.
+
+ARTICULO 69.- La mora por falta de pago de la tasa se producirá de pleno derecho y devengará los intereses punitorios que fije la reglamentación. El certificado de deuda por falta de pago de la tasa expedido por el ente habilitará el procedimiento ejecutivo ante los tribunales federales en lo civil y comercial.
+
+CAPITULO XIII
+
+Fondo Nacional de la Energía Eléctrica.
+
+ARTICULO 70.- Sustitúyense los incisos e) y g) del artículo 30 y del artículo 31 de la ley 15.336, por los siguientes:
+
+e) El Fondo Nacional de la Energía Eléctrica se constituirá por un recargo de treinta australes por kilovatio hora (A 30 Kw/h) sobre las tarifas que paguen los compradores del mercado mayorista, es decir las empresas distribuidoras y los grandes usuarios, como asimismo por los reembolsos más sus intereses de los préstamos que se hagan con los recursos del Fondo. La Secretaría de Energía tendrá la facultad de modificar el monto del referido recargo, hasta un veinte por ciento (20 %) en más o en menos, de acuerdo a las variaciones económicas que se operen en la industria con posterioridad a la fecha de entrada en vigencia de esta ley.
+
+A los fines de la determinación del recargo que constituye el Fondo Nacional de la Energía Eléctrica (FNEE), se afectará el valor antes mencionado por un coeficiente de adecuación trimestral (CAT) referido a los períodos estacionales. Dicho coeficiente de adecuación trimestral (CAT) resultará de considerar la facturación neta que efectúan los generadores por los contratos a término y spot en el Mercado Eléctrico Mayorista correspondientes al trimestre inmediato anterior al de liquidación, dividido el total de la energía (en MWh) involucrada en esa facturación, y su comparación con el mismo cociente correspondiente al trimestre mayo/julio 2003 que se tomará como base. (Párrafo incorporado por art. 1° de la Ley N° 25.957 B.O. 2/12/2004. El presente mecanismo de cálculo entrará en vigencia, a partir del primer trimestre posterior a la vigencia de la ley de referencia).
+
+g) El Fondo será administrado por el Consejo Federal de la Energía Eléctrica (CFEE) y se destinará a:
+
+- El sesenta por ciento (60 %) para crear el Fondo Subsidiario para Compensaciones Regionales de Tarifas a Usuarios Finales, que asignará anualmente el Consejo Federal de la Energía Eléctrica (CFEE), distribuyéndolo entre las jurisdicciones provinciales que hayan adherido a los principios tarifarios contenidos en esta ley.
+
+- El cuarenta por ciento (40 %) restante para alimentar el Fondo para el Desarrollo Eléctrico del Interior. El CFEE distribuirá los fondos en función a los índices repartidores vigentes o a los que dicho Consejo determine en el futuro.
+
+(Nota Infoleg: Por art. 24 de la Ley N° 25.967 B.O. 16/12/2004 se establece que el porcentaje fijado en el artículo 24, Capítulo V de la Ley Nº 23.966 se aplicará también sobre los recursos establecidos en el presente artículo).
+
+CAPITULO XIV
+
+Procedimientos y control jurisdiccional
+
+ARTICULO 71.- En sus relaciones con los particulares y con la administración pública, el ente se regirá por los procedimientos establecidos en la Ley de Procedimientos Administrativos y sus disposiciones reglamentarias, con excepción de las materias contempladas expresamente en la presente ley.
+
+ARTICULO 72.- Toda controversia que se suscite entre generadores, transportistas, distribuidores, grandes usuarios, con motivo del suministro o del servicio público de transporte y distribución de electricidad, deberá ser sometida en forma previa y obligatoria a la jurisdicción del ente.
+
+Es facultativo para los usuarios, así como para todo tipo de terceros interesados, ya sean personas físicas o jurídicas, por iguales motivos que los enunciados en este artículo, el someterse a la jurisdicción previa y obligatoria del ente.
+
+ARTICULO 73.- Cuando, como consecuencia de procedimientos iniciados de oficio o por denuncia, el ente considerase que cualquier acto de un generador, transportista, distribuidor o usuario es violatorio de la presente ley, de su reglamentación, de las resoluciones dictadas por el ente o de un contrato de concesión, el ente notificará de ello a todas las partes interesadas y convocará a una audiencia pública, estando facultado para, previo a resolver sobre la existencia de dicha violación, disponer, según el acto de que se trate, todas aquellas medidas de índole preventivo que fueran necesarias.
+
+ARTICULO 74.- El ente convocará a las partes y realizará una audiencia pública, antes de dictar resolución en las siguientes materias:
+
+a) La conveniencia, necesidad y utilidad general de los servicios de transporte y distribución de electricidad;
+
+b) Las conductas contrarias a los principios de libre competencia o el abuso de situaciones derivadas de un monopolio natural o de una posición dominante en el mercado.
+
+ARTICULO 75.- Cuando el ente o los miembros de su directorio incurrieran en actos que impliquen un exceso en el ejercicio de las atribuciones conferidas por la presente ley y por su reglamentación, o no cumplieren con las funciones y obligaciones inherentes a su cargo, cualquier persona cuyos derechos se vean afectados por dichos actos u omisiones podrá interponer ante el ente o ante la justicia federal, según corresponda, las acciones legales tendientes a lograr que el ente y/o los miembros de su directorio cumplan con las obligaciones que les impone la presente ley.
+
+ARTICULO 76.- Las resoluciones del ente podrán recurrirse por vía de alzada, en los términos de la Ley Nacional de Procedimientos Administrativos y sus disposiciones reglamentarias. Agotada la vía administrativa procederá el recurso en sede judicial directamente ante la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal.
+
+CAPITULO XV
+
+Contravenciones y sanciones
+
+ARTICULO 77.- Las violaciones o incumplimientos de la presente ley y sus normas reglamentarias cometidos por terceros no concesionarios serán sancionados con:
+
+a) Multa entre australes un millón (A 1.000.000) y australes mil millones (A 1.000.000.000);
+
+b) Inhabilitación especial de uno (1) a cinco (5) años;
+
+c) Suspensión de hasta noventa (90) días en la prestación de servicios y actividades autorizados por el ente;
+
+d) Decomiso de los elementos utilizados para cometer la contravención, o de los bienes, artefactos e instalaciones construidas o ubicadas en contravención. Esta sanción podrá aplicarse como accesoria de las anteriores o independientemente de las mismas.
+
+(Nota Infoleg: por art. 1º de la Resolución Nº 139/2021 del Ente Nacional Regulador de la Electricidad B.O. 21/5/2021 se aprueba la Metodología de Actualización de los Montos Mínimos y Máximos establecidos en el artículo 77 de la Ley N° 24.065 la que se detalla en el Anexo (IF-2021-08378472-APN-ARYEE#ENRE). Vigencia: a partir del día siguiente a su publicación en el Boletín Oficial.)
+
+ARTICULO 78.- Las violaciones o incumplimientos de los contratos de concesión de servicios de transporte o distribución de electricidad serán sancionados con las penalidades previstas en los respectivos contratos de concesión.
+
+ARTICULO 79.- El ente podrá disponer el secuestro de bienes como medida precautoria, a no ser que dichos bienes pertenezcan a un tercero no responsable.
+
+ARTICULO 80.- En las acciones de prevención y constatación de contravenciones, así como para lograr el cumplimiento de las medidas de secuestro y otras que pudieren corresponder, el ente estará facultado para requerir el auxilio de la fuerza pública con jurisdicción en el lugar del hecho. A tal fin bastará con que el funcionario competente para la instrucción de las correspondientes actuaciones administrativas expida un requerimiento escrito a la autoridad que corresponda. Si el hecho objeto de prevención o comprobación constituyera un delito de orden público, deberá dar inmediata intervención a la justicia federal con jurisdicción en el lugar.
+
+ARTICULO 81.- El ente dictará las normas de procedimiento con sujeción a las cuales se realizarán las audiencias públicas y se aplicarán las sanciones previstas en este capítulo debiéndose asegurar en todos los casos el cumplimiento de los principios del debido proceso.
+
+Las sanciones aplicadas por el ente podrán impugnarse ante la Cámara Nacional de Apelaciones en lo Contencioso Administrativo Federal mediante un recurso directo a interponerse dentro de los treinta (30) días hábiles judiciales posteriores a su notificación.
+
+Capitulo XVI
+
+Disposiciones varias.
+
+ARTICULO 82.- Déjase sin efecto el Fondo Nacional de Grandes Obras Eléctricas creado por la ley 19.287, y el Fondo Chocón - Cerros Colorados - Alicopá; establecido por la ley 17.574 y la ley 20.954.
+
+ARTICULO 83.- Sustitúyense los artículos 1º, 9º, 10 11 de la ley 19.552 por los siguientes textos:
+
+Art. 1º.- Toda heredad está sujeta a la servidumbre administrativa de electroducto que se crea por la presente ley, la que se constituirá en favor del concesionario de subestaciones eléctricas, líneas de transporte de energía eléctrica, y distribuidores de energía eléctrica que estén sujetos a jurisdicción nacional.
+
+Art. 9º.- El propietario del predio afectado por la servidumbre tendrá derecho a una indemnización que se determinará teniendo en cuenta:
+
+a) El valor de la tierra en condiciones óptimas en la zona donde se encuentre el inmueble gravado;
+
+b) La aplicación de un coeficiente de restricción que atienda al grado de las limitaciones impuestas por la servidumbre, el que deberá ser establecido teniendo en cuenta la escala de valores que fije la autoridad competente.
+
+En ningún caso se abonará indemnización por lucro cesante.
+
+Art. 10.- En caso de no llegar a acuerdo en cuanto al monto de la indemnización, por la limitación al derecho de propiedad, entre el propietario del predio afectado y el titular de la servidumbre, el propietario podrá ejercer las acciones a que se considere con derecho, en el mismo expediente en que se haya iniciado conforme lo previsto en el artículo 8º, o de no existir tal expediente, ante el juez federal competente en el lugar en que esté ubicado el inmueble.
+
+Art. 11.- Las acciones judiciales referidas en la presente ley tramitarán por juicio sumario.
+
+ARTICULO 84.- La falta de pago del suministro de energía eléctrica a usuarios finales y/o del precio de venta de dicha energía en bloque, será sancionado con la interrupción y/o desconexión de dicho suministro.
+
+Para la percepción de los importes correspondientes a los precios de compraventa en bloque y/o de tarifas de suministros de usuarios finales, se aplicará el procedimiento ejecutivo, siendo título hábil la constancia de deuda que determine la reglamentación.
+
+CAPITULO XVII
+
+Ambito de aplicación
+
+ARTICULO 85.- La presente ley es complementaria de la ley 15.336 y tiene su mismo ámbito y autoridad de aplicación.
+
+CAPITULO XVIII
+
+Disposiciones transitorias.
+
+ARTICULO 86.- Las disposiciones de esta ley serán plenamente aplicables a quienes resulten adjudicatarios de concesiones de transporte o distribución, como consecuencia del proceso de privatización de Servicios Eléctricos del Gran Buenos Aires, Sociedad Anónima, Agua y Energía Eléctrica, Sociedad del Estado, e Hidroeléctrica Norpatagónica, Sociedad Anónima.
+
+ARTICULO 87.- Por excepción, el presupuesto correspondiente al año 1992 del ente, será aprobado exclusivamente por el Poder Ejecutivo Nacional.
+
+ARTICULO 88.- Los usuarios de los servicios prestados por Servicios Eléctricos del Gran Buenos Aires, Sociedad Anónima y Agua y Energía Eléctrica, Sociedad del Estado que estén vinculados a éstas por medio de contratos de suministro sujetos a cláusulas especiales a la fecha de entrada en vigencia de una concesión que se otorgue de conformidad con la ley 15.336 y de la presente ley, tendrán derecho a ingresar a las redes de transporte y/o distribución que utilizarán a tales efectos las empresas precedentemente citadas. En esos casos los transportistas o distribuidores estarán obligados a continuar
+
+prestando servicios a dichos usuarios en las mismas condiciones resultantes de los contratos existentes durante un período de dos años contados a partir de la fecha de entrada en vigencia de esta ley o cualquier otro período menor que las partes puedan convenir. Las tarifas que se apliquen a tales servicios serán determinadas de acuerdo con las disposiciones de la presente ley.
+
+CAPITULO XIX
+
+Modificaciones a la ley 15.336.
+
+ARTICULO 89.- Sustitúyanse los artículos 4º, 11 primer párrafo, 14, 18 inciso 8 y 28 último párrafo de la ley 15.336 por los siguientes textos:
+
+Art. 4º.- Las operaciones de compra o venta de la electricidad de una central con el ente administrativo o con el concesionario que en su caso presta el servicio público, se reputarán actos comerciales de carácter privado en cuanto no comporten desmedro a las disposiciones de la presente ley.
+
+Art. 11.- primer párrafo: En el ámbito de la jurisdicción nacional a que se refiere el artículo 6º y a los fines de esta ley, el Poder Ejecutivo Nacional otorgará las concesiones y ejercerá las funciones de policía y demás atribuciones inherentes al poder jurisdiccional.
+
+Art. 14.- El ejercicio por particulares de actividades relacionadas con la generación, transmisión y distribución de la energía eléctrica de jurisdicción nacional, cualquiera sea la fuente de energía utilizada, requiere concesión del Poder Ejecutivo en los siguientes casos:
+
+a) Para el aprovechamiento de las fuentes de energía hidroeléctrica de los cursos de agua pública cuando la potencia normal que se conceda exceda de 500 kilovatios;
+
+b) Para el ejercicio de actividades destinadas al servicio público de transporte y/o distribución de electricidad.
+
+Art. 18, inc. 8: Las condiciones en que se transferirán al Estado o al nuevo concesionario, según corresponda, los bienes afectados a la concesión, en el caso de caducidad, revocación o falencia.
+
+Art. 28.- último párrafo: El Consejo Federal de la Energía Eléctrica será reglamentado sobre la base de reconocer y atribuir a los comités zonales una intervención informativa en todo problema de la competencia del Consejo Federal que se refiera a la respectiva zona, la aplicación del Fondo Especial de Desarrollo Eléctrico del Interior y las soluciones energéticas que juzguen de interés para la zona respectiva.
+
+ARTICULO 90.- Deróganse los artículos 17; 20; 22; 23; los incisos a), b), c), d) y f) del 30; los incisos e) al h) inclusive del 37; 38; 39; 40; 41; 42 y 44 de la ley 15.336).
+
+ARTICULO 91.- Facúltase al Poder Ejecutivo a delegar en el órgano que éste determine, las misiones y funciones que esta ley y la ley 15.336 le atribuyen.
+
+ARTICULO 92.- Facúltase al Poder Ejecutivo a elaborar el texto ordenado del marco regulatorio eléctrico que se encuentra conformado por la ley 15.336 y la presente ley.
+
+CAPITULO XX
+
+Privatización
+
+ARTICULO 93.- Declárase sujeta a privatización total la actividad de generación y transporte a cargo de las empresas Servicios Eléctricos del Gran Buenos Aires Sociedad Anónima, Agua y Energía Eléctrica Sociedad del Estado e Hidroeléctrica Norpatagónica Sociedad Anónima, las que se regirán por la ley 23.696.
+
+Las actividades a privatizar serán asumidas por cuenta y riesgo del particular adquirente.
+
+(Párrafos tercero y cuarto vetados por art. 1 del Decreto N°13/92 B.O. 16/1/1992)
+
+ARTICULO 94.- En el caso de la generación hidráulica de Agua y Energía Eléctrica Sociedad del Estado, el Estado nacional deberá acordar previamente con las provincias involucradas los procedimientos para su destino final.
+
+ARTICULO 95.- Sustitúyese el punto IV del anexo I de la ley 23.696, exclusivamente en relación a la empresa Servicios Eléctricos del Gran Buenos Aires Sociedad Anónima, por el siguiente texto:
+
+IV.- Concesión de la distribución y comercialización.
+
+- Privatización.
+
+- Servicios Eléctricos del Gran Buenos Aires Sociedad Anónima.
+
+ARTICULO 96.- A los fines de la aplicación del artículo 19 de la ley 23.696 la tasación previa se basará en el criterio de valuación que resulte del valor actual del flujo neto de fondos descontado, generado por la actividad o activo que se privatiza.
+
+ARTICULO 97.- Quedan derogadas las leyes 17.574 y sus modificatorias 17.803 y 19.955, 20.050, 23.411, 17.866, 19.199, 19.287 y su modificatoria 20.954, 21.937 y 22.938, en todos sus aspectos, incluso los vinculados a las concesiones aprobadas mediante éstas, en cuanto obsten a los objetivos de la privatización o impidan la desmonopolización o desregulación de la actividad actualmente a cargo de Hidroeléctrica Norpatagónica Sociedad Anónima. El Poder Ejecutivo reglamentará los alcances y entrada en vigencia de lo dispuesto en el presente artículo.
+
+CAPITULO XXI
+
+Adhesión.
+
+ARTICULO 98.- Sin perjuicio de la aplicación, según su régimen propio, de la normas de naturaleza federal contenidas en la presente ley, invítase a las provincias a adherir al régimen de la presente ley.
+
+ARTICULO 99.- Esta ley entrará en vigencia el día de su publicación en el Boletín Oficial.
+
+ARTICULO 100.- Comuníquese al Poder Ejecutivo.
+
+ALBERTO R. PIERRI.- EDUARDO MENEM.- Juan Estrada.- Edgardo Piuzzi.

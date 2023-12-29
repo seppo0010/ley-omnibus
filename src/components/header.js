@@ -1,8 +1,6 @@
 import {Link} from "gatsby"
 import PropTypes from "prop-types"
 import React, {useState} from "react"
-import logo from "../images/LOGO_BANDERA_BLANCO.png";
-import Social from "./social";
 
 function Header({siteTitle}) {
     const [isExpanded, toggleExpansion] = useState(false)

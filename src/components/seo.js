@@ -28,7 +28,7 @@ function SEO({description, lang, meta, title}) {
 
     const metaDescription = description || site.siteMetadata.description
     const defaultTitle = site.siteMetadata?.title
-    const image = 'https://resistencia.uy/images/LUC.jpg'
+    const image = undefined
 
     return (
         <Helmet

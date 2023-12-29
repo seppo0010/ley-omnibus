@@ -1,21 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:52:34",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N III - EDUCACI\u00d3N  ",
-        "nombreArticulo": "Art\u00edculo 206 ",
-        "textoArticulo": "    (Derogaciones).- Der\u00f3ganse los art\u00edculos 42, 43, 49, 50, 66, 71, 79, 80, 86, 95 y 109, as\u00ed como todas las disposiciones incluidas en el T\u00edtulo VI \"DISPOSICIONES TRANSITORIAS Y EXCEPCIONALES\" de la Ley N\u00b0 18.437, de 12 de diciembre de 2008. "
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO IV - OPERACIONES DE CR\u00c9DITO P\u00daBLICO",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "206",
     "seccionArticulo": "III",
-    "capituloArticulo": null,
-    "textoArticulo": " (Derogaciones).- Der\u00f3ganse los art\u00edculos 42, 43, 49, 50, 66, 71, 79, 80, 86, 95 y 109, as\u00ed como todas las disposiciones incluidas en el T\u00edtulo VI \"DISPOSICIONES TRANSITORIAS Y EXCEPCIONALES\" de la Ley N\u00b0 18.437, de 12 de diciembre de 2008. ",
-    "textoOriginal": " (Derogaciones).- Der\u00f3ganse los art\u00edculos 42, 43, 49, 50, 66, 71, 79, 80, 86, 95 y 109, as\u00ed como todas las disposiciones incluidas en el T\u00edtulo VI \"DISPOSICIONES TRANSITORIAS Y EXCEPCIONALES\" de la Ley N\u00b0 18.437, de 12 de diciembre de 2008. "
+    "capituloArticulo": "IV",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "F\u00edjase en un CERO POR CIENTO (0%) la al\u00edcuota de derecho de exportaci\u00f3n para todas las mercader\u00edas correspondientes a los siguientes complejos exportadores: oliv\u00edcola, arrocero, cueros bovinos, l\u00e1cteo, frut\u00edcola, hort\u00edcola, porotos, lentejas, arveja, papa, ajo, garbanzos, miel, az\u00facar, yerba mate, t\u00e9, equinos y lana. El\n\nPoder Ejecutivo Nacional identificar\u00e1 las posiciones arancelarias de la Nomenclatura Com\u00fan del Mercosur correspondientes a cada complejo exportador incluidas en el presente art\u00edculo."
 }

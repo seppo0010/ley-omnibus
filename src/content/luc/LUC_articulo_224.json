@@ -1,21 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:52:47",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N IV - ECONOM\u00cdA Y EMPRESAS P\u00daBLICAS  CAP\u00cdTULO IV - LIBERTAD FINANCIERA  ",
-        "nombreArticulo": "Art\u00edculo 224 ",
-        "textoArticulo": "    (Derogaci\u00f3n de art\u00edculos de la Ley N\u00b0 19.210).- Der\u00f3ganse los art\u00edculos 36, 36 BIS, 39, 40, 41, 41 BIS, 43, 44 y 64 de la Ley N\u00b0 19.210, de 29 de abril de 2014, y sus modificativas, as\u00ed como toda otra norma que se oponga a la presente ley.\r\n "
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO VII - CONSOLIDACI\u00d3N DE DEUDA DEL SECTOR P\u00daBLICO NACIONAL",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "224",
-    "seccionArticulo": "IV",
-    "capituloArticulo": "IV",
-    "textoArticulo": " (Derogaci\u00f3n de art\u00edculos de la Ley N\u00b0 19.210).- Der\u00f3ganse los art\u00edculos 36, 36 BIS, 39, 40, 41, 41 BIS, 43, 44 y 64 de la Ley N\u00b0 19.210, de 29 de abril de 2014, y sus modificativas, as\u00ed como toda otra norma que se oponga a la presente ley. ",
-    "textoOriginal": " (Derogaci\u00f3n de art\u00edculos de la Ley N\u00b0 19.210).- Der\u00f3ganse los art\u00edculos 36, 36 BIS, 39, 40, 41, 41 BIS, 43, 44 y 64 de la Ley N\u00b0 19.210, de 29 de abril de 2014, y sus modificativas, as\u00ed como toda otra norma que se oponga a la presente ley. "
+    "seccionArticulo": "III",
+    "capituloArticulo": "VII",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Dentro del plazo de noventa (90) d\u00edas contados a partir de la publicaci\u00f3n de la presente, las personas jur\u00eddicas u organismos comprendidos en el art\u00edculo 221 podr\u00e1n presentarse ante la Oficina Nacional de Presupuesto para manifestar la necesidad de mantener un cr\u00e9dito presupuestario por el equivalente de la deuda nominal a consolidarse de acuerdo con lo dispuesto en la presente. El mencionado planteo deber\u00e1 fundarse en fines p\u00fablicos que lo justifiquen y ser\u00e1 elevado a JEFATURA DE GABINETE DE MINISTROS para su resoluci\u00f3n."
 }

@@ -1,21 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:53:28",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N XI - OTRAS DISPOSICIONES  CAP\u00cdTULO I - DE LA PROTECCI\u00d3N A LA LIBRE CIRCULACI\u00d3N  ",
-        "nombreArticulo": "Art\u00edculo 470 ",
-        "textoArticulo": "    (Actuaci\u00f3n en casos de hechos de apariencia delictiva).- En caso de hechos de apariencia delictiva, las autoridades actuantes detendr\u00e1n a los presuntos infractores e informar\u00e1n de inmediato al Ministerio P\u00fablico. "
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO VI - INTERIOR, AMBIENTE, TURISMO Y DEPORTE\r\n  CAP\u00cdTULO XIII - JUICIO POR JURADOS",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "470",
-    "seccionArticulo": "XI",
-    "capituloArticulo": "I",
-    "textoArticulo": " (Actuaci\u00f3n en casos de hechos de apariencia delictiva).- En caso de hechos de apariencia delictiva, las autoridades actuantes detendr\u00e1n a los presuntos infractores e informar\u00e1n de inmediato al Ministerio P\u00fablico. ",
-    "textoOriginal": " (Actuaci\u00f3n en casos de hechos de apariencia delictiva).- En caso de hechos de apariencia delictiva, las autoridades actuantes detendr\u00e1n a los presuntos infractores e informar\u00e1n de inmediato al Ministerio P\u00fablico. "
+    "seccionArticulo": "VI",
+    "capituloArticulo": "XIII",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Der\u00f3ganse los art\u00edculos 16, 35, 43, 44 bis, 45, y 47, los Cap\u00edtulos III bis y IV bis del T\u00edtulo III de la Ley N\u00b0 26.215 de Financiamiento de los Partidos Pol\u00edticos."
 }

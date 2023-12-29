@@ -1,24 +1,25 @@
 {
-    "fechaDescarga": "05/01/2021, 10:52:27",
+    "fechaDescarga": "29/12/2023, 08:50:32",
     "json_original": {
-        "tipoNorma": "Ley",
-        "nroNorma": "19889",
-        "anioNorma": 2020,
-        "nombreNorma": "APROBACION DE LA LEY DE URGENTE CONSIDERACION. LUC. LEY DE URGENCIA",
-        "leyenda": " Documento Actualizado ",
-        "urlTodaLaNorma": "/bases/leyes/19889-2020",
-        "fechaPromulgacion": "09/07/2020",
-        "fechaPublicacion": "14/07/2020",
-        "tituloArticulo": "  SECCI\u00d3N III - EDUCACI\u00d3N  ",
-        "nombreArticulo": "Art\u00edculo 184 ",
-        "textoArticulo": "    (Creaci\u00f3n).- \r\n\r\n   (*) ",
-        "notasArticulo": "<b><font color=\"#0000FF\">Este art\u00edculo dio nueva redacci\u00f3n a:</font></b> Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo \r\n<a href=\"/bases/leyes/18437-2008/106\" >106</a>.\r\n"
+        "tipoNorma": "",
+        "nroNorma": "",
+        "anioNorma": 0,
+        "nombreNorma": "",
+        "leyenda": "  ",
+        "fechaPromulgacion": "",
+        "fechaPublicacion": "",
+        "vistos": "  ",
+        "tituloArticulo": "  T\u00cdTULO III - REORGANIZACI\u00d3N ECON\u00d3MICA\r\n  CAP\u00cdTULO IV - OPERACIONES DE CR\u00c9DITO P\u00daBLICO",
+        "nombreArticulo": "",
+        "textoArticulo": "",
+        "notasArticulo": "",
+        "firmantes": ""
     },
     "numeroArticulo": "184",
     "seccionArticulo": "III",
-    "capituloArticulo": null,
-    "textoArticulo": " (Creaci\u00f3n).- (*) ",
-    "notasArticulo": "Este art\u00edculo dio nueva redacci\u00f3n a: Ley N\u00ba 18.437 de 12/12/2008 art\u00edculo 106. ",
-    "textoOriginal": " (Creaci\u00f3n).- Cr\u00e9ase la Comisi\u00f3n Coordinadora del Sistema Nacional de la Educaci\u00f3n P\u00fablica, que funcionar\u00e1 en el \u00e1mbito del Ministerio de Educaci\u00f3n y Cultura. ",
-    "textoModificado": " (Creaci\u00f3n).- Cr\u00e9ase la Comisi\u00f3n Coordinadora de la Educaci\u00f3n, que funcionar\u00e1 en el \u00e1mbito del Ministerio de Educaci\u00f3n y Cultura.(*) "
+    "capituloArticulo": "IV",
+    "textoArticulo": "",
+    "notasArticulo": "",
+    "textoOriginal": "",
+    "textoModificado": "Estabilidad fiscal - impuestos sobre el patrimonio. Los contribuyentes que opten por adherirse al REIBP gozar\u00e1n de estabilidad fiscal hasta el a\u00f1o 2038 respecto del Impuesto sobre los Bienes Personales y de todo otro tributo nacional (cualquiera fuera su denominaci\u00f3n) que se cree y que tenga como objeto gravar todos o cualquier activo del contribuyente, no pudiendo ver incrementada su carga fiscal por impuestos patrimoniales (cualquiera sea su denominaci\u00f3n) m\u00e1s all\u00e1 de los l\u00edmites establecidos en el p\u00e1rrafo siguiente.\n\nPara establecer la carga fiscal m\u00e1xima que dichos sujetos podr\u00e1n soportar por cualquier tipo de tributos que recaigan directamente sobre su patrimonio o sobre cualquier activo, se deber\u00e1 tomar la carga fiscal anual aplicable a su patrimonio bajo el presente REIBP, que posee las siguientes reglas:\n\n1. Base imponible: el valor del patrimonio del contribuyente sobre el cual pudiera recaer el impuesto patrimonial deber\u00e1 ser calculado seg\u00fan las reglas de la Ley N\u00b0 23.966 del Impuesto sobre los Bienes Personales, texto ordenado en 1997 y sus modificaciones, vigentes al momento de entrada en vigor de este REIBP.\n\n2. Al\u00edcuota: la al\u00edcuota m\u00e1xima ser\u00e1 la de cero coma setenta y cinco por ciento (0,75%) para los per\u00edodos fiscales 2023 a 2027 en la medida que opten por adherir al REIBP y a partir del 1 de enero de 2028 hasta el 31 de diciembre de 2038 la al\u00edcuota m\u00e1xima ser\u00e1 del cero como cinco por ciento (0,5%) para aquellos contribuyentes que optan por adherir al REIBP.\n\n3. M\u00faltiples impuestos al patrimonio: en caso de que exista m\u00e1s de un impuesto nacional que aplique en forma global sobre el patrimonio del contribuyente, deber\u00e1 tomarse a todos ellos en conjunto para determinar si se excede el l\u00edmite previsto por las reglas de estabilidad fiscal de este r\u00e9gimen."
 }

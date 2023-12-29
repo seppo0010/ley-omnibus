@@ -1,0 +1,510 @@
+
+
+LEY 11.723 - REGIMEN LEGAL DE LA PROPIEDAD INTELECTUAL
+
+Ver Antecedentes Normativos
+
+El Senado y Cámara de Diputados de la Nación Argentina, Reunidos en Congreso, etc., sancionan con fuerza de
+
+Ley:
+
+Artículo 1°. — A los efectos de la presente Ley, las obras científicas, literarias y artísticas comprenden los escritos de toda naturaleza y extensión, entre ellos los programas de computación fuente y objeto; las compilaciones de datos o de otros materiales; las obras dramáticas, composiciones musicales, dramático-musicales; las cinematográficas, coreográficas y pantomímicas; las obras de dibujo, pintura, escultura, arquitectura; modelos y obras de arte o ciencia aplicadas al comercio o a la industria; los impresos, planos y mapas; los plásticos, fotografías, grabados y fonogramas, en fin, toda producción científica, literaria, artística o didáctica sea cual fuere el procedimiento de reproducción.
+
+La protección del derecho de autor abarcará la expresión de ideas, procedimientos, métodos de operación y conceptos matemáticos pero no esas ideas, procedimientos, métodos y conceptos en sí.
+
+(Artículo sustituido por art. 1° de la Ley N° 25.036 B.O. 11/11/1998)
+
+Art. 2°. — El derecho de propiedad de una obra científica, literaria o artística, comprende para su autor la facultad de disponer de ella, de publicarla, de ejecutarla, de representarla, y exponerla en público, de enajenarla, de traducirla, de adaptarla o de autorizar su traducción y de reproducirla en cualquier forma.
+
+(Nota Infoleg: Por arts. 1° y 2° del Decreto N° 8.478/1965 B.O. 8/10/1965 se obliga a exhibir la autorización escrita de los autores en la ejecución de música nacional o extranjera en público.)
+
+Art. 3°. — Al editor de una obra anónima o seudónima corresponderán con relación a ella los derechos y las obligaciones del autor, quien podrá recabarlos para sí justificando su personalidad. Los autores que empleen seudónimos podrán registrarlos adquiriendo la propiedad de los mismos.
+
+Art. 4°. — Son titulares del derecho de propiedad intelectual:
+
+a) El autor de la obra;
+
+b) Sus herederos o derechohabientes;
+
+c) Los que con permiso del autor la traducen, refunden, adaptan, modifican o transportan sobre la nueva obra intelectual resultante.
+
+d) Las personas físicas o jurídicas cuyos dependientes contratados para elaborar un programa de computación hubiesen producido un programa de computación en el desempeño de sus funciones laborales, salvo estipulación en contrario. (Inciso d) incorporado por art. 2° de la Ley N° 25.036 B.O. 11/11/1998)
+
+Art. 5°. — La propiedad intelectual sobre sus obras corresponde a los autores durante su vida y a sus herederos o derechohabientes hasta setenta años contados a partir del 1 de Enero del año siguiente al de la muerte del autor.
+
+En los casos de obras en colaboración, este término comenzará a contarse desde el 1 de Enero del año siguiente al de la muerte del último colaborador. Para las obras póstumas, el término de setenta años empezará a correr a partir del 1 de Enero del año siguiente al de la muerte del autor.
+
+En caso de que un autor falleciere sin dejar herederos, y se declarase vacante su herencia, los derechos que a aquél correspondiesen sobre sus obras pasarán al Estado por todo el término de Ley, sin perjuicio de los derechos de terceros.
+
+(Artículo sustituido por art. 1° de la Ley N° 24.870 B.O. 16/9/1997)
+
+Art. 5º bis. — La propiedad intelectual sobre sus interpretaciones o ejecuciones fijadas en fonogramas corresponde a los artistas intérpretes por el plazo de SETENTA (70) años contados a partir del 1º de enero del año siguiente al de su publicación. Asimismo, la propiedad intelectual sobre los fonogramas corresponde a los productores de los fonogramas o sus derechohabientes por el plazo de SETENTA (70) años contados a partir del 1º de enero del año siguiente al de su publicación. Los fonogramas e interpretaciones que se encontraren en el dominio público sin que hubieran transcurrido los plazos de protección previstos en esta ley, volverán automáticamente al dominio privado por el plazo que reste, y los terceros deberán cesar cualquier forma de utilización que hubieran realizado durante el lapso en que estuvieron en el dominio público.
+
+(Artículo incorporado por art. 1° de la Ley N° 26.570 B.O. 14/12/2009)
+
+Art. 6°. — Los herederos o derechohabientes no podrán oponerse a que terceros reediten las obras del causante cuando dejen transcurrir más de diez años sin disponer su publicación.
+
+Tampoco podrán oponerse los herederos o derechohabientes a que terceros traduzcan las obras del causante después de diez años de su fallecimiento.
+
+En estos casos, si entre el tercero editor y los herederos o derechohabientes no hubiera acuerdo sobre las condiciones de impresión o la retribución pecuniaria, ambas serán fijadas por árbitros.
+
+Art. 7°. — Se consideran obras póstumas, además de las no publicadas en vida del autor, las que lo hubieran sido durante ésta, si el mismo autor a su fallecimiento las deja refundidas, adicionadas, anotadas o corregidas de una manera tal que merezcan reputarse como obras nuevas.
+
+Art. 8°. — La propiedad intelectual de las obras anónimas pertenecientes a instituciones, corporaciones o personas jurídicas, durará cincuenta años contados desde su publicación.
+
+(Artículo sustituido por art. 1° del Decreto Ley N° 12.063/1957 B.O. 11/10/57.)
+
+Art. 9°. — Nadie tiene derecho a publicar, sin permiso de los autores o de sus derechohabientes, una producción científica, literaria, artística o musical que se haya anotado o copiado durante su lectura, ejecución o exposición públicas o privadas.
+
+Quien haya recibido de los autores o de sus derecho-habientes de un programa de computación una licencia para usarlo, podrá reproducir una única copia de salvaguardia de los ejemplares originales del mismo. (Párrafo incorporado por art. 3° de la Ley N° 25.036 B.O. 11/11/1998).
+
+Dicha copia deberá estar debidamente identificada, con indicación del licenciado que realizó la copia y la fecha de la misma. La copia de salvaguardia no podrá ser utilizada para otra finalidad que la de reemplazar el ejemplar original del programa de computación licenciado si ese original se pierde o deviene inútil para su utilización. (Párrafo incorporado por art. 3° de la Ley N° 25.036 B.O. 11/11/1998).
+
+Art. 10. — Cualquiera puede publicar con fines didácticos o científicos, comentarios, críticas o notas referentes a las obras intelectuales, incluyendo hasta mil palabras de obras literarias o científicas u ocho compases en las musicales y en todos los casos sólo las partes del texto indispensables a ese efecto.
+
+Quedan comprendidas en esta disposición las obras docentes, de enseñanza, colecciones, antologías y otras semejantes.
+
+Cuando las inclusiones de obras ajenas sean la parte principal de la nueva obra, podrán los tribunales fijar equitativamente en juicio sumario la cantidad proporcional que les corresponde a los titulares de los derechos de las obras incluidas.
+
+Art. 11. — Cuando las partes o los tomos de una misma obra hayan sido publicados por separado en años distintos, los plazos establecidos por la presente Ley corren para cada tomo o cada parte, desde el año de la publicación. Tratándose de obras publicadas parcial o periódicamente por entregas o folletines, los plazos establecidos en la presente Ley corren a partir de la fecha de la última entrega de la obra.
+
+Art. 12. — La propiedad intelectual se regirá por las disposiciones del derecho común, bajo las condiciones y limitaciones establecidas en la presente Ley.
+
+DE LAS OBRAS EXTRANJERAS
+
+Art. 13. — Todas las disposiciones de esta Ley, salvo las del artículo 57, son igualmente aplicables a las obras científicas, artísticas y literarias, publicadas en países extranjeros, sea cual fuere la nacionalidad de sus autores, siempre que pertenezcan a naciones que reconozcan el derecho de propiedad intelectual.
+
+Art. 14. — Para asegurar la protección de la Ley argentina, el autor de una obra extranjera sólo necesita acreditar el cumplimiento de las formalidades establecidas para su protección por las Leyes del país en que se haya hecho la publicación, salvo lo dispuesto en el artículo 23, sobre contratos de traducción.
+
+Art. 15. — La protección que la Ley argentina acuerda a los autores extranjeros, no se extenderá a un período mayor que el reconocido por las Leyes del país donde se hubiere publicado la obra. Si tales Leyes acuerdan una protección mayor, regirán los términos de la presente Ley.
+
+DE LA COLABORACION
+
+Art. 16. — Salvo convenios especiales los colaboradores de una obra disfrutan derechos iguales; los colaboradores anónimos de una compilación colectiva, no conservan derecho de propiedad sobre su contribución de encargo y tendrán por representante legal al editor.
+
+Art. 17. — No se considera colaboración la mera pluralidad de autores, sino en el caso en que la propiedad no pueda dividirse sin alterar la naturaleza de la obra. En las composiciones musicales con palabras, la música y la letra se consideran como dos obras distintas.
+
+Art. 18. — El autor de un libreto o composición cualquiera puesta en música, será dueño exclusivo de vender o imprimir su obra literaria separadamente de la música, autorizando o prohibiendo la ejecución o representación pública de su libreto y el compositor podrá hacerlo igualmente con su obra musical, con independencia del autor del libreto.
+
+Art. 19. — En el caso de que dos o varios autores hayan colaborado en una obra dramática o lírica, bastará para su representación pública la autorización concedida por uno de ellos, sin perjuicio de las acciones personales a que hubiere lugar.
+
+Art. 20. — Salvo convenios especiales, los colaboradores en una obra cinematográfica tiene iguales derechos, considerándose tales al autor del argumento, al productor y al director de la película.
+
+Cuando se trate de una obra cinematográfica musical, en que haya colaborado un compositor, éste tiene iguales derechos que el autor del argumento, el productor y el director de la película.
+
+(Artículo sustituido por art. 1° de la Ley N° 25.847 B.O. 6/1/2004)
+
+Art. 21. — Salvo convenios especiales:
+
+El productor de la película cinematográfica, tiene facultad para proyectarla, aún sin el consentimiento del autor del argumento o del compositor, sin perjuicio de los derechos que surgen de la colaboración.
+
+El autor del argumento tiene la facultad exclusiva de publicarlo separadamente y sacar de él una obra literaria o artística de otra especie.
+
+El compositor tiene la facultad exclusiva de publicar y ejecutar separadamente la música.
+
+Art. 22. — El productor de la película cinematográfica, al exhibirla en público, debe mencionar su propio nombre, el del autor de la acción o argumento o aquel de los autores de las obras originales de las cuales se haya tomado el argumento de la obra cinematográfica, el del compositor, el del director artístico o adaptador y el de los intérpretes principales.
+
+Art. 23. — El titular de un derecho de traducción tiene sobre ella el derecho de propiedad en las condiciones convenidas con el autor, siempre que los contratos de traducción se inscriban en el Registro Nacional de Propiedad Intelectual dentro del año de la publicación de la obra traducida.
+
+La falta de inscripción del contrato de traducción trae como consecuencia la suspensión del derecho del autor o sus derechohabientes hasta el momento en que la efectúe, recuperándose dichos derechos en el acto mismo de la inscripción, por el término y condiciones que correspondan, sin perjuicio de la validez de las traducciones hechas durante el tiempo en que el contrato no estuvo inscripto.
+
+Art. 24. — El traductor de una obra que no pertenece al dominio privado sólo tiene propiedad sobre su versión y no podrá oponerse a que otros la traduzcan de nuevo.
+
+Art. 25. — El que adapte, transporte, modifique o parodie una obra con la autorización del autor, tiene sobre su adaptación, transporte, modificación o parodia, el derecho de coautor, salvo convenio en contrario.
+
+Art. 26. — El que adapte, transporte, modifique o parodie una obra que no pertenece al dominio privado, será dueño exclusivo de su adaptación, transporte, modificación o parodia, y no podrá oponerse a que otros adapten, transporten, modifiquen o parodien la misma obra.
+
+DISPOSICIONES ESPECIALES
+
+Art. 27. — Los discursos políticos o literarios y en general las conferencias sobre temas intelectuales, no podrán ser publicados si el autor no lo hubiere expresamente autorizado. Los discursos parlamentarios no podrán ser publicados con fines de lucro, sin la autorización del autor.
+
+Exceptúase la información periodística.
+
+Art. 28. — Los artículos no firmados, colaboraciones anónimas, reportajes, dibujos, grabados o informaciones en general que tengan un carácter original y propio, publicados por un diario, revista u otras publicaciones periódicas por haber sido adquiridos u obtenidos por éste o por una agencia de informaciones con carácter de exclusividad, serán considerados como de propiedad del diario, revista, u otras publicaciones periódicas, o de la agencia.
+
+Las noticias de interés general podrán ser utilizadas, transmitidas o retransmitidas; pero cuando se publiquen en su versión original será necesario expresar la fuente de ellas.
+
+Art. 29. — Los autores de colaboraciones firmadas en diarios, revistas y otras publicaciones periódicas son propietarios de su colaboración. Si las colaboraciones no estuvieren firmadas, sus autores sólo tienen derecho a publicarlas, en colección, salvo pacto en contrario con el propietario del diario, revista o periódico.
+
+Art. 30. — Los propietarios de publicaciones periódicas deberán inscribirlas en el Registro Nacional de la Propiedad Intelectual.
+
+La inscripción del periódico protege a las obras intelectuales publicadas en él y sus autores podrán solicitar al registro una certificación que acredite aquella circunstancia.
+
+Para inscribir una publicación periódica deberá presentarse al Registro Nacional de la Propiedad Intelectual un ejemplar de la última edición acompañado del correspondiente formulario.
+
+La inscripción deberá renovarse anualmente y para mantener su vigencia se declarará mensualmente ante el Registro, en los formularios que correspondan, la numeración y fecha de los ejemplares publicados.
+
+Los propietarios de las publicaciones periódicas inscriptas deberán coleccionar uno de los ejemplares publicados, sellados con la leyenda: Ejemplar Ley 11.723, y serán responsables de la autenticidad de los mismos.
+
+El incumplimiento de esta obligación, sin perjuicio de las responsabilidades que puedan resultar para con terceros, será penado con multa de hasta $ 5.000 que aplicará el Director del Registro Nacional de la Propiedad Intelectual. El monto de la multa podrá apelarse ante el Ministro de Educación y Justicia.
+
+El registro podrá requerir en cualquier momento la presentación de ejemplares de esta colección e inspeccionar la editorial para comprobar el cumplimiento de la obligación establecida en el párrafo anterior.
+
+Si la publicación dejase de aparecer definitivamente deberá comunicarse al Registro y remitirse la colección sellada a la Biblioteca Nacional, dentro de los seis meses subsiguientes al vencimiento de la última inscripción.
+
+El incumplimiento de esta última obligación será penada con una multa de pesos 5.000.
+
+(Artículo sustituido por art. 1° del Decreto Ley 12.063/1957 B.O. 11/10/57.)
+
+Art. 31. — El retrato fotográfico de una persona no puede ser puesto en el comercio sin el consentimiento expreso de la persona misma y muerta ésta, de su cónyuge e hijos o descendientes directos de éstos, o en su defecto, del padre o de la madre. Faltando el cónyuge, los hijos, el padre o la madre, o los descendientes directos de los hijos, la publicación es libre.
+
+La persona que haya dado su consentimiento puede revocarlo resarciendo daños y perjuicios.
+
+Es libre la publicación del retrato cuando se relacione con fines científicos, didácticos y en general culturales, o con hechos o acontecimientos de interés público o que se hubieran desarrollado en público.
+
+Art. 32. — El derecho de publicar las cartas pertenece al autor. Después de la muerte del autor es necesario el consentimiento de las personas mencionadas en el artículo que antecede y en el orden ahí indicado.
+
+Art. 33. — Cuando las personas cuyo consentimiento sea necesario para la publicación del retrato fotográfico o de las cartas, sean varias, y haya desacuerdo entre ellas, resolverá la autoridad judicial.
+
+Art. 34. — Para las obras fotográficas la duración del derecho de propiedad es de VEINTE (20) años a partir de la fecha de la primera publicación.
+
+Para las obras cinematográficas el derecho de propiedad es de cincuenta años a partir del fallecimiento del último de los colaboradores enumerados en el artículo 20 de la presente.
+
+Debe inscribirse sobre la obra fotográfica o cinematográfica la fecha, el lugar de publicación, el nombre o la marca del autor o editor. El incumplimiento de este requisito no dará lugar a la acción penal prevista en esta ley para el caso de reproducción de dichas obras.
+
+Las cesiones totales o parciales de derechos temporales o espaciales de explotación de películas cinematográficas sólo serán oponibles a terceros a partir del momento de su inscripción en el Registro Nacional de Propiedad Intelectual.
+
+(Artículo sustituido por art. 1° de la Ley N° 25.006 B.O. 13/8/1998).
+
+Art. 34 bis: Lo dispuesto en el artículo 34 será de aplicación a las obras cinematográficas que se hayan incorporado al dominio público sin que haya transcurrido el plazo establecido en el mismo y sin perjuicio de la utilización lícita realizada de las copias durante el período en que aquéllas estuvieron incorporadas al dominio público.
+
+(Artículo incorporado por art. 2° de la Ley N° Ley 25.006 B.O. 13/8/1998.)
+
+Art. 35. — El consentimiento a que se refiere el artículo 31 para la publicación del retrato no es necesario después de transcurridos 20 años de la muerte de la persona retratada.
+
+Para la publicación de una carta, el consentimiento no es necesario después de transcurridos 20 años de la muerte del autor de la carta. Esto aún en el caso de que la carta sea objeto de protección como obra, en virtud de la presente Ley.
+
+Art. 36. — Los autores de obras literarias, dramáticas, dramático-musicales y musicales gozan del derecho exclusivo de autorizar:
+
+a) La recitación, la representación y la ejecución pública de sus obras.
+
+b) La difusión pública por cualquier medio de la recitación, la representación y la ejecución de sus obras.
+
+Sin embargo, será lícita y estará exenta del pago de derechos de autor y de los intérpretes que establece el artículo 56, la representación, la ejecución y la recitación de obras literarias o artísticas ya publicadas, en actos públicos organizados por establecimientos de enseñanza, vinculados con el cumplimiento de sus fines educativos, planes y programas de estudio, siempre que el espectáculo no sea difundido fuera del lugar donde se realice y la concurrencia y la actuación de los intérpretes sea gratuita.
+
+También gozarán de la exención del pago del derecho de autor a que se refiere el párrafo anterior, la ejecución o interpretación de piezas musicales en los conciertos, audiciones y actuaciones públicas a cargo de las orquestas, bandas, fanfarrias, coros y demás organismos musicales pertenecientes a instituciones del Estado nacional, de las provincias o de las municipalidades, siempre que la concurrencia de público a los mismos sea gratuita.
+
+(Artículo sustituido por art. 1º de la Ley Nº 27.588 B.O. 16/12/2020)
+
+(Nota Infoleg: Por art. 1°, último párrafo de la Ley N° 20.115 B.O. 31/1/1973 se establece que ARGENTORES tendrá a su cargo las autorizaciones determinadas en el presente artículo salvo prohibición de uso expresa formulada por el autor y la protección y defensa de los derechos morales correspondientes a los autores de dichas obras.).
+
+(Nota Infoleg: Por arts. 1° y 2° del Decreto N° 8.478/1965 B.O. 8/10/1965 se obliga a exhibir la autorización escrita de los autores en la ejecución de música nacional o extranjera en público.)
+
+Art. 36 bis. — Se exime del pago de derechos de autor la reproducción, distribución y puesta a disposición del público de obras en formatos accesibles para personas ciegas y personas con otras discapacidades sensoriales que impidan el acceso convencional a la obra, siempre que tales actos sean hechos por entidades autorizadas. La excepción aquí prevista también se extiende al derecho de los editores resultante de la aplicación de la ley 25.446.
+
+Asimismo, se exime del pago de derechos de autor la reproducción de obras en formatos accesibles para ciegos y personas con otras discapacidades sensoriales cuando dicha reproducción sea realizada por un beneficiario o alguien que actúe en su nombre, incluida la principal persona que lo cuide o se ocupe de su atención, para el uso personal del beneficiario y siempre que el mismo tenga acceso legal a esa obra o a un ejemplar de la misma.
+
+El ejemplar en formato accesible que haya sido reproducido conforme lo previsto en esta ley, podrá ser distribuido o puesto a disposición por una entidad autorizada a un beneficiario o a una entidad autorizada en otro país, siempre que este intercambio esté previsto en los Tratados Internacionales a los efectos de facilitar el acceso a las obras publicadas a las personas ciegas o con otras dificultades para acceder al texto impreso o con otras discapacidades sensoriales que impidan el acceso convencional a la obra.
+
+Se exime de la autorización de los titulares de derechos y pago de remuneración, la importación de un ejemplar en formato accesible destinado a los beneficiarios cuando sea realizada por las entidades autorizadas, un beneficiario o quien actúe en su nombre, con los alcances que determine la reglamentación.
+
+Las obras reproducidas, distribuidas y puestas a disposición del público en formatos accesibles deberán consignar: los datos de la entidad autorizada, la fecha de la publicación original y el nombre de la persona física o jurídica a la cual pertenezcan los derechos de autor. Asimismo, advertirán que el uso indebido de estas reproducciones será reprimido con las penas previstas en la normativa aplicable.
+
+(Artículo incorporado por art. 2º de la Ley Nº 27.588 B.O. 16/12/2020)
+
+Art. 36 ter. — Cuando las obras se hubieren editado originalmente en un formato accesible para personas con discapacidades sensoriales y se hallen comercialmente disponibles en ese formato, no se aplicarán las excepciones previstas en el artículo 36 bis.
+
+La protección jurídica adecuada y los recursos jurídicos efectivos contra la elusión de medidas tecnológicas de protección de las obras, no impedirán que los beneficiarios gocen de las limitaciones y excepciones contempladas en el artículo 36 bis.
+
+(Artículo incorporado por art. 3º de la Ley Nº 27.588 B.O. 16/12/2020)
+
+Art. 36 quáter. — El Ministerio de Justicia y Derechos Humanos de la Nación, a través de la Dirección Nacional del Derecho de Autor, o el organismo que en el futuro la reemplace, tomará conocimiento de las entidades autorizadas, conforme lo determine la reglamentación, administrará su registro y las asistirá en la cooperación encaminada a facilitar el intercambio tanto en el territorio nacional como transfronterizo de ejemplares en formato accesible.
+
+Las entidades autorizadas deberán informar a la Biblioteca Nacional el catálogo de obras reproducidas en formato accesible en favor de los beneficiarios, a fin de contar con un repertorio nacional de dichos ejemplares y facilitar su intercambio nacional e internacional. Dicha biblioteca será el organismo responsable del referido repertorio nacional.
+
+(Artículo incorporado por art. 4º de la Ley Nº 27.588 B.O. 16/12/2020)
+
+Art. 36 quinquies. — A los fines de los artículos 36, 36 bis, 36 ter y 36 quáter se considera que:
+
+• Discapacidades sensoriales significa: discapacidad visual severa, ambliopía, dislexia o todo otro impedimento físico o neurológico que afecte la visión, manipulación o comprensión de textos impresos en forma convencional, así como discapacidad auditiva severa que no pueda corregirse para que permita un grado de audición sustancialmente equivalente al de una persona sin discapacidad auditiva, o discapacidad de otra clase que impida a la persona el acceso convencional a la obra.
+
+• Entidad autorizada significa: un organismo estatal o asociación sin fines de lucro con personería jurídica y reconocida por el Estado nacional, que asista o proporcione a las personas ciegas o personas con otras discapacidades sensoriales, educación, formación pedagógica, lectura adaptada o acceso a la información como una de sus actividades principales u obligaciones institucionales.
+
+• Beneficiarios significa: aquellas personas que presenten una discapacidad sensorial.
+
+• Formatos accesibles significa: Braille, textos digitales, grabaciones de audio, fijaciones en lenguaje de señas, y toda manera o forma alternativa que dé a los beneficiarios acceso a la obra, siendo dicho acceso tan viable y cómodo como el de las personas sin discapacidad visual o sin otras discapacidades sensoriales, siempre que dichos ejemplares en formato accesible estén destinados exclusivamente a ellas y respeten la integridad de la obra original, tomando en debida consideración los cambios necesarios para hacer que la obra sea accesible en el formato alternativo y las necesidades de accesibilidad de los beneficiarios.
+
+• Soporte físico significa: todo elemento tangible que almacene voz o imagen en registro magnetofónico o digital, o textos digitales; o cualquier tecnología a desarrollarse.
+
+(Artículo incorporado por art. 5º de la Ley Nº 27.588 B.O. 16/12/2020)
+
+DE LA EDICION
+
+Art. 37. — Habrá contrato de edición cuando el titular del derecho de propiedad sobre una obra intelectual, se obliga a entregarla a un editor y éste a reproducirla, difundirla y venderla.
+
+Este contrato se aplica cualquiera sea la forma o sistema de reproducción o publicación.
+
+Art. 38. — El titular conserva su derecho de propiedad intelectual, salvo que lo renunciare por el contrato de edición.
+
+Puede traducir, transformar, refundir, etcétera, su obra y defenderla contra los defraudadores de su propiedad, aun contra el mismo editor.
+
+Art. 39. — El editor sólo tiene los derechos vinculados a la impresión, difusión y venta, sin poder alterar el texto y sólo podrá efectuar las correcciones de imprenta, si el autor se negare o no pudiere hacerlo.
+
+Art. 40. — En el contrato deberá constar el número de ediciones y el de ejemplares de cada una de ellas, como también la retribución pecuniaria del autor o sus derechohabientes; considerándose siempre oneroso el contrato, salvo prueba en contrario. Si las anteriores condiciones no constaran se estará a los usos y costumbres del lugar del contrato.
+
+Art. 41. — Si la obra pereciera en poder del editor antes de ser editada, éste deberá al autor o a sus derechohabientes como indemnización la regalía o participación que les hubiera correspondido en caso de edición. Si la obra pereciera en poder del autor o sus derechohabientes, éstos deberán la suma que hubieran percibido a cuenta de regalía y la indemnización de los daños y perjuicios causados.
+
+Art. 42. — No habiendo plazo fijado para la entrega de la obra por el autor o sus derechohabientes o para su publicación por el editor, el tribunal lo fijará equitativamente en juicio sumario y bajo apercibimiento de la indemnización correspondiente.
+
+Art. 43. — Si el contrato de edición tuviere plazo y al expirar éste el editor conservase ejemplares de la obra no vendidos, el titular podrá comprarlos a precios de costo, más un 10 % de bonificación. Si no hace el titular uso de este derecho, el editor podrá continuar la venta de dichos ejemplares en las condiciones del contrato fenecido.
+
+Art. 44. — El contrato terminará cualquiera sea el plazo estipulado si las ediciones convenidas se agotaran.
+
+DE LA REPRESENTACION
+
+Art. 45. — Hay contrato de representación cuando el autor o sus derechohabientes entregan a un tercero o empresario y éste acepta, una obra teatral para su representación pública.
+
+Art. 46. — Tratándose de obras inéditas que el tercero o empresario debe hacer representar por primera vez, deberá dar recibo de ella al autor o sus derechohabientes y les manifestará dentro de los treinta días de su presentación si es o no aceptada.
+
+Toda obra aceptada debe ser representada dentro del año correspondiente a su presentación. No siéndolo, el autor tiene derecho a exigir como indemnización una suma igual a la regalía de autor correspondiente a veinte representaciones de una obra análoga.
+
+Art. 47. — La aceptación de una obra no da derecho al aceptante a su reproducción o representación por otra empresa, o en otra forma que la estipulada, no pudiendo hacer copias fuera de las indispensables, ni venderlas, ni tocarlas sin permiso del autor.
+
+Art. 48. — El empresario es responsable, de la destrucción total o parcial del original de la obra y si por su negligencia ésta se perdiere, reprodujere o representare, sin autorización del autor o sus derechohabientes, deberá indemnizar los daños y perjuicios causados.
+
+Art. 49. — El autor de una obra inédita aceptada por un tercero, no puede, mientras éste no la haya representado, hacerla representar por otro, salvo convención en contrario.
+
+Art. 50. — A los efectos de esta Ley se consideran como representación o ejecución pública, la transmisión radiotelefónica, exhibición cinematográfica, televisión o cualquier otro procedimiento de reproducción mecánica de toda obra literaria o artística.
+
+DE LA VENTA
+
+Art. 51. — El autor o sus derechohabientes pueden enajenar o ceder total o parcialmente su obra. Esta enajenación es válida sólo durante el término establecido por la Ley y confiere a su adquirente el derecho a su aprovechamiento económico sin poder alterar su título, forma y contenido.
+
+Art. 52. — Aunque el autor enajenare la propiedad de su obra, conserva sobre ella el derecho a exigir la fidelidad de su texto y título, en las impresiones, copias o reproducciones, como asimismo la mención de su nombre o seudónimo como autor.
+
+Art. 53. — La enajenación o cesión de una obra literaria, científica o musical, sea total o parcial, debe inscribirse en el Registro Nacional de Propiedad Intelectual, sin cuyo requisito no tendrá validez.
+
+Art. 54. — La enajenación o cesión de una obra pictórica, escultórica, fotográfica o de artes análogas, salvo pacto en contrario, no lleva implícito el derecho de reproducción que permanece reservado al autor o sus derechohabientes.
+
+Art. 55. — La enajenación de planos, croquis y trabajos semejantes, no da derecho al adquirente sino para la ejecución de la obra tenida en vista, no pudiendo enajenarlos, reproducirlos o servirse de ellos para otras obras.
+
+Estos derechos quedan reservados a su autor, salvo pacto en contrario.
+
+Art. 55 bis — La explotación de la propiedad intelectual sobre los programas de computación incluirá entre otras formas los contratos de licencia para su uso o reproducción.
+
+(Artículo incorporado por art. 4° de la Ley N° 25.036 B.O. 11/11/1998).
+
+DE LOS INTERPRETES
+
+Art. 56. — El intérprete de una obra literaria o musical, tiene el derecho de exigir una retribución por su interpretación difundida o retransmitida mediante la radiotelefonía, la televisión, o bien grabada o impresa sobre disco, película, cinta, hilo o cualquier otra substancia o cuerpo apto para la reproducción sonora o visual. No llegándose a un acuerdo, el monto de la retribución quedará establecido en juicio sumario por la autoridad judicial competente.
+
+El intérprete de una obra literaria o musical está facultado para oponerse a la divulgación de su interpretación, cuando la reproducción de la misma sea hecha en forma tal que pueda producir grave e injusto perjuicio a sus intereses artísticos.
+
+Si la ejecución ha sido hecha por un coro o una orquesta, este derecho de oposición corresponde al director del coro o de la orquesta.
+
+Sin perjuicio del derecho de propiedad perteneciente al autor, una obra ejecutada o representada en un teatro o en una sala pública, puede ser difundida o retransmitida mediante la radiotelefonía o la televisión, con el solo consentimiento del empresario organizador del espectáculo.
+
+DEL REGISTRO DE OBRAS
+
+Art. 57. — En el Registro Nacional de Propiedad Intelectual deberá depositar el editor de las obras comprendidas en el artículo 1°, tres ejemplares completos de toda obra publicada, dentro de los tres meses siguientes a su aparición. Si la edición fuera de lujo o no excediera de cien ejemplares, bastará con depositar un ejemplar.
+
+El mismo término y condiciones regirán para las obras impresas en país extranjero, que tuvieren editor en la República y se contará desde el primer día de ponerse en venta en territorio argentino.
+
+Para las pinturas, arquitecturas, esculturas, etcétera, consistirá el depósito en un croquis o fotografía del original, con las indicaciones suplementarias que permitan identificarlas.
+
+Para las películas cinematográficas, el depósito consistirá en una relación del argumento, diálogos, fotografías y escenarios de sus principales escenas. Para los programas de computación, consistirá el depósito de los elementos y documentos que determine la reglamentación. (Ultima parte incorporada por art. 5° de la Ley N° 25.036 B.O. 11/11/1998).
+
+Art. 58. — El que se presente a inscribir una obra con los ejemplares o copias respectivas, será munido de un recibo provisorio, con los datos, fecha y circunstancias que sirven para identificar la obra, haciendo constar su inscripción.
+
+Art. 59. — El Registro Nacional de la Propiedad Intelectual hará publicar diariamente en el Boletín Oficial, la nómina de las obras presentadas a inscripción, además de las actuaciones que la Dirección estime necesarias, con indicación de su título, autor, editor, clase a la que pertenece y demás datos que las individualicen. Pasado un mes desde la publicación, sin haberse deducido oposición, el Registro las inscribirá y otorgará a los autores el título de propiedad definitivo si éstos lo solicitaren.
+
+(Artículo sustituido por Art. 1° Decreto Ley 12.063/57 B.O. 11/10/57)
+
+Art. 60. — Si hubiese algún reclamo dentro del plazo del mes indicado, se levantará un acta de exposición, de la que se dará traslado por cinco días al interesado, debiendo el Director del Registro Nacional de la Propiedad Intelectual, resolver el caso dentro de los diez días subsiguientes.
+
+De la resolución podrá apelarse al ministerio respectivo, dentro de otros diez días y la resolución ministerial no será objeto de recurso alguno, salvo el derecho de quien se crea lesionado para iniciar el juicio correspondiente.
+
+Art. 61. — El depósito de toda obra publicada es obligatorio para el editor. Si éste no lo hiciere será reprimido con una multa de diez veces el valor venal del ejemplar no depositado.
+
+Art. 62. — El depósito de las obras, hecho por el editor, garantiza totalmente los derechos de autor sobre su obra y los del editor sobre su edición. Tratándose de obras no publicadas, el autor o sus derechohabientes pueden depositar una copia del manuscrito con la firma certificada del depositante.
+
+Art. 63. — La falta de inscripción trae como consecuencia la suspensión del derecho del autor hasta el momento en que la efectúe, recuperándose dichos derechos en el acto mismo de la inscripción, por el término y condiciones que corresponda, sin perjuicio de la validez de las reproducciones, ediciones, ejecuciones y toda otra publicación hechas durante el tiempo en que la obra no estuvo inscripta.
+
+No se admitirá el registro de una obra sin la mención de su "pie de imprenta". Se entiende por tal, la fecha, lugar, edición y la mención del editor.
+
+Art. 64. — Todas las reparticiones oficiales y las instituciones, asociaciones o personas que por cualquier concepto reciban subsidios del Tesoro de la Nación, están obligados a entregar a la Biblioteca del Congreso Nacional, sin perjuicio de lo dispuesto en el artículo 57, el ejemplar correspondiente de las publicaciones que efectúen, en la forma y dentro de los plazos determinados en dicho artículo. Las reparticiones públicas están autorizadas a rechazar toda obra fraudulenta que se presente para su venta.
+
+DEL REGISTRO DE PROPIEDAD INTELECTUAL
+
+Art. 65. — El Registro llevará los libros necesarios para que toda obra inscripta tenga su folio correspondiente, donde constarán su descripción, título, nombre del autor y fecha de la presentación, y demás circunstancias que a ella se refieran, como ser los contratos de que fuera objeto y las decisiones de los tribunales sobre la misma.
+
+Art. 66. — El Registro inscribirá todo contrato de edición, traducción, compraventa, cesión, participación, y cualquier otro vinculado con el derecho de propiedad intelectual, siempre que se hayan publicado las obras a que se refieren y no sea contrario a las disposiciones de esta Ley.
+
+Art. 67. — El Registro percibirá por la inscripción de toda obra los derechos o aranceles que fijará el Poder Ejecutivo mientras ellos no sean establecidos en la Ley respectiva.
+
+Art. 68. — El Registro estará bajo la dirección de un abogado que deberá reunir las condiciones requeridas por el artículo 70 de la Ley de organización de los tribunales y bajo la superintendencia del Ministerio de Justicia e Instrucción Pública.
+
+FOMENTO DE LAS ARTES Y LETRAS
+
+Art. 69. — (Artículo derogado por art. 26 del Decreto Ley N° 1.224/1958 B.O. 14/2/1958).
+
+Art. 70. — (Artículo derogado por art. 26 del Decreto Ley N° 1.224/1958 B.O. 14/2/1958).
+
+DE LAS PENAS
+
+Art. 71. — Será reprimido con la pena establecida por el artículo 172 del Código Penal, el que de cualquier manera y en cualquier forma defraude los derechos de propiedad intelectual que reconoce esta Ley.
+
+Art. 72. — Sin perjuicio de la disposición general del artículo precedente, se consideran casos especiales de defraudación y sufrirán la pena que él establece, además del secuestro de la edición ilícita:
+
+a) El que edite, venda o reproduzca por cualquier medio o instrumento, una obra inédita o publicada sin autorización de su autor o derechohabientes;
+
+b) El que falsifique obras intelectuales, entendiéndose como tal la edición de una obra ya editada, ostentando falsamente el nombre del editor autorizado al efecto;
+
+c) El que edite, venda o reproduzca una obra suprimiendo o cambiando el nombre del autor, el título de la misma o alterando dolosamente su texto;
+
+d) El que edite o reproduzca mayor número de los ejemplares debidamente autorizados.
+
+Art. 72 bis. — Será reprimido con prisión de un mes a seis años:
+
+a) El que con fin de lucro reproduzca un fonograma sin autorización por escrito de su productor o del licenciado del productor;
+
+b) El que con el mismo fin facilite la reproducción ilícita mediante el alquiler de discos fonográficos u otros soportes materiales;
+
+c) El que reproduzca copias no autorizadas por encargo de terceros mediante un precio;
+
+d) El que almacene o exhiba copias ilícitas y no pueda acreditar su origen mediante la factura que lo vincule comercialmente con un productor legítimo;
+
+e) El que importe las copias ilegales con miras a su distribución al público.
+
+El damnificado podrá solicitar en jurisdicción comercial o penal el secuestro de las copias de fonogramas reproducidas ilícitamente y de los elementos de reproducción.
+
+El juez podrá ordenar esta medida de oficio, así como requerir caución suficiente al peticionario cuando estime que éste carezca de responsabilidad patrimonial. Cuando la medida precautoria haya sido solicitada por una sociedad autoral o de productores, cuya representatividad haya sido reconocida legalmente, no se requerirá caución.
+
+Si no se dedujera acción, denuncia o querella, dentro de los 15 días de haberse practicado el secuestro, la medida podrá dejarse sin efecto a petición del titular de las copias secuestradas, sin perjuicio de la responsabilidad que recaiga sobre el peticionante.
+
+A pedido del damnificado el juez ordenará el comiso de las copias que materialicen el ilícito, así como los elementos de reproducción. Las copias ilícitas serán destruidas y los equipos de reproducción subastados. A fin de acreditar que no utilizará los aparatos de reproducción para fines ilícitos, el comprador deberá acreditar su carácter de productor fonográfico o de licenciado de un productor. El producto de la subasta se destinará a acrecentar el "fondo de fomento a las artes" del Fondo Nacional del Derechos de Autor a que se refiere el artículo 6° del decreto-ley 1224/58.
+
+(Artículo incorporado por art. 2° de la Ley N° 23.741 B.O. 25/10/1989).
+
+Art. 73. — Será reprimido con prisión de un mes a un año o con multa de MIL PESOS como mínimo y TREINTA MIL PESOS como máximo destinada al fondo de fomento creado por esta ley:
+
+a) El que representare o hiciere representar públicamente obras teatrales o literarias sin autorización de sus autores o derechohabientes;
+
+b) El que ejecutare o hiciere ejecutar públicamente obras musicales sin autorización de sus autores o derechohabientes.
+
+(Por art. 1° inciso 12 de la Ley N° 24.286 B.O. 29/12/1993 se eleva montos).
+
+Art. 74. — Será reprimido con prisión de un mes a un año o multa de MIL PESOS como mínimo y TREINTA MIL PESOS como máximo destinada al fondo de fomento creado por esta Ley, el que atribuyéndose indebidamente la calidad de autor, derecho habiente o la representación de quien tuviere derecho, hiciere suspender una representación o ejecución pública lícita.
+
+(Por art. 1° inciso 12 de la Ley N° 24.286 B.O. 29/12/1993 se eleva montos).
+
+Art. 74 bis. — (Artículo derogado por art. 1° de la Ley N° 23.077 B.O. 27/8/1984 que deroga la Ley N° 21.338.)
+
+Art. 75. — En la aplicación de las penas establecidas por la presente Ley, la acción se iniciará de oficio, por denuncia o querella.
+
+Art. 76. — El procedimiento y jurisdicción será el establecido por el respectivo Código de Procedimientos en lo Criminal vigente en el lugar donde se cometa el delito.
+
+Art. 77. — Tanto el juicio civil, como el criminal, son independientes y sus resoluciones definitivas no se afectan. Las partes sólo podrán usar en defensa de sus derechos las pruebas instrumentales de otro juicio, las confesiones y los peritajes, comprendido el fallo del jurado, mas nunca las sentencias de los jueces respectivos.
+
+Art. 78. — La Comisión Nacional de Cultura representada por su presidente, podrá acumular su acción a las de los damnificados, para percibir el importe de las multas establecidas a su favor y ejercitar las acciones correspondientes a las atribuciones y funciones que se le asignan por esta Ley.
+
+DE LAS MEDIDAS PREVENTIVAS
+
+Art. 79. — Los jueces podrán, previa fianza, de los interesados, decretar preventivamente la suspensión de un espectáculo teatral, cinematográfico, filarmónico u otro análogo; el embargo de las obras denunciadas, así como el embargo del producto que se haya percibido por todo lo anteriormente indicado y toda medida que sirva para proteger eficazmente los derechos que ampare esta Ley.
+
+Ninguna formalidad se ordena para aclarar los derechos del autor o de sus causahabientes. En caso contestación, los derechos estarán sujetos a los medios de prueba establecidos por las Leyes vigentes.
+
+(Nota Infoleg: Por arts. 1° y 2° del Decreto N° 8.478/1965 B.O. 8/10/1965 se obliga a exhibir la autorización escrita de los autores en la ejecución de música nacional o extranjera en público.)
+
+PROCEDIMIENTO CIVIL
+
+Art. 80. — En todo juicio motivado por esta Ley, ya sea por aplicación de sus disposiciones, ya como consecuencia de los contratos y actos jurídicos que tengan relación con la propiedad intelectual, regirá el procedimiento que se determina en los artículos siguientes.
+
+Art. 81. — El procedimiento y términos serán, fuera de las medidas preventivas, en que se establece para las excepciones dilatorias en los respectivos códigos de Procedimientos, en lo Civil y Comercial, con las siguientes modificaciones:
+
+a) Siempre habrá lugar a prueba a pedido de las partes o de oficio pudiendo ampliarse su término a 30 días, si el juzgado lo creyere conveniente, quedando firme a esta resolución;
+
+b) Durante la prueba y a pedido de los interesados se podrá decretar una audiencia pública, en la sala del tribunal donde las partes, sus letrados y peritos expondrán sus alegatos u opiniones.
+
+Esta audiencia podrá continuar otros días si uno sólo fuera insuficiente;
+
+c) En las mismas condiciones del inciso anterior y cuando la importancia del asunto y la naturaleza técnica de las cuestiones lo requiera, se podrá designar un jurado de idóneos en la especialidad de que se tratare, debiendo estar presidido para las cuestiones científicas por el Decano de la Facultad de Ciencias Exactas o la persona que éste designare, bajo su responsabilidad, para reemplazarlo; para las cuestiones literarias, el Decano de la Facultad de Filosofía y Letras; para las artísticas, el Director del Museo Nacional de Bellas Artes y para las musicales, el Director del Conservatorio Nacional de Música.
+
+Complementarán el jurado dos personas designadas de oficio.
+
+El jurado se reunirá y deliberará en último término en la audiencia que establece el inciso anterior. Si no se hubiere ella designado, en una especial y pública en la forma establecida en dicho inciso.
+
+Su resolución se limitará a declarar si existe o no la lesión a la propiedad intelectual, ya sea legal o convencional.
+
+Esta resolución valdrá como los informes de los peritos nombrados por partes contrarias, cuando se expiden de común acuerdo.
+
+Art. 82. — El cargo de jurado será gratuito y se le aplicarán las disposiciones procesales referentes a los testigos.
+
+DE LAS DENUNCIAS ANTE EL REGISTRO NACIONAL DE PROPIEDAD INTELECTUAL
+
+Art. 83. — Después de vencidos los términos del artículo 5°, podrá denunciarse al Registro Nacional de Propiedad Intelectual la mutilación de una obra literaria, científica o artística, los agregados, las transposiciones, la infidelidad de una traducción, los errores de concepto y las deficiencias en el conocimiento del idioma del original o de la versión. Estas denuncias podrá formularlas cualquier habitante de la Nación, o procederse de oficio, y para el conocimiento de ellas la dirección del Registro Nacional constituirá un jurado que integrarán:
+
+a) Para las obras literarias, el decano de la Facultad de Filosofía y Letras; dos representantes de la sociedad gremial de escritores, designados por la misma, y las personas que nombren el denunciante y el editor o traductor, una por cada uno;
+
+b) Para las obras científicas el decano de la Facultad de Ciencias que corresponda por su especialidad, dos representantes de la sociedad científica de la respectiva especialidad, designados por la misma, y las personas que nombren el denunciante y el editor o productor, una por cada parte.
+
+En ambos casos, cuando se haya objetado la traducción, el respectivo jurado se integrará también con dos traductores públicos nacionales, nombrados uno por cada parte, y otro designado por la mayoría del jurado;
+
+c) Para las obras artísticas, el director del Museo Nacional de Bellas Artes, dos personas idóneas designadas por la Dirección del Registro de Propiedad Intelectual y las personas que nombre el denunciante y el denunciado, una por cada parte;
+
+d) Para las musicales, el director del Conservatorio Nacional de Música; dos representantes de la sociedad gremial de compositores de música, popular o de cámara en su caso, y las personas que designen el denunciante y el denunciado, una por cada parte.
+
+Cuando las partes no designen sus representantes, dentro del término que les fije la dirección del Registro, serán designados por ésta.
+
+El jurado resolverá declarando si existe o no la falta denunciada y en caso afirmativo, podrá ordenar la corrección de la obra e impedir su exposición o la circulación de ediciones no corregidas, que serán inutilizadas. Los que infrinjan esta prohibición pagarán una multa de 100 a 1.000 pesos moneda nacional, que fijará el jurado y se hará efectiva en la forma establecida por los respectivos códigos de procedimientos en lo Civil y en lo Comercial, para la ejecución de las sentencias. El importe de las multas ingresarán al fondo de fomento creado por esta Ley. Tendrá personería para ejecutarlas la dirección del Registro.
+
+DISPOSICIONES TRANSITORIAS
+
+Art. 84. — Las obras que se encontraren bajo el dominio público, sin que hubiesen transcurrido los términos de protección previstos en esta ley, volverán automáticamente al dominio privado, sin perjuicio de los derechos que hubieran adquirido terceros sobre las reproducciones de esas obras hechas durante el lapso en que las mismas estuvieron bajo el dominio público.
+
+(Artículo sustituido por art. 1° de la Ley N° 24.870 B.O. 16/9/1997).
+
+(Nota Infoleg: Por art. 2° de la Ley N° 24.249 B.O. 17/11/1993 se establece que será de aplicación a aquellas obras cinematográficas que se consideren de dominio público sin que haya transcurrido el plazo de cincuenta años desde su primer publicación.)
+
+Art. 85. — Las obras que en la fecha de la promulgación de la presente Ley se hallen en el dominio privado continuarán en éste hasta cumplirse el término establecido en el artículo 5°.
+
+Art. 86. — Créase el Registro Nacional de Propiedad Intelectual, del que pasará a depender la actual Oficina de Depósito Legal. Mientras no se incluya en la Ley general de presupuesto el Registro Nacional de Propiedad Intelectual, las funciones que le están encomendadas por esta Ley, serán desempeñadas por la Biblioteca Nacional.
+
+Art. 87. — Dentro de los sesenta días subsiguientes a la sanción de esta Ley, el Poder Ejecutivo procederá a su reglamentación.
+
+Art. 88. — Queda derogada la Ley 9.141 y todas las disposiciones que se opongan a la presente.
+
+Art. 89. — Comuníquese, al Poder Ejecutivo.
+
+Dada en la Sala de Sesiones del Congreso Argentino, en Buenos Aires, a 26 de Septiembre de 1933
+
+R. PATRON COSTA
+	
+
+JUAN F. CAFFERATA
+
+Gustavo Figueroa
+	
+
+D. Zambrono
+
+Secretario del Senado
+	
+
+Secretario de la Cámara de Diputados
+
+ 
+
+Antecedentes Normativos
+
+- Artículo 36, párrafos incorporados por art. 1° de la Ley N° 26.285 B.O. 13/9/2007;
+
+- Artículo 1° expresión "discos fonográficos" sustituida por "fonogramas", por art. 1° de la Ley 23.741 B.O. 25/10/89;
+
+- Artículo 36, párrafo sustituido por art. 1° de la Ley N° 20.098 B.O. 23/1/1973;
+
+- Artículo 5° sustituido por Art. 1° Decreto Ley 12.063/57 B.O. 11/10/57;
+
+- Artículo 34 sustituido por art. 1° de la Ley N° 24.249 B.O. 17/11/1993;
+
+- Artículo 36, último párrafo incorporado por art. 1° de la Ley N° 18.453 B.O. 1/12/1969;
+
+- Artículo 36 sustituido por art. 1° de la Ley N° 17.753 B.O. 3/6/1968;
+
+- Artículo 73 elevan montos las siguiente Leyes: art. 1° de la Ley N° 23.974 B.O. 17/9/1991; art. 1° inciso 18 de la Ley N° 23.479 B.O. 26/1/1987; art. 12 inciso 17 de la Ley N° 23.077 B.O. 27/8/1984; art. 14 de la Ley 22.936 B.O. 07/10/1983; Ley N° 20.509 B.O. 28/5/1973 retoma vigencia anterior; art. 4° inciso c) de la Ley N° 17.567 B.O. 12/1/1968 con vigencia a partir del 1/4/1968;
+
+- Artículo 74 elevan montos las siguiente Leyes: art. 1° de la Ley N° 23.974 B.O. 17/9/1991; art. 1° inciso 18 de la Ley N° 23.479 B.O. 26/1/1987; art. 12 inciso 17 de la Ley N° 23.077 B.O. 27/8/1984; art. 14 de la Ley 22.936 B.O. 07/10/1983; art. 14 de la Ley N° 22.461 B.O. 30/4/1981; Ley N° 20.509 B.O. 28/5/1973 retoma vigencia anterior; art. 4° inciso c) de la Ley N° 17.567 B.O. 12/1/1968 con vigencia a partir del 1/4/1968;
+
+- Artículo 74 bis incorporado por art. 5° de la Ley N° 17.567 B.O. 12/1/1968 y sustituido por art. 4° de la Ley N° 21.338 B.O. 01/07/76; elevan montos las siguiente Leyes: art. 14 de la Ley N° 22.461 B.O. 30/4/1981; art. 14 de la Ley 22.936 B.O. 07/10/1983
+
+- Artículo 84 sustituido por art. 1° del Decreto Ley N° 12.063/1957 B.O. 11/10/57.

@@ -1,0 +1,723 @@
+
+
+RESIDUOS PELIGROSOS
+
+Ley Nº 24.051
+
+Ambito de aplicación y disposiciones generales. Registro de Generadores y Operadores. Manifiesto. Generadores. Transportistas. Plantas de Tratamiento y disposición final. Responsabilidades. Infracciones y sanciones. Régimen penal. Autoridad de Aplicación. Disposiciones Complementarias.
+
+Sancionada: Diciembre 17 de 1991.
+
+Promulgada de Hecho: Enero 8 de 1992.
+
+El Senado y Cámara de Diputados de la Nación Argentina reunidos en Congreso, etc., sancionan con fuerza de Ley:
+
+CAPITULO I
+
+DEL AMBITO DE APLICACION Y DISPOSICIONES GENERALES
+
+ARTICULO 1° — La generación, manipulación, transporte, tratamiento y disposición final de residuos peligrosos quedarán sujetos a las disposiciones de la presente ley, cuando se tratare de residuos generados o ubicados en lugares sometidos a jurisdicción nacional o, aunque ubicados en territorio de una provincia estuvieren destinados al transporte fuera de ella, o cuando, a criterio de la autoridad de aplicación, dichos residuos pudieren afectar a las personas o el ambiente más allá de la frontera de la provincia en que se hubiesen generado, o cuando las medidas higiénicas o de seguridad que a su respecto fuere conveniente disponer, tuvieren una repercusión económica sensible tal, que tornare aconsejable uniformarlas en todo el territorio de la Nación, a fin de garantizar la efectiva competencia de las empresas que debieran soportar la carga de dichas medidas.
+
+ARTICULO 2° — Será considerado peligroso, a los efectos de esta ley, todo residuo que pueda causar daño, directa o indirectamente, a seres vivos o contaminar el suelo, el agua, la atmósfera o el ambiente en general.
+
+En particular serán considerados peligrosos los residuos indicados en el Anexo I o que posean alguna de las características enumeradas en el Anexo II de esta ley.
+
+Las disposiciones de la presente serán también de aplicación a aquellos residuos peligrosos que pudieren constituirse en insumos para otros procesos industriales.
+
+Quedan excluidos de los alcances de esta ley los residuos domiciliarios, los radiactivos y los derivados de las operaciones normales de los buques, los que se regirán por leyes especiales y convenios internacionales vigentes en la materia.
+
+ARTICULO 3° — Prohíbese la importación, introducción y transporte de todo tipo de residuos provenientes de otros países al territorio nacional y sus espacios aéreo y marítimo.
+
+La presente prohibición se hace extensiva a los residuos de origen nuclear, sin perjuicio de lo establecido en el último párrafo del artículo anterior.
+
+CAPITULO II
+
+DEL REGISTRO DE GENERADORES Y OPERADORES DE RESIDUOS PELIGROSOS
+
+ARTICULO 4° — La autoridad de aplicación llevará y mantendrá actualizado un Registro Nacional de Generadores y Operadores de Residuos Peligrosos, en el que deberán inscribirse las personas físicas o Jurídicas responsables de la generación, transporte, tratamiento y disposición final de residuos peligrosos.
+
+ARTICULO 5° — Los generadores y operadores de residuos peligrosos deberán cumplimentar, para su inscripción en el Registro, los requisitos indicados en los artículos 15, 23 y 34, según corresponda.
+
+Cumplidos los requisitos exigibles, la autoridad de aplicación otorgará el Certificado Ambiental, instrumento que acredita, en forma exclusiva, la aprobación del sistema de manipulación, transporte, tratamiento o disposición final que los inscriptos aplicarán a los residuos peligrosos.
+
+Este Certificado Ambiental será renovado en forma anual.
+
+ARTICULO 6° — La autoridad de aplicación deberá expedirse dentro de los noventa (90) días contados desde la presentación de la totalidad de los requisitos. En caso de silencio, vencido el término indicado, se aplicará lo dispuesto por el artículo 10 de la Ley Nacional de Procedimientos Administrativos N° 19.549.
+
+ARTICULO 7° — El Certificado Ambiental será requisito necesario para que la autoridad que en cada caso corresponda, pueda proceder a la habilitación de las respectivas industrias, transportes, plantas de tratamiento o disposición y otras actividades en general que generen u operen con residuos peligrosos.
+
+La autoridad de aplicación de la presente ley podrá acordar con los organismos responsables de la habilitación y control de los distintos tipos de unidades de generación o transporte, la unificación de procedimientos que permita simplificar las tramitaciones, dejando a salvo la competencia y Jurisdicción de cada uno de los organismos intervinientes.
+
+ARTICULO 8° — Los obligados a inscribirse en el Registro que a la fecha de entrada en vigencia de la presente se encuentren funcionando, tendrán un plazo de ciento ochenta (180) días, contados a partir de la fecha de apertura del Registro, para la obtención del correspondiente Certificado Ambiental. Si las condiciones de funcionamiento no permitieren su otorgamiento, la autoridad de aplicación estará facultada a prorrogar por única vez el plazo, para que el responsable cumplimente los requisitos exigidos. Vencidos dichos plazos, y persistiendo el incumplimiento, serán de aplicación las sanciones previstas en el artículo 49.
+
+ARTICULO 9° — La falta, suspensión o cancelación de la inscripción de ley, no impedirá el ejercicio de las atribuciones acordadas a la autoridad de aplicación, ni eximirá a los sometidos a su régimen de las obligaciones y responsabilidades que se establecen para los inscriptos.
+
+La autoridad de aplicación podrá inscribir de oficio a los titulares que por su actividad se encuentren comprendidos en los términos de la presente ley.
+
+En caso de oposición, el afectado deberá acreditar, mediante el procedimiento que al respecto determine la reglamentación, que sus residuos no son peligrosos en los términos del artículo 2° de la presente.
+
+ARTICULO 10. — No será admitida la inscripción de sociedades cuando uno o más de sus directores, administradores, gerentes, mandatarios o gestores, estuvieren desempeñando o hubieren desempeñado alguna de esas funciones en sociedades que estén cumpliendo sanciones de suspensión o cancelación de la inscripción por violaciones a la presente ley cometidas durante su gestión.
+
+ARTICULO 11. — En el caso de que una sociedad no hubiera sido admitida en el Registro o que admitida haya sido inhabilitada ni ésta ni sus integrantes podrán formar parte de otras sociedades para desarrollar actividades reguladas por esta ley, ni hacerlo a título individual, excepto los accionistas de sociedades anónimas y asociados de cooperativas que no actuaron en las funciones indicadas en el artículo anterior cuando se cometió la infracción que determinó la exclusión del Registro.
+
+CAPITULO III
+
+DEL MANIFIESTO
+
+ARTICULO 12. — La naturaleza y cantidad de los residuos generados, su origen, transferencia del generador al transportista, y de éste a la planta de tratamiento o disposición final, así como los procesos de tratamiento y eliminación a los que fueren sometidos, y cualquier otra operación que respecto de los mismos se realizare, quedará documentada en un instrumento que llevará la denominación de "manifiesto".
+
+ARTICULO 13. — Sin perjuicio de los demás recaudos que determine la autoridad de aplicación el manifiesto deberá contener:
+
+a) Número serial del documento;
+
+b) Datos identificatorios del generador, del transportista y de la planta destinataria de los residuos peligrosos, y sus respectivos números de inscripción en el Registro de Generadores y Operadores de Residuos Peligrosos;
+
+c) Descripción y composición de los residuos peligrosos a ser transportados;
+
+d) Cantidad total -en unidades de peso, volumen y concentración- de cada uno de los residuos peligrosos a ser transportados; tipo y número de contenedores que se carguen en el vehículo de transporte;
+
+e) Instrucciones especiales para el transportista y el operador en el sitio de disposición final;
+
+f) Firmas del generador, del transportista y del responsable de la planta de tratamiento o disposición final.
+
+CAPITULO IV
+
+DE LOS GENERADORES
+
+ARTICULO 14. — Será considerado generador, a los efectos de la presente, toda persona física o jurídica que, como resultado de sus actos o de cualquier proceso, operación o actividad, produzca residuos calificados como peligrosos en los términos del artículo 2° de la presente.
+
+ARTICULO 15. — Todo generador de residuos peligrosos, al solicitar su inscripción en el Registro Nacional de Generadores y Operadores de Residuos Peligrosos deberá presentar una declaración jurada en la que manifieste, entre otros datos exigibles, lo siguiente:
+
+a) Datos identificatorios: nombre completo o razón social; nómina del directorio, socios gerentes, administradores, representantes y/o gestores, según corresponda; domicilio legal;
+
+b) Domicilio real y nomenclatura catastral de las plantas generadoras de residuos peligrosos; características edilicias y de equipamiento;
+
+c) Características físicas, químicas y/o biológicas de cada uno de los residuos que se generen;
+
+d) Método y lugar de tratamiento y/o disposición final y forma de transporte, si correspondiere, para cada uno de los residuos peligrosos que se generen;
+
+e) Cantidad anual estimada de cada uno de los residuos que se generen;
+
+f) Descripción de procesos generadores de residuos peligrosos;
+
+g) Listado de sustancias peligrosas utilizadas;
+
+h) Método de evaluación de características de residuos peligrosos;
+
+i) Procedimiento de extracción de muestras;
+
+j) Método de análisis de lixiviado y estándares para su evaluación;
+
+k) Listado del personal expuesto a efectos producidos por las actividades de generación reguladas por la presente ley, y procedimientos precautorios y de diagnóstico precoz.
+
+Los datos incluidos en la presente declaración jurada serán actualizados en forma anual.
+
+ARTICULO 16. — La autoridad de aplicación establecerá el valor y la periodicidad de la tasa que deberán abonar los generadores, en función de la peligrosidad y cantidad de residuos que produjeren, y que no será superior al uno por ciento (1%) de la utilidad presunta promedio de la actividad en razón de la cual se generan los residuos peligrosos. A tal efecto tendrá en cuenta los datos contemplados en los incisos c), d), e), f),. g), h), i) y j) del artículo anterior.
+
+(Nota Infoleg: Por art. 1° de la Resolución N° 599/2001 de la Secretaría de Desarrollo Sustentable y Política Ambiental B.O. 21/5/2001 se establece que la tasa creada en el presente artículo posee el carácter de tasa ambiental careciendo de naturaleza jurídica tributaria, en consecuencia, se hallan obligados a su pago todos los generadores sujetos al régimen de la presente Ley.)
+
+ARTICULO 17. — Los generadores de residuos peligrosos deberán:
+
+a) Adoptar medidas tendientes a disminuir la cantidad de residuos peligrosos que generen;
+
+b) Separar adecuadamente y no mezclar residuos peligrosos incompatibles entre sí;
+
+c) Envasar los residuos, identificar los recipientes y su contenido, numerarlos y fecharlos, conforme lo disponga la autoridad de aplicación;
+
+d) Entregar los residuos peligrosos que no trataren en sus propias plantas a los transportistas autorizados, con indicación precisa del destino final en el pertinente manifiesto, al que se refiere el artículo 12 de la presente.
+
+ARTICULO 18. — En el supuesto de que el generador esté autorizado por la autoridad de aplicación a tratar los residuos en su propia planta, deberá llevar un registro permanente de estas operaciones.
+
+Generadores de Residuos Patológicos.
+
+ARTICULO 19. — A los efectos de la presente ley se consideran residuos patológicos los siguientes:
+
+a) Residuos provenientes de cultivos de laboratorio;
+
+b) Restos de sangre y de sus derivados;
+
+c) Residuos orgánicos provenientes del quirófano;
+
+d) Restos de animales producto de la investigación médica;
+
+e) Algodones, gasas, vendas usadas, ampollas, jeringas, objetos cortantes o punzantes, materiales descartables, elementos impregnados con sangre u otras sustancias putrescibles que no se esterilizan;
+
+f) Agentes quimioterápicos.
+
+Los residuos de naturaleza radiactiva se regirán por las disposiciones vigentes en esa materia, de conformidad con lo normado en el artículo 2°.
+
+ARTICULO 20. — Las autoridades responsables de la habilitación de edificios destinados a hospitales, clínicas de atención médica u odontológica, maternidades, laboratorios de análisis clínicos, laboratorios de investigaciones biológicas, clínicas veterinarias y, en general, centros de atención de la salud humana y animal y centros de investigaciones biomédicas y en los que se utilicen animales vivos, exigirán como condición para otorgar esa habilitación el cumplimiento de las disposiciones de la presente.
+
+ARTICULO 21. — No será de aplicación a los generadores de residuos patológicos lo dispuesto por el artículo 16.
+
+ARTICULO 22. — Todo generador de residuos peligrosos es responsable, en calidad de dueño de los mismos, de todo daño producido por éstos, en los términos del Capítulo VII de la presente ley.
+
+CAPITULO V
+
+DE LOS TRANSPORTISTAS DE RESIDUOS PELIGROSOS
+
+ARTICULO 23. — Las personas físicas o jurídicas responsables del transporte de residuos peligrosos deberán acreditar, para su inscripción en el Registro Nacional de Generadores y Operadores de Residuos Peligrosos:
+
+a) Datos identificatorios del titular de la empresa prestadora del servicio y domicilio legal de la misma;
+
+b) Tipos de residuos a transportar;
+
+c) Listado de todos los vehículos y contenedores a ser utilizados, así como los equipos a ser empleados en caso de peligro causado por accidente;
+
+d) Prueba de conocimiento para proveer respuesta adecuada en caso de emergencia que pudiere resultar de la operación de transporte;
+
+e) Póliza de seguro que cubra daños causados, o garantía suficiente que, para el caso, establezca la autoridad de aplicación.
+
+Estos datos no son excluyentes de otros que pudiere solicitar la autoridad de aplicación.
+
+ARTICULO 24. — Toda modificación producida en relación con los datos exigidos en el artículo precedente será comunicada a la autoridad de aplicación dentro de un plazo de treinta (30) días de producida la misma.
+
+ARTICULO 25. — La autoridad de aplicación dictará las disposiciones complementarias a que deberán ajustarse los transportistas de residuos peligrosos, las que necesariamente deberán contemplar:
+
+a) Apertura y mantenimiento por parte del transportista de un registro de las operaciones que realice, con individualización del generador, forma de transporte y destino final;
+
+b) Normas de envasado y rotulado;
+
+c) Normas operativas para el caso de derrame o liberación accidental de residuos peligrosos;
+
+d) Capacitación del personal afectado a la conducción de unidades de transporte;
+
+e) Obtención por parte de los conductores de su correspondiente licencia especial para operar unidades de transporte de sustancias peligrosas.
+
+ARTICULO 26. — El transportista sólo podrá recibir del generador residuos peligrosos si los mismos vienen acompañados del correspondiente manifiesto a que se refiere el artículo 12, los que serán entregados, en su totalidad y solamente, a las plantas de tratamiento o disposición final debidamente autorizadas que el generador hubiera indicado en el manifiesto.
+
+ARTICULO 27. — Si por situación especial o emergencia los residuos no pudieren ser entregados en la planta de tratamiento o disposición final indicada en el manifiesto, el transportista deberá devolverlos al generador o transferirlos a las áreas designadas por la autoridad de aplicación con competencia territorial en el menor tiempo posible.
+
+ARTICULO 28. — El transportista deberá cumplimentar, entre otros posibles, los siguientes requisitos:
+
+a) Portar en la unidad durante el transporte de residuos peligrosos un manual de procedimientos así como materiales y equipamiento adecuados a fin de neutralizar o confinar inicialmente una eventual liberación de residuos;
+
+b) Incluir a la unidad de transporte en un sistema de comunicación por radiofrecuencia;
+
+c) Habilitar un registro de accidentes foliado, que permanecerá en la unidad transportadora, y en el que se asentarán los accidentes acaecidos durante el transporte;
+
+d) Identificar en forma clara y visible al vehículo y a la carga, de conformidad con las normas nacionales vigentes al efecto y las internacionales a que adhiera la República Argentina;
+
+e) Disponer, para el caso de transporte por agua, de contenedores que posean flotabilidad positiva aun con carga completa, y sean independientes respecto de la unidad transportadora.
+
+ARTICULO 29. — El transportista tiene terminantemente prohibido:
+
+a) Mezclar residuos peligrosos con residuos o sustancias no peligrosas, o residuos peligrosos incompatibles entre sí;
+
+b) Almacenar residuos peligrosas por un período mayor de diez (10) días;
+
+c) Transportar, transferir o entregar residuos peligrosos cuyo embalaje o envase sea deficiente;
+
+d) Aceptar residuos cuya recepción no esté asegurada por una planta de tratamiento y/o disposición final;
+
+e) Transportar simultáneamente residuos-peligrosos incompatibles en una misma unidad de transporte.
+
+ARTICULO 30. — En las provincias podrán trazarse rutas de circulación y aéreas de transferencia dentro de sus respectivas jurisdicciones, las que serán habilitadas al transporte de residuos peligrosos. Asimismo las jurisdicciones colindantes podrán acordar las rutas a seguir por este tipo de vehículos, lo que se comunicará al organismo competente a fin de confeccionar cartas viales y la señalización para el transporte de residuos peligrosos.
+
+Para las vías fluviales o marítimas la autoridad competente tendrá a su cargo el control sobre las embarcaciones que transporten residuos peligrosos, así como las maniobras de carga y descarga de los mismos.
+
+ARTICULO 31. — Todo transportista de residuos peligrosos es responsable, en calidad de guardián de los mismos, de todo daño producido por éstos en los términos del Capítulo VII de la presente ley.
+
+ARTICULO 32. — Queda prohibido el transporte de residuos peligrosos en el espacio aéreo sujeto a la jurisdicción argentina.
+
+CAPITULO VI
+
+DE LAS PLANTAS DE TRATAMIENTO Y DISPOSICION FINAL
+
+ARTICULO 33. — Plantas de tratamiento son aquellas en las que se modifican las características física, la composición química o la actividad biológica de cualquier residuo peligroso, de modo tal que se eliminen sus propiedades nocivas, o se recupere energía y/o recursos materiales, o se obtenga un residuo menos peligroso, o se lo haga susceptible de recuperación, o más seguro para su transporte o disposición final.
+
+Son plantas de disposición final los lugares especialmente acondicionados para el depósito permanente de residuos peligrosos en condiciones exigibles de seguridad ambiental.
+
+En particular quedan comprendidas en este artículo todas aquellas instalaciones en las que se realicen las operaciones indicadas en el anexo III.
+
+ARTICULO 34. — Es requisito para la inscripción de plantas de tratamiento y/o disposición final en el Registro Nacional de Generadores y Operadores de Residuos Peligrosos la presentación de una declaración jurada en las que se manifiesten, entre otros datos exigibles, los siguientes:
+
+a) Datos identificatorios: Nombre completo y razón social; nómina, según corresponda, del directorio, socios gerentes, administradores, representantes, gestores; domicilio legal;
+
+b) Domicilio real y nomenclatura catastral;
+
+c) Inscripción en el Registro de la Propiedad inmueble, en la que se consigne, específicamente, que dicho predio será destinado a tal fin;
+
+d) Certificado de radicación industrial;
+
+e) Características edilicias y de equipamiento de la planta; descripción y proyecto de cada una de las instalaciones o sitios en los cuales un residuo peligroso esté siendo tratado, transportado, almacenado transitoriamente o dispuesto;
+
+f) Descripción de los procedimientos a utilizar para el tratamiento, el almacenamiento transitorio, las operaciones de carga y descarga y los de disposición final, y la capacidad de diseño de cada uno de ellos;
+
+g) Especificación del tipo de residuos peligrosos a ser tratados o dispuestos, y estimación de la cantidad anual y análisis previstos para determinar la factibilidad de su tratamiento y/o disposición en la planta, en forma segura y a perpetuidad;
+
+h) Manual de higiene y seguridad;
+
+i) Planes de contingencia, así como procedimientos para registro de la misma;
+
+j) Plan de monitoreo para controlar la calidad de las aguas subterráneas y superficiales;
+
+k) Planes de capacitación del personal.
+
+Tratándose de plantas de disposición final, la solicitud de inscripción será acompañada de:
+
+a) Antecedentes y experiencias en la materia, si los hubiere;
+
+b) Plan de cierre y restauración del área;
+
+c) Estudio de impacto ambiental;
+
+d) Descripción del sitio donde se ubicará la planta, y soluciones técnicas a adoptarse frente a eventuales casos de inundación o sismo que pudieren producirse, a cuyos efectos se adjuntará un dictámen del Instituto Nacional de Prevención Sísmica (INPRES) y/o del Instituto Nacional de Ciencias y Técnicas Hídricas (INCYTH), según correspondiere;
+
+e) Estudios hidrogeológicos y procedimientos exigibles para evitar o impedir el drenaje y/o el escurrimiento de los residuos peligrosos y la contaminación de las fuentes de agua;
+
+f) Descripción de los contenedores, recipientes, tanques, lagunas o cualquier otro sistema de almacenaje.
+
+ARTICULO 35. — Los proyectos de instalación de plantas de tratamiento y/o disposición final de residuos peligrosos deberán ser suscriptos por profesionales con incumbencia en la materia.
+
+ARTICULO 36. — En todos los casos los lugares destinados a la disposición final como relleno de seguridad deberán reunir las siguientes condiciones, no excluyentes de otras que la autoridad de aplicación pudiere exigir en el futuro:
+
+a) Una permeabilidad del suelo no mayor de 10 cm/seg. hasta una profundidad no menor de ciento cincuenta (150) centímetros tomando como nivel cero (0) la base del relleno de seguridad; o un sistema análogo, en cuanto a su estanqueidad o velocidad de penetración;
+
+b) Una profundidad del nivel freático de por lo menos dos (2) metros, a contar desde la base del relleno de seguridad;
+
+c) Una distancia de la periferia de los centros urbanos no menor que la que determine la autoridad de aplicación;
+
+d) El proyecto deberá comprender una franja perimetral cuyas dimensiones determinará la autoridad de aplicación.
+
+ARTICULO 37. — Tratándose de plantas existentes, la inscripción en el Registro y el otorgamiento del certificado ambiental implicará la autorización para funcionar.
+
+En caso de denegarse la misma, caducará de pleno derecho cualquier autorización y/o permiso que pudiera haber obtenido su titular.
+
+ARTICULO 38. — Si se tratare de un proyecto para la instalación de una nueva planta, la inscripción en el Registro sólo implicará la aprobación del mismo y la autorización para la iniciación de las obras; para su tramitación será de aplicación lo dispuesto por el artículo 6°.
+
+Una vez terminada la construcción de la planta, la autoridad de aplicación otorgará, si correspondiere, el certificado Ambiental, que autoriza su funcionamiento.
+
+ARTICULO 39. — Las autorizaciones, que podrán ser renovadas, se otorgarán por un plazo máximo de diez (10) años, sin perjuicio de la renovación anual del Certificado Ambiental.
+
+ARTICULO 40. — Toda planta de tratamiento y/o disposición final de residuos peligrosos deberá llevar un registro de operaciones permanente, en la forma que determine la autoridad de aplicación, el que deberá ser conservado a perpetuidad, aun si hubiere cerrado la planta.
+
+ARTICULO 41. — Para proceder al cierre de una planta de tratamiento y/o disposición final el titular deberá presentar ante la autoridad de aplicación, con una antelación mínima de noventa (90) días, un plan de cierre de la misma.
+
+La autoridad de aplicación lo aprobará o desestimará en un plazo de treinta (30) días, previa inspección de la planta.
+
+ARTICULO 42. — El plan de cierre deberá contemplar como mínimo:
+
+a) Una cubierta con condiciones físicas similares a las exigidas en el inciso a) del artículo 36 y capaz de sustentar vegetación herbácea;
+
+b) Continuación de programa de monitoreo de aguas subterráneas por el término que la autoridad de aplicación estime necesario, no pudiendo ser menor de cinco (5) años;
+
+c) La descontaminación de los equipos e implementos no contenidos dentro de la celda o celdas de disposición, contenedores, tanques, restos, estructuras y equipos que hayan sido utilizados o hayan estado en contacto con residuos peligrosos.
+
+ARTICULO 43. — La autoridad de aplicación, no podrá autorizar el cierre definitivo de la planta sin previa inspección de la misma.
+
+ARTICULO 44. — En toda planta de tratamiento y/o disposición final, sus titulares serán responsables, en su calidad de guardianes de residuos peligrosos, de todo daño producido por estos en función de lo prescripto en el Capítulo VII de la presente ley.
+
+CAPITULO VII
+
+DE LAS RESPONSABILIDADES
+
+ARTICULO 45. — Se presume, salvo prueba en contrario, que todo residuo peligroso es cosa riesgosa en los términos del segundo párrafo del artículo 1113 del Código Civil, modificado por la Ley N° 17.711.
+
+ARTICULO 46. — En el ámbito de la responsabilidad extracontractual, no es oponible a terceros la transmisión o abandono voluntario del dominio de los residuos peligrosos.
+
+ARTICULO 47. — El dueño o guardián de un residuo peligroso no se exime de responsabilidad por demostrar la culpa de un tercero de quien no debe responder, cuya acción pudo ser evitada con el empleo del debido cuidado y atendiendo a las circunstancias del caso.
+
+ARTICULO 48. — La responsabilidad del generador por los daños ocasionados por los residuos peligrosos no desaparece por la transformación, especificación, desarrollo, evolución o tratamiento de éstos, a excepción de aquellos daños causados por la mayor peligrosidad que un determinado residuo adquiere como consecuencia de un tratamiento defectuoso realizado en la planta de tratamiento o disposición final.
+
+CAPITULO VIII
+
+DE LAS INFRACCIONES Y SANCIONES
+
+ARTICULO 49. — Toda infracción a las disposiciones de esta ley, su reglamentación y normas complementarias que en su consecuencia se dicten, será reprimida por la autoridad de aplicación con las siguientes sanciones, que podrán ser acumulativas:
+
+a) Apercibimiento;
+
+b) Multa de CINCUENTA MILLONES DE AUSTRALES (50.000.000) CONVERTIBLES —Ley 23.928— hasta cien (100) veces ese valor;
+
+c) Suspensión de la inscripción en el Registro de treinta (30) días hasta un (1) año;
+
+d) Cancelación de la inscripción en el Registro.
+
+Estas sanciones se aplicarán con prescindencia de la responsabilidad civil o penal que pudiere imputarse al infractor.
+
+La suspensión o cancelación de la inscripción en el Registro, implicará el cese de las actividades y la clausura del establecimiento o loca.
+
+ARTICULO 50. — Las sanciones establecidas en el artículo anterior se aplicarán, previo sumario que asegure el derecho de defensa, y se graduarán de acuerdo con la naturaleza de la infracción y el daño ocasionado.
+
+ARTICULO 51. — En caso de reincidencia, los mínimos y los máximos de las sanciones previstas en los incisos b) y c) del artículo 49 se multiplicarán por una cifra igual a la cantidad de reincidencias aumentada en una unidad. Sin perjuicio de ello a partir de la tercera reincidencia en el lapso indicado más abajo, la autoridad de aplicación queda facultada para cancelar la inscripción en el Registro.
+
+Se considerará reincidente al que, dentro del término de tres (3) años anteriores a la fecha de comisión de la infracción, haya sido sancionado por otra infracción.
+
+ARTICULO 52. — Las acciones para imponer sanciones a la presente ley prescriben a los cinco (5) años contados a partir de la fecha en que se hubiere cometido la infracción.
+
+ARTICULO 53. — Las multas a que se refiere el artículo 49 así como las tasas previstas en el artículo 16 serán percibidas por la autoridad de aplicación, e ingresarán como recurso de la misma.
+
+ARTICULO 54. — Cuando el infractor fuere una persona jurídica, los que tengan a su cargo la dirección, administración o gerencia, serán personal y solidariamente responsables de las sanciones establecidas en el artículo 49.
+
+CAPITULO IX
+
+REGIMEN PENAL
+
+ARTICULO 55. — Será reprimido con las mismas penas establecidas en el artículo 200 del Código Penal, el que, utilizando los residuos a que se refiere la presente ley, envenenare, adulterare o contaminare de un modo peligroso para la salud, el suelo, el agua, la atmósfera o el ambiente en general.
+
+Si el hecho fuere seguido de la muerte de alguna persona, la pena será de diez (10) a veinticinco (25) años de reclusión o prisión.
+
+ARTICULO 56. — Cuando alguno de los hechos previstos en el artículo anterior fuere cometido por imprudencia o negligencia o por impericia en el propio arte o profesión o por inobservancia de los reglamentos u ordenanzas, se impondrá prisión de un (1) mes a dos (2) años.
+
+Si resultare enfermedad o muerte de alguna persona, la pena será de seis (6) meses a tres (3) años.
+
+ARTICULO 57. — Cuando alguno de los hechos previstos en los dos artículos anteriores se hubiesen producido por decisión de una persona jurídica, la pena se aplicará a los directores, gerentes, síndicos, miembros del consejo de vigilancia, administradores, mandatarios o, representantes de la misma que hubiesen intervenido en el hecho punible, sin perjuicio de las demás responsabilidades penales que pudiesen existir.
+
+ARTICULO 58. — Será competente para conocer de las acciones penales que deriven de la presente ley la Justicia Federal.
+
+CAPITULO X
+
+DE LA AUTORIDAD DE APLICACION
+
+ARTICULO 59. — Será autoridad de aplicación de la presente ley el organismo de más alto·nivel con competencia en el área de la política ambiental, que determine el Poder Ejecutivo.
+
+ARTICULO 60. — Compete a la autoridad de aplicación:
+
+a) Entender en la determinación de los objetivos y políticas en materia de residuos peligrosos, privilegiando las formas de tratamiento que impliquen el reciclado y reutilización de los mismos, y la incorporación de tecnologías más adecuadas desde el punto de vista ambiental;
+
+b) Ejecutar los planes, programas y proyectos del área de su competencia, elaborados conforme las directivas que imparta el Poder Ejecutivo;
+
+c) Entender en la fiscalización de la generación, manipulación, transporte, tratamiento y disposición final de los residuos peligrosos;
+
+d) Entender en el ejercicio del poder de policía ambiental, en lo referente a residuos peligrosos, e intervenir en la radicación de las industrias generadoras de los mismos;
+
+e) Entender en la elaboración y fiscalización de las normas relacionadas con la contaminación ambiental;
+
+f) Crear un sistema de información de libre acceso a la población. con el objeto de hacer públicas las medidas que se implementen en relación con la generación, manipulación, transporte, tratamiento y disposición final de residuos peligrosos;
+
+g) Realizar la evaluación del impacto ambiental respecto de todas las actividades relacionadas con los residuos peligrosos;
+
+h) Dictar normas complementarias en materia de residuos peligrosos;
+
+i) Intervenir en los proyectos de inversión que cuenten o requieran financiamiento específico proveniente de organismos o instituciones nacionales o de la cooperación internacional;
+
+j) Administrar los recursos de origen nacional destinados al cumplimiento de la presente ley;
+
+k) Elaborar y proponer al Poder Ejecutivo la reglamentación de la presente ley;
+
+l) Ejercer todas las demás facultades y atribuciones que por esta ley se le confieren.
+
+ARTICULO 61. — La autoridad de aplicación privilegiará la contratación de los servicios que puedan brindar los organismos oficiales competentes y universidades nacionales y provinciales, para la asistencia técnica a que el ejercicio de sus atribuciones requiriere.
+
+ARTICULO 62. — En el ámbito de la autoridad de aplicación funcionará una Comisión Interministerial de Residuos Peligrosos, con el objeto de coordinar las acciones de las diferentes áreas de gobierno. Estará integrada por representantes -con nivel de Director Nacional- de los siguientes ministerios: de Defensa -Gendarmería Nacional y Prefectura Naval Argentina-, de Economía y Obras y Servicios Públicos -Secretarías de Transporte y de Industria y Comercio- y de Salud y Acción Social -Secretarías de Salud y de Vivienda y Calidad Ambiental-.
+
+ARTICULO 63. — La autoridad de aplicación será asistida por un Consejo Consultivo, de carácter honorario, que tendrá por objeto asesorar y proponer iniciativas sobre temas relacionados con la presente ley.
+
+Estará integrado por representantes de: Universidades nacionales, provinciales o privadas; centros de investigaciones; asociaciones y colegios de profesionales; asociaciones de trabajadores y de empresarios; organizaciones no gubernamentales ambientalistas y toda otra entidad representativa de sectores interesados. Podrán integrarlo, además, a criterio de 1a autoridad de aplicación, personalidades reconocidas en temas relacionados con el mejoramiento de la calidad de vida.
+
+CAPITULO XI
+
+DISPOSICIONES COMPLEMENTARIAS
+
+ARTICULO 64. — Sin perjuicio de las modificaciones que la autoridad de aplicación pudiere introducir en atención a los avances científicos o tecnológicos, integran la presente ley los anexos que a continuación se detallan:
+
+I — Categorías sometidas a control.
+
+II — Lista de características peligrosas.
+
+III — Operaciones de eliminación.
+
+ARTICULO 65. — Deróganse todas las disposiciones que se oponen a la presente ley.
+
+ARTICULO 66. — La presente ley será de orden público y entrará en vigencia a los noventa (90) días de su promulgación, plazo dentro del cual el Poder Ejecutivo la reglamentará.
+
+ARTICULO 67. — Se invita a las provincias y a los respectivos municipios, en el área de su competencia, a dictar normas de igual naturaleza que la presente para el tratamiento de los residuos peligrosos.
+
+ARTICULO 68. — Comuníquese al Poder ejecutivo.- ALBERTO R PIERRI.-EDUARDO MENEM.- Mario D. Fassi.- Juan Estrada.
+
+DADA EN LA SALA DE SESIONES DEL CONGRESO ARGENTINO, EN BUENOS AIRES, A LOS DIECISIETE DIAS DEL MES DE DICIEMBRE DEL AÑO MIL NOVECIENTOS NOVENTA Y UNO.
+
+ANEXO I
+
+CATEGORIAS SOMETIDAS A CONTROL
+
+Corrientes de desechos
+
+Y1 Desechos clínicos resultantes de la atención médica prestada en hospitales, centros médicos y clínicas para salud humana y animal.
+
+Y2 Desechos resultantes de la producción y preparación de productos farmacéuticos.
+
+Y3 Desechos de medicamentos y productos farmacéuticos para la salud humana y animal.
+
+Y4 Desechos resultantes de la producción, la preparación y utilización de biocidas y productos fitosanitarios.
+
+Y5 Desechos resultantes de la fabricación, preparación y utilización de productos químicos para la preservación de la madera.
+
+Y6 Desechos resultantes de la producción, la preparación y la utilización de disolventes orgánicos.
+
+Y7 Desechos que contengan cianuros, resultantes del tratamiento térmico y las operaciones de temple.
+
+Y8 Desechos de aceites minerales no aptos para el uso a que estaban destinados.
+
+Y9 Mezclas y emulsiones de desecho de aceite y agua o de hidrocarburos y agua.
+
+Y10 Sustancias y artículos de desecho que contengan o estén contaminados por bifenilos policlorados (PCB), trifenilos policlorados (PCT) o bifenilos polibromados (PBB).
+
+Y11 Residuos alquitranados resultantes de la refinación, destilación o cualquier otro tratamiento pirolítico.
+
+Y12 Desechos resultantes de la producción, preparación y utilización de tintas, colorantes, pigmentos, pinturas, lacas o barnices.
+
+Y13 Desechos resultantes de la producción, preparación y utilización de resinas, látex, plastificantes o colas y adhesivos.
+
+Y14 Sustancias químicas de desecho, no identificadas o nuevas, resultantes de la investigación y el desarrollo o de las actividades de enseñanza y cuyos efectos en el ser humano o el medio ambiente no se conozcan.
+
+Y15 Desechos de carácter explosivo que no estén sometidos a una legislación diferente.
+
+Y16 Desechos resultantes de la producción, preparación y utilización de productos químicos y materiales para fines fotográficos.
+
+Y17 Desechos resultantes del tratamiento de superficies de metales y plásticos.
+
+Y18 Residuos resultantes de las operaciones de eliminación de desechos industriales.
+
+Desechos que tengan como constituyente
+
+Y19 Metales carbonilos.
+
+Y20 Berilio, compuesto de berilio.
+
+Y21 Compuestos de cromo hexavalente.
+
+Y22 Compuestos de cobre.
+
+Y23 Compuestos de zinc.
+
+Y24 Arsénico, compuestos de arsénico.
+
+Y25 Selenio, compuestos de selenio.
+
+Y26 Cadmio, compuestos de cadmio.
+
+Y27 Antimonio, compuestos de antimonio.
+
+Y28 Telurio, compuestos de telurio.
+
+Y29 Mercurio, compuestos de mercurio.
+
+Y30 Talio, compuestos de talio.
+
+Y31 Plomo, compuestos de plomo.
+
+Y32 Compuestos inorgánicos de flúor, con exclusión de fluoruro cálcico.
+
+Y33 Cianuros inorgánicos.
+
+Y34 Soluciones ácidas o ácidos en forma sólida.
+
+Y35 Soluciones básicas o bases en forma sólida.
+
+Y36 Asbestos (polvo y fibras).
+
+Y37 Compuestos orgánicos de fósforo.
+
+Y38 Cianuros orgánicos.
+
+Y39 Fenoles, compuestos fenólicos, con inclusión de clorofenoles.
+
+Y40 Eteres.
+
+Y41 Solventes orgánicos halogenados.
+
+Y42 Disolventes orgánicos, con exclusión de disolventes halogenados.
+
+Y43 Cualquier sustancia del grupo de los dibenzofuranos policlorados.
+
+Y44 Cualquier sustancia del grupo de las dibenzoparadioxinas policloradas.
+
+Y45 Compuestos organohalogenados, que no sean las sustancias mencionadas en el presente anexo (por ejemplo, Y39, Y41, Y42, Y43, Y44).
+
+Y 48 Todos los materiales y/o elementos diversos contaminados con alguno o algunos de los residuos peligrosos identificados en el Anexo I o que presenten alguna o algunas de las características peligrosas enumeradas en el Anexo II de la Ley de Residuos Peligrosos cuyo destino sea o deba ser una Operación de Eliminación según el Anexo III de la citada ley. A los efectos de la presente norma, se considerarán, en forma no excluyente, materiales diversos y/o elementos diversos contaminados, a los envases, contenedores y/o recipientes en general, tanques, silos, trapos, tierras, filtros, artículos y/o prendas de vestir de uso sanitario y/o industrial y/o de hotelería hospitalaria cuyo destino sea o deba ser una Operación de Eliminación de las previstas en el Anexo III de la presente Ley. (Categoría incorporada por art. 1° de la Resolución N° 897/2002 de la Secretaría de Ambiente y Desarrollo Sustentable B.O. 2/9/2002, texto según art. 1° de la Resolución N° 830/2008 de la Secretaría de Ambiente y Desarrollo Sustentable B.O. 30/7/2008).
+
+ 
+
+ANEXO II
+
+LISTA DE CARACTERISTICAS PELIGROSAS
+
+Clase de las Naciones Unidas
+	
+
+N° de Código
+	
+
+CARACTERISTICAS
+
+1
+	
+
+H1
+	
+
+Explosivos: Por sustancia explosiva o desecho se entiende toda sustancia o desecho sólido o líquido (o mezcla de sustancias o desechos) que por sí misma es capaz, mediante reacción química, de emitir un gas a una temperatura, presión y velocidad tales que puedan ocasionar daño a la zona circundante.
+
+3
+	
+
+H3
+	
+
+Líquidos inflamables: Por líquidos inflamables se entiende aquellos líquidos o mezcla de líquidos, o líquidos con sólidos en solución o suspensión (por ejemplo pinturas, barnices, lacas, etcétera, pero sin incluir sustancias o desechos clasificados de otra manera debido a sus características peligrosas) que emiten vapores inflamables a temperaturas no mayores de 60,5 °C, en ensayos con cubeta cerrada, o no más de 65,6 °C, en ensayos con cubeta abierta (como los resultados de los ensayos con cubeta abierta y con cubeta cerrada no son estrictamente comparables, e incluso los resultados obtenidos mediante un mismo ensayo a menudo difieren entre sí, la reglamentación que se apartara de las cifras antes mencionadas para tener en cuenta tales diferencias sería compatible con el espíritu de esta definición).
+
+4.1
+	
+
+H4.1
+	
+
+Sólidos inflamables: Se trata de sólidos o desechos sólidos distintos a los clasificados como explosivos, que en las condiciones prevalecientes durante el transporte son fácilmente combustibles o pueden causar un incendio o contribuir al mismo, debido a la fricción.
+
+4.2
+	
+
+H4.2
+	
+
+Sustancias o desechos susceptibles de combustión espontánea: Se trata de sustancias o desechos susceptibles de calentamiento espontáneo en las condiciones normales del transporte, o de calentamiento en contacto con el aire, y que pueden entonces encenderse.
+
+4.3
+	
+
+H4.3
+	
+
+Sustancias o desechos que, en contacto con el agua, emiten gases inflamables: Sustancias o desechos que, por reacción con el agua, son susceptibles de inflamación espontánea o de emisión de gases inflamables en cantidades peligrosas.
+
+5.1
+	
+
+H5.1
+	
+
+Oxidantes: Sustancias o desechos que, sin ser necesariamente combustibles, pueden, en general, al ceder oxígeno, causar o favorecer la combustión de otros materiales.
+
+5.2
+	
+
+H5.2
+	
+
+Peróxidos orgánicos: Las sustancias o los desechos orgánicos que contienen la estructura bivalente —O-O— son sustancias inestables térmicamente que pueden sufrir una descomposición autoacelerada exotérmica.
+
+6.1
+	
+
+H6.1
+	
+
+Tóxicos (venenosos) agudos: Sustancias o desechos que pueden causar la muerte o lesiones graves o daños a la salud humana, si se ingieren o inhalan o entran en contacto con la piel.
+
+6.2
+	
+
+H6.2
+	
+
+Sustancias infecciosas: Sustancias o desechos que contienen microorganismos viables o sus toxinas, agentes conocidos o supuestos de enfermedades en los animales o en el hombre.
+
+8
+	
+
+H8
+	
+
+Corrosivos: Sustancias o desechos que, por acción química, causan daños graves en los tejidos vivos que tocan o que, en caso de fuga pueden dañar gravemente o hasta destruir otras mercaderías o los medios de transporte; o pueden también provocar otros peligros.
+
+9
+	
+
+H10
+	
+
+Liberación de gases tóxicos en contacto con el aire o el agua: Sustancias o desechos que, por reacción con el aire o el agua, pueden emitir gases tóxicos en cantidades peligrosas.
+
+9
+	
+
+H11
+	
+
+Sustancias tóxicas (con efectos retardados o crónicos): Sustancias o desechos que, de ser aspirados o ingeridos, o de penetrar en la piel pueden entrañar efectos retardados o crónicos, incluso la carcinogenia.
+
+9
+	
+
+H12
+	
+
+Ecotóxicos: Sustancias o desechos que, si se liberan, tienen o pueden tener efectos adversos inmediatos o retardados en el medio ambiente debido a la bioacumulación o los efectos tóxicos en los sistemas bióticos.
+
+9
+	
+
+H13
+	
+
+Sustancias que pueden, por algún medio, después de su eliminación, dar origen a otra sustancia, por ejemplo, un producto de lixiviación, que posee alguna de las características arriba expuestas.
+
+ANEXO III
+
+OPERACIONES DE ELIMINACION
+
+A) Operaciones que no pueden conducir a la recuperación de recursos, el reciclado, la regeneración, la reutilización directa u otros usos.
+
+La sección A abarca las operaciones de eliminación que se realizan en la práctica.
+
+D1 Depósito dentro o sobre la tierra (por ejemplo, rellenos, etcétera).
+
+D2 Tratamiento de la tierra (por ejemplo, biodegradación de desperdicios líquidos o fangosos en suelos, etcétera).
+
+D3 Inyección profunda (por ejemplo, inyección de desperdicios bombeables en pozos, domos de sal, fallas geológicas natural, etcétera).
+
+D4 Embalse superficial (por ejemplo, vertido de desperdicios líquidos o fangosos en pozos, estanques, lagunas, etcétera).
+
+D5 Rellenos especialmente diseñados ( por ejemplo, vertido en compartimientos estanco separados, recubiertos y aislados unos de otros y del ambiente, etcétera.)
+
+D6 Vertido en una extensión de agua, con excepción de mares y océanos.
+
+D7 Vertido en mares y océanos, inclusive la inserción en el lecho marino.
+
+D8 Tratamiento biológico no especificado en otra parte de este anexo que dé lugar a compuestos o mezclas finales que se eliminen mediante cualquiera de las operaciones indicadas en la sección A (por ejemplo, evaporación, secado, calcinación, neutralización, precipitación, etcétera).
+
+D9 Tratamiento fisicoquímico no especificado en otra parte de este anexo que dé lugar a compuestos o mezclas finales que se eliminen mediante cualquiera de las operaciones indicadas en la sección A (por ejemplo, evaporación, secado, calcinación, neutralización, precipitación, etcétera).
+
+D10 Incineración en la tierra.
+
+D 11 Incineración en el mar.
+
+D 12 Depósito permanente (por ejemplo, colocación de contenedores en una mina, etcétera).
+
+D13 Combinación o mezcla con anterioridad a cualquiera de las operaciones indicadas en la sección A.
+
+D 14 Reempaque con anterioridad a cualquiera de las operaciones indicadas en la sección A.
+
+D 15 Almacenamiento previo a cualquiera de las operaciones indicadas en la sección A.
+
+B. OPERACIONES QUE PUEDEN CONDUCIR A LA RECUPERACION DE RECURSOS, EL RECICLADO, LA REGENERACION, REUTILIZACION DIRECTA Y OTROS USOS.
+
+La sección B comprende todas las operaciones con respecto a materiales que son considerados o definidos jurídicamente como desechos peligrosos y que de otro modo habrían sido destinados a una de las operaciones indicadas en la sección A.
+
+R1 Utilización como combustible (que no sea en la incineración directa) u otros medios de generar energía.
+
+R2 Recuperación o regeneración de disolventes.
+
+R3 Reciclado o recuperación de sustancias orgánicas que no se utilizan como disolventes.
+
+R4 Reciclado o recuperación de metales y compuestos metálicos.
+
+R5 Reciclado o recuperación de otras materias inorgánicas.
+
+R6 Regeneración de ácidos o bases.
+
+R7 Recuperación de componentes utilizados para reducir la contaminación.
+
+R8 Recuperación de componentes provenientes de catalizadores.
+
+R9 Regeneración u otra reutilización de aceites usados.
+
+R10 Tratamiento de suelos en beneficio de la agricultura o el mejoramiento ecológico.
+
+R11 Utilización de materiales residuales resultantes de cualquiera de las operaciones numeradas R1 a R10.
+
+R12 Intercambio de desechos para someterlos a cualquiera de las operaciones numeradas R1 a R11.
+
+R13 Acumulación de materiales destinados a cualquiera de las operaciones indicadas en la sección B.
