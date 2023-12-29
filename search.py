@@ -2,6 +2,9 @@ import re
 import json
 import os
 
+def c(x):
+    return x.replace('quáter', 'quater')
+
 def rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     m = re.match(r'Derógase la Ley N° ([0-9\.]+).*', x)
     if m is None: return None
@@ -37,7 +40,7 @@ def rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_tit
     }
 
 def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'Derógan?se (?:los artículos|el artículo) ([\d\s,° y]+) (de la Ley|del Decreto-Ley) N[º°] ([\d\.\/]+)\.?', x)
+    m = re.match(r'(?:Deróguese|Derógan?se) (?:los artículos|el artículo) ([\d\s,° y]+) (de la Ley|del Decreto-Ley) N[º°] ([\d\.\/]+)\.?', x)
     if m is None: return None
     arts, lod, ley = m.groups()
     arts = [art.strip() for art in arts.replace('\n', ' ').replace('°', '').replace('y', '').replace(',', '').split(' ')]
@@ -127,8 +130,6 @@ def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capi
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
-    def c(x):
-        return x.replace('quáter', 'quater')
     art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?' + c('' if bis is None else bis) + r'(?:.|\n)*?)\nART', c(old), re.I).groups()[0]
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
@@ -234,18 +235,18 @@ def rich_data_sustituyese_articulo_ccyc(num, x, titulo, titulo_titulo, capitulo,
 
 def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     x = x.replace('Ley de Impuesto al Valor Agregado', 'Decreto 280/97')
-    m = re.match(r'(?:.*?)Sustitúyese el (primer|segundo|tercer|cuarto) párrafo del artículo (\d+)[°º]? de la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el (primer|segundo|tercer|cuarto) párrafo del artículo (\d+)[°º]?(?: (:bis|ter|quater|quáter|quinquies|sixties|septies))? de la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL|re.I)
     if m is None: return None
-    par, art, lod, ley, art_new = m.groups()
+    par, art, bis, lod, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
     art_new = art_new.replace('”', '')
     art_new = art_new.strip()
 
     ley = ley.replace('.', '').replace('/', '-')
-    with open(f'leyes/{"ley" if lod == "Ley" else "decreto"}{ley}.txt') as fp:
+    with open(f'leyes/{"ley" if lod.lower() == "ley" else "decreto"}{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
-    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?\s*' + c('' if bis is None else bis) + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
     paragraphs = re.split(r'\n+', art_old)
     paragraphs[{
         'primer': 0,
@@ -316,6 +317,42 @@ def rich_data_sustituyese_articulo_dnu(num, x, titulo, titulo_titulo, capitulo, 
         "notasArticulo": "",
         "textoOriginal": art_old,
         "textoModificado": art_new,
+    }
+
+def rich_data_derogase_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    m = re.match(r'(?:.*?)Derógase el inciso ([a-z0-9]+)\)? del artículo (\d+)[°º]? (del Decreto|de la Ley) N[°º] ([\d\.\/]+)(?:.*)', x, re.MULTILINE|re.DOTALL)
+    if m is None: return None
+    inc, art, lod, ley = m.groups()
+
+    ley = ley.replace('.', '').replace('/', '-')
+    with open(f'leyes/{"ley" if lod == "de la Ley" else "decreto"}{ley}.txt') as fp:
+        old = fp.read() + '\nART'
+
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": art_old,
+        "textoModificado": re.sub(inc + r'[\)\.].*', '', art_old),
     }
 
 def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
@@ -505,6 +542,8 @@ def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_sustituyese_articulo_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
+    opt = rich_data_derogase_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
