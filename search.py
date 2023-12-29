@@ -37,13 +37,15 @@ def rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_tit
     }
 
 def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'Derógase (?:los artículos|el artículo) ([\d\s,]+) de la Ley N° ([\d\.]+).', x)
+    m = re.match(r'Derógan?se (?:los artículos|el artículo) ([\d\s,° y]+) de la Ley N° ([\d\.]+)\.?', x)
     if m is None: return None
-    art, ley = m.groups()
+    arts, ley = m.groups()
+    arts = [art.strip() for art in arts.replace('\n', ' ').replace('°', '').replace('y', '').replace(',', '').split(' ')]
+    arts = [art for art in arts if art != '']
     ley = ley.replace('.', '')
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read()
-    art_old = re.search(r'ART(?:[ÍI]CULO)?\s*' + art + r'((?:.|\n)*?)\nART', old).groups()[0]
+    art_old = [re.search(r'ART(?:[ÍI]CULO)?\.?\s*' + art + r'((?:.|\n)*?)\nART', old, re.I).groups()[0] for art in arts]
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
         "json_original": {
@@ -66,7 +68,7 @@ def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitu
         "capituloArticulo": capitulo,
         "textoArticulo": '',
         "notasArticulo": "",
-        "textoOriginal": art_old,
+        "textoOriginal": '\n'.join(art_old),
         "textoModificado": "",
     }
 
