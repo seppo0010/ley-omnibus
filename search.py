@@ -73,7 +73,7 @@ def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitu
     }
 
 def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     art, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
