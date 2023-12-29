@@ -355,6 +355,44 @@ def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitu
         "textoModificado": re.sub(inc + r'[\)\.].*', inc_new, art_old),
     }
 
+def rich_data_sustituyese_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    m = re.match(r'(?:.*?)Sustitúyese el inciso ([a-z])\)? del artículo (\d+)[°º]? del Código Civil y Comercial (?:.*?)por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    if m is None: return None
+    inc, art, inc_new = m.groups()
+    inc_new = inc_new.replace('“', '')
+    inc_new = inc_new.replace('”', '')
+    inc_new = inc_new.strip()
+
+    with open(f'leyes/ccyc.txt') as fp:
+        old = fp.read() + '\nART'
+
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": art_old,
+        "textoModificado": re.sub(inc + r'[\)\.].*', inc_new, art_old),
+    }
+
 def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
@@ -373,6 +411,8 @@ def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
+    opt = rich_data_sustituyese_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
@@ -413,7 +453,7 @@ for titulo_num, titulo, numart in re.findall('[^“]T[ÍI]TULO ([IXVL]+)(.*$)(?:
     titulo = titulo.strip().replace('- ', '').replace('– ', '')
     titulos.append((titulo_num, titulo, int(numart)))
 
-ESTA = 599
+ESTA = None
 if ESTA is None:
     indice = open('src/content/meta/indice.yaml', 'w')
 for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
