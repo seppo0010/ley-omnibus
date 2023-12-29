@@ -111,6 +111,44 @@ def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capi
         "textoModificado": art_new,
     }
 
+def rich_data_sustituyese_articulo_cpn(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? del Código Penal de la Nación,? por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    if m is None: return None
+    art, art_new = m.groups()
+    art_new = art_new.replace('“', '')
+    art_new = art_new.replace('”', '')
+    art_new = art_new.strip()
+
+    with open(f'leyes/cpn.txt') as fp:
+        old = fp.read() + '\nART'
+
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": art_old,
+        "textoModificado": art_new,
+    }
+
 def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     x = x.replace('Ley de Impuesto al Valor Agregado', 'Decreto 280/97')
     m = re.match(r'(?:.*?)Sustitúyese el (primer|segundo|tercer|cuarto) párrafo del artículo (\d+)[°º]? de la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
@@ -244,6 +282,8 @@ def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_articulo_dnu(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
+    opt = rich_data_sustituyese_articulo_cpn(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
