@@ -29,7 +29,7 @@ function Header({siteTitle}) {
                     className={`${isExpanded ? `block` : `hidden`} w-full xl:w-1/3 block flex-grow xl:flex xl:items-center xl:w-auto`}>
                     <div className="flex-grow"></div>
                     <div className="flex text-sm justify-around flex-wrap">
-                        <a href="/proyecto"
+                        <a href="/ley-omnibus/proyecto"
                            className="block mt-6 text-lg xl:inline-block xl:mt-0 font-sans font-medium no-underline text-white hover:text-amarillo hover:font-black xl:mr-4 w-full text-center">
                             Sobre este proyecto
                         </a>
