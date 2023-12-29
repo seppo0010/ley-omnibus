@@ -453,7 +453,43 @@ def rich_data_sustituyese_incisos(num, x, titulo, titulo_titulo, capitulo, capit
         "textoModificado": art_new,
     }
 
+def rich_data_470(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    with open(f'leyes/ley26215.txt') as fp:
+        old = fp.read() + '\nART'
+    arts = [
+        '16', '35', '43', '44 bis', '45', '47', '43 bis', '43 ter', '43 quáter', '43 quinquies', '43 sexies', '43 septies', '43 octies',
+        '43 nonies', '44 ter', '44 quáter', '44 quinquies',
+    ]
+    art_old = [re.search(r'ART(?:[ÍI]CULO)?\.?\s*' + art + r'((?:.|\n)*?)\nART', f'ARTÍCULO {art}.- {old}', re.I).groups()[0] for art in arts]
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": '\n'.join(art_old),
+        "textoModificado": '',
+    }
+
 def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    if num == 470:
+        return rich_data_470(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     opt = rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
