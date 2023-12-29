@@ -6,7 +6,7 @@ import {
   TwitterShareButton,
   WhatsappShareButton,
 } from "react-share";
-import { FaWhatsapp } from "react-icons/all";
+import { FaWhatsapp } from "react-icons/fa";
 import { FaRegEnvelope, FaTelegramPlane } from "react-icons/fa";
 import { FiFacebook, FiTwitter } from "react-icons/fi";
 

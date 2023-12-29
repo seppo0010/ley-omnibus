@@ -8,7 +8,7 @@ import ReactDiffViewer, {DiffMethod} from 'react-diff-viewer';
 import SEO from "../components/seo";
 import Navigation from "../components/navigation";
 import SocialShare from "../components/socialshare";
-import {FaExchangeAlt} from "react-icons/all";
+import {FaExchangeAlt} from "react-icons/fa";
 
 
 function limpiarTexto(texto) {

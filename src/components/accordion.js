@@ -1,5 +1,5 @@
 import React, {useEffect, useState} from "react"
-import {FaArrowDown} from "react-icons/all";
+import {FaArrowDown} from "react-icons/fa";
 
 const Accordion = ({title, seccion, articulos, children, alwaysOpen}) => {
     const [isOpen, setOpen] = useState(false);
