@@ -112,7 +112,7 @@ def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capi
     }
 
 def rich_data_sustituyese_articulo_cpn(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? del Código Penal de la Nación,? por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? del Código Penal(?: de la Nación)?,? por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     art, art_new = m.groups()
     art_new = art_new.replace('“', '')
