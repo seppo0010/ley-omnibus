@@ -116,7 +116,7 @@ def rich_data_derogase_titulo(num, x, titulo, titulo_titulo, capitulo, capitulo_
     }
 
 def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]?( bis|ter|cuater|quinquies|sixties|septies)? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]?( (?:bis|ter|quater|quáter|quinquies|sixties|septies))? (?:de la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     art, bis, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
@@ -127,7 +127,9 @@ def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capi
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
-    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?' + ('' if bis is None else bis) + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    def c(x):
+        return x.replace('quáter', 'quater')
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?' + c('' if bis is None else bis) + r'(?:.|\n)*?)\nART', c(old), re.I).groups()[0]
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
         "json_original": {
