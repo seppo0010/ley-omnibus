@@ -71,7 +71,7 @@ def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitu
     }
 
 def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? de la Ley N° ([\d\.]+),? por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el artículo (\d+)[°º]? de la Ley(?:.*?) N[°º] ([\d\.]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     art, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
@@ -237,7 +237,7 @@ for titulo_num, titulo, numart in re.findall('[^“]T[ÍI]TULO ([IXVL]+)(.*$)(?:
     titulo = titulo.strip().replace('- ', '').replace('– ', '')
     titulos.append((titulo_num, titulo, int(numart)))
 
-ESTA = 43
+ESTA = None
 if ESTA is None:
     indice = open('src/content/meta/indice.yaml', 'w')
 for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):

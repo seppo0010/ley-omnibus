@@ -33,7 +33,7 @@ module.exports = {
         short_name: title,
         description,
         lang: `es`,
-        start_url: `/`,
+        start_url: `/ley-omnibus/`,
         background_color: `#034EA2`,
         theme_color: `#FFCB05`,
         display: `minimal-ui`,
