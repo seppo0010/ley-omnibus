@@ -1,5 +1,6 @@
 import re
 import json
+import sys
 import os
 
 def c(x):
@@ -352,7 +353,7 @@ def rich_data_derogase_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_
         "textoArticulo": '',
         "notasArticulo": "",
         "textoOriginal": art_old,
-        "textoModificado": re.sub(inc + r'[\)\.].*', '', art_old),
+        "textoModificado": re.sub(r'\b' + inc + r'[\)\.].*', '', art_old),
     }
 
 def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
@@ -595,7 +596,7 @@ for titulo_num, titulo, numart in re.findall('[^“]T[ÍI]TULO ([IXVL]+)(.*$)(?:
     titulo = titulo.strip().replace('- ', '').replace('– ', '')
     titulos.append((titulo_num, titulo, int(numart)))
 
-ESTA = None
+ESTA = int(sys.argv[1]) if len(sys.argv) == 2 else None
 if ESTA is None:
     indice = open('src/content/meta/indice.yaml', 'w')
 for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
