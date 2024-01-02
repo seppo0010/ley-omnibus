@@ -41,13 +41,16 @@ def rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_tit
     }
 
 def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:Deróguese|Derógan?se) (?:los artículos|el artículo) ([\d\s,° y]+) (de la Ley|del Decreto-Ley) N[º°] ([\d\.\/]+)\.?', x)
+    m = re.match(r'(?:Deróguese|Derógan?se) (?:los artículos|el artículo) ([\d\s,° y]+) (de la Ley|del Decreto-Ley|del Decreto de Necesidad y Urgencia) N[º°] ([\d\.\/]+)\.?', x)
     if m is None: return None
     arts, lod, ley = m.groups()
     arts = [art.strip() for art in arts.replace('\n', ' ').replace('°', '').replace('y', '').replace(',', '').split(' ')]
     arts = [art for art in arts if art != '']
     ley = ley.replace('.', '').replace('/', '-')
-    with open(f'leyes/ley{ley}.txt') as fp:
+    f = f'leyes/ley{ley}.txt'
+    if lod == 'del Decreto de Necesidad y Urgencia':
+        f = f'leyes/dnu{ley}.txt'
+    with open(f) as fp:
         old = fp.read()
     art_old = [re.search(r'ART(?:[ÍI]CULO)?\.?\s*' + art + r'((?:.|\n)*?)\nART', old, re.I).groups()[0] for art in arts]
     return {
