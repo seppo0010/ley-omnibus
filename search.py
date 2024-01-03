@@ -123,7 +123,9 @@ def rich_data_derogase_titulo(num, x, titulo, titulo_titulo, capitulo, capitulo_
     }
 
 def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustit[uú]yese el artículo (\d+)[°º]?( (?:bis|ter|quater|quáter|quinquies|sixties|septies))?,? (?:(?:de )?la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
+    if num == 550:
+        x = x.replace('de Educación nacional.', 'de Educación nacional, por el siguiente:')
+    m = re.match(r'(?:.*?)Sustit[uú]y[ae]se el artículo (\d+)[°º]?( (?:bis|ter|quater|quáter|quinquies|sixties|septies))?,? (?:(?:de )?(?:la )?[lL]ey|del Decreto-Ley)(?:.*?) N?[°º ]*([\d\.\/]+)(?:.*?) por el siguiente(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     art, bis, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
@@ -158,6 +160,46 @@ def rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capi
         "textoArticulo": '',
         "notasArticulo": "",
         "textoOriginal": art_old,
+        "textoModificado": art_new,
+    }
+
+def rich_data_sustituyese_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    m = re.match(r'(?:.*?)Sustit[uú]yense los artículos ([\d\s,y]+) (?:(?:de )?la Ley|del Decreto-Ley)(?:.*?) N[°º ]*([\d\.\/]+)(?:.*?) por los siguientes(?: texto)?:(.*)', x, re.MULTILINE|re.DOTALL)
+    if m is None: return None
+    arts_str, ley, art_new = m.groups()
+    arts = [art for art in re.sub(r'\s+', ' ', arts_str.replace(',', '').replace('y', '')).split(' ')]
+    art_new = art_new.replace('“', '')
+    art_new = art_new.replace('”', '')
+    art_new = art_new.strip()
+
+    ley = ley.replace('.', '').replace('/', '-')
+    with open(f'leyes/ley{ley}.txt') as fp:
+        old = fp.read() + '\nART'
+
+    art_old = [re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + 'º?' r'(?:.|\n)*?)\nART', c(old), re.I).groups()[0] for art in arts]
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": '\n'.join(art_old),
         "textoModificado": art_new,
     }
 
@@ -239,9 +281,9 @@ def rich_data_sustituyese_articulo_ccyc(num, x, titulo, titulo_titulo, capitulo,
 
 def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     x = x.replace('Ley de Impuesto al Valor Agregado', 'Decreto 280/97')
-    m = re.match(r'(?:.*?)Sustitúyese el (primer|segundo|tercer|cuarto) párrafo del artículo (\d+)[°º]?(?: (:bis|ter|quater|quáter|quinquies|sixties|septies))? de la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL|re.I)
+    m = re.match(r'(?:.*?)Sustitúyese,?(?: en)? el(?: (primer|segundo|tercer|cuarto))? párrafo(?: (primero|segundo|tercero|cuarto))? del artículo (\d+)[°º]?(?: (:bis|ter|quater|quáter|quinquies|sixties|septies))? de la (Ley|Decreto)(?:.*?) (?:N[°º] )?([\d\.\/]+)(?:.*?) por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL|re.I)
     if m is None: return None
-    par, art, bis, lod, ley, art_new = m.groups()
+    par, par2, art, bis, lod, ley, art_new = m.groups()
     art_new = art_new.replace('“', '')
     art_new = art_new.replace('”', '')
     art_new = art_new.strip()
@@ -254,10 +296,12 @@ def rich_data_sustituyese_parrafo(num, x, titulo, titulo_titulo, capitulo, capit
     paragraphs = re.split(r'\n+', art_old)
     paragraphs[{
         'primer': 0,
+        'primero': 0,
         'segundo': 1,
         'tercer': 2,
+        'tercero': 2,
         'cuarto': 3,
-    }[par]] = art_new
+    }[par if par is not None else par2]] = art_new
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
         "json_original": {
@@ -360,7 +404,7 @@ def rich_data_derogase_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_
     }
 
 def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el inciso ([a-z])\)? del artículo (\d+)[°º]? de la Ley N[°º] ([\d\.]+),? por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el inciso ([a-z0-9]+)\)?[°º]? del artículo (\d+)[°º]? de la Ley (?:.*?)N[°º] ([\d\.]+)(?:.*),? por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     inc, art, ley, inc_new = m.groups()
     inc_new = inc_new.replace('“', '')
@@ -371,7 +415,7 @@ def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitu
     with open(f'leyes/ley{ley}.txt') as fp:
         old = fp.read() + '\nART'
 
-    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'º?(?:.|\n)*?)\nART', old, re.I).groups()[0]
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
         "json_original": {
@@ -395,11 +439,11 @@ def rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitu
         "textoArticulo": '',
         "notasArticulo": "",
         "textoOriginal": art_old,
-        "textoModificado": re.sub(inc + r'[\)\.].*', inc_new, art_old),
+        "textoModificado": re.sub(inc + r'º?[\)\.].*', inc_new, art_old),
     }
 
 def rich_data_sustituyese_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:.*?)Sustitúyese el inciso ([a-z])\)? del artículo (\d+)[°º]? del Código Civil y Comercial (?:.*?)por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
+    m = re.match(r'(?:.*?)Sustitúyese el inciso ([a-z])\)? (?:del )?artículo (\d+)[°º]? del Código Civil y Comercial (?:.*?)por el siguiente:(.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
     inc, art, inc_new = m.groups()
     inc_new = inc_new.replace('“', '')
@@ -494,6 +538,114 @@ def rich_data_sustituyese_incisos(num, x, titulo, titulo_titulo, capitulo, capit
         "textoModificado": art_new,
     }
 
+def rich_data_192(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": 'Artículo 18: Por el expendio de los tabacos para ser consumidos en hoja, despalillados, picados, en hebras, pulverizados (rapé), en cuerda, en tabletas y despuntes, el fabricante, importador y/o fraccionador pagará el veinticinco por ciento (25%) sobre la base imponible respectiva. No obstante lo establecido en el párrafo anterior, el impuesto que corresponda ingresar no podrá ser inferior a cuarenta pesos ($ 40) por cada 50 gramos o proporción equivalente. Ese importe se actualizará conforme a lo indicado en el cuarto párrafo del artículo 15, resultando también de aplicación lo previsto en el quinto párrafo del mismo artículo. Los elaboradores o fraccionadores de tabacos que utilicen en sus actividades productos gravados por este artículo podrán computar como pago a cuenta del impuesto que deban ingresar, el importe correspondiente al impuesto abonado o que se deba abonar por dichos productos con motivo de su expendio, en la forma que establezca la reglamentación.',
+        "textoModificado": 'Artículo 18: Por el expendio de los tabacos para ser consumidos en hoja, despalillados, picados, en hebras, pulverizados (rapé), en cuerda, en tabletas y despuntes, el fabricante, importador y/o fraccionador pagará el veinticinco por ciento (25%) sobre la base imponible respectiva. No obstante lo establecido en el párrafo anterior, el impuesto que corresponda ingresar no podrá ser inferior a cuarenta pesos ($ 40) por cada 50 gramos o proporción equivalente. Este importe se actualizará conforme a lo indicado en el cuarto párrafo del artículo 16. Los elaboradores o fraccionadores de tabacos que utilicen en sus actividades productos gravados por este artículo podrán computar como pago a cuenta del impuesto que deban ingresar, el importe correspondiente al impuesto abonado o que se deba abonar por dichos productos con motivo de su expendio, en la forma que establezca la reglamentación.',
+    }
+
+def rich_data_194(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": 'ARTÍCULO ...- El transporte de tabaco despalillado, acondicionado, picado, en hebras o reconstituido o de polvo para la elaboración reconstituido, no comprendido en el artículo 18, fuera de los establecimientos y locales debidamente habilitados que se efectúe, sin importar su destino, sin el correspondiente respaldo documental de traslado o con documentación de traslado con irregularidades, será sancionado con una multa equivalente al importe que surja de la aplicación de lo dispuesto en el segundo, tercer y cuarto párrafo del artículo 15, en, proporción a la cantidad de cigarrillos que resulte de dividir el total de gramos de tabaco transportado por ochenta centésimos (0,80), considerando el momento de la detección.\n\nA su vez, se procederá a la interdicción de la mercadería, disponiéndose su liberación con la acreditación del pago de la multa.\n\nSe considerará que existen irregularidades en la documentación de respaldo del traslado cuando se dé alguno de los siguientes supuestos:\n\na) La documentación de traslado sea apócrifa.\n\nb) Existan diferencias entre las cantidades de producto transportado y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las diferencias detectadas.\n\nc) Existan diferencias en el tipo de la mercadería detectada y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las unidades en las que se verifiquen dichas diferencias.\n\nA los fines de las sanciones establecidas en este artículo serán de aplicación las previsiones de la ley 11.683, texto ordenado en 1998 y sus modificaciones, resultando responsable el remitente del tabaco. En caso de desconocerse la procedencia del tabaco, se considerará responsable al destinatario (adquirente: comerciante, manufacturero, importador), al titular del tabaco, o a las empresas de transporte, en ese orden.\n\nIguales disposiciones resultarán aplicables cuando la mercadería transportada en las condiciones descriptas se trate de las comprendidas en los artículos 15, 16 y 18. En estos casos, el monto de la multa a la que se refiere el primer párrafo será equivalente al del impuesto que surgiría de aplicar las disposiciones de los referidos artículos, según corresponda, considerando el momento de la detección de la situación descripta.',
+        "textoModificado": 'ARTÍCULO ...- El transporte de tabaco despalillado, acondicionado, picado, en hebras o reconstituido o de polvo para la elaboración reconstituido, no comprendido en el artículo 18, fuera de los establecimientos y locales debidamente habilitados que se efectúe, sin importar su destino, sin el correspondiente respaldo documental de traslado o con documentación de traslado con irregularidades, será sancionado con una multa equivalente al importe que resulte de aplicar la alícuota dispuesta en el primer párrafo del artículo 15 sobre el precio que surja del relevamiento al que se refiere el artículo sin número agregado a continuación del artículo 2°, en proporción a la cantidad de cigarrillos que resulte de dividir el total de gramos de tabaco transportado por ochenta centésimos (0,80), considerando el momento de la detección.\n\nA su vez, se procederá a la interdicción de la mercadería, disponiéndose su liberación con la acreditación del pago de la multa.\n\nSe considerará que existen irregularidades en la documentación de respaldo del traslado cuando se dé alguno de los siguientes supuestos:\n\na) La documentación de traslado sea apócrifa.\n\nb) Existan diferencias entre las cantidades de producto transportado y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las diferencias detectadas.\n\nc) Existan diferencias en el tipo de la mercadería detectada y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las unidades en las que se verifiquen dichas diferencias.\n\nA los fines de las sanciones establecidas en este artículo serán de aplicación las previsiones de la ley 11.683, texto ordenado en 1998 y sus modificaciones, resultando responsable el remitente del tabaco. En caso de desconocerse la procedencia del tabaco, se considerará responsable al destinatario (adquirente: comerciante, manufacturero, importador), al titular del tabaco, o a las empresas de transporte, en ese orden.\n\nIguales disposiciones resultarán aplicables cuando la mercadería transportada en las condiciones descriptas se trate de las comprendidas en los artículos 15, 16 y 18. En estos casos, el monto de la multa a la que se refiere el primer párrafo será equivalente al del impuesto que surgiría de aplicar las disposiciones de los referidos artículos, según corresponda, considerando el momento de la detección de la situación descripta.',
+    }
+
+def rich_data_195(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": 'ARTÍCULO ...- El transporte de tabaco despalillado, acondicionado, picado, en hebras o reconstituido o de polvo para la elaboración reconstituido, no comprendido en el artículo 18, fuera de los establecimientos y locales debidamente habilitados que se efectúe, sin importar su destino, sin el correspondiente respaldo documental de traslado o con documentación de traslado con irregularidades, será sancionado con una multa equivalente al importe que surja de la aplicación de lo dispuesto en el segundo, tercer y cuarto párrafo del artículo 15, en, proporción a la cantidad de cigarrillos que resulte de dividir el total de gramos de tabaco transportado por ochenta centésimos (0,80), considerando el momento de la detección.\n\nA su vez, se procederá a la interdicción de la mercadería, disponiéndose su liberación con la acreditación del pago de la multa.\n\nSe considerará que existen irregularidades en la documentación de respaldo del traslado cuando se dé alguno de los siguientes supuestos:\n\na) La documentación de traslado sea apócrifa.\n\nb) Existan diferencias entre las cantidades de producto transportado y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las diferencias detectadas.\n\nc) Existan diferencias en el tipo de la mercadería detectada y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las unidades en las que se verifiquen dichas diferencias.\n\nA los fines de las sanciones establecidas en este artículo serán de aplicación las previsiones de la ley 11.683, texto ordenado en 1998 y sus modificaciones, resultando responsable el remitente del tabaco. En caso de desconocerse la procedencia del tabaco, se considerará responsable al destinatario (adquirente: comerciante, manufacturero, importador), al titular del tabaco, o a las empresas de transporte, en ese orden.\n\nIguales disposiciones resultarán aplicables cuando la mercadería transportada en las condiciones descriptas se trate de las comprendidas en los artículos 15, 16 y 18. En estos casos, el monto de la multa a la que se refiere el primer párrafo será equivalente al del impuesto que surgiría de aplicar las disposiciones de los referidos artículos, según corresponda, considerando el momento de la detección de la situación descripta.',
+        "textoModificado": 'ARTÍCULO ...- El transporte de tabaco despalillado, acondicionado, picado, en hebras o reconstituido o de polvo para la elaboración reconstituido, no comprendido en el artículo 18, fuera de los establecimientos y locales debidamente habilitados que se efectúe, sin importar su destino, sin el correspondiente respaldo documental de traslado o con documentación de traslado con irregularidades, será sancionado con una multa equivalente al importe que surja de la aplicación de lo dispuesto en el segundo, tercer y cuarto párrafo del artículo 15, en, proporción a la cantidad de cigarrillos que resulte de dividir el total de gramos de tabaco transportado por ochenta centésimos (0,80), considerando el momento de la detección.\n\nA su vez, se procederá a la interdicción de la mercadería, disponiéndose su liberación con la acreditación del pago de la multa.\n\nSe considerará que existen irregularidades en la documentación de respaldo del traslado cuando se dé alguno de los siguientes supuestos:\n\na) La documentación de traslado sea apócrifa.\n\nb) Existan diferencias entre las cantidades de producto transportado y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las diferencias detectadas.\n\nc) Existan diferencias en el tipo de la mercadería detectada y las que figuran en la documentación de traslado, siendo en tal caso aplicables las disposiciones de este artículo sobre las unidades en las que se verifiquen dichas diferencias.\n\nA los fines de las sanciones establecidas en este artículo serán de aplicación las previsiones de la ley 11.683, texto ordenado en 1998 y sus modificaciones, resultando responsable el remitente del tabaco. En caso de desconocerse la procedencia del tabaco, se considerará responsable al destinatario (adquirente: comerciante, manufacturero, importador), al titular del tabaco, o a las empresas de transporte, en ese orden.\n\nIguales disposiciones resultarán aplicables cuando la mercadería transportada en las condiciones descriptas se trate de las comprendidas en los artículos 15, 16 y 18. En estos casos, el monto de la multa a la que se refiere el primer párrafo será equivalente al del impuesto que surgiría de aplicar las disposiciones de los referidos artículos y del artículo agregado a continuación del artículo 2°, según corresponda, considerando el momento de la detección de la situación descripta.',
+    }
+
+def rich_data_196(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": 'ARTÍCULO ...- La existencia de tabaco despalillado, acondicionado, picado, en hebras o reconstituido o de polvo para la elaboración reconstituido, no comprendido en el artículo 18, sin importar su destino, sin el correspondiente respaldo documental o con documentación con irregularidades, será sancionada con una multa equivalente al importe que surja de la aplicación de lo, dispuesto en el segundo, tercer y cuarto párrafo del artículo 15, en proporción a la cantidad de cigarrillos que resulte de dividir el total de gramos de tabaco en existencia por ochenta centésimos (0,80), considerando el momento de la detección.\n\nA su vez, se procederá a la interdicción de la mercadería, disponiéndose su liberación con la acreditación del pago de la multa.\n\nSe considerará que existen irregularidades en la documentación de respaldo cuando se de alguno de los siguientes supuestos:\n\na) La documentación sea apócrifa.b) Existan diferencias entre las cantidades de producto en existencia y las que figuran en la documentación de respaldo, siendo en tal caso aplicables las disposiciones de este artículo sobre las diferencias detectadas.\n\nc) Existan diferencias en el tipo, de la mercadería detectada y las que figuran en la documentación de respaldo, siendo en tal caso aplicables las disposiciones de este artículo sobre las unidades en las que se verifiquen dichas diferencias.\n\nA los fines de las sanciones establecidas en este artículo serán de aplicación las previsiones de la ley 11.683, texto ordenado en 1998 y sus modificaciones, resultando responsable el tenedor de las existencias de tabaco.',
+        "textoModificado": 'ARTÍCULO ...- La existencia de tabaco despalillado, acondicionado, picado, en hebras o reconstituido o de polvo para la elaboración reconstituido, no comprendido en el artículo 18, sin importar su destino, sin el correspondiente respaldo documental o con documentación con irregularidades, será sancionada con una multa equivalente al importe que resulte de aplicar la alícuota dispuesta en el primer párrafo del artículo 15 sobre el precio que surja del relevamiento al que se refiere el artículo sin número agregado a continuación del artículo 2°, en proporción a la cantidad de cigarrillos que resulte de dividir el total de gramos de tabaco en existencia por ochenta centésimos (0,80), considerando el momento de la detección.\n\nA su vez, se procederá a la interdicción de la mercadería, disponiéndose su liberación con la acreditación del pago de la multa.\n\nSe considerará que existen irregularidades en la documentación de respaldo cuando se de alguno de los siguientes supuestos:\n\na) La documentación sea apócrifa.b) Existan diferencias entre las cantidades de producto en existencia y las que figuran en la documentación de respaldo, siendo en tal caso aplicables las disposiciones de este artículo sobre las diferencias detectadas.\n\nc) Existan diferencias en el tipo, de la mercadería detectada y las que figuran en la documentación de respaldo, siendo en tal caso aplicables las disposiciones de este artículo sobre las unidades en las que se verifiquen dichas diferencias.\n\nA los fines de las sanciones establecidas en este artículo serán de aplicación las previsiones de la ley 11.683, texto ordenado en 1998 y sus modificaciones, resultando responsable el tenedor de las existencias de tabaco.',
+    }
+
 def rich_data_470(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     with open(f'leyes/ley26215.txt') as fp:
         old = fp.read() + '\nART'
@@ -531,6 +683,14 @@ def rich_data_470(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
 def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     if num == 470:
         return rich_data_470(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if num == 192:
+        return rich_data_192(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if num == 194:
+        return rich_data_194(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if num == 195:
+        return rich_data_195(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if num == 196:
+        return rich_data_196(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     opt = rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
@@ -538,6 +698,8 @@ def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     opt = rich_data_derogase_titulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_articulo(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
+    opt = rich_data_sustituyese_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_articulo_dnu(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
@@ -555,6 +717,8 @@ def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     if opt is not None: return opt
     opt = rich_data_sustituyese_incisos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
+    if x.startswith('Sustit') and not x.startswith('Sustitúyese la denominación'):
+        print({"num": num, "x": x})
     return {
         "fechaDescarga": "29/12/2023, 08:50:32",
         "json_original": {
