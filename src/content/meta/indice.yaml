@@ -2103,7 +2103,7 @@
   NRO_CAPITULO: II
   DESC_CAPITULO: DEFENSA NACIONAL
   NRO_ARTICULO: 351
-  DESC_ARTICULO: "Delegación sobre el Poder Ejecutivo a legislar el Regimen Legal de la Propiedad Intelectual"
+  DESC_ARTICULO: "Delegación sobre el Poder Ejecutivo a redactar el Regimen Legal de la Propiedad Intelectual"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: II
@@ -2511,235 +2511,235 @@
   NRO_CAPITULO: VIII
   DESC_CAPITULO: LEY DE DEPÓSITOS JUDICIALES DE LOS TRIBUNALES NACIONALES Y FEDERALES EN EL BANCO DE LA NACIÓN ARGENTINA. (Ley N° 26.764)
   NRO_ARTICULO: 419
-  DESC_ARTICULO: "Modifíquese el artículo 2° de la ley 21"
+  DESC_ARTICULO: "Depósitos judiciales"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: VIII
   DESC_CAPITULO: LEY DE DEPÓSITOS JUDICIALES DE LOS TRIBUNALES NACIONALES Y FEDERALES EN EL BANCO DE LA NACIÓN ARGENTINA. (Ley N° 26.764)
   NRO_ARTICULO: 420
-  DESC_ARTICULO: "Los depósitos judiciales de los tribunales nacionales y federales de todo el país se efectuarán en un banco, a elección de los tribunales, donde el Estado nacional o provincial tenga participación accionaria"
+  DESC_ARTICULO: "Depósitos judiciales"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: VIII
   DESC_CAPITULO: LEY DE DEPÓSITOS JUDICIALES DE LOS TRIBUNALES NACIONALES Y FEDERALES EN EL BANCO DE LA NACIÓN ARGENTINA. (Ley N° 26.764)
   NRO_ARTICULO: 421
-  DESC_ARTICULO: "En cuanto el estado de la causa lo permita, el dinero, títulos y valores secuestrados se depositarán, como pertenecientes a aquélla, se depositarán según lo estipulado en el artículo 1"
+  DESC_ARTICULO: "Depósitos judiciales"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 422
-  DESC_ARTICULO: "Instrúyese al PODER EJECUTIVO NACIONAL a impulsar los actos y suscribir los Acuerdos que sean necesarios para que se efectivice la transferencia del Registro de la Propiedad Inmueble "
+  DESC_ARTICULO: "Transferencia del Registro de la Propiedad Inmueble a la Ciudad Autónoma de Buenos Aires"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 423
-  DESC_ARTICULO: "Quedarán sujetos al régimen de la presente ley los registros de la propiedad inmueble existentes en cada provincia y en la Ciudad Autónoma de Buenos Aires"
+  DESC_ARTICULO: "Sujetos del Registro de la propiedad inmueble"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 424
-  DESC_ARTICULO: "De acuerdo con lo dispuesto por los artículos 1890, 1892, 1893 y concordantes del CODIGO CIVIL Y COMERCIAL DE LA NACION, para su publicidad, oponibilidad a terceros y demás previsiones de esta ley, en los mencionados registros se inscribirán o anotarán, según corresponda, los siguientes documentos"
+  DESC_ARTICULO: "Documentos a inscribir"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 425
-  DESC_ARTICULO: "Para que los documentos mencionados en el artículo anterior puedan ser inscriptos o anotados, deberán reunir los siguientes requisitos"
+  DESC_ARTICULO: "Requisitos"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 426
-  DESC_ARTICULO: "El Registro examinará la legalidad de las formas extrínsecas de los documentos cuya inscripción se solicite, ateniéndose a lo que resultare de ellos y de las constancias y asientos registrales con los alcances establecidos en la presente ley"
+  DESC_ARTICULO: "Verificación del Registro"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 427
-  DESC_ARTICULO: "Los inmuebles respecto de los cuales deban inscribirse o anotarse los documentos a que se refiere el artículo 2º, serán previamente matriculados en el Registro correspondiente a su ubicación, debiendo cada jurisdicción adoptar los medios de registración que considere aplicables de conformidad con la técnica legal establecida"
+  DESC_ARTICULO: "Inmuebles inscriptos"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 428
-  DESC_ARTICULO: "La matriculación se efectuará destinando a cada inmueble un folio especial con una característica de ordenamiento que servirá para designarlo"
+  DESC_ARTICULO: "Matriculación"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 429
-  DESC_ARTICULO: "El asiento de matriculación llevará la firma o firma digital o algún otro modo de identificar al registrador responsable"
+  DESC_ARTICULO: "Asiento de matriculación"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 430
-  DESC_ARTICULO: "El Registro es público"
+  DESC_ARTICULO: "Publicidad del Registro"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 431
-  DESC_ARTICULO: "El plazo de validez de la certificación, que comenzará a contarse desde la cero hora del día de su expedición es de treinta días"
+  DESC_ARTICULO: "Plazo de validez de la certificación"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 432
-  DESC_ARTICULO: "Aparte de la certificación a que se refiere el artículo 23, el Registro expedirá copia simple o autenticada de la documentación registral y los informes que se soliciten de conformidad con la reglamentación local"
+  DESC_ARTICULO: "Copias de la documentación registral"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 433
-  DESC_ARTICULO: "El asiento registral servirá como prueba de la existencia de la documentación que lo originara"
+  DESC_ARTICULO: "Valor probatorio del asiento registral"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 434
-  DESC_ARTICULO: "El registro de las inhibiciones o interdicciones de las personas físicas se practicará siempre que en el oficio que las ordene se expresen los datos que el respectivo Código de Procedimientos señale"
+  DESC_ARTICULO: "Registro de las inhibiciones"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 435
-  DESC_ARTICULO: "Cuando la inexactitud a que se refiere el artículo precedente provenga de error u omisión en el documento, se rectificará, siempre que a la solicitud respectiva se acompañe documento de la misma naturaleza que el que la motivó o resolución judicial que contenga los elementos necesarios a tal efecto, sin perjuicio de que podrá ser corregida la omisión o el error, en otro documento que acceda al registro donde se relacione el mismo, debiendo basarse en documento auténtico"
+  DESC_ARTICULO: "Rectificación"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 436
-  DESC_ARTICULO: "La organización, funcionamiento y número de los Registros de la Propiedad, el procedimiento de registración y el trámite correspondiente a las impugnaciones o recursos que se deduzcan contra las resoluciones de sus autoridades serán establecidas por las leyes y reglamentaciones locales"
+  DESC_ARTICULO: "Regulación"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 437
-  DESC_ARTICULO: "En ningún caso podrá restringirse o limitarse la inmediata inscripción de los títulos en el Registro mediante normas de carácter administrativo o tributario"
+  DESC_ARTICULO: "No restricción"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: IX
   DESC_CAPITULO: REGISTRO DE LA PROPIEDAD INMUEBLE
   NRO_ARTICULO: 438
-  DESC_ARTICULO: "Créase el Registro Nacional de Inhibiciones el que funcionará en el ámbito de la Secretaría de Justicia del Ministerio de Justicia de la Nación y tendrá por objeto unificar y coordinar la información de los todos Registros"
+  DESC_ARTICULO: "Registro Nacional de Inhibiciones"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: X
   DESC_CAPITULO: TRASPASO DE LA JUSTICIA NACIONAL
   NRO_ARTICULO: 439
-  DESC_ARTICULO: "Instrúyese al PODER EJECUTIVO NACIONAL a impulsar todos los actos y suscribir los Acuerdos que sean necesarios para que se efectivice la transferencia de la JUSTICIA NACIONAL a la CIUDAD AUTÓNOMA DE BUENOS AIRES en un plazo máximo de TRES "
+  DESC_ARTICULO: "Transferencia de la Justicia Nacional a la Ciudad Autónoma de Buenos Aires"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: XI
   DESC_CAPITULO: INSPECCIÓN GENERAL DE JUSTICIA
   NRO_ARTICULO: 440
-  DESC_ARTICULO: "La Inspección General de Justicia estará a cargo de un Inspector General, que la representa y es responsable del cumplimiento de esta ley"
+  DESC_ARTICULO: "Inspector General"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: XII
   DESC_CAPITULO: PROCESOS SUCESORIOS NO CONTENCIOSOS
   NRO_ARTICULO: 441
-  DESC_ARTICULO: "Apruébese el régimen sobre Procesos Sucesorios No Contenciosos que se adjunta como ANEXO IV "
+  DESC_ARTICULO: "Régimen sobre Procesos Sucesorios No Contenciosos"
 - NRO_SECCION: V
   DESC_SECCION: JUSTICIA
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 442
-  DESC_ARTICULO: "Apruébese el Régimen de Juicio por Jurados que se adjunta como ANEXO VI "
+  DESC_ARTICULO: "Régimen de Juicio por Jurados"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 443
-  DESC_ARTICULO: "Los diputados nacionales serán elegidos directamente por el pueblo de las provincias y de la Ciudad Autónoma de Buenos Aires, que se consideran a este fin como distritos electorales de un solo Estado"
+  DESC_ARTICULO: "Circunscripciones electorales"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 444
-  DESC_ARTICULO: "La elección se realizará a simple pluralidad de sufragios y el escrutinio se practicará por lista sin tomar en cuenta las tachas o sustituciones que hubiere efectuado el votante"
+  DESC_ARTICULO: "Normas electorales"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 445
-  DESC_ARTICULO: "La división de los distritos en circunscripciones será efectuada por el Poder Ejecutivo Nacional quien deberá tomar como base el censo nacional de 2022 y procurar asegurar que en cada circunscripción no existan diferencias superiores al TRES POR CIENTO "
+  DESC_ARTICULO: "Creación de circunscripciones electorales"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 446
-  DESC_ARTICULO: "El Poder Ejecutivo deberá concluir un proyecto de diseño de las circunscripciones con una anticipación no menor de trescientos sesenta días corridos a fecha de la elección"
+  DESC_ARTICULO: "Proyecto de diseño de las circunscripciones"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 447
-  DESC_ARTICULO: "La Cámara de Diputados practicará el sorteo de las circunscripciones cuya elección corresponderá a la primera renovación parcial"
+  DESC_ARTICULO: "Sorteo de las circunscripciones"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 448
-  DESC_ARTICULO: "Las listas de candidatos se integrarán con un candidato titular y un suplente, los cuales deberán ser de diferente género"
+  DESC_ARTICULO: "Candidatos a diputados"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 449
-  DESC_ARTICULO: "En caso de muerte, renuncia, separación, inhabilidad o incapacidad permanente de un/a Diputado/a Nacional será sustituido por su suplente"
+  DESC_ARTICULO: "Muerte, renuncia, separación, inhabilidad o incapacidad permanente de un/a Diputado/a Nacional"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 450
-  DESC_ARTICULO: "El número de diputados nacionales a elegir será de uno por cada 180"
+  DESC_ARTICULO: "Representatividad de diputados"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 451
-  DESC_ARTICULO: "TITULO II  Primarias abiertas, simultáneas y obligatorias  CAPITULO I  Agrupaciones políticas  ARTÍCULO 18"
+  DESC_ARTICULO: "Derogación de la Ley de Primarias Abiertas Simultaneas y Obligatorias"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 452
-  DESC_ARTICULO: "Dentro de los DIEZ "
+  DESC_ARTICULO: "Consejo de Seguimiento"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 453
-  DESC_ARTICULO: "Para que a una agrupación política se le pueda reconocer su personería jurídico-política, en  forma provisoria, debe solicitarlo ante el juez competente, cumpliendo con los siguientes requisitos"
+  DESC_ARTICULO: "Personería jurídico-política de las agrupaciones políticas"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 454
-  DESC_ARTICULO: "Los partidos políticos de distrito y nacionales pueden constituir alianzas de distrito o nacionales respectivamente de DOS "
+  DESC_ARTICULO: "Alianzas"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 455
-  DESC_ARTICULO: "Los Partidos Políticos de distrito y nacionales pueden constituir confederaciones de distrito o nacionales respectivamente de DOS "
+  DESC_ARTICULO: "Conferederaciones"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 456
-  DESC_ARTICULO: "La elección de las autoridades partidarias y la de los candidatos a cargos electivos nacionales, se llevarán a cabo periódicamente, de acuerdo con sus cartas orgánicas y subsidiariamente por la Ley orgánica de los Partidos Políticos o por la legislación electoral"
+  DESC_ARTICULO: "Autoridades partidarias"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 457
-  DESC_ARTICULO: "No podrán ser candidatos en elecciones generales a cargos públicos electivos nacionales, ni ser designados para ejercer cargos partidarios"
+  DESC_ARTICULO: "Candidatos no permitidos"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
@@ -2763,7 +2763,7 @@
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 461
-  DESC_ARTICULO: "Las resoluciones de la Dirección Nacional Electoral del Ministerio del Interior para las elecciones generales, sobre distribución o asignación a las agrupaciones políticas de aportes públicos o espacio de publicidad electoral son apelables por las agrupaciones en sede judicial directamente ante la Cámara Nacional Electoral"
+  DESC_ARTICULO: "Apelabilidad de las resoluciones de la Dirección Nacional Electoral"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
@@ -2817,7 +2817,7 @@
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 470
-  DESC_ARTICULO: "LEY DE FINANCIAMIENTO DE LOS PARTIDOS POLITICOS  Ley 26"
+  DESC_ARTICULO: "Derogación de artículos de la Ley de Financiamiento de los Partidos Políticos"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
@@ -2835,31 +2835,31 @@
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 473
-  DESC_ARTICULO: "Créase el módulo electoral como unidad de medida monetaria para determinar los límites de gastos autorizados por esta ley"
+  DESC_ARTICULO: "Módulo electoral"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: XIII
   DESC_CAPITULO: JUICIO POR JURADOS
   NRO_ARTICULO: 474
-  DESC_ARTICULO: "Instrúyese al Poder Ejecutivo Nacional a que dicte, dentro del plazo de NOVENTA "
+  DESC_ARTICULO: "Delegación sobre el Poder Ejecutivo a redactar el Código Electoral Nacional"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 475
-  DESC_ARTICULO: "HOTELES DE TURISMO INTERNACIONAL  Ley N° 17"
+  DESC_ARTICULO: "Derogación de la Ley de Promoción de la construcción de hoteles de turismo Internacional"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 476
-  DESC_ARTICULO: "TURISMO  LEY Nº 21"
+  DESC_ARTICULO: "Derogación de la Ley de Promoción del turismo por medio de líneas de transporte"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 477
-  DESC_ARTICULO: "Créase el Comité Interministerial de Facilitación Turística para coordinar y garantizar el cumplimiento de las funciones administrativas de las distintas entidades públicas de nivel nacional con competencias relacionadas y/o afines al turismo en beneficio del desarrollo sustentable del país y su competitividad"
+  DESC_ARTICULO: "Derogación de artículos la Ley de Turismo"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
@@ -2901,109 +2901,109 @@
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 484
-  DESC_ARTICULO: "Las agencias de viajes turísticos que brinden servicios a contingentes estudiantiles, deberán contar con un Certificado nacional de autorización para agencias de turismo estudiantil"
+  DESC_ARTICULO: "Certificado nacional de autorización para agencias de turismo estudiantil"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 485
-  DESC_ARTICULO: "El Certificado nacional de autorización para agencias de turismo estudiantil será expedido por el Ministerio de Turismo, Cultura y Deporte, que evaluará y acreditará el cumplimiento de todos los recaudos legales que exige la presente ley y su reglamentación"
+  DESC_ARTICULO: "Evaluación"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 486
-  DESC_ARTICULO: "Las agencias de viajes que operen con turismo estudiantil a fin de obtener el correspondiente certificado de autorización deberán presentar una declaración jurada que contenga la siguiente información"
+  DESC_ARTICULO: "Requisitos"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 487
-  DESC_ARTICULO: "Las Agencias de Viaje, que cuentan con la habilitación para operar en el rubro Turismo Estudiantil deberán presentar ante la Autoridad de Aplicación una declaración jurada anual o cualquier cambio que modifique la misma, dentro de los QUINCE "
+  DESC_ARTICULO: "Declaración jurada anual"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 488
-  DESC_ARTICULO: "Si por razones de fuerza mayor fuese imposible la utilización de alguno de los servicios previamente contratados, la agencia deberá brindar siempre uno de igual o superior categoría al establecido"
+  DESC_ARTICULO: "Imposibilidad de brindar servicios"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 489
-  DESC_ARTICULO: "La Autoridad de Aplicación podrá aplicar la sanción de cancelación del Certificado Nacional de Autorización para Agencias de Turismo Estudiantil a las agencias de viajes turísticos que transgredan las prescripciones de la presente ley, de conformidad al procedimiento fijado en el artículo 16 bis y subsiguientes"
+  DESC_ARTICULO: "Cancelación del Certificado nacional de autorización para agencias de turismo estudiantil"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 490
-  DESC_ARTICULO: "Las sanciones se aplicarán previo sumario"
+  DESC_ARTICULO: "Sumario previo"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 491
-  DESC_ARTICULO: "Producidas todas las pruebas, así como las medidas para mejor proveer que se puedan decretar, se cerrará el sumario y se dará vista al interesado por CINCO "
+  DESC_ARTICULO: "Plazos"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 492
-  DESC_ARTICULO: "Contra las resoluciones condenatorias recaídas en los sumarios administrativos, podrá interponerse recurso de apelación ante la Cámara Nacional de Apelaciones en lo penal económico dentro de los CINCO "
+  DESC_ARTICULO: "Apelación"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 493
-  DESC_ARTICULO: "La acción para perseguir el cobro de las multas aplicadas prescribirá al año"
+  DESC_ARTICULO: "Prescripción"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 494
-  DESC_ARTICULO: "sexies"
+  DESC_ARTICULO: "Prescripción"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 495
-  DESC_ARTICULO: "La prescripción de las acciones para imponer sanción y para hacer efectivas las multas se interrumpe por la comisión de una nueva infracción y por todo otro acto de procedimiento judicial o administrativo"
+  DESC_ARTICULO: "Prescripción"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: II
   DESC_CAPITULO: TURISMO
   NRO_ARTICULO: 496
-  DESC_ARTICULO: "A los efectos de considerar al infractor como reincidente, no se tendrá en cuenta la pena anteriormente impuesta cuando hubiere transcurrido el término de CINCO "
+  DESC_ARTICULO: "Prescripción"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 497
-  DESC_ARTICULO: "A efectos de la presente ley, entiéndese por quema toda labor de eliminación de la vegetación o residuos de vegetación mediante el uso del fuego, con el propósito de habilitar un terreno para su aprovechamiento productivo"
+  DESC_ARTICULO: "Quema"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 498
-  DESC_ARTICULO: "Queda prohibida en todo el territorio nacional toda actividad de quema que no cuente con la debida autorización expedida por la autoridad local competente, la que será otorgada en forma específica, en un plazo máximo de 30 días hábiles desde la solicitud de autorización"
+  DESC_ARTICULO: "Prohibición"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 499
-  DESC_ARTICULO: "Cuando la comercialización de fertilizantes se efectúe a granel se deberá comunicar con suficiente antelación al organismo de aplicación esta circunstancia, a los efectos de adoptar los recaudos necesarios para resguardar la calidad del producto hasta su destino, de acuerdo a lo que establezca la reglamentación"
+  DESC_ARTICULO: "Comercialización de fertilizantes a granel"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 500
-  DESC_ARTICULO: "Para los proyectos de desmonte de bosques nativos que se encuentren bajo la categoría I y II  prescripta en el artículo 9°, la autoridad de aplicación de cada jurisdicción garantizará el cumplimiento estricto de los artículos 19, 20 y 21 de la Ley N° 25"
+  DESC_ARTICULO: "Proyectos de desmonte de bosques nativos"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 501
-  DESC_ARTICULO: "El Fondo estará integrado por"
+  DESC_ARTICULO: "Integración del Fondo Nacional para el Enriquecimiento y la Conservación de los Bosques Nativos"
 - NRO_SECCION: VI
   DESC_SECCION: INTERIOR, AMBIENTE, TURISMO Y DEPORTE
   NRO_CAPITULO: III
@@ -3033,13 +3033,13 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 506
-  DESC_ARTICULO: "ARTÍCULO"
+  DESC_ARTICULO: "Políticas Públicas"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 507
-  DESC_ARTICULO: "La Asignación por Embarazo para Protección Social consistirá en una prestación monetaria no retributiva mensual que se abonará desde el inicio del embarazo hasta su finalización, siempre que no exceda de nueve "
+  DESC_ARTICULO: "Asignación por Embarazo para Protección Social"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3105,7 +3105,7 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 518
-  DESC_ARTICULO: "Sustitúyese la denominación del capítulo VII de la Ley N° 27"
+  DESC_ARTICULO: "Denominación Política pública de detección y asistencia a las madres embarazadas y sus hijos por nacer"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3141,13 +3141,13 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 524
-  DESC_ARTICULO: "CAPÍTULO VIII - POLÍTICA PÚBLICA DE ACOMPAÑAMIENTO FAMILIAR”"
+  DESC_ARTICULO: "Denominación Política pública de acompañamiento familiar"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 525
-  DESC_ARTICULO: "La política pública de acompañamiento familiar tiene por objetivo la detección de niños de hasta tres años en situación de vulnerabilidad en todo el territorio argentino para brindarles acompañamiento especializado, tanto a ellos como a sus madres"
+  DESC_ARTICULO: "Objetivo"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3159,7 +3159,7 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 527
-  DESC_ARTICULO: "El PODER EJECUTIVO NACIONAL se encargará de"
+  DESC_ARTICULO: "Tareas del Poder Ejecutivo Nacional"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3177,7 +3177,7 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 530
-  DESC_ARTICULO: "CAPÍTULO IX - POLÍTICA PÚBLICA DE FORTALECIMIENTO DE LA PRIMERA INFANCIA”"
+  DESC_ARTICULO: "Denominación Política pública de fortalecimiento de primera infancia"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3207,103 +3207,103 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 535
-  DESC_ARTICULO: "Se establece la capacitación obligatoria en la temática violencia familiar y contra la mujer, para todas las personas que se desempeñen en la función pública en los organismos competentes en la materia"
+  DESC_ARTICULO: "Capacitación obligatoria"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 536
-  DESC_ARTICULO: "El MINISTERIO DE CAPITAL HUMANO es la autoridad de aplicación de la presente ley, el cual a su vez deberá reglamentar un procedimiento que atienda la problemática de violencia familiar"
+  DESC_ARTICULO: "Autoridad de aplicación"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 537
-  DESC_ARTICULO: "Las máximas autoridades de los organismos referidos en el artículo 1, con la colaboración de sus áreas, programas u oficinas de prevención de la violencia si estuvieren en funcionamiento, y las organizaciones sindicales correspondientes, son responsables de garantizar la implementación de las capacitaciones que diseñará e implementará la Secretaría de Niñez y Familia dependiente del MINISTERIO DE CAPITAL HUMANO"
+  DESC_ARTICULO: "Garantización de la implementación de las capacitaciones"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 538
-  DESC_ARTICULO: "El MINISTERIO DE CAPITAL HUMANO certificará la calidad de las capacitaciones que elabore e implemente cada organismo, que deberán ser enviadas dentro de los seis "
+  DESC_ARTICULO: "Certificación de calidad"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 539
-  DESC_ARTICULO: "La capacitación estará a cargo del Ministerio de Capital Humano"
+  DESC_ARTICULO: "Autoridad"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 540
-  DESC_ARTICULO: "El MINISTERIO DE CAPITAL HUMANO, en su página web, deberá brindar acceso público y difundir el grado de cumplimiento de las disposiciones de la presente en cada uno de los organismos referidos en el artículo 1"
+  DESC_ARTICULO: "Publicidad de información"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 541
-  DESC_ARTICULO: "Transfiérese el Consejo Nacional de Coordinación de Políticas Sociales al ámbito de la Secretaría de Niñez y Familia del MINISTERIO DE CAPITAL HUMANO"
+  DESC_ARTICULO: "Transferencia del Consejo Nacional de Coordinación de Políticas Sociales"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 542
-  DESC_ARTICULO: "La Presidencia del CONSEJO NACIONAL DE COORDINACIÓN DE POLÍTICAS SOCIALES tendrá las siguientes funciones"
+  DESC_ARTICULO: "Funciones del Consejo Nacional de Coordinación de Políticas Sociales"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 543
-  DESC_ARTICULO: "El CONSEJO NACIONAL DE COORDINACIÓN DE POLÍTICAS SOCIALES tendrá los siguientes objetivos"
+  DESC_ARTICULO: "Objetivos del Consejo Nacional de Coordinación de Políticas Sociales"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 544
-  DESC_ARTICULO: "La SECRETARÍA DE EDUCACIÓN del MINISTERIO DE CAPITAL HUMANO, en  acuerdo con el Consejo Federal de Educación, definirá los criterios básicos concernientes a la carrera docente en el ámbito estatal, en concordancia con lo dispuesto en la presente ley"
+  DESC_ARTICULO: "Definición de criterios básicos de la carrera docente"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 545
-  DESC_ARTICULO: "j) Evaluar a los docentes que se incorporan a la docencia mediante un examen que certifique los capacidades y conocimientos adquiridos"
+  DESC_ARTICULO: "Capacitación docente"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 546
-  DESC_ARTICULO: "La SECRETARÍA DE EDUCACIÓN del MINISTERIO DE CAPITAL HUMANO, en  acuerdo con el Consejo Federal de Educación, establecerá los criterios para la regulación del sistema de  formación docente y la implementación del proceso de acreditación y registro de los institutos superiores de formación docente, así corno de la homologación y registro nacional de títulos y certificaciones"
+  DESC_ARTICULO: "Definición de criterios de regulación del sistema de formación docente"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 547
-  DESC_ARTICULO: "La SECRETARÍA DE EDUCACIÓN del MINISTERIO DE CAPITAL HUMANO, en acuerdo  con el Consejo Federal de Educación, fortalecerá las bibliotecas escolares, digitales o físicas, existentes y  asegurará su creación y adecuado funcionamiento"
+  DESC_ARTICULO: "Bibliotecas escolares"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 548
-  DESC_ARTICULO: "Son objeto de información y evaluación las principales variables de funcionamiento del sistema, tales como cobertura, repetición, deserción, egreso, promoción, sobreedad, origen socioeconómico, inversiones y costos, los procesos y logros de aprendizaje, los proyectos y programas educativos, la formación y las prácticas de docentes, directivos y supervisores, las unidades escolares, los contextos socioculturales del aprendizaje y los propios métodos de evaluación"
+  DESC_ARTICULO: "Objeto de información y evaluación"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 549
-  DESC_ARTICULO: "La SECRETARÍA DE EDUCACIÓN del MINISTERIO DE CAPITAL HUMANO y las  jurisdicciones educativas promoverán la transparencia en el uso de los datos e indicadores a fin de contribuir a la buena gestión de la educación y la investigación educativa"
+  DESC_ARTICULO: "Transparencia"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 550
-  DESC_ARTICULO: "Los estudios a distancia híbridos como alternativa a la educación presencial a partir del segundo ciclo del nivel primario para menores de edad, jóvenes y adultos, podrán impartirse en las distintas modalidades educativas"
+  DESC_ARTICULO: "Estudios a distancia híbridos"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 551
-  DESC_ARTICULO: "La SECRETARÍA DE EDUCACIÓN del MINISTERIO DE CAPITAL HUMANO  juntamente con el Consejo Federal de Cultura y Educación y las entidades gremiales docentes con representación nacional, acordarán un convenio marco que incluirá pautas generales referidas a"
+  DESC_ARTICULO: "Convenio marco docente"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3315,157 +3315,157 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 553
-  DESC_ARTICULO: "Los estudios de grado en las instituciones de educación superior de gestión estatal para todo ciudadano argentino nativo o por opción y para todo extranjero que cuente con residencia permanente en el país, son gratuitos, quedando prohibido establecer sobre ellos cualquier tipo de gravamen, tasa, impuesto, arancel o tarifa, directos o indirectos"
+  DESC_ARTICULO: "Gratuidad de educación superior"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 554
-  DESC_ARTICULO: "Todas las personas que aprueben la educación secundaria pueden ingresar de manera libre e irrestricta a la enseñanza de grado en el nivel de educación superior"
+  DESC_ARTICULO: "Ingreso a la educación superior"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 555
-  DESC_ARTICULO: "Las instituciones universitarias deberán obtener evaluaciones externas como mínimo cada diez  "
+  DESC_ARTICULO: "Evaluaciones externas"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 556
-  DESC_ARTICULO: "El aporte del Estado nacional para las instituciones de educación superior universitaria de gestión estatal se distribuirá en función del número de estudiantes matriculados en cada institución, el tipo de carrera ofrecida, tales como carreras de grado, posgrado y otras, y su área de formación y también el número de egresados y otros criterios que se definan"
+  DESC_ARTICULO: "Aporte del Estado nacional para las instituciones de educación superior"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 557
-  DESC_ARTICULO: "Las cooperadoras escolares podrán"
+  DESC_ARTICULO: "Potestades de las cooperadoras escolares"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 558
-  DESC_ARTICULO: "El INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES estará gobernado y  administrado por"
+  DESC_ARTICULO: "Dirección del INCAA"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 559
-  DESC_ARTICULO: "Son deberes y atribuciones del Director Nacional de Cine y Artes Audiovisuales"
+  DESC_ARTICULO: "Deberes y atribuciones del Director Nacional de Cine y Artes Audiovisuales"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 560
-  DESC_ARTICULO: "La Asamblea Federal tendrá las siguientes funciones y atribuciones"
+  DESC_ARTICULO: "Funciones de la Asamblea Federal"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 561
-  DESC_ARTICULO: "El Consejo Asesor tendrá como funciones aprobar o rechazar los actos realizados por el Director ejercidos de acuerdo a las atribuciones conferidas en el artículo 3º, incisos a), g) y k), y designar comités de selección, en caso de que corresponda, para la calificación de los proyectos que aspiran a obtener los beneficios de esta ley"
+  DESC_ARTICULO: "Funciones del Consejo Asesor"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 562
-  DESC_ARTICULO: "A los efectos de la ley son películas nacionales las producidas por personas físicas de nacionalidad argentina o de existencia ideal con domicilio legal en la República, cuando reúnan las siguientes condiciones"
+  DESC_ARTICULO: "Películas nacionales"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 563
-  DESC_ARTICULO: "Ninguna película de largometraje, de producción argentina o extranjera, podrá ser exhibida en las salas cinematográficas sin tener el certificado de exhibición otorgado por el INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES"
+  DESC_ARTICULO: "Certificado de exhibición"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 564
-  DESC_ARTICULO: "El Fondo de Fomento Cinematográfico, cuya administración estará a cargo del INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES, se integrará"
+  DESC_ARTICULO: "Integración del Fondo de Fomento Cinematográfico"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 565
-  DESC_ARTICULO: "El Fondo de Fomento Cinematográfico, dentro de las condiciones que se establecen en la presente ley, se aplicará a"
+  DESC_ARTICULO: "Uso del Fondo de Fomento Cinematográfico"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 566
-  DESC_ARTICULO: "El INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES subsidiará tanto  películas de largometraje de producción nacional como coproducciones"
+  DESC_ARTICULO: "Limitación de largometrajes subsidiados"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 567
-  DESC_ARTICULO: "El Instituto definirá cada año qué parte de su presupuesto dedicará al otorgamiento de subsidios no reembolsables"
+  DESC_ARTICULO: ""
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 568
-  DESC_ARTICULO: "A los fines de determinar la aptitud de un proyecto aspirante a beneficiario, se tendrán en cuenta los siguientes lineamientos"
+  DESC_ARTICULO: "Lineamientos para determinar la aptitud de un proyecto aspirante a beneficiario"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 569
-  DESC_ARTICULO: "Cuando se trate de coproducciones, sólo se tendrá en cuenta la inversión reconocida al coproductor argentino"
+  DESC_ARTICULO: ""
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 570
-  DESC_ARTICULO: "Los subsidios no podrán ser cedidos, total o parcialmente, sin previo consentimiento del INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES"
+  DESC_ARTICULO: "Cesión de subsidios"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 571
-  DESC_ARTICULO: "Los créditos que otorgue el INSTITUTO NACIONAL DE CINE Y ARTES  AUDIOVISUALES serán canalizados a través de una entidad bancaria que cuente con una red nacional y que será seleccionada mediante licitación pública del servicio de asesoramiento y agente financiero"
+  DESC_ARTICULO: "Concesión de entidad bancaria para créditos"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 572
-  DESC_ARTICULO: "Los fondos que anualmente el INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES afecte, conforme con el artículo 36, como asimismo los ingresos que resulten disponibles por amortización de los créditos acordados, se aplicarán en la siguiente forma"
+  DESC_ARTICULO: "Aplicación de los fondos del INCAA"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 573
-  DESC_ARTICULO: "Los créditos serán otorgados a tasas de mercado"
+  DESC_ARTICULO: "Tasas"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 574
-  DESC_ARTICULO: "Mientras un crédito otorgado en virtud del inciso a) del artículo 21 no haya sido cancelado, el beneficiario no podrá acceder a futuros créditos ni subsidios del Instituto hasta que la deuda quede íntegramente saldada"
+  DESC_ARTICULO: "Nuevos créditos"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 575
-  DESC_ARTICULO: "El INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES aprobará los proyectos  y determinará el monto del crédito a otorgar para los fines a que se refiere el artículo 37 prorrateando los montos  disponibles entre los demandantes"
+  DESC_ARTICULO: "Monto de créditos"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 576
-  DESC_ARTICULO: "Todo titular de una película de largometraje al que se le otorgue el subsidio previsto por la presente ley cederá la copia presentada al INSTITUTO NACIONAL DE CINE Y ARTES AUDIOVISUALES para ser incorporada en propiedad a la CINEMATECA NACIONAL"
+  DESC_ARTICULO: "Cinemateca Nacional"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 577
-  DESC_ARTICULO: "Las modificaciones a la Ley Nº 17"
+  DESC_ARTICULO: "Vigencia"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 578
-  DESC_ARTICULO: "– El Instituto Nacional de Cinematografía clasificará las películas nacionales a efectos de su exhibición obligatoria y para la exportación"
+  DESC_ARTICULO: "Derogación de artículos la Ley de fomento de la actividad cinematográfica nacional"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3489,19 +3489,19 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 582
-  DESC_ARTICULO: "Son atribuciones del Director del INAMU, las siguientes"
+  DESC_ARTICULO: "Atribuciones del Director del INAMU"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 583
-  DESC_ARTICULO: "Los mecanismos de promoción que podrá autorizar el INAMU son de dos tipos"
+  DESC_ARTICULO: "Mecanismos de promoción que podrá autorizar el INAMU"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 584
-  DESC_ARTICULO: "Los fondos destinados al INAMU serán propuestos y asignados por la Secretaría de Cultura de la Nación u organismo que en el futuro la reemplace, dentro del Presupuesto General de la Nación"
+  DESC_ARTICULO: "Presupuesto del INAMU"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3519,79 +3519,79 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 587
-  DESC_ARTICULO: "Buenos Aires, 23 de abril de 1997"
+  DESC_ARTICULO: "Derogación de la Ley Nacional del Teatro"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 588
-  DESC_ARTICULO: "El PODER EJECUTIVO NACIONAL, procederá a la reasignación de los recursos humanos, presupuestarios y materiales con motivo de la derogación prevista en el artículo anterior"
+  DESC_ARTICULO: ""
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 589
-  DESC_ARTICULO: "Derógase el Decreto Ley N° 1224"
+  DESC_ARTICULO: "Derogación de la Ley del Fondo Nacional de las Artes"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 590
-  DESC_ARTICULO: "El PODER EJECUTIVO NACIONAL, procederá a la reasignación de los recursos humanos, presupuestarios y materiales con motivo de la derogación prevista en el artículo anterior"
+  DESC_ARTICULO: ""
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 591
-  DESC_ARTICULO: "Las Bibliotecas serán clasificadas por categorías atendiendo a las siguientes pautas"
+  DESC_ARTICULO: "Clasificación de las Bibliotecas Populares"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 592
-  DESC_ARTICULO: "Las Bibliotecas Populares reconocidas gozarán, sin perjuicio de otros beneficios que obtengan o que les sean otorgados, de los subsidios que a tal fin defina el Congreso Nacional en su presupuesto"
+  DESC_ARTICULO: "Beneficios de las Bibliotecas Populares"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 593
-  DESC_ARTICULO: "A los efectos de la asignación de los beneficios establecidos en el artículo 5° se tendrán en cuenta"
+  DESC_ARTICULO: "Criterio de asignación de beneficios"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 594
-  DESC_ARTICULO: "La Comisión Nacional Protectora de Bibliotecas Populares, que funcionará en la jurisdicción de la Secretaría de Cultura de la Nación, será la autoridad de aplicación de la presente ley en todo el territorio de la Nación"
+  DESC_ARTICULO: "Autoridad de aplicación"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 595
-  DESC_ARTICULO: "La Comisión Nacional Protectora tendrá como función orientar y ejecutar la política gubernamental para la promoción de la lectura popular y el desarrollo de las Bibliotecas Populares, conforme las pautas fijadas en el artículo 3°"
+  DESC_ARTICULO: "Creación de la Comisión Nacional Protectora"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 596
-  DESC_ARTICULO: "La Comisión Nacional Protectora de Bibliotecas Populares estará compuesta por un presidente, un secretario y cinco vocales, todos designados por el Poder Ejecutivo"
+  DESC_ARTICULO: "Composición Comisión Nacional Protectora"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 597
-  DESC_ARTICULO: "Los miembros de la Comisión Nacional Protectora durarán dos años en sus funciones y podrán ser reelectos"
+  DESC_ARTICULO: "Miembros de la Comisión Nacional Protectora"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 598
-  DESC_ARTICULO: "TITULO IV  DE LA JUNTA REPRESENTATIVA  ARTÍCULO 11"
+  DESC_ARTICULO: "Derogación del título de la Junta Representativa de Bibliotecas Populares"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 599
-  DESC_ARTICULO: "TITULO V  DEL FONDO ESPECIAL PARA BIBLIOTECAS POPULARES  ARTÍCULO 14"
+  DESC_ARTICULO: "Derogación del título del Fondo Especial para Bibliotecas Populares"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
