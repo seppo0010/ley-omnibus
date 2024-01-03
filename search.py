@@ -41,11 +41,12 @@ def rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_tit
     }
 
 def rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
-    m = re.match(r'(?:Deróguese|Derógan?se) (?:los artículos|el artículo) ([\d\s,° y]+) (de la Ley|del Decreto-Ley|del Decreto de Necesidad y Urgencia) N[º°] ([\d\.\/]+)\.?', x)
+    m = re.match(r'(?:Deróguese|Derógan?se) (?:los artículos|el artículo) ([\d\s(?: bis),° y]+) (de la Ley|del Decreto-Ley|del Decreto de Necesidad y Urgencia|del Código Civil y Comercial)(?:.*?) N[º°] ([\d\.\/]+)\.?', x)
     if m is None: return None
     arts, lod, ley = m.groups()
     arts = [art.strip() for art in arts.replace('\n', ' ').replace('°', '').replace('y', '').replace(',', '').split(' ')]
     arts = [art for art in arts if art != '']
+    arts = ','.join(arts).replace(',bis', ' bis').split(',')
     ley = ley.replace('.', '').replace('/', '-')
     f = f'leyes/ley{ley}.txt'
     if lod == 'del Decreto de Necesidad y Urgencia':
@@ -367,6 +368,40 @@ def rich_data_sustituyese_articulo_dnu(num, x, titulo, titulo_titulo, capitulo, 
         "textoModificado": art_new,
     }
 
+def rich_data_derogase_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    m = re.match(r'(?:.*?)Derógase el inciso ([a-z0-9]+)\)? del artículo (\d+)[°º]? del Código Civil y Comercial(?:.*)', x, re.MULTILINE|re.DOTALL)
+    if m is None: return None
+    inc, art = m.groups()
+
+    with open('leyes/ccyc.txt') as fp:
+        old = fp.read() + '\nART'
+
+    art_old = re.search(r'\n(ART(?:[ÍI]CULO)?\.?\s*' + art + r'(?:.|\n)*?)\nART', old, re.I).groups()[0]
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": art_old,
+        "textoModificado": re.sub(r'\b' + inc + r'[\)\.].*', '', art_old),
+    }
 def rich_data_derogase_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     m = re.match(r'(?:.*?)Derógase el inciso ([a-z0-9]+)\)? del artículo (\d+)[°º]? (del Decreto|de la Ley) N[°º] ([\d\.\/]+)(?:.*)', x, re.MULTILINE|re.DOTALL)
     if m is None: return None
@@ -711,6 +746,8 @@ def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     if opt is not None: return opt
     opt = rich_data_derogase_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
+    opt = rich_data_derogase_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if opt is not None: return opt
     opt = rich_data_sustituyese_inciso(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_sustituyese_inciso_ccyc(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
@@ -746,8 +783,8 @@ def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     }
 def rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     data = rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
-    data['textoOriginal'] = data['textoOriginal'].replace('ARTICULO', 'ARTÍCULO')
-    data['textoModificado'] = data['textoModificado'].replace('ARTICULO', 'ARTÍCULO')
+    data['textoOriginal'] = data['textoOriginal'].replace('ARTICULO', 'ARTÍCULO').lstrip('-. ')
+    data['textoModificado'] = data['textoModificado'].replace('ARTICULO', 'ARTÍCULO').lstrip('-. ')
     return data
 
 fp = open('omnibus')
@@ -784,16 +821,301 @@ for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
     #    print(rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo))
     #    break
 
+    json_file = open(f'src/content/luc/LUC_articulo_{num}.json', "w")
+    data = rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    json_file.write(json.dumps(data, indent=4))
+    json_file.close()
     if ESTA is None:
+        texto = data["textoModificado"]
+        if len(texto) == 0:
+            texto = data["textoOriginal"]
+        texto = re.sub(r'^ART([íi]cULO|\.)?\s+\d+[º°]?\s*(bis|ter|qu[aá]ter|quinquies|sixties|septies|octies)?', '', texto, flags=re.I)
+        texto = texto.lstrip('.-º—°').strip()
+        texto = re.sub(r'^Incorpór[ea]se.*?[““]', '', texto, flags=re.MULTILINE | re.I | re.DOTALL)
+        texto = re.sub(r'^ART([íi]cULO|\.)?\s+\d+[º°]?\s*(bis|ter|qu[aá]ter|quinquies|sixties|septies|octies)?', '', texto, flags=re.I)
+        texto = texto.lstrip('.-º—°').strip()
+        texto = {
+            9: 'Enajenación de las participaciones accionarias o de capital del Estado Nacional',
+            11: 'Sociedades Anónimas',
+            16: 'Operaciones de crédito público',
+            17: 'Control de operaciones de crédito público',
+            18: 'Control de operaciones de crédito público',
+            19: 'Autoridad de control',
+            20: 'Auditoría interna',
+            21: 'Funciones de la Sindicatura General de la Nación',
+            22: 'Requisitos para ser Síndico General de la Nación',
+            23: 'Síndicos Generales Adjuntos',
+            24: 'Requisitos para set Titular de la Oficina Anticorrupción',
+            25: 'Funciones de la Oficina Anticorrupción',
+            26: 'Anticorrupción en Poderes Legislativo y Judicial',
+            27: 'Publicidad de los actos',
+            28: 'Actividades prohíbidas para funcionarios públicos',
+            33: 'Renegociación o rescisión de contratos',
+            35: 'Cuestiones de competencia entre los Ministros',
+            36: 'Incompetencia',
+            37: 'Requisitos esenciales del acto administrativo',
+            38: 'Manifestación del acto administrativo',
+            39: 'Participación de usuarios y consumidores',
+            40: 'Prohibiciones para la Administración',
+            41: 'El silencio o la ambigüedad de la Administración',
+            42: 'Notificación del acto administrativo',
+            43: 'Presunción de legitimidad del acto administrativo',
+            44: 'Nulidad absoluta del acto administrativo',
+            45: 'Nulidad relativa del acto administrativo',
+            46: 'Revocación o sustitución del acto administrativo irregular',
+            47: 'Derogación de actos administrativos de alcance general',
+            48: 'Saneamiento de actos administrativos',
+            49: 'Prescripción de nulidad de actos administrativos',
+            50: 'Impugnación judicial de actos administrativos particulares',
+            51: 'Impugnación judicial de actos administrativos generales',
+            52: 'Plazo de impugnación judicial de actos administrativos',
+            53: 'Vía de impugnación judicial de actos administrativos',
+            54: 'Demanda frente a silencio de la Administración',
+            55: 'Acción de nulidad promovida por la Administración',
+            56: 'Pronto despacho',
+            57: 'Desobedencia del pronto despacho',
+            58: 'Agotación de la vía administrativa',
+            59: 'Derogación de la ley de Azúcar',
+            60: 'Derogación de la ley de Libros',
+            61: 'Ley de Defensa de la Competencia',
+            62: 'Venta de entradas de espectáculos',
+            63: 'Reventa de entradas deportivas',
+            64: 'Tributo de mercaderías',
+            65: 'Alícuota de tributo de mercaderías',
+            66: 'Formulario de ingreso de productos',
+            67: 'Derogación de la ley de Radiodifusión',
+            68: 'Sucursales de aseguradores',
+            69: 'Ramas de aseguradores',
+            70: 'Requisitos planes de aseguradores',
+            71: 'Primas de aseguradores',
+            72: 'Plazos de control de aseguradores',
+            73: 'Retención del importe de cuotas sociales',
+            75: 'Inscripción en el Registro Público',
+            76: 'Presentación de documentación',
+            77: 'Verificación de Registros Públicos',
+            78: 'Legajos',
+            79: 'Requisitos del instrumento de constitución',
+            80: 'Estipulaciones nulas',
+            81: 'Créditos personales de socios',
+            83: 'Acta de las deliberaciones',
+            84: 'Reducción a uno del número de socios',
+            85: 'Representación y administración de la Sociedad de Capital e Industria',
+            86: 'Beneficios sociales del socio industrial',
+            87: 'Denominación social de Sociedades de Responsabilidad Limitada',
+            88: 'Aportes de Sociedad Anónima',
+            89: 'Títulos de Sociedad Anónima',
+            90: 'Títulos de Sociedad Anónima',
+            91: 'Libros de registro de acciones',
+            92: 'Transmisión de acciones',
+            93: 'Votos',
+            94: 'Adquisición de acciones emitidas por la sociedad',
+            95: 'Enajenación de acciones',
+            97: 'Administración de Sociedad Anónima',
+            98: 'Términos del directorio',
+            99: 'Elección del directorio',
+            100: 'Consejo de vigilancia',
+            101: 'Designación de síndicos',
+            102: 'Fiscalización de Sociedades Anónimas Unipersonales',
+            103: 'De la Sociedad anónima con participación Estatal Mayoritaria',
+            104: 'Títulos de igual valor',
+            105: 'Medios electrónicos de Registros Públicos',
+            106: 'Suspensión de la movilidad de las prestaciones',
+            107: 'Emisión de títulos públicos',
+            108: 'Facturas de Crédito Electrónicas',
+            110: 'Fomento desarrollo de la construcción de viviendas',
+            111: 'Impedimentos para ser miembros del directorio de la Comisión Nacional de Valores',
+            112: 'Directores de la Comisión Nacional de Valores',
+            113: 'Régimen de Regularización Excepcional de Obligaciones Tributarias',
+            114: 'Personas elegibles',
+            115: 'Personas elegibles',
+            116: 'Personas no elegibles',
+            117: 'Efectos',
+            118: 'Beneficios',
+            119: 'Beneficios',
+            120: 'Beneficios',
+            121: 'Beneficios',
+            122: 'Deudas en ejecución judicial',
+            123: 'Importes exceptuados',
+            124: 'Personas elegibles',
+            125: 'Pesificación',
+            126: 'Efectos',
+            127: 'Efectos',
+            128: 'Reglamentación',
+            129: 'Vigencia',
+            139: 'Reglas especiales según tipo de activo',
+            155: 'Beneficios de sujetos que adhieran al Régimen de Regularización de Activos',
+            156: 'Beneficios de sujetos que adhieran al Régimen de Regularización de Activos',
+            157: 'Beneficios de sujetos que adhieran al Régimen de Regularización de Activos',
+            158: 'Beneficios de sociedades que adhieran al Régimen de Regularización de Activos',
+            172: 'Bienes a considerar',
+            173: '',
+            174: '',
+            189: 'Precio imputable',
+            190: 'Alícuota de cigarrillos',
+            191: 'Impuesto mínimo de cigarrillos',
+            192: 'Alícuota de tabacos',
+            193: 'Alícuota de dispositivos administradores de nicotina con tabaco',
+            194: 'Transporte de tabaco',
+            195: 'Transporte de tabaco',
+            196: 'Multa por tabaco irregular',
+            197: 'Impuesto a Cigarrillos Electrónicos',
+            198: 'Entrada en vigencia',
+            199: 'Derogación del impuesto a la transferencia de inmuebles de personas físicas y sucesiones indivisas',
+            200: 'Derechos de exportación sobre no gravadas',
+            201: 'Derechos de exportación sobre gravadas por menos del 15%',
+            202: 'Derechos de exportación sobre soja',
+            203: 'Derechos de exportación sobre gravadas por más del 15%',
+            204: 'Derechos de exportación sobre hidrocarburos y minería',
+            205: 'Derechos de exportación sobre mercaderías vitivinícolas y aceite esencial del limón',
+            206: 'Derechos de exportación sobre olivícola, arrocero, cueros bovinos, lácteo, frutícola, hortícola, porotos, lentejas, arveja, papa, ajo, garbanzos, miel, azúcar, yerba mate, té, equinos y lana',
+            207: 'Delegación sobre el Poder Ejecutivo para reducir posiciones arancelarias',
+            208: 'Discriminación de gravámenes en facturas',
+            209: 'Prohibición de usar la palabra "gratuito"',
+            210: 'Sujetos del impuesto PAIS',
+            211: 'Distribución del producido del impuesto PAIS',
+            214: 'Empleadores elegibles',
+            215: 'Efectos',
+            216: 'Derechos de los trabajadores',
+            217: 'Plazo de regularización',
+            218: 'Deudas elegibles',
+            219: 'Efectos sobre las infracciones',
+            220: 'Delegación sobre el Poder Ejecutivo de normas reglamentarias',
+            221: 'Consolidación de títulos de deuda pública',
+            222: 'Entidades excluidas',
+            223: 'Efectos',
+            224: 'Mantenimiento de créditos presupuestarios',
+            225: 'Resolución de pedidos de mantenimiento',
+            226: 'Trasferencia de los activos del Fondo de Garantía de Sustentabilidad',
+            227: 'Derogación de la regulación del Fondo de Garantía de Sustentabilidad',
+            228: 'Delegación sobre el Poder Ejecutivo de normas sobre regulación de industria de animales',
+            229: 'Delegación sobre la Secretaría de Agricultura, Ganadería y Pesca sobre aspectos higiénico-sanitarios',
+            230: 'Sistemas de control higiénico-sanitarios y ambiental',
+            231: 'Limitación a la regulación provincial sobre exigencias sanitarias',
+            232: 'Exclusividad de la Autoridad Reglamentaria Nacional para regular',
+            233: 'Limitación al accionar provincial',
+            234: 'Clausura de establecimientos',
+            235: 'Infracciones',
+            236: 'Autoridad de aplicación',
+            237: 'Vías recursivas sobre las resoluciones',
+            238: '',
+            239: 'Obligación al Poder Ejecutivo de dictar un digesto reglamentario',
+            240: 'Derogación de la Ley de Carnes',
+            241: 'Adhesión a la Convención Internacional sobre la Protección de Nuevas Variedades Vegetales (1991)',
+            242: 'Funciones de la autoridad de aplicación',
+            243: 'Funciones del Consejo Federal Pesquero',
+            244: 'Eliminación de la obligación desembarcar en muelles argentinos',
+            245: 'Permisos de pesca',
+            246: 'Cuota de captura por especie',
+            247: 'Pesca de especies no cuotificadas',
+            248: 'Permisos de pesca',
+            249: 'Derecho de extracción',
+            250: 'Aprobación de proyectos',
+            251: 'Locación de buques de matrícula extranjera',
+            252: 'Tripulación de los buques pesqueros',
+            253: 'Permisos, autorizaciones de pesca y cuotas ya otorgadas',
+            254: 'Delegación sobre el Poder Ejecutivo para reglamentar hidrocarburos',
+            255: 'Objetivo de la delegación',
+            256: 'Permisos',
+            257: 'Permisos',
+            258: 'Pautas de delegación',
+            259: 'Delegación sobre el Poder Ejecutivo para reglamentar el regimen de importación de los hidrocarburos',
+            260: 'Reconocimiento en beneficio de las provincias',
+            261: 'Reconocimientos superficiales en busca de hidrocarburos',
+            262: 'Permiso de exploración',
+            263: 'Descubrimiento de hidrocarburos',
+            264: 'Explotación No Convencional de Hidrocarburos',
+            265: 'Autorización de transporte y/o procesamiento de hidrocarburos',
+            266: 'Concesiones de explotación',
+            267: 'Inversiones para la explotación',
+            268: 'Vigencia de concesiones',
+            269: 'Título de Autorizaciones de transporte y/o procesamiento',
+            270: 'Autorizaciones de transporte y/o procesamiento',
+            271: 'Autoridad de Aplicación y Registro',
+            272: 'No exclusividad',
+            273: 'Discriminación en el transporte y procesamiento',
+            274: 'Normas subsidiarias',
+            275: 'Procedimiento de adjudicación',
+            276: 'Licitación',
+            277: 'Concesiones de explotación existentes',
+            278: 'Selección de propuesta',
+            279: 'Oposición',
+            280: 'Regalías',
+            281: 'Regalías',
+            282: 'Derechos',
+            284: 'Obligaciones',
+            285: 'Deber de información',
+            286: 'Empleo',
+            287: 'Cesión',
+            288: 'Fiscalización',
+            289: 'Inspección y fiscalización',
+            290: 'Nulidades',
+            291: 'Caducidad',
+            292: 'Arbitraje',
+            293: 'Multas',
+            294: 'Incumplimiento de oferentes',
+            295: 'Áreas reservadas',
+            296: 'Empresas estatales',
+            297: 'Contrataciones',
+            298: 'Delegación sobre el Poder Ejecutivo',
+            299: 'Indemnizaciones',
+            300: '',
+            301: 'Importación de gas natural',
+            302: 'Evaluación de la prestación del servicio',
+            303: 'Recaudos',
+            304: 'Fuero de impugnación',
+            305: 'Audiencias públicas',
+            306: 'Interés público nacional',
+            307: 'Marco Regulatorio de Biocombustibles',
+            308: 'Funciones de la autoridad de aplicación',
+            309: 'Biocombustible',
+            310: 'Registro de Biocombustible',
+            311: 'Calidad',
+            312: 'Cumplimiento',
+            313: 'Mezclas mínimas obligatorias',
+            314: 'Derogación de las leyes de Régimen de Regulación y Promoción para la Producción y uso sustentables de biocombustibles, Plan Nacional de Alconafta, Régimen de Promoción de la Producción de Bioetanol',
+            315: 'Derogación de varios artículos del Marco Regulatorio de Biocombustibles',
+            316: 'Ente Nacional Regulador del Gas y la Electricidad',
+            317: 'Delegación sobre el Poder Ejecutivo de adecuación del Marco Regulatorio de la Energía Eléctrica',
+            318: 'Delegación sobre el Poder Ejecutivo sobre los fondos fiduciarios del sector energético',
+            319: 'Delegación sobre el Poder Ejecutivo para la legislación ambiental uniforme a nivel nacional',
+            320: 'Delegación sobre el Poder Ejecutivo a asignar derechos de emisión de GEI a cada sector y subsector de la economía',
+            321: 'Delegación sobre el Poder Ejecutivo a establecer anualmente límites de derechos de emisión de GEI',
+            322: 'Delegación sobre el Poder Ejecutivo a monitorear el avance en el cumplimiento de las metas de emisiones de GEI',
+            323: 'Delegación sobre el Poder Ejecutivo a establecer un mercado de derechos de emisión de GEI',
+            324: 'Delegación sobre el Poder Ejecutivo a establecer las reglas del mercado de derechos de emisión de GEI',
+            325: 'Derogación de beneficios aduaneros a la Policía de la Provincia de Buenos Aires',
+            326: 'Entorpecimiento del normal funcionamiento de los transportes',
+            328: 'Responsabilidad por manifestaciones',
+            342: 'Intimidación o fuerza contra un funcionario público',
+            343: 'Agravantes en la intimidación o fuerza contra un funcionario público',
+            348: 'Derogación de la creación del INADI',
+            349: 'Derogación de la nulidad por renuncia anticipada de honorarios',
+            350: 'Gestión Colectiva de Derechos',
+            351: 'Delegación sobre el Poder Ejecutivo a legislar el Regimen Legal de la Propiedad Intelectual',
+            352: 'Divorcio administrativo',
+            404: 'Extracciones de fondos depositados',
+            405: 'Fondos depositados judicialmente',
+            406: 'Perjuicios por órdenes de transferencias',
+            407: 'Registro de Juicios Universales',
+            408: 'Registro de Juicios Universales',
+            409: 'Registro de Juicios Universales',
+            410: 'Registro de Juicios Universales',
+            411: 'Publicación de Edictos Judiciales',
+            412: 'Archivo de los expedientes terminados y paralizados',
+            413: 'Conformación del Archivo',
+            414: 'Consulta del Archivo',
+            415: 'Anotaciones en el Archivo',
+            416: 'Registro de Juicios Universales',
+            417: '',
+            418: '',
+        }.get(num, texto)
+        desc = re.split(r'[:\.\(]', texto)[0].replace("\n", " ").replace('"', '\\"')
         indice.write(f'''
 - NRO_SECCION: {titulo}
   DESC_SECCION: {titulo_titulo}
   NRO_CAPITULO: {capitulo}
   DESC_CAPITULO: {capitulo_titulo}
   NRO_ARTICULO: {num}
-  DESC_ARTICULO: ""
+  DESC_ARTICULO: "{desc}"
              '''.strip())
         indice.write('\n')
-    json_file = open(f'src/content/luc/LUC_articulo_{num}.json', "w")
-    json_file.write(json.dumps(rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo), indent=4))
-    json_file.close()
