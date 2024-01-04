@@ -33,10 +33,13 @@ var diffPerWord = function (dmp, text1, text2) {
     return diffs;
 }
 
+const VERSION_DIFF = 0
+const VERSION_FULL = 1
+const VERSION_RAW = 2
 
 export default function Articulo({data}) {
 
-    const [verCorregido, setVerCorregido] = useState(true)
+    const [verVersion, setVerVersion] = useState(VERSION_DIFF)
 
     const articulo = data.allLucJson.nodes[0]
     const meta = data.indice.nodes.find((art) => art.NRO_ARTICULO.toString() === articulo.numeroArticulo.toString())
@@ -61,22 +64,24 @@ export default function Articulo({data}) {
                     <span
                         className="font-black text-gray-600 uppercase mt-5 mb-5 border-b w-full mx-auto text-center rounded">{"Art. "+articulo.numeroArticulo + " - comparación"}</span>
                     <button onClick={() => {
-                        setVerCorregido(!verCorregido)
+                        setVerVersion((verVersion + 1) % (VERSION_RAW + 1))
                     }} className="text-sm mb-1 text-gray-600 flex justify-center items-center  md:w-1/3 mt-1 md:mt-0 mx-auto">
                         <span className="mr-2 bg-gray-600 text-white rounded-full w-7 h-7 flex items-center justify-center"><FaExchangeAlt/></span>
-                        {verCorregido ?
-                            <span>Ver <span style={{background: "#fdb8c0"}}>antes</span> y <span
+                        {verVersion === VERSION_DIFF ?
+                            <span>Viendo <span style={{background: "#fdb8c0"}}>antes</span> y <span
                                 style={{background: "#acf2bd"}}>después</span></span> :
-                            <span>Ver <span className="line-through">texto corregido</span></span>
-
+                            (verVersion === VERSION_FULL ?
+                                <span>Viendo <span className="line-through">texto corregido</span></span> :
+                                <span>Viendo artículo del proyecto</span>
+                            )
                         }
                     </button>
 
-                    {articulo.numeroArticulo === "404" || verCorregido ?
+                    {verVersion === VERSION_DIFF ?
                         <div className="flex flex-col">
                             <span className="text-sm text-white bg-gray-600 text-center my-3 mx-auto">Lo que la Ley Ómnibus eliminaría se muestra en rojo tachado, y en verde se destaca el texto agregado</span>
                             <div dangerouslySetInnerHTML={{__html: dmp.diff_prettyHtml(diff)}}/>
-                        </div> :
+                        </div> : (verVersion === VERSION_FULL ?
                         <div className="flex flex-col">
                             <span className="text-sm text-white bg-gray-600 text-center my-3 mx-auto">En la redacción anterior se destaca con rojo lo borrado. Debajo, en la vigente, se destaca con verde lo nuevo</span>
 
@@ -90,6 +95,11 @@ export default function Articulo({data}) {
                             useDarkTheme={false}
                             compareMethod={DiffMethod.WORDS}/>
                         </div>
+                        :
+                        <div className="flex flex-col">
+                            <div>{meta.RAW}</div>
+                        </div>
+                        )
                     }
                 </div>
                  <span
@@ -130,6 +140,7 @@ export const query = graphql`
           DESC_ARTICULO
           NRO_SECCION
           DESC_SECCION
+          RAW
         }
       }
       allExplicacionesYaml {

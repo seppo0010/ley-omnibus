@@ -1336,5 +1336,6 @@ for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
   DESC_CAPITULO: {capitulo_titulo}
   NRO_ARTICULO: {num}
   DESC_ARTICULO: "{desc}"
+  RAW: {json.dumps(x)}
              '''.strip())
         indice.write('\n')
