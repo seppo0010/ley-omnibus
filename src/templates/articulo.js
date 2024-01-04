@@ -69,10 +69,10 @@ export default function Articulo({data}) {
                         <span className="mr-2 bg-gray-600 text-white rounded-full w-7 h-7 flex items-center justify-center"><FaExchangeAlt/></span>
                         {verVersion === VERSION_DIFF ?
                             <span>Viendo <span style={{background: "#fdb8c0"}}>antes</span> y <span
-                                style={{background: "#acf2bd"}}>después</span></span> :
+                                style={{background: "#acf2bd"}}>después</span><br />(cambiar a texto corregido)</span> :
                             (verVersion === VERSION_FULL ?
-                                <span>Viendo <span className="line-through">texto corregido</span></span> :
-                                <span>Viendo artículo del proyecto</span>
+                                <span>Viendo <span className="line-through">texto corregido</span><br />(cambiar a artículo del proyecto)</span> :
+                                <span>Viendo artículo del proyecto<br />(cambiar a antes y después)</span>
                             )
                         }
                     </button>
