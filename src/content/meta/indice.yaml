@@ -1695,7 +1695,7 @@
   NRO_CAPITULO: VII
   DESC_CAPITULO: CONSOLIDACIÓN DE DEUDA DEL SECTOR PÚBLICO NACIONAL
   NRO_ARTICULO: 283
-  DESC_ARTICULO: "El mismo derecho será acordado a los permisionarios, concesionarios y autorizados cuyas áreas se encuentren cubiertas por las aguas de mares, ríos, lagos o lagunas, con respecto a los terrenos costeros colindantes con dichas áreas o de la costa más cercana a éstas, para el establecimiento de muelles, almacenes, oficinas, vías de comunicación y transporte y demás instalaciones necesarias para la buena ejecución de los trabajos"
+  DESC_ARTICULO: "Derechos"
 - NRO_SECCION: III
   DESC_SECCION: REORGANIZACIÓN ECONÓMICA
   NRO_CAPITULO: VII
@@ -3597,19 +3597,19 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 600
-  DESC_ARTICULO: "MUSEO, BIBLIOTECA Y ARCHIVO DEL TRABAJO Y DEL MOVIMIENTO OBRERO ARGENTINO  Ley 24"
+  DESC_ARTICULO: "Derogación de la Ley de Museo, Biblioteca y Archivo del Trabajo y del Movimiento Obrero Argentino"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 601
-  DESC_ARTICULO: "TEATROS  INMUEBLES - DEMOLICIONES  Ley Nº 14"
+  DESC_ARTICULO: "Derogación de la Ley de Demoliciones de Teatros"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 602
-  DESC_ARTICULO: "DESCUENTOS PARA ARTISTAS EN EL PRECIO DE PASAJES EN EMPRESAS ESTATALES DE TRANSPORTE"
+  DESC_ARTICULO: "Derogación de la Ley de Descuentos para Artistas en el Precio de Pasajes en Empresas Estatales de Transporte"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
@@ -3633,187 +3633,187 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 606
-  DESC_ARTICULO: "Para los supuestos previstos en el artículo anterior, los delegados de personal con mandato vigente o pendiente el año posterior de la tutela sindical no podrán ser afectados en el ejercicio de sus funciones ni puestos en disponibilidad"
+  DESC_ARTICULO: "Delegados sindicales en situación de disponibilidad"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 607
-  DESC_ARTICULO: "Los agentes serán destinados a las tareas propias de la categoría o nivel que hayan alcanzado y al desarrollo de tareas complementarias o instrumentales, para la consecución de los objetivos del trabajo"
+  DESC_ARTICULO: "Tareas para agentes en situación de disponibilidad"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 608
-  DESC_ARTICULO: "El personal tiene derecho a igualdad de oportunidades en el desarrollo de carrera administrativa, a través de los mecanismos que se determinen"
+  DESC_ARTICULO: "Igualdad"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 609
-  DESC_ARTICULO: "El personal podrá ser intimado a iniciar los trámites jubilatorios cuando reúna requisitos exigidos para obtener la jubilación ordinaria"
+  DESC_ARTICULO: "Jubilación"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 610
-  DESC_ARTICULO: "j) Dedicar sus horas laborales del servicio público a hacer cualquier tipo de tareas vinculadas a campañas electorales y/o partidarias"
+  DESC_ARTICULO: "Prohibición de campaña electoral en horas laborales"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 611
-  DESC_ARTICULO: "Se podrá imponer el apercibimiento o la suspensión hasta 30 días cuando se verifique"
+  DESC_ARTICULO: "Sanciones"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 612
-  DESC_ARTICULO: "Se podrá imponer cesantía cuando se verifiquen"
+  DESC_ARTICULO: "Cesantías"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 613
-  DESC_ARTICULO: "Se podrá imponer la exoneración cuando se observe"
+  DESC_ARTICULO: "Exoneraciones"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 614
-  DESC_ARTICULO: "Los plazos de prescripción para la aplicación de las sanciones disciplinarias, con las salvedades que determine la reglamentación, se computarán de la siguiente forma"
+  DESC_ARTICULO: "Prescripción"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 615
-  DESC_ARTICULO: "Quedan excluidos de la aplicación de la presente normativa"
+  DESC_ARTICULO: "Exclusiones de Convención Colectiva de Trabajo"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 616
-  DESC_ARTICULO: "Las cláusulas de los acuerdos por las que se establezcan cuotas de solidaridad a cargo de los empleados y a favor de las asociaciones de trabajadores participantes en la negociación, tendrán validez solo para los afiliados"
+  DESC_ARTICULO: "Cuotas de solidaridad"
 - NRO_SECCION: VII
   DESC_SECCION: CAPITAL HUMANO
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 617
-  DESC_ARTICULO: "Será obligatorio el descuento del proporcional de haberes por los días en los que el empleado haya decidido hacer uso de su derecho de huelga"
+  DESC_ARTICULO: "Descuento por huelga"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 618
-  DESC_ARTICULO: "La existencia de diagnóstico por sí solo en el campo de la salud mental no autoriza en ningún caso a presumir riesgo de daño o incapacidad, lo que sólo puede deducirse a partir de una evaluación interdisciplinaria de cada situación particular en un momento determinado"
+  DESC_ARTICULO: "Riesgo por salud mental"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 619
-  DESC_ARTICULO: "La Autoridad de Aplicación debe promover que las autoridades de salud de cada jurisdicción, en coordinación con las áreas de educación, desarrollo social, trabajo y otras que correspondan, implementen acciones de inclusión social, laboral y de atención y rehabilitación en salud mental comunitaria"
+  DESC_ARTICULO: "Promoción de acciones de inclusión"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 620
-  DESC_ARTICULO: "La internación involuntaria de una persona es considerada como recurso terapéutico excepcional y procede, previa evaluación médica y del equipo interdisciplinario, en los siguientes casos"
+  DESC_ARTICULO: "Internación involuntaria"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 621
-  DESC_ARTICULO: "La persona internada involuntariamente o su representante legal, tiene derecho a designar un abogado"
+  DESC_ARTICULO: "Representación por internación involuntaria"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 622
-  DESC_ARTICULO: "El alta, externación o permisos de salida son facultad del equipo de salud que no requiere autorización del juez"
+  DESC_ARTICULO: "Alta, externación o permisos de salida"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 623
-  DESC_ARTICULO: "Los hospitales o centros médicos, neuropsiquiátricos o instituciones de internación monovalentes, públicos o privados deberán funcionar conforme a los objetivos y principios expuestos, y de acuerdo a las reglamentaciones que establezca la autoridad de aplicación"
+  DESC_ARTICULO: "Centros médicos"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 624
-  DESC_ARTICULO: "Las internaciones de salud mental deben realizarse en instituciones adecuadas"
+  DESC_ARTICULO: "Instituciones de internación"
 - NRO_SECCION: VIII
   DESC_SECCION: SALUD PÚBLICA
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 625
-  DESC_ARTICULO: "El Órgano de Revisión debe estar conformado por equipos multidisciplinarios y cada equipo estará integrado por un médico psiquiatra, un psicólogo, un técnico especialista en adicciones, un técnico especialista en cuestiones de niñez y adolescencia y un abogado especialista en la materia"
+  DESC_ARTICULO: "Conformación de Órgano de Revisión"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 626
-  DESC_ARTICULO: "Deróganse el inciso b) del artículo 33 y el inciso f) del artículo 40 bis, respectivamente, de la Ley Nº 24"
+  DESC_ARTICULO: "Otros requerimientos"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 627
-  DESC_ARTICULO: "x bis) Vehículo autodirigido"
+  DESC_ARTICULO: "Vehículo autodirigido"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 628
-  DESC_ARTICULO: "Se autoriza en la REPÚBLICA ARGENTINA la conducción por parte de sistemas autónomos para vehículos autodirigidos sean estos particulares, de pasajeros o de carga"
+  DESC_ARTICULO: "Autorización de vehículos autodirigidos"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 629
-  DESC_ARTICULO: "Los vehículos autodirigidos deberán contar con un software autorizado por el PODER EJECUTIVO NACIONAL"
+  DESC_ARTICULO: "Delegación sobre el Poder Ejecutivo para autorizar vehículos autodirigidos"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 630
-  DESC_ARTICULO: "REVISION TECNICA OBLIGATORIA"
+  DESC_ARTICULO: "Revisión técnica obligatoria"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 631
-  DESC_ARTICULO: "EXHIBICIÓN DE DOCUMENTOS"
+  DESC_ARTICULO: "Exhibición de documentos"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 632
-  DESC_ARTICULO: "CONDICIONES PARA CONDUCIR"
+  DESC_ARTICULO: "Condiciones para conducir"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 633
-  DESC_ARTICULO: "REQUISITOS PARA CIRCULAR"
+  DESC_ARTICULO: "Requisitos para circular"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 634
-  DESC_ARTICULO: "PEAJES"
+  DESC_ARTICULO: "Peajes"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 635
-  DESC_ARTICULO: "TRANSPORTE DE CARGA"
+  DESC_ARTICULO: "Transporte de carga"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 636
-  DESC_ARTICULO: "e) Los vehículos autodirigidos deberán detenerse inmediatamente"
+  DESC_ARTICULO: "Obligaciones"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
@@ -3831,139 +3831,139 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 639
-  DESC_ARTICULO: "FINES"
+  DESC_ARTICULO: "Fines"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: AMBIENTE
   NRO_ARTICULO: 640
-  DESC_ARTICULO: "REGISTRO UNICO DEL TRANSPORTE AUTOMOTOR"
+  DESC_ARTICULO: "Registro Único del Transporte Automotor"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: II
   DESC_CAPITULO: RÉGIMEN DE INCENTIVO PARA GRANDES INVERSIONES (RIGI)
   NRO_ARTICULO: 641
-  DESC_ARTICULO: "Creación"
+  DESC_ARTICULO: "Creación del Régimen de Incentivo para Grandes Inversiones"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: II
   DESC_CAPITULO: RÉGIMEN DE INCENTIVO PARA GRANDES INVERSIONES (RIGI)
   NRO_ARTICULO: 642
-  DESC_ARTICULO: "La autoridad de aplicación del RÉGIMEN DE INCENTIVO PARA GRANDES INVERSIONES "
+  DESC_ARTICULO: "Autoridad de aplicación"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 643
-  DESC_ARTICULO: "El PODER EJECUTIVO NACIONAL podrá otorgar concesiones de obras e infraestructuras públicas por un término fijo o variable a sociedades privadas para la construcción, conservación o explotación de infraestructuras públicas mediante el cobro de tarifas, peajes u otras remuneraciones conforme los procedimientos que fija la presente ley"
+  DESC_ARTICULO: "Concesiones de obra pública"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 644
-  DESC_ARTICULO: "La financiación del concesionario podrá ser garantizada por obligaciones de pago asumidas en el marco de lo establecido en la presente ley por la Administración, mediante"
+  DESC_ARTICULO: "Financiación del concesionario"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 645
-  DESC_ARTICULO: "Las concesiones de obras e infraestructuras públicas se otorgarán mediante el procedimiento de licitación pública convocada por la Administración Pública"
+  DESC_ARTICULO: "Otorgamiento de obras públicas"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 646
-  DESC_ARTICULO: "En todos los casos el contrato de concesión deberá definir"
+  DESC_ARTICULO: "Contenido del contrato de concesión"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 647
-  DESC_ARTICULO: "Durante todo el plazo de vigencia de los contratos de concesión de obra pública que celebre la Administración deberá garantizar la intangibilidad de la ecuación económico-financiera tenida en cuenta al momento de su perfeccionamiento"
+  DESC_ARTICULO: "Intangibilidad de la ecuación económico-financiera"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 648
-  DESC_ARTICULO: "La extinción del contrato por razones de interés público se rige por el presente artículo y no será de aplicación directa, supletoria ni analógica ninguna norma que establezca una limitación de responsabilidad, en especial las contenidas en las Leyes Nros"
+  DESC_ARTICULO: "Extinción del contrato por razones de interés público"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 649
-  DESC_ARTICULO: "Todos los contratos deberán prever mecanismos de prevención y solución de controversias, conciliación, mediación y arbitraje"
+  DESC_ARTICULO: "Mecanismos de prevención y solución de controversias"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 650
-  DESC_ARTICULO: "Las contrataciones sujetas a la presente ley no les serán de aplicación directa, supletoria, ni analógica"
+  DESC_ARTICULO: "No aplicación de otras leyes"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 651
-  DESC_ARTICULO: "NORMALIZACION"
+  DESC_ARTICULO: "Normalización"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 652
-  DESC_ARTICULO: "del Estatuto de la Revolución Argentina,  EL PRESIDENTE DE LA NACION ARGENTINA,  SANCIONA Y PROMULGA CON FUERZA DE LEY"
+  DESC_ARTICULO: "Derogación de varios artículos de la Ley de Obras Públicas"
 - NRO_SECCION: IX
   DESC_SECCION: INFRAESTRUCTURA Y SERVICIOS Y ACTIVIDADES ASOCIADAS
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 653
-  DESC_ARTICULO: "La autoridad de aplicación de la Ley N° 17"
+  DESC_ARTICULO: "Autoridad de aplicación"
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 654
-  DESC_ARTICULO: "Ratificase el Decreto de Necesidad y Urgencia N° 70/23"
+  DESC_ARTICULO: "Ratificación del Decreto de Necesidad y Urgencia N° 70/23"
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 655
-  DESC_ARTICULO: "Los Anexos que se describen a continuación, forman parte de la presente ley"
+  DESC_ARTICULO: "Anexos"
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 656
-  DESC_ARTICULO: "Los decretos dictados en ejercicio de las facultades delegadas por el Congreso de la Nación en la presente ley, estarán sujetos al control de la Comisión Bicameral Permanente de conformidad con lo dispuesto en el artículo 100, inciso 12 de la CONSTITUCIÓN NACIONAL"
+  DESC_ARTICULO: ""
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 657
-  DESC_ARTICULO: "El PODER EJECUTIVO NACIONAL deberá informar trimestralmente en forma detallada al Honorable Congreso de la Nación sobre la aplicación de las facultades delegadas por la presente ley, sus fundamentos y resultados obtenidos"
+  DESC_ARTICULO: ""
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 658
-  DESC_ARTICULO: "El ejercicio de las facultades legislativas delegadas en la presente ley, estarán sujetas al control de la Comisión Mixta de Reforma del Estado y de Seguimiento de las Privatizaciones establecida por la Ley N° 23"
+  DESC_ARTICULO: ""
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 659
-  DESC_ARTICULO: "Los Poderes Legislativo y Judicial, en el ámbito de sus respectivas jurisdicciones, podrán adoptar las acciones que estimen conducentes para el cumplimiento de los objetivos establecidos en la presente ley"
+  DESC_ARTICULO: ""
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 660
-  DESC_ARTICULO: "En toda norma con rango de ley donde se atribuya una competencia a determinado órgano o entidad descentralizada de la Administración Pública Nacional, el PODER EJECUTIVO NACIONAL, como titular de aquélla y conforme lo establecido por el artículo 99, inciso 1 de la Constitución Nacional, puede reasignar dicha competencia a otro órgano o entidad descentralizada de la Administración Pública Nacional, en función de lo estime más conveniente para la organización administrativa"
+  DESC_ARTICULO: "Facultad de reasignación de competencias"
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 661
-  DESC_ARTICULO: "Invítase a las provincias y a la CIUDAD AUTÓNOMA DE BUENOS AIRES a dictar las normas que resulten necesarias para el establecimiento de procedimientos congruentes con los propósitos de esta ley"
+  DESC_ARTICULO: ""
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
@@ -3975,10 +3975,10 @@
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 663
-  DESC_ARTICULO: "Las disposiciones de la presente ley entrarán en vigor el día siguiente al de su publicación en el BOLETÍN OFICIAL DE LA REPÚBLICA ARGENTINA, salvo en los Capítulos en donde se señala lo contrario"
+  DESC_ARTICULO: "Entrada en vigencia"
 - NRO_SECCION: X
   DESC_SECCION: DISPOSICIONES FINALES
   NRO_CAPITULO: III
   DESC_CAPITULO: MODIFICACIONES A LA LEY N° 17.520, CONCESIÓN DE OBRA PÚBLICA
   NRO_ARTICULO: 664
-  DESC_ARTICULO: "Comuníquese al PODER EJECUTIVO NACIONAL"
+  DESC_ARTICULO: ""

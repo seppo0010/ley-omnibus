@@ -96,7 +96,7 @@ const IndexPage = ({data}) => {
                                                             <Link
                                                                 className="text-gray-600"
                                                                 to={art.NRO_ARTICULO.toString()}>
-                                                                {art.NRO_ARTICULO.toString()} - {art.DESC_ARTICULO}</Link>
+                                                                {art.NRO_ARTICULO.toString()}{art.DESC_ARTICULO ? ` - ${art.DESC_ARTICULO}` : ''}</Link>
                                                         </li>
                                                     </ul>
                                                 ))}

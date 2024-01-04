@@ -40,7 +40,7 @@ export default function Articulo({data}) {
 
     const articulo = data.allLucJson.nodes[0]
     const meta = data.indice.nodes.find((art) => art.NRO_ARTICULO.toString() === articulo.numeroArticulo.toString())
-    const title = 'Artículo ' + articulo.numeroArticulo + ' - ' + meta.DESC_ARTICULO
+    const title = 'Artículo ' + articulo.numeroArticulo + (meta.DESC_ARTICULO ? ' - ' + meta.DESC_ARTICULO : '')
     const lista_articulos = data.indice.nodes.map((articulo) => articulo.NRO_ARTICULO.toString())
     const explicacion = data.allExplicacionesYaml.nodes.filter(exp => exp.NRO_ARTICULO === parseInt(articulo.numeroArticulo))[0]
 
@@ -55,7 +55,7 @@ export default function Articulo({data}) {
                                         <SocialShare title={title} slug={articulo.numeroArticulo}/>
 
             <div className="flex flex-col md:w-8/12 mx-auto md:mt-5 text-gray-600">
-                <span className="text-xl text-center my-2 text-gray-600 font-black uppercase">{articulo.numeroArticulo + " - " + meta.DESC_ARTICULO}</span>
+                <span className="text-xl text-center my-2 text-gray-600 font-black uppercase">{articulo.numeroArticulo + (meta.DESC_ARTICULO ? ' - ' + meta.DESC_ARTICULO : '')}</span>
                 <span className="my-2 text-center">{articulo.notasArticulo}</span>
                 <div className="flex flex-col">
                     <span

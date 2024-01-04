@@ -681,6 +681,33 @@ def rich_data_196(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
         "textoModificado": 'ARTÍCULO ...- La existencia de tabaco despalillado, acondicionado, picado, en hebras o reconstituido o de polvo para la elaboración reconstituido, no comprendido en el artículo 18, sin importar su destino, sin el correspondiente respaldo documental o con documentación con irregularidades, será sancionada con una multa equivalente al importe que resulte de aplicar la alícuota dispuesta en el primer párrafo del artículo 15 sobre el precio que surja del relevamiento al que se refiere el artículo sin número agregado a continuación del artículo 2°, en proporción a la cantidad de cigarrillos que resulte de dividir el total de gramos de tabaco en existencia por ochenta centésimos (0,80), considerando el momento de la detección.\n\nA su vez, se procederá a la interdicción de la mercadería, disponiéndose su liberación con la acreditación del pago de la multa.\n\nSe considerará que existen irregularidades en la documentación de respaldo cuando se de alguno de los siguientes supuestos:\n\na) La documentación sea apócrifa.b) Existan diferencias entre las cantidades de producto en existencia y las que figuran en la documentación de respaldo, siendo en tal caso aplicables las disposiciones de este artículo sobre las diferencias detectadas.\n\nc) Existan diferencias en el tipo, de la mercadería detectada y las que figuran en la documentación de respaldo, siendo en tal caso aplicables las disposiciones de este artículo sobre las unidades en las que se verifiquen dichas diferencias.\n\nA los fines de las sanciones establecidas en este artículo serán de aplicación las previsiones de la ley 11.683, texto ordenado en 1998 y sus modificaciones, resultando responsable el tenedor de las existencias de tabaco.',
     }
 
+def rich_data_626(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
+    return {
+        "fechaDescarga": "29/12/2023, 08:50:32",
+        "json_original": {
+            "tipoNorma": "",
+            "nroNorma": "",
+            "anioNorma": 0,
+            "nombreNorma": "",
+            "leyenda": "  ",
+            "fechaPromulgacion": "",
+            "fechaPublicacion": "",
+            "vistos": "  ",
+            "tituloArticulo": f"  TÍTULO {titulo} - {titulo_titulo}\r\n  CAP\u00cdTULO {capitulo} - {capitulo_titulo}",
+            "nombreArticulo": "",
+            "textoArticulo": "",
+            "notasArticulo": "",
+            "firmantes": ""
+        },
+        "numeroArticulo": str(num),
+        "seccionArticulo": titulo,
+        "capituloArticulo": capitulo,
+        "textoArticulo": '',
+        "notasArticulo": "",
+        "textoOriginal": 'ARTICULO 33. — OTROS REQUERIMIENTOS. Respecto a los vehículos se debe, además:\n\na) Los automotores ajustarse a los límites sobre emisión de contaminantes, ruidos y radiaciones parásitas. Tales límites y el procedimiento para detectar las emisiones son los que establece la reglamentación, según la legislación en la materia;\n\nb) Dotarlos de por lo menos un dispositivo o cierre de seguridad antirrobo;\n\nc) Implementar acciones o propaganda tendiente a disminuir el consumo excesivo de combustible;\n\nd) Otorgar la Cédula de Identificación del Automotor a todo vehículo destinado a circular por la vía pública, con excepción de los de tracción a sangre. Dicho documento detallará, sin perjuicio de su régimen propio, las características del vehículo necesarias a los fines de su control;\n\ne) Dichos vehículos además deben tener grabados indeleblemente los caracteres identificatorios que determina la reglamentación en los lugares que la misma establece. El motor y otros elementos podrán tener numeración propia;\n\nf) (Inciso vetado por art. 6° del Decreto N° 179/1995 B.O. 10/02/1995)\n\nARTICULO 40 bis) Requisitos para circular con bicicletas. Para poder circular con bicicleta es indispensable que el vehículo tenga:\n\na) Un sistema de rodamiento, dirección y freno permanente y eficaz;\n\nb) Espejos retrovisores en ambos lados;\n\nc) Timbre, bocina o similar;\n\nd) Que el conductor lleve puesto un casco protector, no use ropa suelta, y que ésta sea preferentemente de colores claros, y utilice calzado que se afirme con seguridad a los pedales;\n\ne) Que el conductor sea su único ocupante con la excepción del transporte de una carga, o de un niño, ubicados en un portaequipaje o asiento especial cuyos pesos no pongan en riesgo la maniobrabilidad y estabilidad del vehículo;\n\nf) Guardabarros sobre ambas ruedas;\n\ng) Luces y señalización reflectiva.',
+        "textoModificado": 'ARTICULO 33. — OTROS REQUERIMIENTOS. Respecto a los vehículos se debe, además:\n\na) Los automotores ajustarse a los límites sobre emisión de contaminantes, ruidos y radiaciones parásitas. Tales límites y el procedimiento para detectar las emisiones son los que establece la reglamentación, según la legislación en la materia;\n\nc) Implementar acciones o propaganda tendiente a disminuir el consumo excesivo de combustible;\n\nd) Otorgar la Cédula de Identificación del Automotor a todo vehículo destinado a circular por la vía pública, con excepción de los de tracción a sangre. Dicho documento detallará, sin perjuicio de su régimen propio, las características del vehículo necesarias a los fines de su control;\n\ne) Dichos vehículos además deben tener grabados indeleblemente los caracteres identificatorios que determina la reglamentación en los lugares que la misma establece. El motor y otros elementos podrán tener numeración propia;\n\nf) (Inciso vetado por art. 6° del Decreto N° 179/1995 B.O. 10/02/1995)\n\nARTICULO 40 bis) Requisitos para circular con bicicletas. Para poder circular con bicicleta es indispensable que el vehículo tenga:\n\na) Un sistema de rodamiento, dirección y freno permanente y eficaz;\n\nb) Espejos retrovisores en ambos lados;\n\nc) Timbre, bocina o similar;\n\nd) Que el conductor lleve puesto un casco protector, no use ropa suelta, y que ésta sea preferentemente de colores claros, y utilice calzado que se afirme con seguridad a los pedales;\n\ne) Que el conductor sea su único ocupante con la excepción del transporte de una carga, o de un niño, ubicados en un portaequipaje o asiento especial cuyos pesos no pongan en riesgo la maniobrabilidad y estabilidad del vehículo;\n\ng) Luces y señalización reflectiva.',
+    }
+
 def rich_data_470(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
     with open(f'leyes/ley26215.txt') as fp:
         old = fp.read() + '\nART'
@@ -726,6 +753,8 @@ def rich_data_switch(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo):
         return rich_data_195(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if num == 196:
         return rich_data_196(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
+    if num == 626:
+        return rich_data_626(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     opt = rich_data_derogase_ley(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     if opt is not None: return opt
     opt = rich_data_derogase_articulos(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
@@ -1042,6 +1071,7 @@ for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
             280: 'Regalías',
             281: 'Regalías',
             282: 'Derechos',
+            283: 'Derechos',
             284: 'Obligaciones',
             285: 'Deber de información',
             286: 'Empleo',
@@ -1238,6 +1268,65 @@ for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
             597: 'Miembros de la Comisión Nacional Protectora',
             598: 'Derogación del título de la Junta Representativa de Bibliotecas Populares',
             599: 'Derogación del título del Fondo Especial para Bibliotecas Populares',
+            600: 'Derogación de la Ley de Museo, Biblioteca y Archivo del Trabajo y del Movimiento Obrero Argentino',
+            601: 'Derogación de la Ley de Demoliciones de Teatros',
+            602: 'Derogación de la Ley de Descuentos para Artistas en el Precio de Pasajes en Empresas Estatales de Transporte',
+            606: 'Delegados sindicales en situación de disponibilidad',
+            607: 'Tareas para agentes en situación de disponibilidad',
+            608: 'Igualdad',
+            609: 'Jubilación',
+            610: 'Prohibición de campaña electoral en horas laborales',
+            611: 'Sanciones',
+            612: 'Cesantías',
+            613: 'Exoneraciones',
+            614: 'Prescripción',
+            615: 'Exclusiones de Convención Colectiva de Trabajo',
+            616: 'Cuotas de solidaridad',
+            617: 'Descuento por huelga',
+            618: 'Riesgo por salud mental',
+            619: 'Promoción de acciones de inclusión',
+            620: 'Internación involuntaria',
+            621: 'Representación por internación involuntaria',
+            622: 'Alta, externación o permisos de salida',
+            623: 'Centros médicos',
+            624: 'Instituciones de internación',
+            625: 'Conformación de Órgano de Revisión',
+            626: 'Otros requerimientos',
+            627: 'Vehículo autodirigido',
+            628: 'Autorización de vehículos autodirigidos',
+            629: 'Delegación sobre el Poder Ejecutivo para autorizar vehículos autodirigidos',
+            630: 'Revisión técnica obligatoria',
+            631: 'Exhibición de documentos',
+            632: 'Condiciones para conducir',
+            633: 'Requisitos para circular',
+            634: 'Peajes',
+            635: 'Transporte de carga',
+            636: 'Obligaciones',
+            639: 'Fines',
+            640: 'Registro Único del Transporte Automotor',
+            641: 'Creación del Régimen de Incentivo para Grandes Inversiones',
+            642: 'Autoridad de aplicación',
+            643: 'Concesiones de obra pública',
+            644: 'Financiación del concesionario',
+            645: 'Otorgamiento de obras públicas',
+            646: 'Contenido del contrato de concesión',
+            647: 'Intangibilidad de la ecuación económico-financiera',
+            648: 'Extinción del contrato por razones de interés público',
+            649: 'Mecanismos de prevención y solución de controversias',
+            650: 'No aplicación de otras leyes',
+            651: 'Normalización',
+            652: 'Derogación de varios artículos de la Ley de Obras Públicas',
+            653: 'Autoridad de aplicación',
+            654: 'Ratificación del Decreto de Necesidad y Urgencia N° 70/23',
+            655: 'Anexos',
+            656: '',
+            657: '',
+            658: '',
+            659: '',
+            660: 'Facultad de reasignación de competencias',
+            661: '',
+            663: 'Entrada en vigencia',
+            664: '',
         }.get(num, texto)
         desc = re.split(r'[:\.\(]', texto)[0].replace("\n", " ").replace('"', '\\"')
         indice.write(f'''
