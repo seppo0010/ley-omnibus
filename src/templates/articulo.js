@@ -58,7 +58,7 @@ export default function Articulo({data}) {
                                         <SocialShare title={title} slug={articulo.numeroArticulo}/>
 
             <div className="flex flex-col md:w-8/12 mx-auto md:mt-5 text-gray-600">
-                <span className="text-xl text-center my-2 text-gray-600 font-black uppercase">{articulo.numeroArticulo + (meta.DESC_ARTICULO ? ' - ' + meta.DESC_ARTICULO : '')}</span>
+                <span className="text-xl text-center my-2 text-gray-600 font-black uppercase">{(meta.DESC_ARTICULO ? meta.DESC_ARTICULO : '')}</span>
                 <span className="my-2 text-center">{articulo.notasArticulo}</span>
                 <div className="flex flex-col">
                     <span

@@ -58,7 +58,7 @@ const IndexPage = ({data}) => {
 
             <p className="w-100 text-center text-gray-500 text-sm md:text-lg lg:w-2/3 mx-auto">
                 Esta es una comparación basada en datos del proyecto de Ley de Bases y Puntos de
-                Partida para la Libertad de los Argentinos</p>
+                Partida para la Libertad de los Argentinos (actualizado al 22 de enero de 2024)</p>
 
             <div className="mx-auto p-5 w-100 lg:w-1/2 ">
                 <input
@@ -96,7 +96,7 @@ const IndexPage = ({data}) => {
                                                             <Link
                                                                 className="text-gray-600"
                                                                 to={art.NRO_ARTICULO.toString()}>
-                                                                {art.NRO_ARTICULO.toString()}{art.DESC_ARTICULO ? ` - ${art.DESC_ARTICULO}` : ''}</Link>
+                                                                {art.DESC_ARTICULO ? `${art.DESC_ARTICULO}` : ''}</Link>
                                                         </li>
                                                     </ul>
                                                 ))}
