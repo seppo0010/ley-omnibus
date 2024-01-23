@@ -58,7 +58,7 @@ const IndexPage = ({data}) => {
 
             <p className="w-100 text-center text-gray-500 text-sm md:text-lg lg:w-2/3 mx-auto">
                 Esta es una comparación basada en datos del proyecto de Ley de Bases y Puntos de
-                Partida para la Libertad de los Argentinos (actualizado al 22 de enero de 2024)</p>
+                Partida para la Libertad de los Argentinos (actualizado al 22 de enero de 2024 a la tarde)</p>
 
             <div className="mx-auto p-5 w-100 lg:w-1/2 ">
                 <input
