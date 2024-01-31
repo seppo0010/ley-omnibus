@@ -940,6 +940,8 @@ for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
     #    print(rich_data(num, x, titulo, titulo_titulo, capitulo, capitulo_titulo))
     #    break
 
+    deleted = [13, 31, 71, 72, 169, 170, 171, 172, 173, 174, 175, 179, 180, 182, 194, 195, 196, 292, 301, 303, 305, 308, 311, 312, 328, 330, 331, 333, 334, 335, 338, 339, 340, 341, 342, 512, 513, 520]
+    was_deleted = num in deleted or (num >= 81 and num <= 167) or (num >= 211 and num <= 220) or (num >= 460 and num <= 487)
     json_file = open(f'src/content/luc/LUC_articulo_{num}.json', "w")
     data = rich_data(num, declared_num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     json_file.write(json.dumps(data, indent=4))
@@ -957,13 +959,16 @@ for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
         if len(desc) > 43:
             desc = desc[:40] + '...'
         pn = declared_num if declared_num > 0 else "sn"
+        prefix = ''
+        if was_deleted:
+            prefix = '[BORRADO] '
         indice.write(f'''
 - NRO_SECCION: {titulo}
   DESC_SECCION: {titulo_titulo}
   NRO_CAPITULO: {capitulo}
   DESC_CAPITULO: {capitulo_titulo}
   NRO_ARTICULO: "{num}"
-  DESC_ARTICULO: "{f"{pn} - {desc}"}"
+  DESC_ARTICULO: "{f"{prefix}{pn} - {desc}"}"
   RAW: {json.dumps(x)}
              '''.strip())
         indice.write('\n')
