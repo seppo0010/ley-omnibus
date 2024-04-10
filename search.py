@@ -773,7 +773,7 @@ for num, x in enumerate(re.split('[^“]ART[ÍI]CULO', data)):
     #    break
 
     deleted = []
-    was_deleted = num in deleted or (num >= 81 and num <= 167) or (num >= 211 and num <= 220) or (num >= 460 and num <= 487)
+    was_deleted = False
     json_file = open(f'src/content/luc/LUC_articulo_{num}.json', "w")
     data = rich_data(num, declared_num, x, titulo, titulo_titulo, capitulo, capitulo_titulo)
     json_file.write(json.dumps(data, indent=4))
